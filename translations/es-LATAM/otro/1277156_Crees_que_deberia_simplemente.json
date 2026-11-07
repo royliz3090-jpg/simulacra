@@ -1,0 +1,10 @@
+{
+  "position": 1277156,
+  "length": 29,
+  "texto_es_es": "Crees que deberia simplemente",
+  "texto_es_latam": "Crees que deberia simplemente",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

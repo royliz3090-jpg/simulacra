@@ -1,0 +1,10 @@
+{
+  "position": 1580194,
+  "length": 45,
+  "texto_es_es": ",-viendo esto, no vengas a buscarme. No-     ",
+  "texto_es_latam": ",-viendo esto, no vengas a buscarme. No-     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

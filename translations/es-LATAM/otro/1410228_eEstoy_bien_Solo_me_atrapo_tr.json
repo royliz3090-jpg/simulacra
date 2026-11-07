@@ -1,0 +1,10 @@
+{
+  "position": 1410228,
+  "length": 102,
+  "texto_es_es": "eEstoy bien. Solo me atrapo trabajo. Eso es todo. Voy a tomar un descanso corto. No se preocupen por  ",
+  "texto_es_latam": "eEstoy bien. Solo me atrapo trabajo. Eso es todo. Voy a tomar un descanso corto. No se preocupen por  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

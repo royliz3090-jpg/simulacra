@@ -1,0 +1,10 @@
+{
+  "position": 1920194,
+  "length": 65,
+  "texto_es_es": "@Un fundador de startup, programador de videojuegos, investigador",
+  "texto_es_latam": "@Un fundador de startup, programador de videojuegos, investigador",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

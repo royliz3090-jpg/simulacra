@@ -1,0 +1,10 @@
+{
+  "position": 464236,
+  "length": 31,
+  "texto_es_es": "Quieres que revise mi lugar?   ",
+  "texto_es_latam": "Quieres que revise mi lugar?   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

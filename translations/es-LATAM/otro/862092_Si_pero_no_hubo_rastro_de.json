@@ -1,0 +1,10 @@
+{
+  "position": 862092,
+  "length": 25,
+  "texto_es_es": "Si pero no hubo rastro de",
+  "texto_es_latam": "Si pero no hubo rastro de",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

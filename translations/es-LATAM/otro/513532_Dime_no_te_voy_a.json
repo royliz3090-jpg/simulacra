@@ -1,0 +1,10 @@
+{
+  "position": 513532,
+  "length": 23,
+  "texto_es_es": "Dime, no te voy a      ",
+  "texto_es_latam": "Dime, no te voy a      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1281474,
+  "length": 19,
+  "texto_es_es": "mo sabes tanto de m",
+  "texto_es_latam": "mo sabes tanto de m",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1973220,
+  "length": 57,
+  "texto_es_es": "YSomos razonables, si puede asistirnos con la investigaci",
+  "texto_es_latam": "YSomos razonables, sí puede asistirnos con la investigaci",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

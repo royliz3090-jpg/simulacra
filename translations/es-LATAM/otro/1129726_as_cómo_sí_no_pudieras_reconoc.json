@@ -1,0 +1,10 @@
+{
+  "position": 1129726,
+  "length": 45,
+  "texto_es_es": "as como si no pudieras reconocerme.          ",
+  "texto_es_latam": "as cómo sí no pudieras reconocerme.          ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

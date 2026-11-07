@@ -1,0 +1,10 @@
+{
+  "position": 1016296,
+  "length": 62,
+  "texto_es_es": "=James desaparecio hace un par de meses mientras iba a        ",
+  "texto_es_latam": "=James desaparecio hace un par de meses mientras iba a        ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

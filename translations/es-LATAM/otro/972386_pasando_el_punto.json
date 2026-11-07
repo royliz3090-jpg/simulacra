@@ -1,0 +1,10 @@
+{
+  "position": 972386,
+  "length": 17,
+  "texto_es_es": " pasando el punto",
+  "texto_es_latam": " pasando el punto",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

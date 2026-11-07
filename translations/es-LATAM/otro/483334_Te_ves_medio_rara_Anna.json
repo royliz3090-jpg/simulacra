@@ -1,0 +1,10 @@
+{
+  "position": 483334,
+  "length": 24,
+  "texto_es_es": "Te ves medio rara, Anna ",
+  "texto_es_latam": "Te ves medio rara, Anna ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

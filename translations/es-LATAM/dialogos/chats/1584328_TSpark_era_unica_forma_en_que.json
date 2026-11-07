@@ -1,0 +1,10 @@
+{
+  "position": 1584328,
+  "length": 85,
+  "texto_es_es": "T'Spark era unica forma en que podria haber conocido a Lisa. Viva internet!' - Thom  ",
+  "texto_es_latam": "T'Spark era unica forma en que podria haber conocido a Lisa. Viva internet!' - Thom  ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

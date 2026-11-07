@@ -2,19 +2,20 @@
   "juego": "SIMULACRA",
   "idioma_origen": "en-US",
   "idioma_destino": "es-LATAM",
-  "total_recursos": 207,
+  "texto_base": "es-ES (desde core.assets v5)",
+  "total_strings": 3045,
   "categorias": {
-    "frases_restauracion": 25,
-    "subtitulos": 68,
-    "chats": 19,
-    "correo": 20,
-    "web": 36,
-    "dialogo_llamadas": 9,
-    "spark": 14,
-    "otro": 4,
-    "configuracion": 5,
-    "imagenes_restauracion": 7
+    "otro": 2829,
+    "dialogos/chats": 91,
+    "web": 10,
+    "dialogos/llamadas": 69,
+    "dialogos/spark": 10,
+    "imagenes_restauracion": 17,
+    "dialogos/correo": 13,
+    "configuracion": 4,
+    "frases_restauracion": 2
   },
-  "estado_global": "pendiente_extraccion_texto",
-  "notas": "El texto real de los diálogos está en serialización Kryo/Java y no ha podido ser extraído con las herramientas disponibles."
+  "estado": "traducido_desde_v5",
+  "metodo": "extraido_de_v5_convertido_a_es_latam",
+  "notas": "Textos extraídos de core.assets v5 (versión con traducción es-ES funcional) y convertidos a español latinoamericano."
 }

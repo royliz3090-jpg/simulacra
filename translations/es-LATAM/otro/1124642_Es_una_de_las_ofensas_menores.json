@@ -1,0 +1,10 @@
+{
+  "position": 1124642,
+  "length": 33,
+  "texto_es_es": " Es una de las ofensas menores   ",
+  "texto_es_latam": " Es una de las ofensas menores   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1011214,
+  "length": 26,
+  "texto_es_es": "Su verdadero nombre es    ",
+  "texto_es_latam": "Su verdadero nombre es    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

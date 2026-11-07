@@ -1,0 +1,10 @@
+{
+  "position": 840458,
+  "length": 54,
+  "texto_es_es": "5No estoy seguro de que Anna quiera que sepas de sus  ",
+  "texto_es_latam": "5No estoy seguro de que Anna quiera que sepas de sus  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1209972,
+  "length": 61,
+  "texto_es_es": "<vo://content/vo/tn11.ogg=Buscando mas gusanos para ser      ",
+  "texto_es_latam": "<vo://content/vo/tn11.ogg=Buscando más gusanos para ser      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1687828,
+  "length": 38,
+  "texto_es_es": "%Dijiste que quieres algo diferente   ",
+  "texto_es_latam": "%Dijiste que quieres algo diferente   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

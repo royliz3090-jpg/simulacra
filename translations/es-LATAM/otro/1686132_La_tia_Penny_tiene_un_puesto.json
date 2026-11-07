@@ -1,0 +1,10 @@
+{
+  "position": 1686132,
+  "length": 41,
+  "texto_es_es": "(La tia Penny tiene un puesto en su      ",
+  "texto_es_latam": "(La tia Penny tiene un puesto en su      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

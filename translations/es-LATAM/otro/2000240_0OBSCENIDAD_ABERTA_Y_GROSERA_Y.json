@@ -1,0 +1,10 @@
+{
+  "position": 2000240,
+  "length": 49,
+  "texto_es_es": "0OBSCENIDAD ABERTA Y GROSERA Y COMPORTAMIENTO    ",
+  "texto_es_latam": "0OBSCENIDAD ABERTA Y GROSERA Y COMPORTAMIENTO    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

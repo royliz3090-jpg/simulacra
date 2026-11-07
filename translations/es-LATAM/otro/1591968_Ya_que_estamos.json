@@ -1,0 +1,10 @@
+{
+  "position": 1591968,
+  "length": 16,
+  "texto_es_es": "Ya que estamos  ",
+  "texto_es_latam": "Ya que estamos  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1720798,
+  "length": 33,
+  "texto_es_es": " A mierda con este trato         ",
+  "texto_es_latam": " A mierda con este trato         ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

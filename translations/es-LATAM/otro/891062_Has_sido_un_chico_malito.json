@@ -1,0 +1,10 @@
+{
+  "position": 891062,
+  "length": 25,
+  "texto_es_es": "Has sido un chico malito ",
+  "texto_es_latam": "Has sido un chico malito ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

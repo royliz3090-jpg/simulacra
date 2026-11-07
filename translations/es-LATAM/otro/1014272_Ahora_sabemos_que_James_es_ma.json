@@ -1,0 +1,10 @@
+{
+  "position": 1014272,
+  "length": 44,
+  "texto_es_es": "+Ahora sabemos que James es material de lo  ",
+  "texto_es_latam": "+Ahora sabemos que James es material de lo  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

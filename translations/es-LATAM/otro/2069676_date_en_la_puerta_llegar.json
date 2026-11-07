@@ -1,0 +1,10 @@
+{
+  "position": 2069676,
+  "length": 25,
+  "texto_es_es": "date en la puerta, llegar",
+  "texto_es_latam": "date en la puerta, llegar",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

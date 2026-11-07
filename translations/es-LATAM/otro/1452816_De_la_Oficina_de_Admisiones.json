@@ -1,0 +1,10 @@
+{
+  "position": 1452816,
+  "length": 30,
+  "texto_es_es": "De la Oficina de Admisiones,  ",
+  "texto_es_latam": "De la Oficina de Admisiones,  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

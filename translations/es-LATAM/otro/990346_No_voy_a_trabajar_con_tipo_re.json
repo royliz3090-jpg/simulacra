@@ -1,0 +1,10 @@
+{
+  "position": 990346,
+  "length": 38,
+  "texto_es_es": "%No voy a trabajar con tipo rechazado ",
+  "texto_es_latam": "%No voy a trabajar con tipo rechazado ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1263270,
+  "length": 110,
+  "texto_es_es": "mvo://content/vo/sb30.ogg=Mi realidad continuara sirviendo como escape para sus vidas materiales              ",
+  "texto_es_latam": "mvo://content/vo/sb30.ogg=Mi realidad continuara sirviendo cómo escape para sus vidas materiales              ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

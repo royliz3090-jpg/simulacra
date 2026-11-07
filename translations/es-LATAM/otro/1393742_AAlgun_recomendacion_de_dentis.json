@@ -1,0 +1,10 @@
+{
+  "position": 1393742,
+  "length": 66,
+  "texto_es_es": "AAlgun recomendacion de dentista? Algo cerca de mi zona estaria   ",
+  "texto_es_latam": "AAlgun recomendacion de dentista? Algo cerca de mi zona estaria   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

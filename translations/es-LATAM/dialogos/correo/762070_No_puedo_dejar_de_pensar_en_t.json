@@ -1,0 +1,10 @@
+{
+  "position": 762070,
+  "length": 38,
+  "texto_es_es": "%No puedo dejar de pensar en tu correo",
+  "texto_es_latam": "%No puedo dejar de pensar en tu correo",
+  "categoria": "dialogos/correo",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

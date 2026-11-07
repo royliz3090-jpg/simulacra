@@ -1,0 +1,10 @@
+{
+  "position": 474182,
+  "length": 44,
+  "texto_es_es": "+entonces que dijo que va a hacer al        ",
+  "texto_es_latam": "+entonces que dijo que va a hacer al        ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

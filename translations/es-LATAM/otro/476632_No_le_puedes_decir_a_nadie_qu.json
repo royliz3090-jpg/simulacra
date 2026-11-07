@@ -1,0 +1,10 @@
+{
+  "position": 476632,
+  "length": 39,
+  "texto_es_es": "&No le puedes decir a nadie que te lo  ",
+  "texto_es_latam": "&No le puedes decir a nadie que te lo  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

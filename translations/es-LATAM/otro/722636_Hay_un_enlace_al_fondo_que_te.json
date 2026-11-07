@@ -1,0 +1,10 @@
+{
+  "position": 722636,
+  "length": 65,
+  "texto_es_es": "@Hay un enlace al fondo que te lleva a un sitio de registro      ",
+  "texto_es_latam": "@Hay un enlace al fondo que te lleva a un sitio de registro      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

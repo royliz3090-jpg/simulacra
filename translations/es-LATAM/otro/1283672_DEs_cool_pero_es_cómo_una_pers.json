@@ -1,0 +1,10 @@
+{
+  "position": 1283672,
+  "length": 69,
+  "texto_es_es": "DEs cool pero es como una persona famosa de redes sociales o algo asi",
+  "texto_es_latam": "DEs cool pero es cómo una persona famosa de redes sociales o algo asi",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

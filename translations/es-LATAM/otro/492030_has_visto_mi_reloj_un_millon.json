@@ -1,0 +1,10 @@
+{
+  "position": 492030,
+  "length": 37,
+  "texto_es_es": "$has visto mi reloj un millon de     ",
+  "texto_es_latam": "$has visto mi reloj un millon de     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

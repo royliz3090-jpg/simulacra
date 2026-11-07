@@ -1,0 +1,10 @@
+{
+  "position": 2131614,
+  "length": 64,
+  "texto_es_es": "?Yo tendria cuidado con palabra 'decirle a gente que hacer'     ",
+  "texto_es_latam": "?Yo tendria cuidado con palabra 'decirle a gente que hacer'     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

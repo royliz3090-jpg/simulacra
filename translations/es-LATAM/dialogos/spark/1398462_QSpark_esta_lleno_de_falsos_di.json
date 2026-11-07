@@ -1,0 +1,10 @@
+{
+  "position": 1398462,
+  "length": 82,
+  "texto_es_es": "QSpark esta lleno de falsos diciendo lo mismo. La mayoria de sus perfiles son     ",
+  "texto_es_latam": "QSpark esta lleno de falsos diciendo lo mismo. La mayoria de sus perfiles son     ",
+  "categoria": "dialogos/spark",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

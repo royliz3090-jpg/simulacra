@@ -1,0 +1,10 @@
+{
+  "position": 847762,
+  "length": 36,
+  "texto_es_es": "#O sea, si estaba lo suficientemente",
+  "texto_es_latam": "#O sea, sí estaba lo suficientemente",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

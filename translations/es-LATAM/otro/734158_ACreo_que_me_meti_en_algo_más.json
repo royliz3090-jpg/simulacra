@@ -1,0 +1,10 @@
+{
+  "position": 734158,
+  "length": 66,
+  "texto_es_es": "ACreo que me meti en algo mas grande de lo que puedo manejar      ",
+  "texto_es_latam": "ACreo que me meti en algo más grande de lo que puedo manejar      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

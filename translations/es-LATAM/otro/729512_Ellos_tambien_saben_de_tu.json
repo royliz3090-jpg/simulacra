@@ -1,0 +1,10 @@
+{
+  "position": 729512,
+  "length": 35,
+  "texto_es_es": "\"Ellos tambien saben de tu         ",
+  "texto_es_latam": "\"Ellos tambien saben de tu         ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

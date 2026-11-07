@@ -1,0 +1,10 @@
+{
+  "position": 528370,
+  "length": 93,
+  "texto_es_es": "\\Lo sentimos, posicion que esta solicitando no esta dis- ponible actualmente, pls vuelva mas ",
+  "texto_es_latam": "\\Lo sentimos, posicion que esta solicitando no esta dis- ponible actualmente, pls vuelva más ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

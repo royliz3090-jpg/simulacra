@@ -1,0 +1,10 @@
+{
+  "position": 1421440,
+  "length": 54,
+  "texto_es_es": "4Descartando gente, como un emperador en el Coliseo. x",
+  "texto_es_latam": "4Descartando gente, cómo un emperador en el Coliseo. x",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

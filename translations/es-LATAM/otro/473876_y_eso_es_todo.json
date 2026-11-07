@@ -1,0 +1,10 @@
+{
+  "position": 473876,
+  "length": 14,
+  "texto_es_es": "y eso es todo ",
+  "texto_es_latam": "y eso es todo ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

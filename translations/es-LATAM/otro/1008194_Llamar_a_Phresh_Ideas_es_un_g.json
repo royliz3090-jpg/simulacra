@@ -1,0 +1,10 @@
+{
+  "position": 1008194,
+  "length": 37,
+  "texto_es_es": "$Llamar a Phresh Ideas es un gran    ",
+  "texto_es_latam": "$Llamar a Phresh Ideas es un gran    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

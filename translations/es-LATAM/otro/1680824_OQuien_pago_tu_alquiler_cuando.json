@@ -1,0 +1,10 @@
+{
+  "position": 1680824,
+  "length": 80,
+  "texto_es_es": "OQuien pago tu alquiler cuando tomaste 3 meses para hacer ese curso tonto de    ",
+  "texto_es_latam": "OQuien pago tu alquiler cuando tomaste 3 meses para hacer ese curso tonto de    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

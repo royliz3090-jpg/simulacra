@@ -1,0 +1,10 @@
+{
+  "position": 2135918,
+  "length": 38,
+  "texto_es_es": "%Nos emociona que compartas nuestra   ",
+  "texto_es_latam": "%Nos emociona que compartas nuestra   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

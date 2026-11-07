@@ -1,0 +1,10 @@
+{
+  "position": 1584140,
+  "length": 46,
+  "texto_es_es": "R'Gared y yo estamos enamorados. Nunca me sent",
+  "texto_es_latam": "R'Gared y yo estamos enamorados. Nunca me sent",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

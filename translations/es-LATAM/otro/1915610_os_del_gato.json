@@ -1,0 +1,10 @@
+{
+  "position": 1915610,
+  "length": 15,
+  "texto_es_es": "os del gato    ",
+  "texto_es_latam": "os del gato    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 331526,
+  "length": 16,
+  "texto_es_es": "Gracias y buen d",
+  "texto_es_latam": "Gracias y buen d",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 842880,
+  "length": 24,
+  "texto_es_es": "Jaja, es broma. No tan  ",
+  "texto_es_latam": "Jaja, es broma. No tan  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1681100,
+  "length": 41,
+  "texto_es_es": "(Me dijiste que iba a ser bueno para ti  ",
+  "texto_es_latam": "(Me dijiste que iba a ser bueno para ti  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

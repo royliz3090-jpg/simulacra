@@ -1,0 +1,10 @@
+{
+  "position": 1409736,
+  "length": 50,
+  "texto_es_es": "1te veo pizza y te apuesto 2 bastones de pan con  ",
+  "texto_es_latam": "1te veo pizza y te apuesto 2 bastones de pan con  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

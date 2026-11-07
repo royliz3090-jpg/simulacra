@@ -1,0 +1,10 @@
+{
+  "position": 979588,
+  "length": 18,
+  "texto_es_es": "Mis mensajes de   ",
+  "texto_es_latam": "Mis mensajes de   ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

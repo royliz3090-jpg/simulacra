@@ -1,0 +1,10 @@
+{
+  "position": 1038840,
+  "length": 41,
+  "texto_es_es": "(Puedo usar fotos de una amiga de Anna en",
+  "texto_es_latam": "(Puedo usar fotos de una amiga de Anna en",
+  "categoria": "imagenes_restauracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 774396,
+  "length": 59,
+  "texto_es_es": ":Confio en que mantendras mis chats con Anna en secreto?   ",
+  "texto_es_latam": ":Confio en que mantendras mis chats con Anna en secreto?   ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

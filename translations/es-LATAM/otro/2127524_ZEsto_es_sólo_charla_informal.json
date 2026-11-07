@@ -1,0 +1,10 @@
+{
+  "position": 2127524,
+  "length": 91,
+  "texto_es_es": "ZEsto es solo charla informal asi que relajate y guardalo para entrevista mas adelante, eh?",
+  "texto_es_latam": "ZEsto es sólo charla informal asi que relajate y guardalo para entrevista más adelante, eh?",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

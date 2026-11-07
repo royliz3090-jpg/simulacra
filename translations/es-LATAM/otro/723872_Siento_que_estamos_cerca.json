@@ -1,0 +1,10 @@
+{
+  "position": 723872,
+  "length": 27,
+  "texto_es_es": "(Siento que estamos cerca. ",
+  "texto_es_latam": "(Siento que estamos cerca. ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

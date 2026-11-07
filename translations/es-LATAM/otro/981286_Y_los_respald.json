@@ -1,0 +1,10 @@
+{
+  "position": 981286,
+  "length": 14,
+  "texto_es_es": "=Y los respald",
+  "texto_es_latam": "=Y los respald",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

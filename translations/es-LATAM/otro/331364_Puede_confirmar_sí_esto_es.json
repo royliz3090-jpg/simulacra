@@ -1,0 +1,10 @@
+{
+  "position": 331364,
+  "length": 33,
+  "texto_es_es": " Puede confirmar si esto es      ",
+  "texto_es_latam": " Puede confirmar sí esto es      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

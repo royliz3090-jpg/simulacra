@@ -1,0 +1,10 @@
+{
+  "position": 695344,
+  "length": 71,
+  "texto_es_es": "LEso significa que podria haber mas datos en telefono de que ves ahora ",
+  "texto_es_latam": "LEso significa que podria haber más datos en telefono de que ves ahora ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1593344,
+  "length": 13,
+  "texto_es_es": "Bueno si pero",
+  "texto_es_latam": "Bueno sí pero",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

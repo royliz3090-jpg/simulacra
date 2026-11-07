@@ -1,0 +1,10 @@
+{
+  "position": 1395876,
+  "length": 94,
+  "texto_es_es": "]Si escribes todo en mayusculas, suena como si estuvieras gritando. No es eso conocimiento    ",
+  "texto_es_latam": "]Si escribes todo en mayusculas, suena cómo sí estuvieras gritando. No es eso conocimiento    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

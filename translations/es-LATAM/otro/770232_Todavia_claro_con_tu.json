@@ -1,0 +1,10 @@
+{
+  "position": 770232,
+  "length": 25,
+  "texto_es_es": "Todavia claro con tu     ",
+  "texto_es_latam": "Todavia claro con tu     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 513616,
+  "length": 18,
+  "texto_es_es": "?Y es la misma raz",
+  "texto_es_latam": "?Y es la misma raz",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

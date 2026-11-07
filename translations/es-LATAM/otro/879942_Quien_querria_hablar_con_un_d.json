@@ -1,0 +1,10 @@
+{
+  "position": 879942,
+  "length": 39,
+  "texto_es_es": "&Quien querria hablar con un don nadie ",
+  "texto_es_latam": "&Quien querria hablar con un don nadie ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

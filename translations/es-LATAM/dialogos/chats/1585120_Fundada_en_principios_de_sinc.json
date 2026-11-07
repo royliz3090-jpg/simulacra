@@ -1,0 +1,10 @@
+{
+  "position": 1585120,
+  "length": 124,
+  "texto_es_es": "{Fundada en principios de sinceridad y aventura, te damos bienvenida a probar Spark en tu viaje hacia felices para siempre. ",
+  "texto_es_latam": "{Fundada en principios de sinceridad y aventura, te damos bienvenida a probar Spark en tu viaje hacia felices para siempre. ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

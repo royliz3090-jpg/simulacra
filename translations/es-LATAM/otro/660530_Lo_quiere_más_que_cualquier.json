@@ -1,0 +1,10 @@
+{
+  "position": 660530,
+  "length": 31,
+  "texto_es_es": "Lo quiere mas que cualquier    ",
+  "texto_es_latam": "Lo quiere más que cualquier    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

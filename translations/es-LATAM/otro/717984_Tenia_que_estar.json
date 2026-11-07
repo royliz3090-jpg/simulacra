@@ -1,0 +1,10 @@
+{
+  "position": 717984,
+  "length": 16,
+  "texto_es_es": "Tenia que estar ",
+  "texto_es_latam": "Tenia que estar ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

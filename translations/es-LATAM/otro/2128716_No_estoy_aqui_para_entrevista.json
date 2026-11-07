@@ -1,0 +1,10 @@
+{
+  "position": 2128716,
+  "length": 30,
+  "texto_es_es": "No estoy aqui para entrevista ",
+  "texto_es_latam": "No estoy aqui para entrevista ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

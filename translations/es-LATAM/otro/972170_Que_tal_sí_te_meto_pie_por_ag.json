@@ -1,0 +1,10 @@
+{
+  "position": 972170,
+  "length": 44,
+  "texto_es_es": "+Que tal si te meto pie por agujero del     ",
+  "texto_es_latam": "+Que tal sí te meto pie por agujero del     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

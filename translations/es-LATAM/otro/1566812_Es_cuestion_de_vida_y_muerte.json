@@ -1,0 +1,10 @@
+{
+  "position": 1566812,
+  "length": 30,
+  "texto_es_es": "Es cuestion de vida y muerte  ",
+  "texto_es_latam": "Es cuestion de vida y muerte  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

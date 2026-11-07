@@ -1,0 +1,10 @@
+{
+  "position": 852852,
+  "length": 38,
+  "texto_es_es": ">Si me mandas una foto de Anna, te dir",
+  "texto_es_latam": ">Si me mandas una foto de Anna, te dir",
+  "categoria": "imagenes_restauracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

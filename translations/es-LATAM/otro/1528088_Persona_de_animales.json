@@ -1,0 +1,10 @@
+{
+  "position": 1528088,
+  "length": 20,
+  "texto_es_es": "Persona de animales ",
+  "texto_es_latam": "Persona de animales ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

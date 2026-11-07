@@ -1,0 +1,10 @@
+{
+  "position": 999210,
+  "length": 24,
+  "texto_es_es": "Que no quede piedra por ",
+  "texto_es_latam": "Que no quede piedra por ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

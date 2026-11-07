@@ -1,0 +1,10 @@
+{
+  "position": 1379814,
+  "length": 109,
+  "texto_es_es": "kLas apps de citas han estado vinculadas a mas de 500 crimenes y casi un tercio son delitos sexuales,       x",
+  "texto_es_latam": "kLas apps de citas han estado vinculadas a más de 500 crimenes y casi un tercio son delitos sexuales,       x",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1848394,
+  "length": 54,
+  "texto_es_es": "5Las victimas como en grafico tienen entre 21 y 25    ",
+  "texto_es_latam": "5Las victimas cómo en grafico tienen entre 21 y 25    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

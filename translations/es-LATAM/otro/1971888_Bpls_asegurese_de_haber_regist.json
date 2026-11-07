@@ -1,0 +1,10 @@
+{
+  "position": 1971888,
+  "length": 67,
+  "texto_es_es": "Bpls asegurese de haber registrado su identidad en este            ",
+  "texto_es_latam": "Bpls asegurese de haber registrado su identidad en este            ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

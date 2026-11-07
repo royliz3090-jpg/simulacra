@@ -1,0 +1,10 @@
+{
+  "position": 1383026,
+  "length": 113,
+  "texto_es_es": " si no se siente bien, no tengan miedo de bloquear o reportar a persona, o irse de cita antes de que termine.\"  x",
+  "texto_es_latam": " sí no se siente bien, no tengan miedo de bloquear o reportar a persona, o irse de cita antes de que termine.\"  x",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

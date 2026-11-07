@@ -1,0 +1,10 @@
+{
+  "position": 777362,
+  "length": 16,
+  "texto_es_es": "Mensaje para    ",
+  "texto_es_latam": "Mensaje para    ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

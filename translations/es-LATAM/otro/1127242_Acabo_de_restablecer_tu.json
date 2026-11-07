@@ -1,0 +1,10 @@
+{
+  "position": 1127242,
+  "length": 27,
+  "texto_es_es": "Acabo de restablecer tu    ",
+  "texto_es_latam": "Acabo de restablecer tu    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1023926,
+  "length": 23,
+  "texto_es_es": "porque no tengo voz en ",
+  "texto_es_latam": "porque no tengo voz en ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

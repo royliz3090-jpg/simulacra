@@ -1,0 +1,10 @@
+{
+  "position": 734530,
+  "length": 40,
+  "texto_es_es": "'Anna podria haberse ido por culpa de   ",
+  "texto_es_latam": "'Anna podria haberse ido por culpa de   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

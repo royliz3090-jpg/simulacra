@@ -1,0 +1,10 @@
+{
+  "position": 1934876,
+  "length": 67,
+  "texto_es_es": "BSi deseas ser asignado a un comprador al azar, presiona 1111.     ",
+  "texto_es_latam": "BSi deseas ser asignado a un comprador al azar, presiona 1111.     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

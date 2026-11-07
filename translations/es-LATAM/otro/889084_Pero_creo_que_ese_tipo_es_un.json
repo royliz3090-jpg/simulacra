@@ -1,0 +1,10 @@
+{
+  "position": 889084,
+  "length": 40,
+  "texto_es_es": "'Pero creo que ese tipo es un demente   ",
+  "texto_es_latam": "'Pero creo que ese tipo es un demente   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

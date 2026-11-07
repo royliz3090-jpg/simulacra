@@ -1,0 +1,10 @@
+{
+  "position": 648164,
+  "length": 41,
+  "texto_es_es": "(Anna es chica de su fondo de pantalla,  ",
+  "texto_es_latam": "(Anna es chica de su fondo de pantalla,  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

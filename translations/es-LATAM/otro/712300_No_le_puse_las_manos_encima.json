@@ -1,0 +1,10 @@
+{
+  "position": 712300,
+  "length": 28,
+  "texto_es_es": "No le puse las manos encima ",
+  "texto_es_latam": "No le puse las manos encima ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

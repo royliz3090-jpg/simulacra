@@ -1,0 +1,10 @@
+{
+  "position": 1576252,
+  "length": 37,
+  "texto_es_es": "$Esa fue ultima vez que supe de el   ",
+  "texto_es_latam": "$Esa fue ultima vez que supe de el   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

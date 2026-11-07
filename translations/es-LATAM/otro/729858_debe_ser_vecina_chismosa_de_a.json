@@ -1,0 +1,10 @@
+{
+  "position": 729858,
+  "length": 35,
+  "texto_es_es": "\"debe ser vecina chismosa de al    ",
+  "texto_es_latam": "\"debe ser vecina chismosa de al    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

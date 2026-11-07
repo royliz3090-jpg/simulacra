@@ -1,0 +1,10 @@
+{
+  "position": 396800,
+  "length": 50,
+  "texto_es_es": "1Bolsa de esos ladrillos hechos de caca que se    ",
+  "texto_es_latam": "1Bolsa de esos ladrillos hechos de caca que se    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 856662,
+  "length": 45,
+  "texto_es_es": ",Menti. Ella no me conto su pelicula favorita",
+  "texto_es_latam": ",Menti. Ella no me conto su pelicula favorita",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

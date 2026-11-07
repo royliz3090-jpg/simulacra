@@ -1,0 +1,10 @@
+{
+  "position": 1476032,
+  "length": 54,
+  "texto_es_es": "5Registra a tu amigo o colega bajo tu cuenta.         ",
+  "texto_es_latam": "5Registra a tu amigo o colega bajo tu cuenta.         ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

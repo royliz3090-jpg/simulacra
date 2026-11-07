@@ -1,0 +1,10 @@
+{
+  "position": 1549408,
+  "length": 75,
+  "texto_es_es": "JPara unirse, simplemente haga al menos una compra con para unirse a       ",
+  "texto_es_latam": "JPara unirse, simplemente haga al menos una compra con para unirse a       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

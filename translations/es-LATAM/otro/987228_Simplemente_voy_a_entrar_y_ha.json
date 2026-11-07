@@ -1,0 +1,10 @@
+{
+  "position": 987228,
+  "length": 48,
+  "texto_es_es": "/Simplemente voy a entrar y hacer el trabajo    ",
+  "texto_es_latam": "/Simplemente voy a entrar y hacer el trabajo    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

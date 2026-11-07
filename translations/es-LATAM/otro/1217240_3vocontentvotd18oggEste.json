@@ -1,0 +1,10 @@
+{
+  "position": 1217240,
+  "length": 52,
+  "texto_es_es": "3vo://content/vo/td18.ogg=Este resultado es tu culpa",
+  "texto_es_latam": "3vo://content/vo/td18.ogg=Este resultado es tu culpa",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

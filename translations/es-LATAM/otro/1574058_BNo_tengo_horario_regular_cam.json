@@ -1,0 +1,10 @@
+{
+  "position": 1574058,
+  "length": 53,
+  "texto_es_es": "BNo tengo horario regular, cambian cada semana. Los d",
+  "texto_es_latam": "BNo tengo horario regular, cambian cada semana. Los d",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

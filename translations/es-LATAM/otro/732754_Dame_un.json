@@ -1,0 +1,10 @@
+{
+  "position": 732754,
+  "length": 15,
+  "texto_es_es": "Dame un        ",
+  "texto_es_latam": "Dame un        ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

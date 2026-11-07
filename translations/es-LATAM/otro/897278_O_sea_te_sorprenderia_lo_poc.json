@@ -1,0 +1,10 @@
+{
+  "position": 897278,
+  "length": 61,
+  "texto_es_es": "<O sea, te sorprenderia lo poco que necesitas para meterte en",
+  "texto_es_latam": "<O sea, te sorprenderia lo poco que necesitas para meterte en",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

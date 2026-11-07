@@ -1,0 +1,10 @@
+{
+  "position": 661772,
+  "length": 53,
+  "texto_es_es": "4Alguna idea de cual es primera opcion de peliculas  ",
+  "texto_es_latam": "4Alguna idea de cual es primera opcion de peliculas  ",
+  "categoria": "configuracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

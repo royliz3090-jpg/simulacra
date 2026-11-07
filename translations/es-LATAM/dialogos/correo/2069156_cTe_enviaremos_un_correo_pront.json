@@ -1,0 +1,10 @@
+{
+  "position": 2069156,
+  "length": 100,
+  "texto_es_es": "cTe enviaremos un correo pronto, pls asegurate de que tu correo sea correcto para recibir nuestra   ",
+  "texto_es_latam": "cTe enviaremos un correo pronto, pls asegurate de que tu correo sea correcto para recibir nuestra   ",
+  "categoria": "dialogos/correo",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

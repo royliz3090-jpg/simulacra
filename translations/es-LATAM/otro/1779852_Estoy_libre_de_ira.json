@@ -1,0 +1,10 @@
+{
+  "position": 1779852,
+  "length": 22,
+  "texto_es_es": "Estoy libre de ira.   ",
+  "texto_es_latam": "Estoy libre de ira.   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 2128138,
+  "length": 30,
+  "texto_es_es": "Puedo hacer las preguntas yo? ",
+  "texto_es_latam": "Puedo hacer las preguntas yo? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

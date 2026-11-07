@@ -1,0 +1,10 @@
+{
+  "position": 1984360,
+  "length": 43,
+  "texto_es_es": "*La Coleccion de Verano ya esta disponible ",
+  "texto_es_latam": "*La Coleccion de Verano ya esta disponible ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 834272,
+  "length": 69,
+  "texto_es_es": "DUn completo desconocido recoge un telefono perdido y responde       ",
+  "texto_es_latam": "DUn completo desconocido recoge un telefono perdido y responde       ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

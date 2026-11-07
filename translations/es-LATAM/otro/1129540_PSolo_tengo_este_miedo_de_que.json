@@ -1,0 +1,10 @@
+{
+  "position": 1129540,
+  "length": 59,
+  "texto_es_es": "PSolo tengo este miedo de que si te dijera la verdad, te ir",
+  "texto_es_latam": "PSolo tengo este miedo de que sí te dijera la verdad, te ir",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

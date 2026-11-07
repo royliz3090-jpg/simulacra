@@ -1,0 +1,10 @@
+{
+  "position": 1224876,
+  "length": 42,
+  "texto_es_es": " puedes mostrarme que yo ya no sepa?      ",
+  "texto_es_latam": " puedes mostrarme que yo ya no sepa?      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

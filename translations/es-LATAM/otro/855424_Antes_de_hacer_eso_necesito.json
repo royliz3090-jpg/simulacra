@@ -1,0 +1,10 @@
+{
+  "position": 855424,
+  "length": 37,
+  "texto_es_es": "$Antes de hacer eso, necesito ser    ",
+  "texto_es_latam": "$Antes de hacer eso, necesito ser    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

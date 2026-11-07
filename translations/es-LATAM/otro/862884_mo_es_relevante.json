@@ -1,0 +1,10 @@
+{
+  "position": 862884,
+  "length": 25,
+  "texto_es_es": "mo es relevante...       ",
+  "texto_es_latam": "mo es relevante...       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1032972,
+  "length": 30,
+  "texto_es_es": "Solo tienes que jugar 'el     ",
+  "texto_es_latam": "Solo tienes que jugar 'el     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

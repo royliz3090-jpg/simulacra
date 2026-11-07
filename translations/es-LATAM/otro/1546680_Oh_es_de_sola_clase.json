@@ -1,0 +1,10 @@
+{
+  "position": 1546680,
+  "length": 20,
+  "texto_es_es": "Oh es de sola clase ",
+  "texto_es_latam": "Oh es de sola clase ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

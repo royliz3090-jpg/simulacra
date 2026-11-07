@@ -1,0 +1,10 @@
+{
+  "position": 1032398,
+  "length": 23,
+  "texto_es_es": "No es el punto ahora   ",
+  "texto_es_latam": "No es el punto ahora   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

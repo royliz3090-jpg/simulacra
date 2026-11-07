@@ -1,0 +1,10 @@
+{
+  "position": 1907844,
+  "length": 104,
+  "texto_es_es": "gTextea INVITE GUEST para autorizar a un invitado a entrar a tu casa. Textea UNBLOCK para habilitar     ",
+  "texto_es_latam": "gTextea INVITE GUEST para autorizar a un invitado a entrar a tu casa. Textea UNBLOCK para habilitar     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 2171222,
+  "length": 87,
+  "texto_es_es": "VTodos parecen ser ratones de biblioteca de algun tipo. Ya sea estudiando o trabajando ",
+  "texto_es_latam": "VTodos parecen ser ratones de biblioteca de algun tipo. Ya sea estudiando o trabajando ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

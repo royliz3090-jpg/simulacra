@@ -1,0 +1,10 @@
+{
+  "position": 859696,
+  "length": 35,
+  "texto_es_es": "\"Parece que esta relajandose en    ",
+  "texto_es_latam": "\"Parece que esta relajandose en    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1453364,
+  "length": 38,
+  "texto_es_es": "Y necesitan 3 meses para esto?        ",
+  "texto_es_latam": "Y necesitan 3 meses para esto?        ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

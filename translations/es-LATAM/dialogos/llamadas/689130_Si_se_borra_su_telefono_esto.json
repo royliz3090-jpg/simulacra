@@ -1,0 +1,10 @@
+{
+  "position": 689130,
+  "length": 39,
+  "texto_es_es": "&Si se borra su telefono esto es por tu",
+  "texto_es_latam": "&Si se borra su telefono esto es por tu",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

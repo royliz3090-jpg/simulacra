@@ -1,0 +1,10 @@
+{
+  "position": 405850,
+  "length": 33,
+  "texto_es_es": " Pero no tengo ganas de salir.   ",
+  "texto_es_latam": " Pero no tengo ganas de salir.   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

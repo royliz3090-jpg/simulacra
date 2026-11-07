@@ -1,0 +1,10 @@
+{
+  "position": 1410806,
+  "length": 89,
+  "texto_es_es": "XAsi que solo acusacion te suspende? Que sigue, espacios de oficina separados por genero?",
+  "texto_es_latam": "XAsi que sólo acusacion te suspende? Que sigue, espacios de oficina separados por genero?",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

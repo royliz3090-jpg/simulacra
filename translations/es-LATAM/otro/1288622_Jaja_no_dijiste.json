@@ -1,0 +1,10 @@
+{
+  "position": 1288622,
+  "length": 15,
+  "texto_es_es": "Jaja no dijiste",
+  "texto_es_latam": "Jaja no dijiste",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

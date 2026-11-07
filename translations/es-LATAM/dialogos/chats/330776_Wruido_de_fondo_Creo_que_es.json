@@ -1,0 +1,10 @@
+{
+  "position": 330776,
+  "length": 88,
+  "texto_es_es": "W*ruido de fondo* Creo que es el contestador, voy a dejar un mensaje primero.*          ",
+  "texto_es_latam": "W*ruido de fondo* Creo que es el contestador, voy a dejar un mensaje primero.*          ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

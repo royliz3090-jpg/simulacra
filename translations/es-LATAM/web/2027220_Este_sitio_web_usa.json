@@ -1,0 +1,10 @@
+{
+  "position": 2027220,
+  "length": 26,
+  "texto_es_es": "Este sitio web usa        ",
+  "texto_es_latam": "Este sitio web usa        ",
+  "categoria": "web",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

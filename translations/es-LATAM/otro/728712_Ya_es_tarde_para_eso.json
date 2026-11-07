@@ -1,0 +1,10 @@
+{
+  "position": 728712,
+  "length": 21,
+  "texto_es_es": "Ya es tarde para eso ",
+  "texto_es_latam": "Ya es tarde para eso ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

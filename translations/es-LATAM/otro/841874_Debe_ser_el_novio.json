@@ -1,0 +1,10 @@
+{
+  "position": 841874,
+  "length": 19,
+  "texto_es_es": "Debe ser el novio  ",
+  "texto_es_latam": "Debe ser el novio  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

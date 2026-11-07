@@ -1,0 +1,10 @@
+{
+  "position": 1963672,
+  "length": 40,
+  "texto_es_es": "ACuando tuvo que elegir, claro que eligi",
+  "texto_es_latam": "ACuando tuvo que elegir, claro que eligi",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

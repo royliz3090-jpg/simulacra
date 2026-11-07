@@ -1,0 +1,10 @@
+{
+  "position": 670654,
+  "length": 45,
+  "texto_es_es": ",Ella me la dio en nuestro primer aniversario",
+  "texto_es_latam": ",Ella me la dio en nuestro primer aniversario",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

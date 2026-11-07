@@ -1,0 +1,10 @@
+{
+  "position": 1120782,
+  "length": 33,
+  "texto_es_es": " Sali con un cliente hace un rato",
+  "texto_es_latam": " Sali con un cliente hace un rato",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

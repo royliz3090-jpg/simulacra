@@ -1,0 +1,10 @@
+{
+  "position": 1045718,
+  "length": 37,
+  "texto_es_es": "3Si es realmente Anna, lo sabremos ah",
+  "texto_es_latam": "3Si es realmente Anna, lo sabremos ah",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1817588,
+  "length": 55,
+  "texto_es_es": "6Despues, se cobrara una tarifa de suscripcion anual.  ",
+  "texto_es_latam": "6Despues, se cobrara una tarifa de suscripcion anual.  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

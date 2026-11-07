@@ -1,0 +1,10 @@
+{
+  "position": 1028018,
+  "length": 79,
+  "texto_es_es": "NSabes, como en TV, donde chicos se hacen pasar por ninos en linea para atrapar",
+  "texto_es_latam": "NSabes, cómo en TV, donde chicos se hacen pasar por ninos en linea para atrapar",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

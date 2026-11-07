@@ -1,0 +1,10 @@
+{
+  "position": 1278810,
+  "length": 23,
+  "texto_es_es": "Para mayoria de gente, ",
+  "texto_es_latam": "Para mayoria de gente, ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

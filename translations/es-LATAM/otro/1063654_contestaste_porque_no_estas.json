@@ -1,0 +1,10 @@
+{
+  "position": 1063654,
+  "length": 43,
+  "texto_es_es": "*contestaste, porque no estas respondiendo.",
+  "texto_es_latam": "*contestaste, porque no estas respondiendo.",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

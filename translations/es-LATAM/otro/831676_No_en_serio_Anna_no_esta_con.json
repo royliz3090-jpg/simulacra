@@ -1,0 +1,10 @@
+{
+  "position": 831676,
+  "length": 39,
+  "texto_es_es": "&No en serio. Anna no esta con su      ",
+  "texto_es_latam": "&No en serio. Anna no esta con su      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

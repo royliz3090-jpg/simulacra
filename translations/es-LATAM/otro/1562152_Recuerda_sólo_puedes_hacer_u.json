@@ -1,0 +1,10 @@
+{
+  "position": 1562152,
+  "length": 41,
+  "texto_es_es": "(Recuerda, solo puedes hacer una pregunta",
+  "texto_es_latam": "(Recuerda, sólo puedes hacer una pregunta",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 888522,
+  "length": 35,
+  "texto_es_es": "\"Como puedo competir con un ex?    ",
+  "texto_es_latam": "\"Como puedo competir con un ex?    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

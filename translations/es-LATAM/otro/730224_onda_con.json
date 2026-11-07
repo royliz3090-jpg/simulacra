@@ -1,0 +1,10 @@
+{
+  "position": 730224,
+  "length": 10,
+  "texto_es_es": " onda con ",
+  "texto_es_latam": " onda con ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

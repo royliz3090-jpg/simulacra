@@ -1,0 +1,10 @@
+{
+  "position": 489530,
+  "length": 16,
+  "texto_es_es": "a algo por ti?  ",
+  "texto_es_latam": "a algo por ti?  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

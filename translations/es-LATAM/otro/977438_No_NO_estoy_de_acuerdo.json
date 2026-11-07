@@ -1,0 +1,10 @@
+{
+  "position": 977438,
+  "length": 29,
+  "texto_es_es": "No, NO estoy de acuerdo      ",
+  "texto_es_latam": "No, NO estoy de acuerdo      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 500622,
+  "length": 47,
+  "texto_es_es": ".El mundo es mas grande que mis problemas      ",
+  "texto_es_latam": ".El mundo es más grande que mis problemas      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

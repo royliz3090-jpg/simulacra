@@ -1,0 +1,10 @@
+{
+  "position": 882914,
+  "length": 28,
+  "texto_es_es": "Greg es un bastardo de dos  ",
+  "texto_es_latam": "Greg es un bastardo de dos  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

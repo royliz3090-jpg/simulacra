@@ -1,0 +1,10 @@
+{
+  "position": 521566,
+  "length": 50,
+  "texto_es_es": "1Sabes que has estado actuando MUY rara           ",
+  "texto_es_latam": "1Sabes que has estado actuando MUY rara           ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

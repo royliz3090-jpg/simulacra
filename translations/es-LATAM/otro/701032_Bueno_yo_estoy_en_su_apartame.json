@@ -1,0 +1,10 @@
+{
+  "position": 701032,
+  "length": 41,
+  "texto_es_es": "(Bueno yo estoy en su apartamento y no   ",
+  "texto_es_latam": "(Bueno yo estoy en su apartamento y no   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

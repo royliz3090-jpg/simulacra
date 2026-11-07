@@ -1,0 +1,10 @@
+{
+  "position": 1781874,
+  "length": 20,
+  "texto_es_es": "Presiona 2 para     ",
+  "texto_es_latam": "Presiona 2 para     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

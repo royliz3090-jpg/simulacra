@@ -1,0 +1,10 @@
+{
+  "position": 718376,
+  "length": 19,
+  "texto_es_es": "Deja de culpar a   ",
+  "texto_es_latam": "Deja de culpar a   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

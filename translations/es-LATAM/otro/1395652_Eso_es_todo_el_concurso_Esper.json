@@ -1,0 +1,10 @@
+{
+  "position": 1395652,
+  "length": 77,
+  "texto_es_es": "Eso es todo el concurso! Espero que lo hayan disfrutado tanto como yo xoxoxo ",
+  "texto_es_latam": "Eso es todo el concurso! Espero que lo hayan disfrutado tanto cómo yo xoxoxo ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 489104,
+  "length": 23,
+  "texto_es_es": "Su destino depende de  ",
+  "texto_es_latam": "Su destino depende de  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

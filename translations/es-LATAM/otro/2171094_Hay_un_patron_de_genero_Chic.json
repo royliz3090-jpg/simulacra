@@ -1,0 +1,10 @@
+{
+  "position": 2171094,
+  "length": 61,
+  "texto_es_es": "<Hay un patron de genero. Chica > Chico > Chica > Chico y asi",
+  "texto_es_latam": "<Hay un patron de genero. Chica > Chico > Chica > Chico y asi",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

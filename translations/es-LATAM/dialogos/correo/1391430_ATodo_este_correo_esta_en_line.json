@@ -1,0 +1,10 @@
+{
+  "position": 1391430,
+  "length": 66,
+  "texto_es_es": "ATodo este correo esta en linea de asunto, y esta todo en         ",
+  "texto_es_latam": "ATodo este correo esta en linea de asunto, y esta todo en         ",
+  "categoria": "dialogos/correo",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

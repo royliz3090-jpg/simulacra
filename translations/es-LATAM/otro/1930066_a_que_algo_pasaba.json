@@ -1,0 +1,10 @@
+{
+  "position": 1930066,
+  "length": 18,
+  "texto_es_es": "a que algo pasaba ",
+  "texto_es_latam": "a que algo pasaba ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

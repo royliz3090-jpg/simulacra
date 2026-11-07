@@ -1,0 +1,10 @@
+{
+  "position": 510000,
+  "length": 54,
+  "texto_es_es": "5Recuerdas cuando te dije que hicieras un perfil de   ",
+  "texto_es_latam": "5Recuerdas cuando te dije que hicieras un perfil de   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

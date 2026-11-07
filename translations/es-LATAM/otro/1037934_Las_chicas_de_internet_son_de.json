@@ -1,0 +1,10 @@
+{
+  "position": 1037934,
+  "length": 38,
+  "texto_es_es": "%Las chicas de internet son demasiado ",
+  "texto_es_latam": "%Las chicas de internet son demasiado ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

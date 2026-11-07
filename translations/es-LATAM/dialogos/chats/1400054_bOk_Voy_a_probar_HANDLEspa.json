@@ -1,0 +1,10 @@
+{
+  "position": 1400054,
+  "length": 99,
+  "texto_es_es": "bOk. Voy a probar [HANDLE]@spark[]. Le voy a dar 12 horas antes de que reciba mi primera foto de   ",
+  "texto_es_latam": "bOk. Voy a probar [HANDLE]@spark[]. Le voy a dar 12 horas antes de que reciba mi primera foto de   ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

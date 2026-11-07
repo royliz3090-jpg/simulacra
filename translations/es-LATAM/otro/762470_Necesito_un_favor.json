@@ -1,0 +1,10 @@
+{
+  "position": 762470,
+  "length": 20,
+  "texto_es_es": "Necesito un favor   ",
+  "texto_es_latam": "Necesito un favor   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

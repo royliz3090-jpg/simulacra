@@ -1,0 +1,10 @@
+{
+  "position": 724040,
+  "length": 68,
+  "texto_es_es": "CPon todos nombres de sus matches de Spark. Averigua lo que puedas. ",
+  "texto_es_latam": "CPon todos nombres de sus matches de Spark. Averigua lo que puedas. ",
+  "categoria": "dialogos/spark",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

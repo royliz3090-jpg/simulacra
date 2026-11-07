@@ -1,0 +1,10 @@
+{
+  "position": 1752568,
+  "length": 98,
+  "texto_es_es": "aRidrs especificos seran redirigidos al centro de acopio mas cercano para un obsequio de          ",
+  "texto_es_latam": "aRidrs especificos seran redirigidos al centro de acopio más cercano para un obsequio de          ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

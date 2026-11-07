@@ -1,0 +1,10 @@
+{
+  "position": 683800,
+  "length": 30,
+  "texto_es_es": "Deja de hablar y empieza a    ",
+  "texto_es_latam": "Deja de hablar y empieza a    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

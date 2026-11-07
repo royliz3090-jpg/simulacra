@@ -1,0 +1,10 @@
+{
+  "position": 1404130,
+  "length": 82,
+  "texto_es_es": "QEXCLUSIVE. [HANDLE]@keepingitcassie[]'s Spark chat. Looks like someone lucked out",
+  "texto_es_latam": "QEXCLUSIVE. [HANDLE]@keepingitcassie[]'s Spark chat. Looks like someone lucked out",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

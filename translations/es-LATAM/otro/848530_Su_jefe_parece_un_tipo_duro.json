@@ -1,0 +1,10 @@
+{
+  "position": 848530,
+  "length": 31,
+  "texto_es_es": "Su jefe parece un tipo duro    ",
+  "texto_es_latam": "Su jefe parece un tipo duro    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

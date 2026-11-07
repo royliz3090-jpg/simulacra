@@ -1,0 +1,10 @@
+{
+  "position": 1389892,
+  "length": 34,
+  "texto_es_es": "!Presiona 1 para solicitar un     ",
+  "texto_es_latam": "!Presiona 1 para solicitar un     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

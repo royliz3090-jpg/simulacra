@@ -1,0 +1,10 @@
+{
+  "position": 988098,
+  "length": 23,
+  "texto_es_es": "Ella no tiene amigas en",
+  "texto_es_latam": "Ella no tiene amigas en",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

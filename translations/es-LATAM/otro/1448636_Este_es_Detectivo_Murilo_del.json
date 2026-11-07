@@ -1,0 +1,10 @@
+{
+  "position": 1448636,
+  "length": 61,
+  "texto_es_es": ";Este es Detectivo Murilo del departamento de policia, otra x",
+  "texto_es_latam": ";Este es Detectivo Murilo del departamento de policia, otra x",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

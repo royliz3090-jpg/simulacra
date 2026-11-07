@@ -1,0 +1,10 @@
+{
+  "position": 1029090,
+  "length": 24,
+  "texto_es_es": "Suena a que es mucho    ",
+  "texto_es_latam": "Suena a que es mucho    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

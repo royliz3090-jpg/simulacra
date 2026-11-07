@@ -1,0 +1,10 @@
+{
+  "position": 1008514,
+  "length": 22,
+  "texto_es_es": "Hablaste con Cassie?  ",
+  "texto_es_latam": "Hablaste con Cassie?  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

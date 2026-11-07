@@ -1,0 +1,10 @@
+{
+  "position": 713500,
+  "length": 29,
+  "texto_es_es": "Por que haria algo asi??     ",
+  "texto_es_latam": "Por que haria algo asi??     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

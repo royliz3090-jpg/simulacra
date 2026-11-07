@@ -1,0 +1,10 @@
+{
+  "position": 391274,
+  "length": 59,
+  "texto_es_es": ":Y si Anna esta intentando alejarse de Greg a proposito?   ",
+  "texto_es_latam": ":Y sí Anna esta intentando alejarse de Greg a proposito?   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

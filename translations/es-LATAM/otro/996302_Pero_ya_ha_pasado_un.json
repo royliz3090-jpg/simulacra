@@ -1,0 +1,10 @@
+{
+  "position": 996302,
+  "length": 21,
+  "texto_es_es": "Pero ya ha pasado un ",
+  "texto_es_latam": "Pero ya ha pasado un ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

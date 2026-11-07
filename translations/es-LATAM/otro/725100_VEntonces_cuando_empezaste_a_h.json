@@ -1,0 +1,10 @@
+{
+  "position": 725100,
+  "length": 87,
+  "texto_es_es": "VEntonces cuando empezaste a hablar con este tipo, nunca menciono su nombre completo   ",
+  "texto_es_latam": "VEntonces cuando empezaste a hablar con este tipo, nunca menciono su nombre completo   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

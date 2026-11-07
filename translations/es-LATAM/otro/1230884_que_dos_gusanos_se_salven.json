@@ -1,0 +1,10 @@
+{
+  "position": 1230884,
+  "length": 26,
+  "texto_es_es": " que dos gusanos se salven",
+  "texto_es_latam": " que dos gusanos se salven",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

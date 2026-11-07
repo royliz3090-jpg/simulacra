@@ -1,0 +1,10 @@
+{
+  "position": 663668,
+  "length": 69,
+  "texto_es_es": "DPodria espantarse si descubre que un desconocido usa telefono de    ",
+  "texto_es_latam": "DPodria espantarse sí descubre que un desconocido usa telefono de    ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

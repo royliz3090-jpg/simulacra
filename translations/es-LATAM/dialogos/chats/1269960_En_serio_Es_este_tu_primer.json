@@ -1,0 +1,10 @@
+{
+  "position": 1269960,
+  "length": 44,
+  "texto_es_es": "+En serio?? Es este tu primer chat en Spark?",
+  "texto_es_latam": "+En serio?? Es este tu primer chat en Spark?",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

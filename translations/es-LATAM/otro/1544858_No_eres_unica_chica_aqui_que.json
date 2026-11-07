@@ -1,0 +1,10 @@
+{
+  "position": 1544858,
+  "length": 40,
+  "texto_es_es": "'No eres unica chica aqui que se sabe   ",
+  "texto_es_latam": "'No eres unica chica aqui que se sabe   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1968628,
+  "length": 12,
+  "texto_es_es": "Yo no soy as",
+  "texto_es_latam": "Yo no soy as",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

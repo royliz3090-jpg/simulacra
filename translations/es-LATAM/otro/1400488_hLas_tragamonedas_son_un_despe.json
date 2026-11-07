@@ -1,0 +1,10 @@
+{
+  "position": 1400488,
+  "length": 105,
+  "texto_es_es": "hLas tragamonedas son un desperdicio de dinero para mi. Pero luego me puse un vestido 'ironico' a una    ",
+  "texto_es_latam": "hLas tragamonedas son un desperdicio de dinero para mi. Pero luego me puse un vestido 'ironico' a una    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

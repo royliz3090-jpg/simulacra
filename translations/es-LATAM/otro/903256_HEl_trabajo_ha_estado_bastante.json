@@ -1,0 +1,10 @@
+{
+  "position": 903256,
+  "length": 73,
+  "texto_es_es": "HEl trabajo ha estado bastante loco ultimamente, y solo necesitaba un    ",
+  "texto_es_latam": "HEl trabajo ha estado bastante loco ultimamente, y sólo necesitaba un    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

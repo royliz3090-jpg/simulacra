@@ -1,0 +1,10 @@
+{
+  "position": 857540,
+  "length": 85,
+  "texto_es_es": "TAnna es una amante de animales de otro nivel. Conozco amigos que son asi tambien.   ",
+  "texto_es_latam": "TAnna es una amante de animales de otro nivel. Conozco amigos que son asi tambien.   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

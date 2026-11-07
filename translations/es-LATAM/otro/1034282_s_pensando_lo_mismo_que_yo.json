@@ -1,0 +1,10 @@
+{
+  "position": 1034282,
+  "length": 26,
+  "texto_es_es": "s pensando lo mismo que yo",
+  "texto_es_latam": "s pensando lo mismo que yo",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

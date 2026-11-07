@@ -1,0 +1,10 @@
+{
+  "position": 1391950,
+  "length": 49,
+  "texto_es_es": ", porque los animales no me tratan como basura.  ",
+  "texto_es_latam": ", porque los animales no me tratan cómo basura.  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

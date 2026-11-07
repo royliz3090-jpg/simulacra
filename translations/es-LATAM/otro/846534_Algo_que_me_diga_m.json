@@ -1,0 +1,10 @@
+{
+  "position": 846534,
+  "length": 18,
+  "texto_es_es": "Algo que me diga m",
+  "texto_es_latam": "Algo que me diga m",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

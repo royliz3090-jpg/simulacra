@@ -1,0 +1,10 @@
+{
+  "position": 679314,
+  "length": 36,
+  "texto_es_es": "#Sabes que estupido suena eso??     ",
+  "texto_es_latam": "#Sabes que estupido suena eso??     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 981316,
+  "length": 46,
+  "texto_es_es": " en su computadora de casa y la del trabajo   ",
+  "texto_es_latam": " en su computadora de casa y la del trabajo   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

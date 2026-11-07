@@ -1,0 +1,10 @@
+{
+  "position": 1369788,
+  "length": 72,
+  "texto_es_es": "Gvo://content/vo/sb34.ogg=Tu vision limitada no puede percibir lo que es",
+  "texto_es_latam": "Gvo://content/vo/sb34.ogg=Tu vision limitada no puede percibir lo que es",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

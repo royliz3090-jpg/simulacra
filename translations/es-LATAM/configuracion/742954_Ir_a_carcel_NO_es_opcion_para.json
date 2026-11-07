@@ -1,0 +1,10 @@
+{
+  "position": 742954,
+  "length": 38,
+  "texto_es_es": "%Ir a carcel NO es opcion para mi!!   ",
+  "texto_es_latam": "%Ir a carcel NO es opcion para mi!!   ",
+  "categoria": "configuracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 719462,
+  "length": 57,
+  "texto_es_es": "Alguna vez consideraste que ese tipo de Spark solo te est",
+  "texto_es_latam": "Alguna vez consideraste que ese tipo de Spark sólo te est",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

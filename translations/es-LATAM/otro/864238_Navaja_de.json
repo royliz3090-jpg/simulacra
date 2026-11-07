@@ -1,0 +1,10 @@
+{
+  "position": 864238,
+  "length": 13,
+  "texto_es_es": "Navaja de    ",
+  "texto_es_latam": "Navaja de    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

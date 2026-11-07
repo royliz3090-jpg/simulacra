@@ -1,0 +1,10 @@
+{
+  "position": 1186860,
+  "length": 30,
+  "texto_es_es": "Tienes que sacarme de aqui!!  ",
+  "texto_es_latam": "Tienes que sacarme de aqui!!  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

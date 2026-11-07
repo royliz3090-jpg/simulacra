@@ -1,0 +1,10 @@
+{
+  "position": 1957318,
+  "length": 43,
+  "texto_es_es": "*Nada de lo que hace ese tipo me sorprende ",
+  "texto_es_latam": "*Nada de lo que hace ese tipo me sorprende ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

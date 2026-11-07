@@ -1,0 +1,10 @@
+{
+  "position": 2000626,
+  "length": 67,
+  "texto_es_es": "BLo siento, estoy en el trabajo, solo quiero ahogar todo un rato.  ",
+  "texto_es_latam": "BLo siento, estoy en el trabajo, sólo quiero ahogar todo un rato.  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

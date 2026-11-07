@@ -1,0 +1,10 @@
+{
+  "position": 495866,
+  "length": 45,
+  "texto_es_es": ",Solo alejate de esto antes de que sea       ",
+  "texto_es_latam": ",Solo alejate de esto antes de que sea       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

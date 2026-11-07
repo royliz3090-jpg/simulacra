@@ -1,0 +1,10 @@
+{
+  "position": 1953852,
+  "length": 30,
+  "texto_es_es": "Que puedo hacer por usted,    ",
+  "texto_es_latam": "Que puedo hacer por usted,    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

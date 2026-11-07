@@ -1,0 +1,10 @@
+{
+  "position": 1692466,
+  "length": 38,
+  "texto_es_es": "%Si alguien pregunta, tienes que      ",
+  "texto_es_latam": "%Si alguien pregunta, tienes que      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

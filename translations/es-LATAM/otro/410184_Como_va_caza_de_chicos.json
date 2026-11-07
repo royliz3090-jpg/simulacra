@@ -1,0 +1,10 @@
+{
+  "position": 410184,
+  "length": 24,
+  "texto_es_es": "Como va caza de chicos? ",
+  "texto_es_latam": "Como va caza de chicos? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

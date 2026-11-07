@@ -1,0 +1,10 @@
+{
+  "position": 462546,
+  "length": 32,
+  "texto_es_es": " todo solo para llegar a tiempo ",
+  "texto_es_latam": " todo sólo para llegar a tiempo ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

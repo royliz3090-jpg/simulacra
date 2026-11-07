@@ -1,0 +1,10 @@
+{
+  "position": 740476,
+  "length": 49,
+  "texto_es_es": "0Pensaran que yo soy razon porque Anna           ",
+  "texto_es_latam": "0Pensaran que yo soy razon porque Anna           ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

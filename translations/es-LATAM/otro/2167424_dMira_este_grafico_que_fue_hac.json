@@ -1,0 +1,10 @@
+{
+  "position": 2167424,
+  "length": 102,
+  "texto_es_es": "dMira este grafico que fue hackeado de un informe interno de fuerzas del orden sobre estos crimenes. x",
+  "texto_es_latam": "dMira este grafico que fue hackeado de un informe interno de fuerzas del orden sobre estos crimenes. x",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

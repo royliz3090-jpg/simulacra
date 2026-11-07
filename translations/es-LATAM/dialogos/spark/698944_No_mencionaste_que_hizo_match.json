@@ -1,0 +1,10 @@
+{
+  "position": 698944,
+  "length": 63,
+  "texto_es_es": "No mencionaste que hizo match con gente en SPARK?              ",
+  "texto_es_latam": "No mencionaste que hizo match con gente en SPARK?              ",
+  "categoria": "dialogos/spark",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

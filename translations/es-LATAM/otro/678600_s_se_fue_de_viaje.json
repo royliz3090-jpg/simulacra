@@ -1,0 +1,10 @@
+{
+  "position": 678600,
+  "length": 20,
+  "texto_es_es": "s se fue de viaje?  ",
+  "texto_es_latam": "s se fue de viaje?  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

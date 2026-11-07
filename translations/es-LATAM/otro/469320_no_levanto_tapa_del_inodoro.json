@@ -1,0 +1,10 @@
+{
+  "position": 469320,
+  "length": 29,
+  "texto_es_es": "no levanto tapa del inodoro  ",
+  "texto_es_latam": "no levanto tapa del inodoro  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1013580,
+  "length": 38,
+  "texto_es_es": "%Nada aqui tiene que ver con Cassie o ",
+  "texto_es_latam": "%Nada aqui tiene que ver con Cassie o ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

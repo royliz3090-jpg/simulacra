@@ -1,0 +1,10 @@
+{
+  "position": 391224,
+  "length": 22,
+  "texto_es_es": "Solo un pensamiento   ",
+  "texto_es_latam": "Solo un pensamiento   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

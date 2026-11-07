@@ -1,0 +1,10 @@
+{
+  "position": 1457688,
+  "length": 24,
+  "texto_es_es": "Quieres salir juntos alg",
+  "texto_es_latam": "Quieres salir juntos alg",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

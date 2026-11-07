@@ -1,0 +1,10 @@
+{
+  "position": 1107242,
+  "length": 59,
+  "texto_es_es": ":Me hice cool... fingi preguntarle por su tarjeta y todo   ",
+  "texto_es_latam": ":Me hice cool... fingi preguntarle por su tarjeta y todo   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

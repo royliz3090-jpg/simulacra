@@ -1,0 +1,10 @@
+{
+  "position": 1187012,
+  "length": 23,
+  "texto_es_es": "Creo que me drogaron.. ",
+  "texto_es_latam": "Creo que me drogaron.. ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

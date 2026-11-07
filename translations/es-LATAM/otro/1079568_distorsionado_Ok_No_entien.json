@@ -1,0 +1,10 @@
+{
+  "position": 1079568,
+  "length": 64,
+  "texto_es_es": "?*distorsionado* Ok? No entiendo lo que esta pasando.           ",
+  "texto_es_latam": "?*distorsionado* Ok? No entiendo lo que esta pasando.           ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

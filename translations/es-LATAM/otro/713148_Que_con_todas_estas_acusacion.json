@@ -1,0 +1,10 @@
+{
+  "position": 713148,
+  "length": 34,
+  "texto_es_es": "!Que con todas estas acusaciones? ",
+  "texto_es_latam": "!Que con todas estas acusaciones? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

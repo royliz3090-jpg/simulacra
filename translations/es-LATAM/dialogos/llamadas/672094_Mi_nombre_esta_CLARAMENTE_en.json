@@ -1,0 +1,10 @@
+{
+  "position": 672094,
+  "length": 59,
+  "texto_es_es": ":Mi nombre esta CLARAMENTE en telefono de Anna             ",
+  "texto_es_latam": ":Mi nombre esta CLARAMENTE en telefono de Anna             ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

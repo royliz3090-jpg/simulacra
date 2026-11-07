@@ -1,0 +1,10 @@
+{
+  "position": 471514,
+  "length": 23,
+  "texto_es_es": "no soy del tipo celoso ",
+  "texto_es_latam": "no soy del tipo celoso ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

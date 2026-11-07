@@ -1,0 +1,10 @@
+{
+  "position": 1565752,
+  "length": 38,
+  "texto_es_es": "%Si eso es lo que quieres saber       ",
+  "texto_es_latam": "%Si eso es lo que quieres saber       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

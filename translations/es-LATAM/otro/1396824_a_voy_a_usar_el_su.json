@@ -1,0 +1,10 @@
+{
+  "position": 1396824,
+  "length": 18,
+  "texto_es_es": "a voy a usar el su",
+  "texto_es_latam": "a voy a usar el su",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

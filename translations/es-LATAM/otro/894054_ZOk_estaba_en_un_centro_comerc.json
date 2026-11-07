@@ -1,0 +1,10 @@
+{
+  "position": 894054,
+  "length": 91,
+  "texto_es_es": "ZOk estaba en un centro comercial y habia tomado un vaso enorme de te helado justo antes y ",
+  "texto_es_latam": "ZOk estaba en un centro comercial y habia tomado un vaso enorme de te helado justo antes y ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

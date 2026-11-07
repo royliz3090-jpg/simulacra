@@ -1,0 +1,10 @@
+{
+  "position": 1009132,
+  "length": 23,
+  "texto_es_es": "Esa celebridad de Jabbr",
+  "texto_es_latam": "Esa celebridad de Jabbr",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

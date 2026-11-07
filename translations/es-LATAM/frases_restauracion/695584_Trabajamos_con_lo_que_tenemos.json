@@ -1,0 +1,10 @@
+{
+  "position": 695584,
+  "length": 62,
+  "texto_es_es": "=Trabajamos con lo que tenemos. Voy a restaurar desde su      ",
+  "texto_es_latam": "=Trabajamos con lo que tenemos. Voy a restaurar desde su      ",
+  "categoria": "frases_restauracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

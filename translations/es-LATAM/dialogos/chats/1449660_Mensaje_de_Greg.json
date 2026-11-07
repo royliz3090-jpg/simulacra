@@ -1,0 +1,10 @@
+{
+  "position": 1449660,
+  "length": 17,
+  "texto_es_es": "Mensaje de Greg  ",
+  "texto_es_latam": "Mensaje de Greg  ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

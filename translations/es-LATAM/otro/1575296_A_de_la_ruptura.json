@@ -1,0 +1,10 @@
+{
+  "position": 1575296,
+  "length": 15,
+  "texto_es_es": "A de la ruptura",
+  "texto_es_latam": "A de la ruptura",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

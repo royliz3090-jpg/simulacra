@@ -1,0 +1,10 @@
+{
+  "position": 994932,
+  "length": 61,
+  "texto_es_es": "dele que haga lo que le pidas a cambio del correo de acoso   ",
+  "texto_es_latam": "dele que haga lo que le pidas a cambio del correo de acoso   ",
+  "categoria": "dialogos/correo",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

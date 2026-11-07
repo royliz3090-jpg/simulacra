@@ -1,0 +1,10 @@
+{
+  "position": 1562404,
+  "length": 20,
+  "texto_es_es": "Esa es tu pregunta? ",
+  "texto_es_latam": "Esa es tu pregunta? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

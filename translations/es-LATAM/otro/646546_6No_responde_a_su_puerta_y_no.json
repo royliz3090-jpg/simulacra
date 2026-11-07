@@ -1,0 +1,10 @@
+{
+  "position": 646546,
+  "length": 55,
+  "texto_es_es": "6No responde a su puerta y no esta en trabajo ahora.   ",
+  "texto_es_latam": "6No responde a su puerta y no esta en trabajo ahora.   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1268500,
+  "length": 38,
+  "texto_es_es": "%Apuesto a que te equivocas mitad del ",
+  "texto_es_latam": "%Apuesto a que te equivocas mitad del ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

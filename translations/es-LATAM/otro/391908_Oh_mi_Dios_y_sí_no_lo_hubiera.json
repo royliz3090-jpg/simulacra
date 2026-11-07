@@ -1,0 +1,10 @@
+{
+  "position": 391908,
+  "length": 30,
+  "texto_es_es": "Oh mi Dios, y si no lo hubiera",
+  "texto_es_latam": "Oh mi Dios, y sí no lo hubiera",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

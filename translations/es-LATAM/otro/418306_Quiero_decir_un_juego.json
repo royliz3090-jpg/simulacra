@@ -1,0 +1,10 @@
+{
+  "position": 418306,
+  "length": 23,
+  "texto_es_es": "Quiero decir un juego  ",
+  "texto_es_latam": "Quiero decir un juego  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

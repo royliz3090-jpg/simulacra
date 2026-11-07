@@ -1,0 +1,10 @@
+{
+  "position": 488608,
+  "length": 32,
+  "texto_es_es": "a va a estar encima de ti       ",
+  "texto_es_latam": "a va a estar encima de ti       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

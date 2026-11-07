@@ -1,0 +1,10 @@
+{
+  "position": 2163772,
+  "length": 44,
+  "texto_es_es": "*Espero que Anna no comparta mismo destino.?",
+  "texto_es_latam": "*Espero que Anna no comparta mismo destino.?",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

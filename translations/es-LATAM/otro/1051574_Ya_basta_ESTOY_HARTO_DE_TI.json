@@ -1,0 +1,10 @@
+{
+  "position": 1051574,
+  "length": 28,
+  "texto_es_es": "Ya basta! ESTOY HARTO DE TI ",
+  "texto_es_latam": "Ya basta! ESTOY HARTO DE TI ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

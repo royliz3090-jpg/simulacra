@@ -1,0 +1,10 @@
+{
+  "position": 1697038,
+  "length": 112,
+  "texto_es_es": "oLos usuarios nuevos reciben 1 producto de compras online con reembolso gratis incluyendo envio gratis, a otro  ",
+  "texto_es_latam": "oLos usuarios nuevos reciben 1 producto de compras online con reembolso gratis incluyendo envio gratis, a otro  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

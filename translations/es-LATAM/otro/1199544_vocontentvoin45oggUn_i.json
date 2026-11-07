@@ -1,0 +1,10 @@
+{
+  "position": 1199544,
+  "length": 61,
+  "texto_es_es": "<vo://content/vo/in45.ogg=Un individuo debil que solo lamenta",
+  "texto_es_latam": "<vo://content/vo/in45.ogg=Un individuo debil que sólo lamenta",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

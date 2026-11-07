@@ -1,0 +1,10 @@
+{
+  "position": 1107710,
+  "length": 44,
+  "texto_es_es": "+O sea, que haces si quieres devolver algo? ",
+  "texto_es_latam": "+O sea, que haces sí quieres devolver algo? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

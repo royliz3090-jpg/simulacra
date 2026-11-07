@@ -1,0 +1,10 @@
+{
+  "position": 1474886,
+  "length": 50,
+  "texto_es_es": "1Envio gratis en pedidos arriba de $150. Usa      ",
+  "texto_es_latam": "1Envio gratis en pedidos arriba de $150. Usa      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

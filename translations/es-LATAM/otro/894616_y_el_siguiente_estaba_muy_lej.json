@@ -1,0 +1,10 @@
+{
+  "position": 894616,
+  "length": 37,
+  "texto_es_es": "$y el siguiente estaba muy lejos     ",
+  "texto_es_latam": "$y el siguiente estaba muy lejos     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

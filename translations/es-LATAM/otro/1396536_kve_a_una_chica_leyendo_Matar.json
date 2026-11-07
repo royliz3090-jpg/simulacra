@@ -1,0 +1,10 @@
+{
+  "position": 1396536,
+  "length": 108,
+  "texto_es_es": "k[ve a una chica leyendo Matar a un ruisenor] 'Buen libro. Quien sabia que esos p\\utos pajaros son tan      ",
+  "texto_es_latam": "k[ve a una chica leyendo Matar a un ruisenor] 'Buen libro. Quien sabia que esos p\\utos pajaros son tan      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

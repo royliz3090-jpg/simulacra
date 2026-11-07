@@ -1,0 +1,10 @@
+{
+  "position": 776986,
+  "length": 31,
+  "texto_es_es": "Mientras no lo hagas de nuevo  ",
+  "texto_es_latam": "Mientras no lo hagas de nuevo  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

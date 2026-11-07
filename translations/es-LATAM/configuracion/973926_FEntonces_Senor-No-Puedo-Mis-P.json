@@ -1,0 +1,10 @@
+{
+  "position": 973926,
+  "length": 71,
+  "texto_es_es": "FEntonces Senor-No-Puedo-Mis-Pantalones es alguna opcion aceptable para",
+  "texto_es_latam": "FEntonces Senor-No-Puedo-Mis-Pantalones es alguna opcion aceptable para",
+  "categoria": "configuracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

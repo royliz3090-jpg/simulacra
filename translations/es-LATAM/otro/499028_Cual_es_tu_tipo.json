@@ -1,0 +1,10 @@
+{
+  "position": 499028,
+  "length": 17,
+  "texto_es_es": "Cual es tu tipo? ",
+  "texto_es_latam": "Cual es tu tipo? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

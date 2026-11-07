@@ -1,0 +1,10 @@
+{
+  "position": 1109684,
+  "length": 18,
+  "texto_es_es": "Mensaje de James  ",
+  "texto_es_latam": "Mensaje de James  ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

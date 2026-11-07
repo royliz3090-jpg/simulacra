@@ -1,0 +1,10 @@
+{
+  "position": 1905164,
+  "length": 93,
+  "texto_es_es": "\\TitanTech Remote Access Services. Hola ANNA, como podemos ayudarte? Textea INVITE GUEST o   ",
+  "texto_es_latam": "\\TitanTech Remote Access Services. Hola ANNA, cómo podemos ayudarte? Textea INVITE GUEST o   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

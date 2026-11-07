@@ -1,0 +1,10 @@
+{
+  "position": 1249890,
+  "length": 68,
+  "texto_es_es": "Cvo://content/vo/st5.ogg=Tan bien como alguien que acaba de         ",
+  "texto_es_latam": "Cvo://content/vo/st5.ogg=Tan bien cómo alguien que acaba de         ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

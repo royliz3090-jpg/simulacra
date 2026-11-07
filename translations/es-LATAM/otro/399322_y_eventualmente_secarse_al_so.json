@@ -1,0 +1,10 @@
+{
+  "position": 399322,
+  "length": 64,
+  "texto_es_es": "?y eventualmente secarse al sol, sin dejar nada mas que mancha. ",
+  "texto_es_latam": "?y eventualmente secarse al sol, sin dejar nada más que mancha. ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1740574,
+  "length": 27,
+  "texto_es_es": "actualizar es facil y      ",
+  "texto_es_latam": "actualizar es facil y      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1564464,
+  "length": 18,
+  "texto_es_es": "porque pasas por  ",
+  "texto_es_latam": "porque pasas por  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

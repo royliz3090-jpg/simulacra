@@ -1,0 +1,10 @@
+{
+  "position": 830356,
+  "length": 47,
+  "texto_es_es": ".Simplemente asumire que estas ocupada salvando",
+  "texto_es_latam": ".Simplemente asumire que estas ocupada salvando",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

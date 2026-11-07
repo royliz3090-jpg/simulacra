@@ -1,0 +1,10 @@
+{
+  "position": 1738636,
+  "length": 37,
+  "texto_es_es": "$*la lucha se intensifica y gritos*  ",
+  "texto_es_latam": "$*la lucha se intensifica y gritos*  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

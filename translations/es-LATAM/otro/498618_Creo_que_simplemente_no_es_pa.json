@@ -1,0 +1,10 @@
+{
+  "position": 498618,
+  "length": 34,
+  "texto_es_es": "%Creo que simplemente no es para m",
+  "texto_es_latam": "%Creo que simplemente no es para m",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 464626,
+  "length": 44,
+  "texto_es_es": "as la cabeza si no estuviera pegada a ti    ",
+  "texto_es_latam": "as la cabeza sí no estuviera pegada a ti    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 841626,
+  "length": 11,
+  "texto_es_es": "Greg la est",
+  "texto_es_latam": "Greg la est",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

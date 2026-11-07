@@ -1,0 +1,10 @@
+{
+  "position": 1112030,
+  "length": 111,
+  "texto_es_es": "mHabla con nuestros 'Doctores del Amor' una consultoria gratuita para ayudarte a mejorar tu perfil de Spark y x",
+  "texto_es_latam": "mHabla con nuestros 'Doctores del Amor' una consultoria gratuita para ayudarte a mejorar tu perfil de Spark y x",
+  "categoria": "dialogos/spark",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 2163472,
+  "length": 81,
+  "texto_es_es": "PAnna y James todavia tenian actividad en Jabbr, pero nadie ha visto             ",
+  "texto_es_latam": "PAnna y James todavia tenian actividad en Jabbr, pero nadie ha visto             ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

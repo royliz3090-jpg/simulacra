@@ -1,0 +1,10 @@
+{
+  "position": 1012546,
+  "length": 40,
+  "texto_es_es": "'Creo que eso viene con la doble vida   ",
+  "texto_es_latam": "'Creo que eso viene con la doble vida   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

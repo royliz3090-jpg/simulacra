@@ -1,0 +1,10 @@
+{
+  "position": 766640,
+  "length": 42,
+  "texto_es_es": ")Supongo que te gusta ser conocido como un",
+  "texto_es_latam": ")Supongo que te gusta ser conocido cómo un",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

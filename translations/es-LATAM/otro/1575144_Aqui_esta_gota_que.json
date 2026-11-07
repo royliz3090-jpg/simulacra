@@ -1,0 +1,10 @@
+{
+  "position": 1575144,
+  "length": 23,
+  "texto_es_es": "Aqui esta gota que     ",
+  "texto_es_latam": "Aqui esta gota que     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

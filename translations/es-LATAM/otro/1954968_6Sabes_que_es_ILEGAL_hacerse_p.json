@@ -1,0 +1,10 @@
+{
+  "position": 1954968,
+  "length": 55,
+  "texto_es_es": "6Sabes que es ILEGAL hacerse pasar por un policia,     ",
+  "texto_es_latam": "6Sabes que es ILEGAL hacerse pasar por un policia,     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

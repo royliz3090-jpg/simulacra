@@ -1,0 +1,10 @@
+{
+  "position": 510990,
+  "length": 36,
+  "texto_es_es": "#Algo que ya no puedo esconder      ",
+  "texto_es_latam": "#Algo que ya no puedo esconder      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

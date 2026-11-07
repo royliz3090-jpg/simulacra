@@ -1,0 +1,10 @@
+{
+  "position": 651336,
+  "length": 62,
+  "texto_es_es": "=Es solo un vistazo a su Jabbr y practicamente podemos        ",
+  "texto_es_latam": "=Es sólo un vistazo a su Jabbr y practicamente podemos        ",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

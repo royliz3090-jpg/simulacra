@@ -1,0 +1,10 @@
+{
+  "position": 1027476,
+  "length": 57,
+  "texto_es_es": "8Que si pillamos al impostor (alias 'James') en acto?    ",
+  "texto_es_latam": "8Que sí pillamos al impostor (alias 'James') en acto?    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

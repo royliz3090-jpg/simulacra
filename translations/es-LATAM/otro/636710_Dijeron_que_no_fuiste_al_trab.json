@@ -1,0 +1,10 @@
+{
+  "position": 636710,
+  "length": 45,
+  "texto_es_es": ",Dijeron que no fuiste al trabajo hoy.       ",
+  "texto_es_latam": ",Dijeron que no fuiste al trabajo hoy.       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

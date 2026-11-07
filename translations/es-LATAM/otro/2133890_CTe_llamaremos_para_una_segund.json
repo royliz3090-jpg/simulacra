@@ -1,0 +1,10 @@
+{
+  "position": 2133890,
+  "length": 68,
+  "texto_es_es": "CTe llamaremos para una segunda entrevista si eres preseleccionado  ",
+  "texto_es_latam": "CTe llamaremos para una segunda entrevista sí eres preseleccionado  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

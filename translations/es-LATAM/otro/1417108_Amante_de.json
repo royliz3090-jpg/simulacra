@@ -1,0 +1,10 @@
+{
+  "position": 1417108,
+  "length": 11,
+  "texto_es_es": "Amante de  ",
+  "texto_es_latam": "Amante de  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

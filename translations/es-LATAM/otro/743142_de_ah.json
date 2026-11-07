@@ -1,0 +1,10 @@
+{
+  "position": 743142,
+  "length": 6,
+  "texto_es_es": " de ah",
+  "texto_es_latam": " de ah",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

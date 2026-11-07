@@ -1,0 +1,10 @@
+{
+  "position": 1275154,
+  "length": 79,
+  "texto_es_es": "NEntonces si alguna vez pensaste en ponerte trajes de poder y escribir para    ",
+  "texto_es_latam": "NEntonces sí alguna vez pensaste en ponerte trajes de poder y escribir para    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

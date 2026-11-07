@@ -1,0 +1,10 @@
+{
+  "position": 2112352,
+  "length": 62,
+  "texto_es_es": "=Tengo novia... y quiero arreglar las cosas con ella.         ",
+  "texto_es_latam": "=Tengo novia... y quiero arreglar las cosas con ella.         ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

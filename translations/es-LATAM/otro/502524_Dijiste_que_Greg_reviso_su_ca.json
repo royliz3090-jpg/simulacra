@@ -1,0 +1,10 @@
+{
+  "position": 502524,
+  "length": 37,
+  "texto_es_es": "$Dijiste que Greg reviso su casa,    ",
+  "texto_es_latam": "$Dijiste que Greg reviso su casa,    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

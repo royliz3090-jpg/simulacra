@@ -1,0 +1,10 @@
+{
+  "position": 661144,
+  "length": 13,
+  "texto_es_es": " una foto de ",
+  "texto_es_latam": " una foto de ",
+  "categoria": "imagenes_restauracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 840602,
+  "length": 34,
+  "texto_es_es": " _tu_ certificado de permiso, eh? ",
+  "texto_es_latam": " _tu_ certificado de permiso, eh? ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1005368,
+  "length": 31,
+  "texto_es_es": "s tengan algo sobre este James ",
+  "texto_es_latam": "s tengan algo sobre este James ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

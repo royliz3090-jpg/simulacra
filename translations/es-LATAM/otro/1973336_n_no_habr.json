@@ -1,0 +1,10 @@
+{
+  "position": 1973336,
+  "length": 10,
+  "texto_es_es": "n, no habr",
+  "texto_es_latam": "n, no habr",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

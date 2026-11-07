@@ -1,0 +1,10 @@
+{
+  "position": 639624,
+  "length": 45,
+  "texto_es_es": ",En caso de que no lo sepas, estamos         ",
+  "texto_es_latam": ",En caso de que no lo sepas, estamos         ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

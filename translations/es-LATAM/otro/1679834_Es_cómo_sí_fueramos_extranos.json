@@ -1,0 +1,10 @@
+{
+  "position": 1679834,
+  "length": 30,
+  "texto_es_es": "Es como si fueramos extranos  ",
+  "texto_es_latam": "Es cómo sí fueramos extranos  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

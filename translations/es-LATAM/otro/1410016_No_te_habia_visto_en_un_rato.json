@@ -1,0 +1,10 @@
+{
+  "position": 1410016,
+  "length": 48,
+  "texto_es_es": "/No te habia visto en un rato. Donde has estado?",
+  "texto_es_latam": "/No te habia visto en un rato. Donde has estado?",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

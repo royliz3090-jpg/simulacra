@@ -1,0 +1,10 @@
+{
+  "position": 1008360,
+  "length": 31,
+  "texto_es_es": "Creo que tenemos buenas pistas ",
+  "texto_es_latam": "Creo que tenemos buenas pistas ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1541588,
+  "length": 23,
+  "texto_es_es": "Tu nombre es una mierda",
+  "texto_es_latam": "Tu nombre es una mierda",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

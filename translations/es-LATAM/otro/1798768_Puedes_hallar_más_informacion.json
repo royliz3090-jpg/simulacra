@@ -1,0 +1,10 @@
+{
+  "position": 1798768,
+  "length": 64,
+  "texto_es_es": "?Puedes hallar mas informacion sobre Registro NSFW en enlace    ",
+  "texto_es_latam": "?Puedes hallar más informacion sobre Registro NSFW en enlace    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

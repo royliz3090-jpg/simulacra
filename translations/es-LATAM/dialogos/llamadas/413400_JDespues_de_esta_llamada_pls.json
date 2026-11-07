@@ -1,0 +1,10 @@
+{
+  "position": 413400,
+  "length": 75,
+  "texto_es_es": "JDespues de esta llamada, pls espere a que le escribamos a nuestra mayor   ",
+  "texto_es_latam": "JDespues de esta llamada, pls espere a que le escribamos a nuestra mayor   ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

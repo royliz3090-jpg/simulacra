@@ -1,0 +1,10 @@
+{
+  "position": 1198490,
+  "length": 10,
+  "texto_es_es": "stico de m",
+  "texto_es_latam": "stico de m",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

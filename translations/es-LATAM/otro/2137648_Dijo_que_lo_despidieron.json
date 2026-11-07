@@ -1,0 +1,10 @@
+{
+  "position": 2137648,
+  "length": 37,
+  "texto_es_es": "$Dijo que lo despidieron             ",
+  "texto_es_latam": "$Dijo que lo despidieron             ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

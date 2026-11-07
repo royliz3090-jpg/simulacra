@@ -1,0 +1,10 @@
+{
+  "position": 847978,
+  "length": 23,
+  "texto_es_es": "No! No sabemos eso.    ",
+  "texto_es_latam": "No! No sabemos eso.    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1323110,
+  "length": 20,
+  "texto_es_es": "ltimo que recuerdo  ",
+  "texto_es_latam": "ltimo que recuerdo  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

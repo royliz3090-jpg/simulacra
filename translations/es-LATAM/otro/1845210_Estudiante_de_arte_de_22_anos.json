@@ -1,0 +1,10 @@
+{
+  "position": 1845210,
+  "length": 60,
+  "texto_es_es": ";Estudiante de arte de 22 anos. Amante de libros y pasar    ",
+  "texto_es_latam": ";Estudiante de arte de 22 anos. Amante de libros y pasar    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

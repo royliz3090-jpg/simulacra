@@ -1,0 +1,10 @@
+{
+  "position": 1035616,
+  "length": 18,
+  "texto_es_es": "Solo no seas raro ",
+  "texto_es_latam": "Solo no seas raro ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

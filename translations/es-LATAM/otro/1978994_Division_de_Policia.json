@@ -1,0 +1,10 @@
+{
+  "position": 1978994,
+  "length": 24,
+  "texto_es_es": "Division de Policia     ",
+  "texto_es_latam": "Division de Policia     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

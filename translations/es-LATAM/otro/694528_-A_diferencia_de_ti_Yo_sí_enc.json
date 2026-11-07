@@ -1,0 +1,10 @@
+{
+  "position": 694528,
+  "length": 46,
+  "texto_es_es": "-A diferencia de ti. Yo si encontre algo util ",
+  "texto_es_latam": "-A diferencia de ti. Yo sí encontre algo util ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

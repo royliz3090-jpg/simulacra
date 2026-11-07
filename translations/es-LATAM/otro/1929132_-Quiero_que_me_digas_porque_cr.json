@@ -1,0 +1,10 @@
+{
+  "position": 1929132,
+  "length": 46,
+  "texto_es_es": "-Quiero que me digas porque crees que estoy   ",
+  "texto_es_latam": "-Quiero que me digas porque crees que estoy   ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

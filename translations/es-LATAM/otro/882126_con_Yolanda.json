@@ -1,0 +1,10 @@
+{
+  "position": 882126,
+  "length": 12,
+  "texto_es_es": " con Yolanda",
+  "texto_es_latam": " con Yolanda",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

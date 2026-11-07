@@ -1,0 +1,10 @@
+{
+  "position": 1968168,
+  "length": 63,
+  "texto_es_es": ">Estuvimos en telefono por horas y yo solo dije como dos       ",
+  "texto_es_latam": ">Estuvimos en telefono por horas y yo sólo dije cómo dos       ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

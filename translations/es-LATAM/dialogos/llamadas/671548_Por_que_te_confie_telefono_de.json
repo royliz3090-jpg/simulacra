@@ -1,0 +1,10 @@
+{
+  "position": 671548,
+  "length": 39,
+  "texto_es_es": "&Por que te confie telefono de Anna?   ",
+  "texto_es_latam": "&Por que te confie telefono de Anna?   ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

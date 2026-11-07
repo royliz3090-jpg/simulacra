@@ -1,0 +1,10 @@
+{
+  "position": 526288,
+  "length": 33,
+  "texto_es_es": " Anna necesita que seas fuerte,  ",
+  "texto_es_latam": " Anna necesita que seas fuerte,  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

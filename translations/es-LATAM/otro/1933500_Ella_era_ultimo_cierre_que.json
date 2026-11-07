@@ -1,0 +1,10 @@
+{
+  "position": 1933500,
+  "length": 33,
+  "texto_es_es": " Ella era ultimo cierre que      ",
+  "texto_es_latam": " Ella era ultimo cierre que      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

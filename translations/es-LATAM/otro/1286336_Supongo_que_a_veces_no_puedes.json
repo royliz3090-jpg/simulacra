@@ -1,0 +1,10 @@
+{
+  "position": 1286336,
+  "length": 37,
+  "texto_es_es": "$Supongo que a veces no puedes saber ",
+  "texto_es_latam": "$Supongo que a veces no puedes saber ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

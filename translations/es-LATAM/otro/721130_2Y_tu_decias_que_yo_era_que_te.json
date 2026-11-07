@@ -1,0 +1,10 @@
+{
+  "position": 721130,
+  "length": 51,
+  "texto_es_es": "2Y tu decias que yo era que tenia cosas que        ",
+  "texto_es_latam": "2Y tu decias que yo era que tenia cosas que        ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

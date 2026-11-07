@@ -1,0 +1,10 @@
+{
+  "position": 1025150,
+  "length": 41,
+  "texto_es_es": "(Es este conejito de cartoon de los 80s  ",
+  "texto_es_latam": "(Es este conejito de cartoon de los 80s  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

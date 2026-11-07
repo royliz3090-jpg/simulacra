@@ -1,0 +1,10 @@
+{
+  "position": 1753332,
+  "length": 93,
+  "texto_es_es": "\\No tienes coche pero quieres ser un Ridr? [web_ridr_green]Contactanos[] para mas            ",
+  "texto_es_latam": "\\No tienes carro pero quieres ser un Ridr? [web_ridr_green]Contactanos[] para más            ",
+  "categoria": "web",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

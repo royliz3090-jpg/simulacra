@@ -1,0 +1,10 @@
+{
+  "position": 1957558,
+  "length": 61,
+  "texto_es_es": "<Es un mentiroso de primera clase y un imbecil de clase aun  ",
+  "texto_es_latam": "<Es un mentiroso de primera clase y un imbecil de clase aún  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 974154,
+  "length": 39,
+  "texto_es_es": "&Al menos yo no tengo antecedentes     ",
+  "texto_es_latam": "&Al menos yo no tengo antecedentes     ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

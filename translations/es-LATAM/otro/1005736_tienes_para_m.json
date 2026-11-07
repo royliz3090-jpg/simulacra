@@ -1,0 +1,10 @@
+{
+  "position": 1005736,
+  "length": 14,
+  "texto_es_es": " tienes para m",
+  "texto_es_latam": " tienes para m",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

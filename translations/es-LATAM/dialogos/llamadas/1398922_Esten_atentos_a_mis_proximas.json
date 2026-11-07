@@ -1,0 +1,10 @@
+{
+  "position": 1398922,
+  "length": 124,
+  "texto_es_es": "{Esten atentos a mis proximas publicaciones! Encuentra numero de telefono oculto! Si lo descubriste, solo llamame para tu   ",
+  "texto_es_latam": "{Esten atentos a mis proximas publicaciones! Encuentra numero de telefono oculto! Si lo descubriste, sólo llamame para tu   ",
+  "categoria": "dialogos/llamadas",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

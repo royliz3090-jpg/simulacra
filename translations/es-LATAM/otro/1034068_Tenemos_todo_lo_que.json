@@ -1,0 +1,10 @@
+{
+  "position": 1034068,
+  "length": 26,
+  "texto_es_es": "Tenemos todo lo que       ",
+  "texto_es_latam": "Tenemos todo lo que       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

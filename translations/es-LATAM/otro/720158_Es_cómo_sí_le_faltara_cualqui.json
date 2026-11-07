@@ -1,0 +1,10 @@
+{
+  "position": 720158,
+  "length": 38,
+  "texto_es_es": "%Es como si le faltara cualquier tipo ",
+  "texto_es_latam": "%Es cómo sí le faltara cualquier tipo ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

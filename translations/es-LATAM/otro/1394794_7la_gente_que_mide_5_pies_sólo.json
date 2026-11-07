@@ -1,0 +1,10 @@
+{
+  "position": 1394794,
+  "length": 46,
+  "texto_es_es": "7la gente que mide 5 pies solo mide 5 subs. Pi",
+  "texto_es_latam": "7la gente que mide 5 pies sólo mide 5 subs. Pi",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

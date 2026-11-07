@@ -1,0 +1,10 @@
+{
+  "position": 497600,
+  "length": 33,
+  "texto_es_es": " Estoy un poco ocupada ahora.    ",
+  "texto_es_latam": " Estoy un poco ocupada ahora.    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 477222,
+  "length": 38,
+  "texto_es_es": "%con una bolsa de calzado de Faris and",
+  "texto_es_latam": "%con una bolsa de calzado de Faris and",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

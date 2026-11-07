@@ -1,0 +1,10 @@
+{
+  "position": 1390150,
+  "length": 67,
+  "texto_es_es": "BSi deseas volver al menu principal en cualquier momento, presiona ",
+  "texto_es_latam": "BSi deseas volver al menu principal en cualquier momento, presiona ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

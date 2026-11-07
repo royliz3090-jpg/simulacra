@@ -1,0 +1,10 @@
+{
+  "position": 1114804,
+  "length": 44,
+  "texto_es_es": "+Para agresion agravada o golpes, presione  ",
+  "texto_es_latam": "+Para agresion agravada o golpes, presione  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1979236,
+  "length": 53,
+  "texto_es_es": "4Nombre: Taylor Perrera Edad: 22 Ubicacion:          ",
+  "texto_es_latam": "4Nombre: Taylor Perrera Edad: 22 Ubicacion:          ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

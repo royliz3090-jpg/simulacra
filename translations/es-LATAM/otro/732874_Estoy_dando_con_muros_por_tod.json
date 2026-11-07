@@ -1,0 +1,10 @@
+{
+  "position": 732874,
+  "length": 34,
+  "texto_es_es": "!Estoy dando con muros por todos  ",
+  "texto_es_latam": "!Estoy dando con muros por todos  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

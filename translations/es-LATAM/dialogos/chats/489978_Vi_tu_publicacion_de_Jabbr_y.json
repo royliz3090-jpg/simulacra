@@ -1,0 +1,10 @@
+{
+  "position": 489978,
+  "length": 47,
+  "texto_es_es": ".Vi tu publicacion de Jabbr, y parece que estas",
+  "texto_es_latam": ".Vi tu publicacion de Jabbr, y parece que estas",
+  "categoria": "dialogos/chats",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

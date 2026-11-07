@@ -1,0 +1,10 @@
+{
+  "position": 727774,
+  "length": 63,
+  "texto_es_es": ">Como demonios iba a saber que alguien mas estaria en su       ",
+  "texto_es_latam": ">Como demonios iba a saber que alguien más estaria en su       ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1021884,
+  "length": 22,
+  "texto_es_es": "Ok, no te voy a fallar",
+  "texto_es_latam": "Ok, no te voy a fallar",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

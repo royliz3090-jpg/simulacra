@@ -1,0 +1,10 @@
+{
+  "position": 1919762,
+  "length": 66,
+  "texto_es_es": "ACuando salimos anoche era como si todos tuvieran veintitantos    ",
+  "texto_es_latam": "ACuando salimos anoche era cómo sí todos tuvieran veintitantos    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

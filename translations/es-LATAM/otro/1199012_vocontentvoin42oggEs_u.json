@@ -1,0 +1,10 @@
+{
+  "position": 1199012,
+  "length": 35,
+  "texto_es_es": "\"vo://content/vo/in42.ogg=Es un    ",
+  "texto_es_latam": "\"vo://content/vo/in42.ogg=Es un    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

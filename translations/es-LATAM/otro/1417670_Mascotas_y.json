@@ -1,0 +1,10 @@
+{
+  "position": 1417670,
+  "length": 16,
+  "texto_es_es": "Mascotas y      ",
+  "texto_es_latam": "Mascotas y      ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

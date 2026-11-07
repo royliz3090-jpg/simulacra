@@ -1,0 +1,10 @@
+{
+  "position": 1682654,
+  "length": 39,
+  "texto_es_es": "&Espero que estes cumpliendo tu promesa",
+  "texto_es_latam": "&Espero que estes cumpliendo tu promesa",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

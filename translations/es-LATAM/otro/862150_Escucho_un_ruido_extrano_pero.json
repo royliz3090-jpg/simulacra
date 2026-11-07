@@ -1,0 +1,10 @@
+{
+  "position": 862150,
+  "length": 37,
+  "texto_es_es": "$Escucho un ruido extrano pero no a  ",
+  "texto_es_latam": "$Escucho un ruido extrano pero no a  ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

@@ -1,0 +1,10 @@
+{
+  "position": 1120882,
+  "length": 41,
+  "texto_es_es": "a que hoy estabas asignado a servicio    ",
+  "texto_es_latam": "a que hoy estabas asignado a servicio    ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

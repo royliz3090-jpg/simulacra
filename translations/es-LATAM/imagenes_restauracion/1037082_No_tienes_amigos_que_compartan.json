@@ -1,0 +1,10 @@
+{
+  "position": 1037082,
+  "length": 67,
+  "texto_es_es": "No tienes amigos que compartan fotos de chicas guapas contigo?     ",
+  "texto_es_latam": "No tienes amigos que compartan fotos de chicas guapas contigo?     ",
+  "categoria": "imagenes_restauracion",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}

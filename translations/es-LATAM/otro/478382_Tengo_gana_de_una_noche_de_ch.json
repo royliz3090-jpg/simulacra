@@ -1,0 +1,10 @@
+{
+  "position": 478382,
+  "length": 47,
+  "texto_es_es": ".Tengo gana de una noche de chicas esta noche. ",
+  "texto_es_latam": ".Tengo gana de una noche de chicas esta noche. ",
+  "categoria": "otro",
+  "estado": "traducido_desde_v5",
+  "metodo": "in-place_replacement",
+  "notas": "Extraído de core.assets v5 (es-ES) y convertido a es-LATAM"
+}
