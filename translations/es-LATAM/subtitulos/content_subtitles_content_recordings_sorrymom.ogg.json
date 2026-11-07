@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/recordings/sorrymom.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 7527,
+  "bin2_hex": "0x1D67",
+  "offset4": 469762048,
+  "offset4_hex": "0x1C000000",
+  "position": 500215
+}

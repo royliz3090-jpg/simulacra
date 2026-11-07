@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/spark/fillerfemale1.DialogueTreeDescriptor",
+  "categoria": "spark",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 57941,
+  "bin2_hex": "0xE255",
+  "offset4": 939524096,
+  "offset4_hex": "0x38000000",
+  "position": 501623
+}

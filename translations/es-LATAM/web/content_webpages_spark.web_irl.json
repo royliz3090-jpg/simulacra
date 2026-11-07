@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/webpages/spark.web/irl",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 11574,
+  "bin2_hex": "0x2D36",
+  "offset4": 822083584,
+  "offset4_hex": "0x31000000",
+  "position": 504071
+}

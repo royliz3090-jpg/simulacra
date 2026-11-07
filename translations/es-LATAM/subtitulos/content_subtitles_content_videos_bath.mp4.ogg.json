@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/videos/bath.mp4.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 62038,
+  "bin2_hex": "0xF256",
+  "offset4": 704643072,
+  "offset4_hex": "0x2A000000",
+  "position": 506088
+}

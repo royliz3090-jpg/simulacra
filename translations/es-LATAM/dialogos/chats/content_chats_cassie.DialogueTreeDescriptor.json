@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/cassie.DialogueTreeDescriptor",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 47443,
+  "bin2_hex": "0xB953",
+  "offset4": 553648128,
+  "offset4_hex": "0x21000000",
+  "position": 504567
+}

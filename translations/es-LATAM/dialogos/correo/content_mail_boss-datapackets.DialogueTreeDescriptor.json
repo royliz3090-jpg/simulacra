@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/mail/boss-datapackets.DialogueTreeDescriptor",
+  "categoria": "correo",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 4662,
+  "bin2_hex": "0x1236",
+  "offset4": 1107296256,
+  "offset4_hex": "0x42000000",
+  "position": 501950
+}

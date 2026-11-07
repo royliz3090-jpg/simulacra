@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/restimage/DSC_1411",
+  "categoria": "imagenes_restauracion",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 33796,
+  "bin2_hex": "0x8404",
+  "offset4": 654311424,
+  "offset4_hex": "0x27000000",
+  "position": 510490
+}

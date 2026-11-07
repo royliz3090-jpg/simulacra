@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/webpages/phreshideas.web/hr/accepted",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 29033,
+  "bin2_hex": "0x7169",
+  "offset4": 889192448,
+  "offset4_hex": "0x35000000",
+  "position": 505093
+}

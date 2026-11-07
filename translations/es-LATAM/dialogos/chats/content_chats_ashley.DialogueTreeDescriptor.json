@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/ashley.DialogueTreeDescriptor",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 41221,
+  "bin2_hex": "0xA105",
+  "offset4": 973078528,
+  "offset4_hex": "0x3A000000",
+  "position": 509913
+}

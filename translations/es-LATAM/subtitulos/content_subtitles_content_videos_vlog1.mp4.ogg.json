@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/videos/vlog1.mp4.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 38440,
+  "bin2_hex": "0x9628",
+  "offset4": 905969664,
+  "offset4_hex": "0x36000000",
+  "position": 506525
+}

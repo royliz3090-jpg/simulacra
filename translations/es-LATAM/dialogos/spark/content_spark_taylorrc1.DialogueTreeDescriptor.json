@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/spark/taylorrc1.DialogueTreeDescriptor",
+  "categoria": "spark",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 47697,
+  "bin2_hex": "0xBA51",
+  "offset4": 738197504,
+  "offset4_hex": "0x2C000000",
+  "position": 507052
+}

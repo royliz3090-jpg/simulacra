@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/spark/newconfig",
+  "categoria": "spark",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 51556,
+  "bin2_hex": "0xC964",
+  "offset4": 822083584,
+  "offset4_hex": "0x31000000",
+  "position": 510968
+}

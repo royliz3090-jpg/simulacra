@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/vo/taylor-corrupt.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 3674,
+  "bin2_hex": "0x0E5A",
+  "offset4": 939524096,
+  "offset4_hex": "0x38000000",
+  "position": 507361
+}

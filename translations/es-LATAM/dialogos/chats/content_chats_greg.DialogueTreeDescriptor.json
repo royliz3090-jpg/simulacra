@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/greg.DialogueTreeDescriptor",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 8975,
+  "bin2_hex": "0x230F",
+  "offset4": 1056964608,
+  "offset4_hex": "0x3F000000",
+  "position": 505553
+}

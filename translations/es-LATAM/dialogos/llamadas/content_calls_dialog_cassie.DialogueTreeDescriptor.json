@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/calls/dialog/cassie.DialogueTreeDescriptor",
+  "categoria": "dialogo_llamadas",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 64856,
+  "bin2_hex": "0xFD58",
+  "offset4": 989855744,
+  "offset4_hex": "0x3B000000",
+  "position": 501490
+}

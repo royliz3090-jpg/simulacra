@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/webpages/nsfw.gov.web/norecords",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 9830,
+  "bin2_hex": "0x2666",
+  "offset4": 570425344,
+  "offset4_hex": "0x22000000",
+  "position": 510435
+}

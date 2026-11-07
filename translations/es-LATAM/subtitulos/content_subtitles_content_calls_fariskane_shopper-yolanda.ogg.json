@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/calls/fariskane/shopper-yolanda.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 25093,
+  "bin2_hex": "0x6205",
+  "offset4": 855638016,
+  "offset4_hex": "0x33000000",
+  "position": 503453
+}

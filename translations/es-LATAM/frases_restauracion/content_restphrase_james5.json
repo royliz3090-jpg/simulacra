@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/restphrase/james5",
+  "categoria": "frases_restauracion",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 8502,
+  "bin2_hex": "0x2136",
+  "offset4": 1191182336,
+  "offset4_hex": "0x47000000",
+  "position": 506405
+}

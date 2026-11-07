@@ -1,0 +1,20 @@
+{
+  "juego": "SIMULACRA",
+  "idioma_origen": "en-US",
+  "idioma_destino": "es-LATAM",
+  "total_recursos": 207,
+  "categorias": {
+    "frases_restauracion": 25,
+    "subtitulos": 68,
+    "chats": 19,
+    "correo": 20,
+    "web": 36,
+    "dialogo_llamadas": 9,
+    "spark": 14,
+    "otro": 4,
+    "configuracion": 5,
+    "imagenes_restauracion": 7
+  },
+  "estado_global": "pendiente_extraccion_texto",
+  "notas": "El texto real de los diálogos está en serialización Kryo/Java y no ha podido ser extraído con las herramientas disponibles."
+}

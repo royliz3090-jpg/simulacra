@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/mail/pictup-travel.DialogueTreeDescriptor",
+  "categoria": "correo",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 23398,
+  "bin2_hex": "0x5B66",
+  "offset4": 1090519040,
+  "offset4_hex": "0x41000000",
+  "position": 510226
+}

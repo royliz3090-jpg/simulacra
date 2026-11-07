@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/restphrase/jamesh11",
+  "categoria": "frases_restauracion",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 39437,
+  "bin2_hex": "0x9A0D",
+  "offset4": 587202560,
+  "offset4_hex": "0x23000000",
+  "position": 508453
+}

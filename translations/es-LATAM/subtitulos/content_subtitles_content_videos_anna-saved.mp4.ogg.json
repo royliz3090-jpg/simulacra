@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/videos/anna-saved.mp4.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 27739,
+  "bin2_hex": "0x6C5B",
+  "offset4": 838860800,
+  "offset4_hex": "0x32000000",
+  "position": 505359
+}

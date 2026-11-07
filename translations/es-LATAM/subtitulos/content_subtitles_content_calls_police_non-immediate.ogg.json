@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/calls/police/non-immediate.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 43620,
+  "bin2_hex": "0xAA64",
+  "offset4": 1006632960,
+  "offset4_hex": "0x3C000000",
+  "position": 506811
+}

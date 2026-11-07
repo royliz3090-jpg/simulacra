@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/calls/taylor/testcall.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 62812,
+  "bin2_hex": "0xF55C",
+  "offset4": 922746880,
+  "offset4_hex": "0x37000000",
+  "position": 500733
+}

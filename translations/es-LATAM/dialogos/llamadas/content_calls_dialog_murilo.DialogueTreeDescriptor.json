@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/calls/dialog/murilo.DialogueTreeDescriptor",
+  "categoria": "dialogo_llamadas",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 28775,
+  "bin2_hex": "0x7067",
+  "offset4": 570425344,
+  "offset4_hex": "0x22000000",
+  "position": 502876
+}

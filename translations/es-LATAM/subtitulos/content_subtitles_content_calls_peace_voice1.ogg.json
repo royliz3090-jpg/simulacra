@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/calls/peace/voice1.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 19547,
+  "bin2_hex": "0x4C5B",
+  "offset4": 838860800,
+  "offset4_hex": "0x32000000",
+  "position": 500611
+}

@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/recordings/marrycat.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 27393,
+  "bin2_hex": "0x6B01",
+  "offset4": 1157627904,
+  "offset4_hex": "0x45000000",
+  "position": 503388
+}

@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/webpages/ridr.web",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 16974,
+  "bin2_hex": "0x424E",
+  "offset4": 1040187392,
+  "offset4_hex": "0x3E000000",
+  "position": 504626
+}

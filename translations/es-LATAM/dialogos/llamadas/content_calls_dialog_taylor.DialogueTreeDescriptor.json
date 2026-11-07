@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/calls/dialog/taylor.DialogueTreeDescriptor",
+  "categoria": "dialogo_llamadas",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 44878,
+  "bin2_hex": "0xAF4E",
+  "offset4": 671088640,
+  "offset4_hex": "0x28000000",
+  "position": 501172
+}

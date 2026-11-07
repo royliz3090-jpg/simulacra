@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/calls/dialog/chaosstar.DialogueTreeDescriptor",
+  "categoria": "dialogo_llamadas",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 47616,
+  "bin2_hex": "0xBA00",
+  "offset4": 822083584,
+  "offset4_hex": "0x31000000",
+  "position": 505484
+}

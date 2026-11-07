@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/busted.DialogueTreeDescriptor",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 60456,
+  "bin2_hex": "0xEC28",
+  "offset4": 1157627904,
+  "offset4_hex": "0x45000000",
+  "position": 511064
+}

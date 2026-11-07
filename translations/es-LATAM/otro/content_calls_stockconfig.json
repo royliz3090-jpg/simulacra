@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/calls/stockconfig",
+  "categoria": "otro",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 26471,
+  "bin2_hex": "0x6767",
+  "offset4": 654311424,
+  "offset4_hex": "0x27000000",
+  "position": 508774
+}

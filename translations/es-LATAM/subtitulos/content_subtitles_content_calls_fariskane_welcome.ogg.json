@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/calls/fariskane/welcome.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 20809,
+  "bin2_hex": "0x5149",
+  "offset4": 1040187392,
+  "offset4_hex": "0x3E000000",
+  "position": 510743
+}

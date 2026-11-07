@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/videos/startled.mp4.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 52310,
+  "bin2_hex": "0xCC56",
+  "offset4": 587202560,
+  "offset4_hex": "0x23000000",
+  "position": 505811
+}

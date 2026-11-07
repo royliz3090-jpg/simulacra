@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/stockconfig",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 21558,
+  "bin2_hex": "0x5436",
+  "offset4": 939524096,
+  "offset4_hex": "0x38000000",
+  "position": 509808
+}

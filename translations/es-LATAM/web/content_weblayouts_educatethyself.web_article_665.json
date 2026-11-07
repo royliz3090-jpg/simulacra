@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/weblayouts/educatethyself.web/article/665",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 13151,
+  "bin2_hex": "0x335F",
+  "offset4": 469762048,
+  "offset4_hex": "0x1C000000",
+  "position": 510642
+}

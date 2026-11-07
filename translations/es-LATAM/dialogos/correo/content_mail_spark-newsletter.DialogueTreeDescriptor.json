@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/mail/spark-newsletter.DialogueTreeDescriptor",
+  "categoria": "correo",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 41780,
+  "bin2_hex": "0xA334",
+  "offset4": 1006632960,
+  "offset4_hex": "0x3C000000",
+  "position": 508060
+}

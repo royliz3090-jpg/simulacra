@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/weblayouts/iris.os/update",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 37997,
+  "bin2_hex": "0x946D",
+  "offset4": 637534208,
+  "offset4_hex": "0x26000000",
+  "position": 504022
+}

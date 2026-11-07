@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/subtitles/content/calls/fariskane/shopper-invalid.ogg",
+  "categoria": "subtitulos",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 62564,
+  "bin2_hex": "0xF464",
+  "offset4": 637534208,
+  "offset4_hex": "0x26000000",
+  "position": 503199
+}

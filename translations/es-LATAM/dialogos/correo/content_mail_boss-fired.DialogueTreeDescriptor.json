@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/mail/boss-fired.DialogueTreeDescriptor",
+  "categoria": "correo",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 42599,
+  "bin2_hex": "0xA667",
+  "offset4": 620756992,
+  "offset4_hex": "0x25000000",
+  "position": 507883
+}

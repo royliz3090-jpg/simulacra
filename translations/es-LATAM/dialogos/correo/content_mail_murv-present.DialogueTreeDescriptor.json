@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/mail/murv-present.DialogueTreeDescriptor",
+  "categoria": "correo",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 19558,
+  "bin2_hex": "0x4C66",
+  "offset4": 536870912,
+  "offset4_hex": "0x20000000",
+  "position": 505919
+}

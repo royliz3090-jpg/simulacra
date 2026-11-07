@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/weblayouts/fariskane.web",
+  "categoria": "web",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 52046,
+  "bin2_hex": "0xCB4E",
+  "offset4": 1107296256,
+  "offset4_hex": "0x42000000",
+  "position": 509474
+}

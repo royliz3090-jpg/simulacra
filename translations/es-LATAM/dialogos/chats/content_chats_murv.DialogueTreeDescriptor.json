@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/murv.DialogueTreeDescriptor",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 2845,
+  "bin2_hex": "0x0B1D",
+  "offset4": 570425344,
+  "offset4_hex": "0x22000000",
+  "position": 511657
+}

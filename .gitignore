@@ -1,0 +1,21 @@
+# Archivos extraídos del juego (grandes, no versionar)
+extracted/
+*.7z
+*.7z.*
+
+# Archivos binarios del juego
+*.assets
+*.binary
+*.exe
+*.dll
+
+# Directorio de trabajo
+jre/
+menu/
+zhcn/
+
+# Temporales
+*.tmp
+*.temp
+__pycache__/
+*.pyc

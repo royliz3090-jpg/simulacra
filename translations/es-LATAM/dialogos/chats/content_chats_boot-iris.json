@@ -1,0 +1,13 @@
+{
+  "uri": "en-us://content/chats/boot-iris",
+  "categoria": "chats",
+  "texto_original": null,
+  "texto_traducido": null,
+  "estado": "pendiente_extraccion",
+  "notas": "Texto no extraído: almacenado en serialización binaria Kryo/Java. Requiere parser específico.",
+  "bin2": 2653,
+  "bin2_hex": "0x0A5D",
+  "offset4": 536870912,
+  "offset4_hex": "0x20000000",
+  "position": 502735
+}
