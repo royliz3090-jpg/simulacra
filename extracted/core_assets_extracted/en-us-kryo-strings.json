@@ -1,0 +1,1282 @@
+[
+  {
+    "position": 490918,
+    "length": 46,
+    "string": "mass.serializers.DefaultSerializers$EnumSerial"
+  },
+  {
+    "position": 491033,
+    "length": 46,
+    "string": "mass.serializers.DefaultSerializers$EnumSerial"
+  },
+  {
+    "position": 500217,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/sor"
+  },
+  {
+    "position": 500221,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/sorrymom."
+  },
+  {
+    "position": 500222,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/sorrymom.o"
+  },
+  {
+    "position": 500318,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/murilo/s"
+  },
+  {
+    "position": 500322,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/murilo/static."
+  },
+  {
+    "position": 500323,
+    "length": 47,
+    "string": "content/subtitles/content/calls/murilo/static.o"
+  },
+  {
+    "position": 500383,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/gre"
+  },
+  {
+    "position": 500387,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/greg/give"
+  },
+  {
+    "position": 500388,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/greg/gives"
+  },
+  {
+    "position": 500454,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog4.m"
+  },
+  {
+    "position": 500516,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog6.m"
+  },
+  {
+    "position": 500613,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/peace/vo"
+  },
+  {
+    "position": 500617,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/peace/voice1.o"
+  },
+  {
+    "position": 500618,
+    "length": 47,
+    "string": "content/subtitles/content/calls/peace/voice1.og"
+  },
+  {
+    "position": 500735,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/taylor/t"
+  },
+  {
+    "position": 500739,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/taylor/testcal"
+  },
+  {
+    "position": 500740,
+    "length": 47,
+    "string": "content/subtitles/content/calls/taylor/testcall"
+  },
+  {
+    "position": 500802,
+    "length": 45,
+    "string": "us://content/webpages/educatethyself.web/arti"
+  },
+  {
+    "position": 500806,
+    "length": 47,
+    "string": "/content/webpages/educatethyself.web/article/66"
+  },
+  {
+    "position": 500807,
+    "length": 47,
+    "string": "content/webpages/educatethyself.web/article/665"
+  },
+  {
+    "position": 500865,
+    "length": 45,
+    "string": "us://content/mail/rainforest-ordershipped.Dia"
+  },
+  {
+    "position": 500869,
+    "length": 47,
+    "string": "/content/mail/rainforest-ordershipped.DialogueT"
+  },
+  {
+    "position": 500870,
+    "length": 47,
+    "string": "content/mail/rainforest-ordershipped.DialogueTr"
+  },
+  {
+    "position": 500940,
+    "length": 45,
+    "string": "us://content/webpages/kappafeed.web/animal-sp"
+  },
+  {
+    "position": 501037,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/police/t"
+  },
+  {
+    "position": 501040,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/police/transfer-service."
+  },
+  {
+    "position": 501041,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/police/transfe"
+  },
+  {
+    "position": 501042,
+    "length": 47,
+    "string": "content/subtitles/content/calls/police/transfer"
+  },
+  {
+    "position": 501050,
+    "length": 47,
+    "string": "subtitles/content/calls/police/transfer-service"
+  },
+  {
+    "position": 501112,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/greg/cal"
+  },
+  {
+    "position": 501288,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/tay"
+  },
+  {
+    "position": 501291,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/taylor/narration.og"
+  },
+  {
+    "position": 501292,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/taylor/na"
+  },
+  {
+    "position": 501293,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/taylor/nar"
+  },
+  {
+    "position": 501301,
+    "length": 47,
+    "string": "subtitles/content/recordings/taylor/narration.o"
+  },
+  {
+    "position": 501361,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 501364,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/fariskane/shopper-kind.o"
+  },
+  {
+    "position": 501365,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/shop"
+  },
+  {
+    "position": 501366,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/shopp"
+  },
+  {
+    "position": 501374,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/shopper-kind."
+  },
+  {
+    "position": 501558,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 501562,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/prom"
+  },
+  {
+    "position": 501563,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/promo"
+  },
+  {
+    "position": 501691,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/ashley/c"
+  },
+  {
+    "position": 501695,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/ashley/call1.o"
+  },
+  {
+    "position": 501696,
+    "length": 47,
+    "string": "content/subtitles/content/calls/ashley/call1.og"
+  },
+  {
+    "position": 501815,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/police/t"
+  },
+  {
+    "position": 501819,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/police/transfe"
+  },
+  {
+    "position": 501820,
+    "length": 47,
+    "string": "content/subtitles/content/calls/police/transfer"
+  },
+  {
+    "position": 501828,
+    "length": 47,
+    "string": "subtitles/content/calls/police/transfer-hold.og"
+  },
+  {
+    "position": 501952,
+    "length": 45,
+    "string": "us://content/mail/boss-datapackets.DialogueTr"
+  },
+  {
+    "position": 502020,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/str"
+  },
+  {
+    "position": 502023,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/strange/apartment.o"
+  },
+  {
+    "position": 502024,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/strange/a"
+  },
+  {
+    "position": 502025,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/strange/ap"
+  },
+  {
+    "position": 502033,
+    "length": 47,
+    "string": "subtitles/content/recordings/strange/apartment."
+  },
+  {
+    "position": 502094,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/tay"
+  },
+  {
+    "position": 502097,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/taylor/avoidgreg.og"
+  },
+  {
+    "position": 502098,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/taylor/av"
+  },
+  {
+    "position": 502099,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/taylor/avo"
+  },
+  {
+    "position": 502107,
+    "length": 47,
+    "string": "subtitles/content/recordings/taylor/avoidgreg.o"
+  },
+  {
+    "position": 502275,
+    "length": 45,
+    "string": "us://content/webpages/nsfw.gov.web/lookup?q=t"
+  },
+  {
+    "position": 502279,
+    "length": 47,
+    "string": "/content/webpages/nsfw.gov.web/lookup?q=taylorp"
+  },
+  {
+    "position": 502280,
+    "length": 47,
+    "string": "content/webpages/nsfw.gov.web/lookup?q=taylorpe"
+  },
+  {
+    "position": 502343,
+    "length": 45,
+    "string": "us://content/mail/jabbr-unusuallogin.Dialogue"
+  },
+  {
+    "position": 502541,
+    "length": 45,
+    "string": "us://content/mail/diceroll-ransom.DialogueTre"
+  },
+  {
+    "position": 502608,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/murilo/g"
+  },
+  {
+    "position": 502612,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/murilo/greghom"
+  },
+  {
+    "position": 502613,
+    "length": 47,
+    "string": "content/subtitles/content/calls/murilo/greghome"
+  },
+  {
+    "position": 502675,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/james.m"
+  },
+  {
+    "position": 503090,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/ash"
+  },
+  {
+    "position": 503093,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/ashley/forgetabouti"
+  },
+  {
+    "position": 503094,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/ashley/fo"
+  },
+  {
+    "position": 503095,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/ashley/for"
+  },
+  {
+    "position": 503103,
+    "length": 47,
+    "string": "subtitles/content/recordings/ashley/forgetabout"
+  },
+  {
+    "position": 503201,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 503204,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/fariskane/shopper-invali"
+  },
+  {
+    "position": 503205,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/shop"
+  },
+  {
+    "position": 503206,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/shopp"
+  },
+  {
+    "position": 503214,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/shopper-inval"
+  },
+  {
+    "position": 503324,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/police/w"
+  },
+  {
+    "position": 503328,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/police/welcome"
+  },
+  {
+    "position": 503329,
+    "length": 47,
+    "string": "content/subtitles/content/calls/police/welcome."
+  },
+  {
+    "position": 503390,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/mar"
+  },
+  {
+    "position": 503394,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/marrycat."
+  },
+  {
+    "position": 503395,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/marrycat.o"
+  },
+  {
+    "position": 503455,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 503458,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/fariskane/shopper-yoland"
+  },
+  {
+    "position": 503459,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/shop"
+  },
+  {
+    "position": 503460,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/shopp"
+  },
+  {
+    "position": 503468,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/shopper-yolan"
+  },
+  {
+    "position": 503591,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/usi"
+  },
+  {
+    "position": 503595,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/usingspar"
+  },
+  {
+    "position": 503596,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/usingspark"
+  },
+  {
+    "position": 503658,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog2.m"
+  },
+  {
+    "position": 503720,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/gre"
+  },
+  {
+    "position": 503723,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/greg/yolandabreakup"
+  },
+  {
+    "position": 503724,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/greg/yola"
+  },
+  {
+    "position": 503725,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/greg/yolan"
+  },
+  {
+    "position": 503733,
+    "length": 47,
+    "string": "subtitles/content/recordings/greg/yolandabreaku"
+  },
+  {
+    "position": 504372,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 504375,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/fariskane/please-hold.og"
+  },
+  {
+    "position": 504376,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/plea"
+  },
+  {
+    "position": 504377,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/pleas"
+  },
+  {
+    "position": 504385,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/please-hold.o"
+  },
+  {
+    "position": 504445,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/anna-tr"
+  },
+  {
+    "position": 504449,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/anna-traded.m"
+  },
+  {
+    "position": 504450,
+    "length": 47,
+    "string": "content/subtitles/content/videos/anna-traded.mp"
+  },
+  {
+    "position": 504669,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/ash"
+  },
+  {
+    "position": 504673,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/ashley/te"
+  },
+  {
+    "position": 504674,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/ashley/tel"
+  },
+  {
+    "position": 504739,
+    "length": 45,
+    "string": "us://content/weblayouts/kappafeed.web/animal-"
+  },
+  {
+    "position": 504860,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/greg/inn"
+  },
+  {
+    "position": 504864,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/greg/innocent."
+  },
+  {
+    "position": 504865,
+    "length": 47,
+    "string": "content/subtitles/content/calls/greg/innocent.o"
+  },
+  {
+    "position": 505023,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 505027,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/hold"
+  },
+  {
+    "position": 505028,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/hold-"
+  },
+  {
+    "position": 505036,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/hold-music.og"
+  },
+  {
+    "position": 505095,
+    "length": 45,
+    "string": "us://content/webpages/phreshideas.web/hr/acce"
+  },
+  {
+    "position": 505361,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/anna-sa"
+  },
+  {
+    "position": 505365,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/anna-saved.mp"
+  },
+  {
+    "position": 505486,
+    "length": 45,
+    "string": "us://content/calls/dialog/chaosstar.DialogueT"
+  },
+  {
+    "position": 505612,
+    "length": 45,
+    "string": "us://content/mail/jabbr-resetpassword.Dialogu"
+  },
+  {
+    "position": 505683,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/greg/cal"
+  },
+  {
+    "position": 505745,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/taylor-"
+  },
+  {
+    "position": 505749,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/taylor-push.m"
+  },
+  {
+    "position": 505750,
+    "length": 47,
+    "string": "content/subtitles/content/videos/taylor-push.mp"
+  },
+  {
+    "position": 505813,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/startle"
+  },
+  {
+    "position": 505817,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/startled.mp4."
+  },
+  {
+    "position": 505818,
+    "length": 47,
+    "string": "content/subtitles/content/videos/startled.mp4.o"
+  },
+  {
+    "position": 506025,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/freakou"
+  },
+  {
+    "position": 506029,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/freakout.mp4."
+  },
+  {
+    "position": 506030,
+    "length": 47,
+    "string": "content/subtitles/content/videos/freakout.mp4.o"
+  },
+  {
+    "position": 506090,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/bath.mp"
+  },
+  {
+    "position": 506448,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 506451,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/fariskane/shopper-extens"
+  },
+  {
+    "position": 506452,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/shop"
+  },
+  {
+    "position": 506453,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/shopp"
+  },
+  {
+    "position": 506461,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/shopper-exten"
+  },
+  {
+    "position": 506527,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog1.m"
+  },
+  {
+    "position": 506589,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog3.m"
+  },
+  {
+    "position": 506651,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog5.m"
+  },
+  {
+    "position": 506751,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/vlog7.m"
+  },
+  {
+    "position": 506813,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/police/n"
+  },
+  {
+    "position": 506817,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/police/non-imm"
+  },
+  {
+    "position": 506818,
+    "length": 47,
+    "string": "content/subtitles/content/calls/police/non-imme"
+  },
+  {
+    "position": 506826,
+    "length": 47,
+    "string": "subtitles/content/calls/police/non-immediate.og"
+  },
+  {
+    "position": 506885,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/police/i"
+  },
+  {
+    "position": 506889,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/police/immedia"
+  },
+  {
+    "position": 506890,
+    "length": 47,
+    "string": "content/subtitles/content/calls/police/immediat"
+  },
+  {
+    "position": 507207,
+    "length": 45,
+    "string": "us://content/calls/dialog/fariskaneivr.Dialog"
+  },
+  {
+    "position": 507363,
+    "length": 45,
+    "string": "us://content/subtitles/content/vo/taylor-corr"
+  },
+  {
+    "position": 507367,
+    "length": 47,
+    "string": "/content/subtitles/content/vo/taylor-corrupt.og"
+  },
+  {
+    "position": 507567,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/not"
+  },
+  {
+    "position": 507571,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/notallowe"
+  },
+  {
+    "position": 507572,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/notallowed"
+  },
+  {
+    "position": 507634,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/endgame"
+  },
+  {
+    "position": 507638,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/endgame.mp4.o"
+  },
+  {
+    "position": 507639,
+    "length": 47,
+    "string": "content/subtitles/content/videos/endgame.mp4.og"
+  },
+  {
+    "position": 507698,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/ash"
+  },
+  {
+    "position": 507702,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/ashley/tr"
+  },
+  {
+    "position": 507703,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/ashley/try"
+  },
+  {
+    "position": 507711,
+    "length": 47,
+    "string": "subtitles/content/recordings/ashley/tryspark.og"
+  },
+  {
+    "position": 507812,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/murilo/a"
+  },
+  {
+    "position": 507815,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/murilo/ashleyreported.og"
+  },
+  {
+    "position": 507816,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/murilo/ashleyr"
+  },
+  {
+    "position": 507817,
+    "length": 47,
+    "string": "content/subtitles/content/calls/murilo/ashleyre"
+  },
+  {
+    "position": 507825,
+    "length": 47,
+    "string": "subtitles/content/calls/murilo/ashleyreported.o"
+  },
+  {
+    "position": 507992,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/ash"
+  },
+  {
+    "position": 507996,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/ashley/go"
+  },
+  {
+    "position": 507997,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/ashley/gos"
+  },
+  {
+    "position": 508062,
+    "length": 45,
+    "string": "us://content/mail/spark-newsletter.DialogueTr"
+  },
+  {
+    "position": 508130,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/notfocu"
+  },
+  {
+    "position": 508134,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/notfocusing.m"
+  },
+  {
+    "position": 508135,
+    "length": 47,
+    "string": "content/subtitles/content/videos/notfocusing.mp"
+  },
+  {
+    "position": 508296,
+    "length": 45,
+    "string": "us://content/weblayouts/nsfw.gov.web/?r=15213"
+  },
+  {
+    "position": 508583,
+    "length": 45,
+    "string": "us://content/weblayouts/phreshideas.web/hr/un"
+  },
+  {
+    "position": 508587,
+    "length": 47,
+    "string": "/content/weblayouts/phreshideas.web/hr/unavaila"
+  },
+  {
+    "position": 508588,
+    "length": 47,
+    "string": "content/weblayouts/phreshideas.web/hr/unavailab"
+  },
+  {
+    "position": 508648,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/greg/cal"
+  },
+  {
+    "position": 508864,
+    "length": 45,
+    "string": "us://content/mail/spark-suspended.DialogueTre"
+  },
+  {
+    "position": 508931,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/tay"
+  },
+  {
+    "position": 508934,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/taylor/gregkilledan"
+  },
+  {
+    "position": 508935,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/taylor/gr"
+  },
+  {
+    "position": 508936,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/taylor/gre"
+  },
+  {
+    "position": 508944,
+    "length": 47,
+    "string": "subtitles/content/recordings/taylor/gregkilleda"
+  },
+  {
+    "position": 509199,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 509203,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/memb"
+  },
+  {
+    "position": 509204,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/membe"
+  },
+  {
+    "position": 509212,
+    "length": 47,
+    "string": "subtitles/content/calls/fariskane/membership.og"
+  },
+  {
+    "position": 509342,
+    "length": 45,
+    "string": "us://content/weblayouts/phreshideas.web/hr/ac"
+  },
+  {
+    "position": 509346,
+    "length": 47,
+    "string": "/content/weblayouts/phreshideas.web/hr/accepted"
+  },
+  {
+    "position": 509404,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/taylor-"
+  },
+  {
+    "position": 509408,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/taylor-cautio"
+  },
+  {
+    "position": 509409,
+    "length": 47,
+    "string": "content/subtitles/content/videos/taylor-cautiou"
+  },
+  {
+    "position": 509417,
+    "length": 47,
+    "string": "subtitles/content/videos/taylor-cautious.mp4.og"
+  },
+  {
+    "position": 509524,
+    "length": 45,
+    "string": "us://content/mail/writething-studentdebt.Dial"
+  },
+  {
+    "position": 509528,
+    "length": 47,
+    "string": "/content/mail/writething-studentdebt.DialogueTr"
+  },
+  {
+    "position": 509529,
+    "length": 47,
+    "string": "content/mail/writething-studentdebt.DialogueTre"
+  },
+  {
+    "position": 509598,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/murilo/g"
+  },
+  {
+    "position": 509602,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/murilo/gregwor"
+  },
+  {
+    "position": 509603,
+    "length": 47,
+    "string": "content/subtitles/content/calls/murilo/gregwork"
+  },
+  {
+    "position": 509665,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/lat"
+  },
+  {
+    "position": 509851,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/running"
+  },
+  {
+    "position": 509855,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/running.mp4.o"
+  },
+  {
+    "position": 509856,
+    "length": 47,
+    "string": "content/subtitles/content/videos/running.mp4.og"
+  },
+  {
+    "position": 509974,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/taylor/p"
+  },
+  {
+    "position": 509978,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/taylor/presson"
+  },
+  {
+    "position": 509979,
+    "length": 47,
+    "string": "content/subtitles/content/calls/taylor/presson."
+  },
+  {
+    "position": 510040,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/police/t"
+  },
+  {
+    "position": 510043,
+    "length": 58,
+    "string": "//content/subtitles/content/calls/police/transfer-operator"
+  },
+  {
+    "position": 510044,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/police/transfe"
+  },
+  {
+    "position": 510045,
+    "length": 47,
+    "string": "content/subtitles/content/calls/police/transfer"
+  },
+  {
+    "position": 510053,
+    "length": 47,
+    "string": "subtitles/content/calls/police/transfer-operato"
+  },
+  {
+    "position": 510117,
+    "length": 45,
+    "string": "us://content/calls/dialog/emergency.DialogueT"
+  },
+  {
+    "position": 510293,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/taylor-"
+  },
+  {
+    "position": 510296,
+    "length": 58,
+    "string": "//content/subtitles/content/videos/taylor-possessed.mp4.og"
+  },
+  {
+    "position": 510297,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/taylor-posses"
+  },
+  {
+    "position": 510298,
+    "length": 47,
+    "string": "content/subtitles/content/videos/taylor-possess"
+  },
+  {
+    "position": 510306,
+    "length": 47,
+    "string": "subtitles/content/videos/taylor-possessed.mp4.o"
+  },
+  {
+    "position": 510366,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/ash"
+  },
+  {
+    "position": 510370,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/ashley/lo"
+  },
+  {
+    "position": 510371,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/ashley/lov"
+  },
+  {
+    "position": 510581,
+    "length": 45,
+    "string": "us://content/webpages/phreshideas.web/hr/unav"
+  },
+  {
+    "position": 510585,
+    "length": 47,
+    "string": "/content/webpages/phreshideas.web/hr/unavailabl"
+  },
+  {
+    "position": 510586,
+    "length": 47,
+    "string": "content/webpages/phreshideas.web/hr/unavailable"
+  },
+  {
+    "position": 510644,
+    "length": 45,
+    "string": "us://content/weblayouts/educatethyself.web/ar"
+  },
+  {
+    "position": 510648,
+    "length": 47,
+    "string": "/content/weblayouts/educatethyself.web/article/"
+  },
+  {
+    "position": 510649,
+    "length": 47,
+    "string": "content/weblayouts/educatethyself.web/article/6"
+  },
+  {
+    "position": 510745,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/fariskan"
+  },
+  {
+    "position": 510749,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/fariskane/welc"
+  },
+  {
+    "position": 510750,
+    "length": 47,
+    "string": "content/subtitles/content/calls/fariskane/welco"
+  },
+  {
+    "position": 510814,
+    "length": 45,
+    "string": "us://content/weblayouts/nsfw.gov.web/lookup?q"
+  },
+  {
+    "position": 510818,
+    "length": 47,
+    "string": "/content/weblayouts/nsfw.gov.web/lookup?q=taylo"
+  },
+  {
+    "position": 510819,
+    "length": 47,
+    "string": "content/weblayouts/nsfw.gov.web/lookup?q=taylor"
+  },
+  {
+    "position": 511009,
+    "length": 45,
+    "string": "us://content/weblayouts/nsfw.gov.web/norecord"
+  },
+  {
+    "position": 511125,
+    "length": 45,
+    "string": "us://content/subtitles/content/recordings/str"
+  },
+  {
+    "position": 511128,
+    "length": 58,
+    "string": "//content/subtitles/content/recordings/strange/james-toile"
+  },
+  {
+    "position": 511129,
+    "length": 47,
+    "string": "/content/subtitles/content/recordings/strange/j"
+  },
+  {
+    "position": 511130,
+    "length": 47,
+    "string": "content/subtitles/content/recordings/strange/ja"
+  },
+  {
+    "position": 511138,
+    "length": 47,
+    "string": "subtitles/content/recordings/strange/james-toil"
+  },
+  {
+    "position": 511202,
+    "length": 45,
+    "string": "us://content/subtitles/content/calls/cassie/c"
+  },
+  {
+    "position": 511206,
+    "length": 47,
+    "string": "/content/subtitles/content/calls/cassie/call.og"
+  },
+  {
+    "position": 511265,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/taylor-"
+  },
+  {
+    "position": 511269,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/taylor-broken"
+  },
+  {
+    "position": 511270,
+    "length": 47,
+    "string": "content/subtitles/content/videos/taylor-broken."
+  },
+  {
+    "position": 511377,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/taylors"
+  },
+  {
+    "position": 511381,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/taylorsings.m"
+  },
+  {
+    "position": 511382,
+    "length": 47,
+    "string": "content/subtitles/content/videos/taylorsings.mp"
+  },
+  {
+    "position": 511532,
+    "length": 45,
+    "string": "us://content/mail/elizabeth-studyleave.Dialog"
+  },
+  {
+    "position": 511926,
+    "length": 45,
+    "string": "us://content/subtitles/content/videos/deleted"
+  },
+  {
+    "position": 511930,
+    "length": 47,
+    "string": "/content/subtitles/content/videos/deleted.mp4.o"
+  },
+  {
+    "position": 511931,
+    "length": 47,
+    "string": "content/subtitles/content/videos/deleted.mp4.og"
+  }
+]
