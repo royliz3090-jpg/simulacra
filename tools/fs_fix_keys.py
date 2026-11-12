@@ -49,6 +49,18 @@ def is_protected_date(text):
     return bool(_DATE_RE.match(text))
 
 
+# Un identificador de recurso (``scheme://ruta``) nunca debe traducirse: el
+# juego lo compara literalmente para localizar contenido.  Ademas de proteger
+# cadenas que sean *solo* un URI, hay que blindar el PREFIJO de cadenas que
+# empiezan por un URI (p. ej. ``chats://section/<texto>``).
+_URI_PREFIX_RE = re.compile(r"^([a-z]+://[^/]*/)")
+
+
+def uri_prefix(text):
+    m = _URI_PREFIX_RE.match(text)
+    return m.group(1) if m else None
+
+
 def parse(fs_bytes):
     fmt, data, field = B.split_fs(fs_bytes)
     f = B.parse_format(fmt)
@@ -135,6 +147,15 @@ def main():
             old_len = st[i]["len"]
             edits.append((pos, old_len, eng.encode("utf-8")))
             restored.append((i, eng, esp))
+            continue
+        # Blindaje del prefijo de recurso: si el original empieza por
+        # ``scheme://ruta/`` el traducido debe conservarlo EXACTO.
+        pfx = uri_prefix(eng)
+        if pfx and not esp.startswith(pfx):
+            payload = esp[len(uri_prefix(esp)):] if uri_prefix(esp) else esp
+            new = pfx + payload
+            edits.append((st[i]["pos"], st[i]["len"], new.encode("utf-8")))
+            restored.append((i, new, esp))
 
     print(f"claves protegidas: {len(keys)} (+ patrones de fecha)")
     print(f"cadenas restauradas a ingles: {len(restored)}")
