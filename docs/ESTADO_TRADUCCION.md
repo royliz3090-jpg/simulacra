@@ -361,3 +361,71 @@ ORIG=/ruta/core.assets_original CLASES=/tmp/pyclasses SUPPORT=/tmp/support.jar \
   JAVAC=$(command -v javac) bash tools/build_all.sh
 # artefactos: dist/core.assets, dist/core.binary, dist/es-latam.fs
 ```
+
+## 16. Sesion 2026-11-11 (continuacion): vo:// + chats://section + blindaje de URI
+
+### Trabajo nuevo realizado
+1. **Traducidos 47 textos visibles que quedaban en ingles**:
+   - 41 subtitulos de voz (`vo://content/vo/XXX.ogg=TEXTO`) y mensajes de
+     sistema de chat (`chats://section/...`), via
+     `tools/gen_fixes_vo_chats.py` + `translations/es-LATAM/fixes_vo_chats.json`.
+   - 6 interjecciones de chat (`Come on Murv`, `Waay down`, `Whoop de doo`,
+     `Whoa whoa`, `Err... random.`, `Vortex Club!!`) via
+     `translations/es-LATAM/fixes_interjecciones.json`.
+2. **Corregido un segundo bug estructural de la misma familia que `cover`**:
+   el prefijo `chats://section/` habia sido traducido a `chats://seccion/` en
+   un objeto. Como `SparkThreadScreen`/`WhatsupThreadScreen` comparan
+   literalmente `message.startsWith("chats://section/")`, ese mensaje dejaba de
+   renderizarse. **No hay que traducir NUNCA el `scheme://ruta/` de un URI.**
+3. **Nuevo blindaje generico en `tools/fs_fix_keys.py`** (`uri_prefix()`):
+   si la cadena inglesa empieza por `scheme://ruta/`, se fuerza a que la
+   traduccion conserve ese prefijo EXACTO. Esto protege de forma automatica
+   todos los `vo://`, `chats://`, `photoroll://`, `corrupted://`, etc.
+
+### Cobertura (cadenas tipo prosa, excluyendo codigo y rutas)
+- en-us tiene 4681 cadenas tipo prosa.
+- es-LATAM tiene **4609 traducidas = 98.5%**.
+- Las 72 sin traducir son: 64 **nombres propios** (correcto no traducir:
+  `Greg Summers`, `Abby Shin`, `Faris & Kane`, ...) y 8 interjecciones ya
+  cubiertas arriba (tras esta sesion: ~100% de la prosa traducible).
+- Sobre el total bruto (28139 cadenas) se traducen 10934 (el resto son rutas,
+  identificadores, claves de estado y nombres propios que DEBEN quedar en EN).
+
+### Selector de idioma — verificacion de codigo
+`patch/game27/MainMenu.java` y `patch/game27/Grid.java` implementan el idioma
+independiente:
+- Botones `languageEnglishButton` / `languageChineseButton` /
+  `languageSpanishButton` -> `putString("STATE_LANGUAGE", "es-latam://")`.
+- `Globals.CONTENT_PREFIX_ES_LATAM = "es-latam://"`.
+- `Grid` despacha `File.unpackFS("es-latam.fs")` segun `contentPrefix`.
+- `refreshLanguageStatus()` marca el idioma activo y `showLanguageMenu()`
+  muestra el OK correspondiente.
+- `verify_build.py` confirma `game27.gbeslatam.GBESLATAM` presente y bytecode
+  valido en `dist/core.binary`.
+
+### Validacion de esta sesion
+- `tools/verify_build.py dist/...` -> **TODO VALIDADO**.
+- Prueba real con Wine (`/tmp/gamerun`): **0 excepciones**,
+  **0** `Unable to find media` / `Failed to parse`, partida iniciada
+  (`[Grid] Starting new game checkpoint`), pantalla de bloqueo e inicio del
+  telefono renderizados. UI en espanol confirmada por OCR en la home:
+  `Telefono`, `Chats`, `Galeria`, `Correo`, `Spark`, `Jabbr`, `Vloggr`, `Surfer`.
+- Nota: la prueba con Wine requiere un `core.binary` **sin Steam** (el original
+  lanza `Unable to initialize steam`). El `dist/core.binary` es para el juego
+  real con Steam; para probar en sandbox usar el binario no-Steam
+  (`/tmp/testbin/core_es_origfs.bin`) con el `core.assets` de `dist/`.
+
+### Commits de esta sesion
+- `9db7ef9` — vo:// + chats://section + blindaje de URI (empujado).
+- (siguiente commit) — interjecciones + documentacion (empujado).
+
+### Proxima tarea concreta
+1. Documentar/reproducir el `core.binary` **sin Steam** para que cualquiera
+   pueda probar en Wine: parchear `game27.DesktopMain` para saltar
+   `SteamAPI.init` y usar guardado local, compilar con
+   `tools/patch_core_binary.py` y guardar el helper en `tools/`.
+2. Recorrer en juego chats/llamadas/correos y capturar dialogo en espanol
+   para evidencia visual.
+3. Revisar la lista de 14 "clean literals" (`Sign In`, `Wrong answer`,
+   `Thank you`, `Welcome!`, `NEW`, `lookup`, `Taylor`) — son texto de UI
+   hardcodeado en las clases; decidir si conviene parchear las clases.
