@@ -584,10 +584,10 @@ de javac (21.0.4 vs 21.0.13); es equivalente a nivel de bytecode.
   `menu-principal.png`.
 
 ### Pendiente / siguiente tarea
-1. **Navegar el telefono** (desbloquear con el codigo y abrir apps) para
-   capturar OCR en espanol de: Chats, Galeria, Correo, Spark, Jabbr, Vloggr,
-   Surfer, Restaurar, Ajustes/StatMenu. La logica de desbloqueo esta en
-   `game27.LockScreen` (codigo = cumpleaños de Toby).
+1. **Navegar el telefono** (abrir apps) para capturar OCR en espanol de:
+   Chats, Galeria, Correo, Spark, Jabbr, Vloggr, Surfer, Restaurar,
+   Ajustes/StatMenu. (Corregido en la seccion 22: el desbloqueo NO es un codigo
+   fijo; lo fijan por letras los `game27.triggers.Triggers$*`.)
 2. Revisar cadenas de UI en clases compartidas sin override.
 3. Borrar/regenerar `all_translations.json` (obsoleto, acentos erroneos).
 
@@ -754,3 +754,42 @@ nombres propios, codigos de cifrado, onomatopeyas y URIs.
    o inyectar el estado de desbloqueo para saltar la seccion jugable.
 2. Pasada de coherencia de nombres propios (castellanizacion inconsistente).
 3. Revisar los `vo://` marcados como "dudosos" (33 falsos positivos).
+
+## 22. Sesion 2026-11-11 (sexta): navegacion real del telefono y correccion del mecanismo de desbloqueo
+
+**Evidencia nueva de UI interna (OCR).** Con xdotool se pulso `BEGIN`, se espero
+la pantalla de bloqueo y se hizo un gesto de deslizar hacia arriba, que desbloquea
+y abre la PANTALLA DE INICIO de Anna. OCR (espanol, sin excepciones en el log):
+
+- `docs/evidencia/es-latam-home-nueva.png`: *"¡Bienvenida Anna!"* y
+  *"Pista: el cumpleaños de Toby"*.
+
+Esto confirma en ejecucion que no solo la pantalla de bloqueo, sino tambien la
+interfaz interna (home con widgets) se renderiza en espanol.
+
+**Mecanismo de desbloqueo (correccion).** La seccion 18 afirmaba que el codigo
+es "el cumpleaños de Toby". Eso es IMPRECISO. El desbloqueo se hace deslizando
+hacia arriba; ademas existe un teclado de codigo que `game27.LockScreen` rellena
+por letras mediante `setCodeKeys(String...)`. Los arrays NO son un SHA-1 fijo:
+los fija la historia en `game27.triggers.Triggers$2$1..$12` (p. ej.
+`H,E,?`, `H,E,L,?,P,5`, `W,E,L,?,M,L`, `H,E,U,?,S,K,G`...), donde `?` es un
+comodin. Tambien hay un trigger con los digitos `180,071`. Conclusión: para
+llegar a las apps internas hay que JUGAR el prologo (no hay un codigo unico que
+teclear a mano sin el contexto de la historia).
+
+**Hallazgo clave sobre las apps internas.** No se pudo abrir una app tocando
+coordenadas del dock (los iconos no tienen etiqueta de texto y las apps se
+desbloquean progresivamente por la historia: `CONTEXT_APP_CHATS`,
+`CONTEXT_APP_GALLERY`, `CONTEXT_APP_SPARK`, `CONTEXT_APP_VLOGRR`,
+`CONTEXT_APP_BROWSER`...). Es decir, la validacion visual de cada app interna
+requiere jugar; no es alcanzable solo con navegacion. Comprobacion estatica: las
+cadenas de esas apps YA estan traducidas en `es-latam.fs`.
+
+**Nombres propios:** verificados en la fuente actual; ya no quedan artefactos de
+truncamiento (`salid`, `Mónic`, `Jéssic`, `Ále`, `Fact`) salvo formas correctas
+(`Mónica`, `Gedeón Jung`).
+
+**Estado final de esta sesion:** fuente y `dist/` reconstruidos y validados
+(28139 cadenas, 0 prefijos Kryo corruptos, TODO VALIDADO); 3 commits nuevos
+(`24a5e67`, `2ab3865`, este) empujados a `feature/traduccion-es-latam-v2`.
+Evidencia visual nueva en `docs/evidencia/`.
