@@ -31,10 +31,11 @@ rm -rf "$OUT/classes" && mkdir -p "$OUT/classes"
   patch/game27/gb/GBMainMenu.java patch/game27/gbeslatam/GBESLATAM.java
 
 echo "[2/5] Construyendo es-latam.fs a partir del .fs traducido..."
-# El contenido traducido vive en core.assets (en-us.fs con textos es-LATAM).
-# Se reescribe su prefijo a es-latam:// conservando el bloque de datos.
-python3 tools/build_locale_fs.py core.assets en-us.fs "$OUT/es-latam.fs" \
-  --old-prefix en-us:// --new-prefix es-latam:// >/dev/null
+# Fuente de verdad del texto es-LATAM: translations/es-LATAM/en-us.fs
+# (contenido espanol en el espacio de nombres en-us://). Se reescribe su
+# prefijo a es-latam:// conservando el bloque de objetos.
+python3 tools/build_locale_fs.py translations/es-LATAM/en-us.fs x "$OUT/es-latam.fs" \
+  --old-prefix en-us:// --new-prefix es-latam:// --direct >/dev/null
 
 echo "[3/5] Ensamblando core.assets (ingles restaurado + es-latam.fs)..."
 python3 tools/build_core_assets.py "$ORIG/core.assets" "$OUT/core.assets" \

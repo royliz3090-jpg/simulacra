@@ -1,0 +1,942 @@
+[
+ {
+  "pos": 2226,
+  "en": "JOIN US!",
+  "es": "¡ÚNETE!"
+ },
+ {
+  "pos": 2248,
+  "en": "We are constantly looking for talented individ-\nuals to join our ever-growing organization.",
+  "es": "Buscamos constantemente personas con talento para unirse a nuestra organización en constante crecimiento."
+ },
+ {
+  "pos": 2802,
+  "en": "© 2017 Phresh Ideas Group.\nAll rights reserved.",
+  "es": "© 2017 Grupo Phresh Ideas.\nReservados todos los derechos."
+ },
+ {
+  "pos": 6502,
+  "en": "Sorry, all of our operators are currently busy.",
+  "es": "Lo sentimos, todos nuestros operadores están ocupados."
+ },
+ {
+  "pos": 8891,
+  "en": "Yes! I do!",
+  "es": "¡Sí! ¡Sí quiero!"
+ },
+ {
+  "pos": 9049,
+  "en": "Why does it keep focusing there?",
+  "es": "¿Por qué sigue centrándose ahí?"
+ },
+ {
+  "pos": 14002,
+  "en": "*distorted* Helloo.",
+  "es": "*distorsionado* Hoooola."
+ },
+ {
+  "pos": 14087,
+  "en": "*distorted* Whoever you are, you saved me.",
+  "es": "*distorsionado* Quienquiera que seas, me salvaste."
+ },
+ {
+  "pos": 14133,
+  "en": "*distorted* But... Taylor, he’s gone.",
+  "es": "*distorsionado* Pero... Taylor, se ha ido."
+ },
+ {
+  "pos": 14176,
+  "en": "*distorted* Oh my god, it took him.",
+  "es": "*distorsionado* Dios mío, se lo llevó."
+ },
+ {
+  "pos": 33988,
+  "en": "Just a random thought.",
+  "es": "Sólo un pensamiento al azar."
+ },
+ {
+  "pos": 34076,
+  "en": "Maybe he...",
+  "es": "Quizás él..."
+ },
+ {
+  "pos": 34464,
+  "en": "God, and he hasn’t stop texting me since.",
+  "es": "Dios, y no ha dejado de escribirme desde entonces."
+ },
+ {
+  "pos": 34511,
+  "en": "What does that mean?",
+  "es": "¿Qué significa eso?"
+ },
+ {
+  "pos": 45141,
+  "en": "After this call, please wait for us to text you at our latest convenience.",
+  "es": "Después de esta llamada, espere a que le enviemos un mensaje de texto a la brevedad."
+ },
+ {
+  "pos": 45258,
+  "en": "Have a nice day!",
+  "es": "¡Que tenga un lindo día!"
+ },
+ {
+  "pos": 77478,
+  "en": "Sorry cant help it.",
+  "es": "Lo siento, no puedo evitarlo."
+ },
+ {
+  "pos": 85477,
+  "en": "So what?",
+  "es": "¿Y qué?"
+ },
+ {
+  "pos": 85490,
+  "en": "SO WHAT?",
+  "es": "¿Y QUÉ?"
+ },
+ {
+  "pos": 102989,
+  "en": "Sorry, the position you are applying for is cur-\nrently unavailable, please come back again.",
+  "es": "Lo sentimos, el puesto que está solicitando no está disponible en este momento, por favor vuelva más tarde."
+ },
+ {
+  "pos": 162304,
+  "en": "Whoever you are. I need you help.",
+  "es": "Quienquiera que seas. Necesito tu ayuda."
+ },
+ {
+  "pos": 163336,
+  "en": "Yup. Only with makeup running down her face.",
+  "es": "Sí. Sólo que con maquillaje corriendo por su cara."
+ },
+ {
+  "pos": 166292,
+  "en": "Fine. Be that way.",
+  "es": "Está bien. Que sea así."
+ },
+ {
+  "pos": 179686,
+  "en": "Like factory reset?",
+  "es": "¿Como restablecer de fábrica?"
+ },
+ {
+  "pos": 179991,
+  "en": "Im on a clock here!",
+  "es": "¡Estoy contra el reloj!"
+ },
+ {
+  "pos": 180015,
+  "en": "A timed factory reset?",
+  "es": "¿Un restablecimiento de fábrica programado?"
+ },
+ {
+  "pos": 183862,
+  "en": "If her phone is erased this is on you!",
+  "es": "¡Si se borra su teléfono esto es por tu culpa!"
+ },
+ {
+  "pos": 184716,
+  "en": "Got her cats name!",
+  "es": "¡Conseguí el nombre de su gato!"
+ },
+ {
+  "pos": 189058,
+  "en": "So you’ve been talking to this guy all this time?",
+  "es": "¿Así que has estado hablando con este tipo todo este tiempo?"
+ },
+ {
+  "pos": 223048,
+  "en": "You know I can get get sued for sharing company secrets right?",
+  "es": "¿Sabes que me pueden demandar por compartir secretos de la empresa, verdad?"
+ },
+ {
+  "pos": 254642,
+  "en": "Get it?",
+  "es": "¿Entiendes?"
+ },
+ {
+  "pos": 254837,
+  "en": "I'll just assume you're busy saving the world.",
+  "es": "Simplemente asumiré que estás ocupada salvando el mundo."
+ },
+ {
+  "pos": 256511,
+  "en": "So who are you really?",
+  "es": "Entonces, ¿quién eres realmente?"
+ },
+ {
+  "pos": 261899,
+  "en": "I can handle all thethanks I’m gonna get.",
+  "es": "Puedo manejar todos los agradecimientos que voy a recibir."
+ },
+ {
+  "pos": 291068,
+  "en": "*distorted* This is really weird.",
+  "es": "*distorsionado* Esto es realmente extraño."
+ },
+ {
+  "pos": 291105,
+  "en": "*distorted* It might not even be her.",
+  "es": "*distorsionado* Puede que ni siquiera sea ella."
+ },
+ {
+  "pos": 291146,
+  "en": "*distorted* It might be a trap.",
+  "es": "*distorsionado* Podría ser una trampa."
+ },
+ {
+  "pos": 291181,
+  "en": "*distorted* So, if it turns out to be a bunch of kidnappers or something.",
+  "es": "*distorsionado* Entonces, si resulta ser un grupo de secuestradores o algo así."
+ },
+ {
+  "pos": 291258,
+  "en": "*distorted* Tell the world at least I tried.",
+  "es": "*distorsionado* Dile al mundo que al menos lo intenté."
+ },
+ {
+  "pos": 292882,
+  "en": "Please hold.",
+  "es": "Por favor espere."
+ },
+ {
+  "pos": 327068,
+  "en": "So Mr-I-cant-keep-my-pants-up is somehow an acceptable choice for her?",
+  "es": "¿Así que el señor-no-puedo-mantener-los-pantalones-puestos es una opción aceptable para ella?"
+ },
+ {
+  "pos": 333984,
+  "en": "Lets find a more indirect way in.",
+  "es": "Busquemos una forma más indirecta de entrar."
+ },
+ {
+  "pos": 344793,
+  "en": "That Jabbr celeb right?",
+  "es": "¿Esa celebridad de Jabbr, verdad?"
+ },
+ {
+  "pos": 350218,
+  "en": "After all that?",
+  "es": "¿Después de todo eso?"
+ },
+ {
+  "pos": 354318,
+  "en": "You know, like in TV, where guys pretend to be children online to catch pedos?",
+  "es": "Sabes, como en la TV, donde los chicos se hacen pasar por niños en línea para atrapar pedófilos?"
+ },
+ {
+  "pos": 359770,
+  "en": "Can I use one of Anna's friends instead?",
+  "es": "¿Puedo usar fotos de una amiga de Anna en su lugar?"
+ },
+ {
+  "pos": 394864,
+  "en": "Played it cool… pretend to ask her card and stuff right?",
+  "es": "Lo hizo con calma... finge pedirle su tarjeta y esas cosas, ¿verdad?"
+ },
+ {
+  "pos": 395069,
+  "en": "Sucks the fun out of shopping.",
+  "es": "Le quita la diversión a las compras."
+ },
+ {
+  "pos": 395355,
+  "en": "Maybe she dealt with it.",
+  "es": "Quizás ella se ocupó de eso."
+ },
+ {
+  "pos": 396955,
+  "en": "SPARK IRL is our invitation-only\nsignature singles events for\nthose who want something\na little more than swiping.",
+  "es": "SPARK IRL son nuestros eventos exclusivos para solteros, sólo por invitación, para quienes quieren algo un poco más que deslizar."
+ },
+ {
+  "pos": 397073,
+  "en": "Why IRL?",
+  "es": "¿Por qué IRL?"
+ },
+ {
+  "pos": 397545,
+  "en": "Drinks and finger food will be available\nthroughout the event. No catch!",
+  "es": "Habrá bebidas y bocadillos disponibles durante todo el evento. ¡Sin trucos!"
+ },
+ {
+  "pos": 398816,
+  "en": "For kidnapping, press 5.",
+  "es": "Para secuestro, presione 5."
+ },
+ {
+  "pos": 405499,
+  "en": "Use your TOUCHME Fingerprint Login\nfor a secure connection.",
+  "es": "Utilice su inicio de sesión con huella digital TOUCHME para una conexión segura."
+ },
+ {
+  "pos": 405947,
+  "en": "I just want to say… thanks.",
+  "es": "Sólo quiero decir... gracias."
+ },
+ {
+  "pos": 405980,
+  "en": "It’s just… lying to you and myself for so long..",
+  "es": "Es simplemente... mentirte a ti y a mí durante tanto tiempo..."
+ },
+ {
+  "pos": 408827,
+  "en": "Use your TOUCHME Fingerprint Login\nfor a secure connection.",
+  "es": "Usa tu INICIO DE SESIÓN POR HUELLA DIGITAL TOUCHME para una conexión segura."
+ },
+ {
+  "pos": 434305,
+  "en": "I met.. James?",
+  "es": "Conocí.. a James?"
+ },
+ {
+  "pos": 474992,
+  "en": "I’m going make you a profile so good that even you will date yourself!",
+  "es": "¡Voy a hacerte un perfil tan bueno que hasta tú mismo saldrías contigo!"
+ },
+ {
+  "pos": 475521,
+  "en": "© IRIS SYSTEMS INC.",
+  "es": "© IRIS SISTEMAS INC."
+ },
+ {
+  "pos": 475954,
+  "en": "Too easy.",
+  "es": "Demasiado fácil."
+ },
+ {
+  "pos": 480365,
+  "en": "You think I should just quit?",
+  "es": "¿Crees que debería simplemente renunciar?"
+ },
+ {
+  "pos": 503206,
+  "en": "Is anyone there?",
+  "es": "¿Hay alguien ahí?"
+ },
+ {
+  "pos": 503416,
+  "en": "Of couse I am!",
+  "es": "¡Por supuesto que sí!"
+ },
+ {
+  "pos": 503544,
+  "en": "I met.. James?",
+  "es": "Conocí.. a James?"
+ },
+ {
+  "pos": 503886,
+  "en": "I think I was drugged..",
+  "es": "Creo que me drogaron.."
+ },
+ {
+  "pos": 504061,
+  "en": "Where are you now?",
+  "es": "¿Dónde estás ahora?"
+ },
+ {
+  "pos": 504083,
+  "en": "I am not!",
+  "es": "¡No lo soy!"
+ },
+ {
+  "pos": 504510,
+  "en": "You are not Anna!",
+  "es": "¡Tú no eres Anna!"
+ },
+ {
+  "pos": 504930,
+  "en": "What's happening?!",
+  "es": "¡¿Qué está pasando?!"
+ },
+ {
+  "pos": 505156,
+  "en": "vo://content/vo/in10.ogg=You rejected all of my warnings.",
+  "es": "vo://content/vo/in10.ogg=Rechazaste todas mis advertencias."
+ },
+ {
+  "pos": 505817,
+  "en": "You are in the phone?",
+  "es": "¿Estás en el teléfono?"
+ },
+ {
+  "pos": 508454,
+  "en": "She is pretty pathetic.",
+  "es": "Ella es bastante patética."
+ },
+ {
+  "pos": 510400,
+  "en": "What happens now?",
+  "es": "¿Qué pasa ahora?"
+ },
+ {
+  "pos": 510880,
+  "en": "Give me another chance!",
+  "es": "¡Dame otra oportunidad!"
+ },
+ {
+  "pos": 513945,
+  "en": "my persuasion skills surpass yours?",
+  "es": "¿mis habilidades de persuasión superan las tuyas?"
+ },
+ {
+  "pos": 514427,
+  "en": "Thats cheating!",
+  "es": "¡Eso es hacer trampa!"
+ },
+ {
+  "pos": 516167,
+  "en": "vo://content/vo/s40.ogg=You want to shape the fate of these two worms?",
+  "es": "vo://content/vo/s40.ogg=¿Quieres moldear el destino de estos dos gusanos?"
+ },
+ {
+  "pos": 519262,
+  "en": "vo://content/vo/s89.ogg=And kill her body.",
+  "es": "vo://content/vo/s89.ogg=Y acabar con su cuerpo."
+ },
+ {
+  "pos": 522998,
+  "en": "How is this a good thing?",
+  "es": "¿Cómo es esto algo bueno?"
+ },
+ {
+  "pos": 526125,
+  "en": "vo://content/vo/sb25.ogg=How would true Anna take this?",
+  "es": "vo://content/vo/sb25.ogg=¿Cómo tomaría esto la verdadera Anna?"
+ },
+ {
+  "pos": 528207,
+  "en": "Help me.",
+  "es": "Ayúdame."
+ },
+ {
+  "pos": 528219,
+  "en": "Help me!!",
+  "es": "¡¡Ayúdame!!"
+ },
+ {
+  "pos": 531315,
+  "en": "Spark related crimes soar as increasing number of felons use dating apps to target victims.",
+  "es": "Los delitos relacionados con Spark se disparan a medida que un número cada vez mayor de delincuentes usa aplicaciones de citas para atacar a sus víctimas."
+ },
+ {
+  "pos": 532040,
+  "en": "Dating apps have been linked to more than\n500 crimes in and almost a third are sex \noffences, figures show.",
+  "es": "Las aplicaciones de citas se han vinculado a más de 500 delitos y casi un tercio son delitos sexuales, según las cifras."
+ },
+ {
+  "pos": 533991,
+  "en": "You can find out more about the NSFW\nRegistry in the link here.",
+  "es": "Puede obtener más información sobre el Registro NSFW en el enlace aquí."
+ },
+ {
+  "pos": 537393,
+  "en": "Faris & Kane stands by its commitment to style and prestige in the era of new technologies.",
+  "es": "Faris & Kane mantiene su compromiso con el estilo y el prestigio en la era de las nuevas tecnologías."
+ },
+ {
+  "pos": 537863,
+  "en": "Okay look at this.",
+  "es": "Está bien, mira esto."
+ },
+ {
+  "pos": 537907,
+  "en": "This entire email is in the subject line, and it’s all in caps!",
+  "es": "¡Todo este correo electrónico está en la línea de asunto y está todo en mayúsculas!"
+ },
+ {
+  "pos": 538023,
+  "en": "God, and my dumb colleague won’t stop texting me.",
+  "es": "Dios, y mi tonto colega no deja de enviarme mensajes."
+ },
+ {
+  "pos": 538078,
+  "en": "About what not.",
+  "es": "Sobre lo que no."
+ },
+ {
+  "pos": 538097,
+  "en": "Oh god, I cannot wait to leave there.",
+  "es": "Oh Dios, no puedo esperar para irme de ahí."
+ },
+ {
+  "pos": 538220,
+  "en": "I’m still waiting on my vet school application though.",
+  "es": "Aunque todavía estoy esperando mi solicitud para la escuela de veterinaria."
+ },
+ {
+  "pos": 538732,
+  "en": "How do you win a war on drugs? Its hard to win a war without drugs as it is.",
+  "es": "¿Cómo se gana una guerra contra las drogas? Ya es difícil ganar una guerra sin drogas."
+ },
+ {
+  "pos": 539961,
+  "en": "Does it really take 8 weeks to review an application?",
+  "es": "¿De verdad se necesitan 8 semanas para revisar una solicitud?"
+ },
+ {
+  "pos": 540859,
+  "en": "New GOT episode in eight hours!",
+  "es": "¡Nuevo episodio de GOT en ocho horas!"
+ },
+ {
+  "pos": 541547,
+  "en": "Its nine in the morning. Why am I craving Chinese food?",
+  "es": "Son las nueve de la mañana. ¿Por qué tengo antojo de comida china?"
+ },
+ {
+  "pos": 542618,
+  "en": "Every notice how weird feet are? Am I high?",
+  "es": "¿Alguna vez has notado lo raros que son los pies? ¿Estoy drogada?"
+ },
+ {
+  "pos": 543139,
+  "en": "Is it like a million degrees out there or its just me? gonna chill at home for now.",
+  "es": "¿Hay como un millón de grados ahí fuera o soy solo yo? Voy a relajarme en casa por ahora."
+ },
+ {
+  "pos": 543632,
+  "en": "Someone walked by me on the sidewalk and said \"hello\"\n\nFreak..",
+  "es": "Alguien pasó a mi lado en la acera y me dijo \"hola\"\n\nRaro.."
+ },
+ {
+  "pos": 546775,
+  "en": "\"shaved\" what is this strange word you speak off?",
+  "es": "\"afeitado\" ¿cuál es esta extraña palabra que dices?"
+ },
+ {
+  "pos": 546884,
+  "en": "You should offer him a slice!",
+  "es": "¡Deberías ofrecerle una rebanada!"
+ },
+ {
+  "pos": 548233,
+  "en": "This is news becasue?",
+  "es": "¿Esto es noticia porque?"
+ },
+ {
+  "pos": 551895,
+  "en": "If you could overlook my looks, glaring and obvious flaws... That'd be great.",
+  "es": "Si pudieras pasar por alto mi apariencia, mis defectos evidentes y obvios... Sería genial."
+ },
+ {
+  "pos": 552859,
+  "en": "I know I can date but, it feels like those apps are just objectifying anyway.",
+  "es": "Sé que puedo tener citas, pero siento que esas aplicaciones igual sólo cosifican."
+ },
+ {
+  "pos": 552940,
+  "en": "Dismissing people, like an emperor at the colosseum.",
+  "es": "Despedir a la gente, como un emperador en el coliseo."
+ },
+ {
+  "pos": 553356,
+  "en": "*breaking* Answer me!",
+  "es": "*rompiéndose* ¡Contéstame!"
+ },
+ {
+  "pos": 553381,
+  "en": "*breaking* Where did you get the phone?",
+  "es": "*rompiéndose* ¿De dónde sacaste el teléfono?"
+ },
+ {
+  "pos": 553424,
+  "en": "*breaking* Is Anna with you right now?",
+  "es": "*rompiéndose* ¿Anna está contigo ahora mismo?"
+ },
+ {
+  "pos": 565179,
+  "en": "Who’s voice?",
+  "es": "¿La voz de quién?"
+ },
+ {
+  "pos": 566443,
+  "en": "Can you help me?",
+  "es": "¿Puedes ayudarme?"
+ },
+ {
+  "pos": 567239,
+  "en": "This is Detective Murilo from the police department, again.",
+  "es": "Este es el detective Murilo del departamento de policía, de nuevo."
+ },
+ {
+  "pos": 567933,
+  "en": "The only ride hailing service.",
+  "es": "El único servicio de transporte con conductor."
+ },
+ {
+  "pos": 568791,
+  "en": "Drive for prosperity.\nDrive for community.",
+  "es": "Conduce hacia la prosperidad.\nConduce por la comunidad."
+ },
+ {
+  "pos": 569848,
+  "en": "What if Greg killed Anna.",
+  "es": "¿Y si Greg mató a Anna?"
+ },
+ {
+  "pos": 614820,
+  "en": "Maybe thats not my real name?",
+  "es": "¿Quizás ese no es mi nombre real?"
+ },
+ {
+  "pos": 618517,
+  "en": "Sorry, it seems you are not eligible for membership yet.",
+  "es": "Lo sentimos, parece que todavía no eres elegible para la membresía."
+ },
+ {
+  "pos": 618715,
+  "en": "If you wish to return to the main menu at anytime, press 0.",
+  "es": "Si desea volver al menú principal en cualquier momento, presione 0."
+ },
+ {
+  "pos": 619076,
+  "en": "Pict-Up anything new?",
+  "es": "¿Captaste algo nuevo?"
+ },
+ {
+  "pos": 634028,
+  "en": "It’s too late for me.",
+  "es": "Es demasiado tarde para mí."
+ },
+ {
+  "pos": 635555,
+  "en": "Find your match here!",
+  "es": "¡Encuentra tu pareja aquí!"
+ },
+ {
+  "pos": 635817,
+  "en": "Join Spark and light up your love life.",
+  "es": "Únete a Spark e ilumina tu vida amorosa."
+ },
+ {
+  "pos": 636353,
+  "en": "Find out about our dating \nevents.",
+  "es": "Infórmate de nuestros eventos de citas."
+ },
+ {
+  "pos": 636589,
+  "en": "Founded on the principles of sincerity \nand adventure, we welcome you to try out Spark\nin your journey to happy ever after.",
+  "es": "Fundada en los principios de la sinceridad y la aventura, te invitamos a probar Spark en tu viaje hacia el felices para siempre."
+ },
+ {
+  "pos": 640334,
+  "en": "Arent we meeting literal strangers online?",
+  "es": "¿No nos estamos conociendo literalmente con extraños en línea?"
+ },
+ {
+  "pos": 643115,
+  "en": "What did you make me do??",
+  "es": "¿¡Qué me hiciste hacer!?"
+ },
+ {
+  "pos": 691338,
+  "en": "You know what they do to guys like me in jail? I sure as hell don’t want to find out!",
+  "es": "¿Sabes lo que les hacen a tipos como yo en la cárcel? ¡Estoy seguro de que no quiero averiguarlo!"
+ },
+ {
+  "pos": 705779,
+  "en": "*breaking* Helloo!",
+  "es": "*rompiéndose* ¡Hoooola!"
+ },
+ {
+  "pos": 705801,
+  "en": "*breaking* I know you’re there!",
+  "es": "*rompiéndose* ¡Sé que estás ahí!"
+ },
+ {
+  "pos": 705938,
+  "en": "*breaking* Explain!",
+  "es": "*rompiéndose* ¡Explícate!"
+ },
+ {
+  "pos": 706080,
+  "en": "Fuck this silent treatment shit.",
+  "es": "A la mierda esta mierda del tratamiento de silencio."
+ },
+ {
+  "pos": 715789,
+  "en": "What’s New?",
+  "es": "¿Qué hay de nuevo?"
+ },
+ {
+  "pos": 736226,
+  "en": "Love is, being honest.",
+  "es": "El amor es ser honesto."
+ },
+ {
+  "pos": 736283,
+  "en": "Love is… patience.",
+  "es": "El amor es paciencia."
+ },
+ {
+  "pos": 736307,
+  "en": "Love is...",
+  "es": "El amor es..."
+ },
+ {
+  "pos": 736550,
+  "en": "I am present now.",
+  "es": "Estoy presente ahora."
+ },
+ {
+  "pos": 736571,
+  "en": "I love myself.",
+  "es": "Me quiero a mí mismo."
+ },
+ {
+  "pos": 736643,
+  "en": "Love is my experience.",
+  "es": "El amor es mi experiencia."
+ },
+ {
+  "pos": 736939,
+  "en": "You… you wanna go home? Or you wanna get coffee first?",
+  "es": "¿Tú… quieres ir a casa? ¿O quieres tomar un café primero?"
+ },
+ {
+  "pos": 737012,
+  "en": "Okay let’s get you home first.",
+  "es": "Está bien, te llevaremos a casa primero."
+ },
+ {
+  "pos": 737638,
+  "en": "Press 3 for innerwear.",
+  "es": "Presione 3 para ropa interior."
+ },
+ {
+  "pos": 737699,
+  "en": "Press 5 for gowns.",
+  "es": "Presione 5 para batas."
+ },
+ {
+  "pos": 755435,
+  "en": "I just wanna try to call Anna’s phone, see if it’s working.",
+  "es": "Sólo quiero intentar llamar al teléfono de Anna, ver si funciona."
+ },
+ {
+  "pos": 755547,
+  "en": "I guess next is to find her?",
+  "es": "¿Supongo que lo siguiente es encontrarla?"
+ },
+ {
+  "pos": 755590,
+  "en": "So yeah…",
+  "es": "Así que sí…"
+ },
+ {
+  "pos": 755856,
+  "en": "This service is complimentary for 1 year from this date.",
+  "es": "Este servicio es gratuito durante 1 año a partir de esta fecha."
+ },
+ {
+  "pos": 808531,
+  "en": "Not what I mean.",
+  "es": "No es eso lo que quiero decir."
+ },
+ {
+  "pos": 810974,
+  "en": "You'd tell me right?",
+  "es": "Me lo dirías, ¿verdad?"
+ },
+ {
+  "pos": 815781,
+  "en": "Hi ya!",
+  "es": "¡Hola!"
+ },
+ {
+  "pos": 823090,
+  "en": "Perhaps you keyed in the wrong extension?",
+  "es": "¿Quizás marcaste la extensión incorrecta?"
+ },
+ {
+  "pos": 824180,
+  "en": "Perhaps you keyed in the wrong extension?",
+  "es": "¿Quizás marcaste la extensión incorrecta?"
+ },
+ {
+  "pos": 832069,
+  "en": "Please state your report.",
+  "es": "Por favor indique su informe."
+ },
+ {
+  "pos": 832155,
+  "en": "For theft of any nature, press 2.",
+  "es": "Para robo de cualquier naturaleza, presione 2."
+ },
+ {
+  "pos": 832357,
+  "en": "Ashley is so adorable.",
+  "es": "Ashley es tan adorable."
+ },
+ {
+  "pos": 832383,
+  "en": "We were on the phone for hours and I only said like two words.",
+  "es": "Estuvimos hablando por teléfono durante horas y sólo dije como dos palabras."
+ },
+ {
+  "pos": 832650,
+  "en": "Should I be?",
+  "es": "¿Debería estarlo?"
+ },
+ {
+  "pos": 833406,
+  "en": "I just want to make things right.",
+  "es": "Sólo quiero hacer las cosas bien."
+ },
+ {
+  "pos": 833443,
+  "en": "And I got to do it on my own.",
+  "es": "Y tengo que hacerlo por mi cuenta."
+ },
+ {
+  "pos": 833730,
+  "en": "Please try again.",
+  "es": "Por favor inténtelo de nuevo."
+ },
+ {
+  "pos": 833795,
+  "en": "Sorry, last one real quick.",
+  "es": "Lo siento, el último, rapidito."
+ },
+ {
+  "pos": 833935,
+  "en": "I just want to remind you that you can tell me anything, you know that right?",
+  "es": "Sólo quiero recordarte que puedes contarme cualquier cosa, ¿lo sabes, verdad?"
+ },
+ {
+  "pos": 834065,
+  "en": "Feel better soon..",
+  "es": "Siéntete mejor pronto.."
+ },
+ {
+  "pos": 834280,
+  "en": "Please make sure you have registered\nyour identity in this device.",
+  "es": "Por favor asegúrese de haber registrado su identidad en este dispositivo."
+ },
+ {
+  "pos": 834559,
+  "en": "We have strong evidence to suggest that you are holding on to a missing person’s phone.",
+  "es": "Tenemos pruebas sólidas que sugieren que usted está reteniendo el teléfono de una persona desaparecida."
+ },
+ {
+  "pos": 834905,
+  "en": "Please, a woman’s life is at stake here.",
+  "es": "Por favor, aquí está en juego la vida de una mujer."
+ },
+ {
+  "pos": 839911,
+  "en": "Faris & Kane - Shop here!",
+  "es": "Faris & Kane - ¡Compre aquí!"
+ },
+ {
+  "pos": 840655,
+  "en": "We have improved our contact avenues.",
+  "es": "Hemos mejorado nuestras vías de contacto."
+ },
+ {
+  "pos": 842184,
+  "en": "We’re so close.",
+  "es": "Estamos muy cerca."
+ },
+ {
+  "pos": 848613,
+  "en": "OPEN AND GROSS LEWDNESS AND\nLASCIVIOUS BEHAVIOR.",
+  "es": "ABIERTA Y BRUTA LASCIBIA Y COMPORTAMIENTO LASCIBO."
+ },
+ {
+  "pos": 848665,
+  "en": "INDECENT EXPOSURE AND PUBLIC\nSEXUAL INDECENCY.",
+  "es": "EXPOSICIÓN INDECENTE E INDECENCIA SEXUAL PÚBLICA."
+ },
+ {
+  "pos": 848808,
+  "en": "Sorry, I’m at work, just want to drown everything out for a bit.",
+  "es": "Lo siento, estoy en el trabajo, sólo quiero ahogar todo por un momento."
+ },
+ {
+  "pos": 884065,
+  "en": "We will send you an email shortly, please \nensure that your email is correct to receive our\ninvite.",
+  "es": "Le enviaremos un correo electrónico en breve, por favor asegúrese de que su correo electrónico sea correcto para recibir nuestra invitación."
+ },
+ {
+  "pos": 884224,
+  "en": "Almost there, Okay I was doing an errand and it turned into a longer thing than I thought.",
+  "es": "Ya casi llegué. Bueno, estaba haciendo un mandado y se convirtió en algo más largo de lo que pensé."
+ },
+ {
+  "pos": 906097,
+  "en": "Hey Yolanda?",
+  "es": "¿Hola Yolanda?"
+ },
+ {
+  "pos": 906131,
+  "en": "So.. Now that the scare is over..",
+  "es": "Así que... ahora que el susto terminó.."
+ },
+ {
+  "pos": 906213,
+  "en": "Like immediately?",
+  "es": "¿Como inmediatamente?"
+ },
+ {
+  "pos": 906268,
+  "en": "Not that it’s been fun but…",
+  "es": "No es que haya sido divertido pero…"
+ },
+ {
+  "pos": 906494,
+  "en": "No hard feelings!",
+  "es": "¡Sin resentimientos!"
+ },
+ {
+  "pos": 932056,
+  "en": "I need to record this so we are on the same page.",
+  "es": "Necesito grabar esto para que estemos en la misma página."
+ },
+ {
+  "pos": 932109,
+  "en": "So uhmm.., commencing epic monologue.",
+  "es": "Entonces ehmm..., comenzando el monólogo épico."
+ },
+ {
+  "pos": 932258,
+  "en": "Anna and James still had activity on Jabbr, but no one has physically seen them?",
+  "es": "¿Anna y James todavía tenían actividad en Jabbr, pero nadie los ha visto físicamente?"
+ },
+ {
+  "pos": 934289,
+  "en": "Look at this graph that was hacked from an in-\nternal law enforcement report regarding these\ncrimes.",
+  "es": "Mire este gráfico que fue pirateado de un informe interno de las fuerzas del orden sobre estos crímenes."
+ },
+ {
+  "pos": 934794,
+  "en": "First one. Tracy P.",
+  "es": "El primero. Tracy P."
+ },
+ {
+  "pos": 934817,
+  "en": "22 year old art student. Loves books and stay-\ning indoors.",
+  "es": "Estudiante de arte de 22 años. Le encantan los libros y quedarse en interiores."
+ },
+ {
+  "pos": 935123,
+  "en": "24 year old waiter. Studying for a law program\non the side.",
+  "es": "Mesero de 24 años. Estudia un programa de derecho por su cuenta."
+ },
+ {
+  "pos": 935376,
+  "en": "Next Amy T.",
+  "es": "Siguiente Amy T."
+ },
+ {
+  "pos": 935391,
+  "en": "23 year old marketing intern. Dreams of writing\nher own novel.",
+  "es": "Practicante de marketing de 23 años. Sueña con escribir su propia novela."
+ },
+ {
+  "pos": 936256,
+  "en": "They all seems to be bookworms of\nsorts. Either studying or working in relat-\ned jobs.",
+  "es": "Todos parecen ser ratones de biblioteca de algún tipo. Ya sea estudiando o trabajando en empleos relacionados."
+ }
+]

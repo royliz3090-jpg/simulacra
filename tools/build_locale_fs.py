@@ -179,9 +179,14 @@ def main():
     ap.add_argument("--old-prefix", default="en-us://")
     ap.add_argument("--new-prefix", default="es-latam://")
     ap.add_argument("--no-compress", action="store_true")
+    ap.add_argument("--direct", action="store_true",
+                    help="tratar `assets` como un .fs crudo (no como ZIP)")
     a = ap.parse_args()
-    with zipfile.ZipFile(a.assets) as z:
-        src = z.read(a.member)
+    if a.direct:
+        src = open(a.assets, "rb").read()
+    else:
+        with zipfile.ZipFile(a.assets) as z:
+            src = z.read(a.member)
     out, changed, total = build_fs(src, a.old_prefix, a.new_prefix,
                                    compress=not a.no_compress)
     with open(a.out, "wb") as fh:
