@@ -880,7 +880,7 @@ traducido, aplicar la firma anterior y clasificar por la ultima palabra:
   casi seguro;
 * termina en sustantivo/verbo/adjetivo -> revisar manualmente.
 
-### 13.3 Cadenas reparadas en esta sesion (1006 en total)
+### 13.3 Cadenas reparadas en esta sesion (1033 en total)
 
 | Fichero | Cadenas | Criterio |
 |---|---|---|
@@ -888,6 +888,9 @@ traducido, aplicar la firma anterior y clasificar por la ultima palabra:
 | `translations/es-LATAM/fixes_truncados5.json` | 17 | subtitulos `vo://` (se conserva el prefijo `vo://uri=`) |
 | `translations/es-LATAM/fixes_truncados6.json` | 203 | terminan en pronombre/posesivo/preposicion |
 | `translations/es-LATAM/fixes_truncados7.json` | 279 | alta confianza (in-place + menos palabras que el EN) |
+| `translations/es-LATAM/fixes_truncados8.json` | 17 | residuales que terminan en coma (no llegan a rellenar el hueco) |
+| `translations/es-LATAM/fixes_nombres_typos.json` | 2 | nombre corrupto (`Alexis vale`->`Alexis Worth`) y typo (`Vale pena`) |
+| `translations/es-LATAM/fixes_localizacion.json` | 8 | vocabulario LatAm (`coche`->`carro`, `gafas`->`lentes`, `movil` con acento, `vale` final->`ok`) |
 
 Los cuatro ficheros se aplican en orden sobre `translations/es-LATAM/en-us.fs`
 con `tools/apply_fs_fixes.py` (formato `[{pos,idx,en,es}]`). El campo `en` guarda
@@ -950,7 +953,7 @@ python3 tools/verify_build.py
 ### 13.7 Ultimo commit respaldado en GitHub
 
 * Rama: `feature/traduccion-es-latam-v2`
-* Commit: `f1a18a4` ("fix(es-latam): repara 1006 cadenas truncadas en limites de palabra")
+* Commits: `f1a18a4` (1006 truncamientos), `78cb2bd` (residuales + nombre + typo + LatAm vocab)
 * `git status` limpio y `local HEAD == remoto`.
 
 ### 13.8 Proxima tarea concreta
