@@ -48,7 +48,7 @@ public class GBESLATAM {
       GlobalTexts.text32 = "Trabaja en Phresh Ideas";
       GlobalTexts.text33 = "La cantidad justa de torpeza";
       GlobalTexts.text34 = "BUSTED";
-      GlobalTexts.text35 = "chats://section/Taylor went offline";
+      GlobalTexts.text35 = "chats://section/Taylor se desconecto";
       GlobalTexts.text36 = "CONTINUAR";
       GlobalTexts.text37 = "Bienvenido";
       GlobalTexts.text38 = "Este teléfono pertenece a:";
