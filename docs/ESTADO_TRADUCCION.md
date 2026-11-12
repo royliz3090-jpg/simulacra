@@ -298,3 +298,66 @@ bash tools/build_all.sh
 git add -A && git commit -m "..." && git push origin feature/traduccion-es-latam-v2
 ```
 
+
+---
+
+## 15. Sesion 2026-11-11: causa raiz del crash "Unable to find media _Jabbr/cover"
+
+### Sintoma
+Con el idioma es-LATAM seleccionado, al cargar el juego saltaba
+`java.lang.RuntimeException: Unable to find media _Jabbr/cover` desde
+`FriendsProfileScreen.setLogin()`. La build en INGLES cargaba sin problemas.
+
+### Causa raiz (VERIFICADA)
+El `.fs` no contiene solo texto visible: contiene tambien **claves internas**
+que el codigo compara o usa para localizar recursos. Al traducirlas "de forma
+natural" se rompen las busquedas. Ejemplos reales encontrados:
+
+| original (EN) | traduccion erronea | consecuencia |
+|---|---|---|
+| `cover` | `porta` | album `_Jabbr/cover` no existe -> crash al abrir perfil |
+| `vlog3`/`vlog5` | `blog3`/`blog5` | `setVlogProgress("vlog3",...)` no encuentra el vlog |
+| `missed` | `perdid` | tipo de llamada reciente invalido |
+| `incoming`/`outgoing` | `entrante`/`saliente` | iconos/tipo de llamada rotos |
+| `center` | `centro` | alineacion de texto no reconocida |
+| `age`,`firstname`,`lastname`,`numeric` | traducidos | formularios del navegador fallan |
+| `Camera`,`Videos`,`Wallpapers`,`Chat Images` | traducidos | albumes de la galeria no encontrados |
+| `Voicemail`,`sender`,`Spark`,`Recovered` | traducidos | datos de apps incorrectos |
+
+Ademas, las **fechas serializadas** en los ficheros de configuracion se
+re-parsean con `SimpleDateFormat(..., Locale.US)`; traducirlas provoca
+`Failed to parse time: 26 de abril de 2017, 1` (los meses deben quedar en
+ingles: `dd MMMM yyyy`, `d MMMM`, `EEE, d MMMM`, `h:mm a`).
+
+### Solucion implementada
+`tools/fs_fix_keys.py` + `tools/keys_protegidas.txt`:
+1. Compara el `.fs` original (ingles) con el traducido posicion a posicion
+   (mismo orden de cadenas).
+2. Restaura al ingles toda cadena inglesa que (a) figure en
+   `keys_protegidas.txt` o (b) coincida con un patron de fecha protegido.
+3. **Recomputa los offsets del bloque de formato** tras cambiar longitudes en
+   bytes y reemite el `.fs` completo (cabecera + formato zlib + datos).
+
+En esta pasada se restauraron **178 cadenas** (25 identificadores + 153 fechas).
+
+`tools/build_all.sh` ahora ejecuta `fs_fix_keys.py` ANTES de reescribir el
+prefijo `en-us://` -> `es-latam://`.
+
+### Validacion
+- Ejecutado con Wine (`/tmp/gamerun`), idioma es-LATAM, se pulso BEGIN.
+- **0 excepciones** en el log; el juego supera la carga y llega a la pantalla
+  principal del telefono (OCR: "Anna!", "Greg", "7 missed").
+- Log: `[Grid] Starting new game checkpoint` (partida iniciada).
+- `dist/es-latam.fs` generado es byte-identico al artefacto probado.
+
+### Pendiente tras esta sesion
+- Recorrer chats/llamadas/correos en juego y capturar dialogo en espanol.
+- Revisar si quedan mas identificadores traducidos (buscar por contenido).
+- Prueba en Windows real con GPU (Wine no tiene OpenAL -> solo ruido).
+
+### Comandos reproducibles
+```bash
+ORIG=/ruta/core.assets_original CLASES=/tmp/pyclasses SUPPORT=/tmp/support.jar \
+  JAVAC=$(command -v javac) bash tools/build_all.sh
+# artefactos: dist/core.assets, dist/core.binary, dist/es-latam.fs
+```

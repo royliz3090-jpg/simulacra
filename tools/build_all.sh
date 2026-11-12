@@ -32,21 +32,42 @@ rm -rf "$OUT/classes" && mkdir -p "$OUT/classes"
 
 echo "[2/5] Construyendo es-latam.fs a partir del .fs traducido..."
 # Fuente de verdad del texto es-LATAM: translations/es-LATAM/en-us.fs
-# (contenido espanol en el espacio de nombres en-us://). Se reescribe su
-# prefijo a es-latam:// conservando el bloque de objetos.
-python3 tools/build_locale_fs.py translations/es-LATAM/en-us.fs x "$OUT/es-latam.fs" \
+# (contenido espanol en el espacio de nombres en-us://).
+#
+# ANTES de reescribir el prefijo hay que restaurar las CLAVES internas del
+# juego (nombres de album como _Jabbr/cover, valores como missed/incoming/
+# vlog3/center...) y las FECHAS serializadas: si se traducen, el juego falla
+# al cargar ("Unable to find media _Jabbr/cover", "Failed to parse time...").
+# El .fs original en ingles es la referencia del orden de cadenas.
+python3 tools/fs_fix_keys.py "$ORIG/core.assets" translations/es-LATAM/en-us.fs \
+  "$OUT/en-us.fixed.fs" --keys tools/keys_protegidas.txt >/dev/null
+# NOTA: $ORIG/core.assets es un ZIP; fs_fix_keys lee su miembro en-us.fs.
+python3 tools/build_locale_fs.py "$OUT/en-us.fixed.fs" x "$OUT/es-latam.fs" \
   --old-prefix en-us:// --new-prefix es-latam:// --direct >/dev/null
 
 echo "[3/5] Ensamblando core.assets (ingles restaurado + es-latam.fs)..."
 python3 tools/build_core_assets.py "$ORIG/core.assets" "$OUT/core.assets" \
   --add es-latam.fs="$OUT/es-latam.fs"
 
-echo "[4/5] Empaquetando core.binary (4 reemplazos + 1 clase nueva)..."
+echo "[4/5] Empaquetando core.binary (familias completas + 1 clase nueva)..."
+# IMPORTANTE: hay que reemplazar la familia COMPLETA de cada clase parcheada.
+# Si solo se reemplaza la clase externa (p.ej. game27.MainMenu) pero no su
+# clase interna (game27.MainMenu$Internal), la interna antigua no tendra los
+# campos nuevos y el juego fallara con NoSuchFieldError.
+REPLACE_ARGS=()
+for rel in \
+  game27/Globals game27/Globals\$Achievement \
+  game27/Grid game27/Grid\$1 game27/Grid\$EvalTrigger \
+  game27/Grid\$ScheduledRunnable game27/Grid\$ScreenCompositor game27/Grid\$Trigger \
+  game27/MainMenu game27/MainMenu\$1 game27/MainMenu\$2 game27/MainMenu\$3 \
+  game27/MainMenu\$Internal game27/MainMenu\$MusicFadeOutEntity \
+  game27/MainMenu\$Particle game27/MainMenu\$ParticleType \
+  game27/gb/GBMainMenu ; do
+  cls="${rel//\//.}"
+  REPLACE_ARGS+=(--replace "$cls=$OUT/classes/$rel.class")
+done
 python3 tools/patch_core_binary.py "$ORIG/core.binary" "$OUT/core.binary" \
-  --replace game27.Globals="$OUT/classes/game27/Globals.class" \
-  --replace game27.Grid="$OUT/classes/game27/Grid.class" \
-  --replace game27.MainMenu="$OUT/classes/game27/MainMenu.class" \
-  --replace game27.gb.GBMainMenu="$OUT/classes/game27/gb/GBMainMenu.class" \
+  "${REPLACE_ARGS[@]}" \
   --add game27.gbeslatam.GBESLATAM="$OUT/classes/game27/gbeslatam/GBESLATAM.class"
 
 echo "[5/5] Copiando a dist/..."
