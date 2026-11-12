@@ -51,6 +51,17 @@ def main():
     TRAD.update(FIXES)
 
     entries, overflow, missing = [], [], []
+    # Revertir cadenas ESTRUCTURALES que la base v15b tradujo por error
+    # (marcadores __LINK, identificadores de estado, rutas, correos). Se
+    # restauran al texto original en ingles para no romper el grafo narrativo.
+    revert_path = os.path.join(TRDIR, 'revert.json')
+    reverted = 0
+    if os.path.exists(revert_path):
+        rev = set(json.load(open(revert_path)))
+        for p in sorted(rev):
+            if p in o and p in b and o[p]['text'] != b[p]['text']:
+                entries.append({'pos': p, 'len': b[p]['len'], 'es': o[p]['text']})
+                reverted += 1
     for p, s in sorted(b.items()):
         t = s['text']
         en = o[p]['text'] if p in o else t
@@ -80,7 +91,7 @@ def main():
 
     json.dump({'member': 'en-us.fs', 'strings': entries},
               open(out, 'w'), ensure_ascii=False, indent=1)
-    print(f'aplicables={len(entries)}  no_caben={len(overflow)}  (VO={len(VO)} RESTO={len(RESTO)} NOMBRES={len(NOMBRES)})')
+    print(f'aplicables={len(entries)}  no_caben={len(overflow)}  revertidas={reverted}  (VO={len(VO)} RESTO={len(RESTO)} NOMBRES={len(NOMBRES)})')
     if overflow:
         print('\n-- Traducciones que NO caben (acortar): --')
         for p, bl, nl, en, es in overflow[:60]:
