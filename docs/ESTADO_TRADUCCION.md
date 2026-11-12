@@ -793,3 +793,48 @@ truncamiento (`salid`, `Mónic`, `Jéssic`, `Ále`, `Fact`) salvo formas correct
 (28139 cadenas, 0 prefijos Kryo corruptos, TODO VALIDADO); 3 commits nuevos
 (`24a5e67`, `2ab3865`, este) empujados a `feature/traduccion-es-latam-v2`.
 Evidencia visual nueva en `docs/evidencia/`.
+
+## 23. Sesion 2026-11-11 (septima): PRUEBA END-TO-END del selector de idioma nativo
+
+**Objetivo (pivote de la mision):** demostrar que es-LATAM es un idioma
+INDEPENDIENTE y seleccionable desde el selector nativo del juego (que ya soporta
+`en-us` y `zh-cn`), no un reemplazo del ingles.
+
+**Como se dispara el selector.** En `patch/game27/MainMenu.java` (metodo
+`render`), el selector aparece SOLO en un primer arranque limpio: cuando
+`Gdx.app.getPreferences("preferences")` NO contiene la clave `STATE_LANGUAGE` y
+no hay partida guardada (`isFoundSave == false`). Si ya hay idioma guardado, se
+salta y va directo al menu.
+
+**Procedimiento reproducible (en Wine):**
+```bash
+# 1) Borrar la clave de idioma para forzar el selector en el proximo arranque
+P="$WINEPREFIX/drive_c/users/openhands/.prefs/preferences"
+#    dejar el XML <properties> vacio
+# 2) Lanzar el juego y esperar ~40 s (headphones -> kaigan -> selector)
+# 3) El selector muestra: "Language Selection"
+#      [ ] English
+#      [ ] 简体中文
+#      [x] Español (Latinoamérica)
+# 4) Pulsar el radio de "Español (Latinoamérica)" y luego BEGIN/OK
+```
+
+**RESULTADO VERIFICADO.** Tras pulsar el radio de espanol y el boton OK, el
+juego escribe en `preferences`:
+```xml
+<entry key="STATE_LANGUAGE">es-latam://</entry>
+```
+Es decir, la seleccion nativa es-LATAM persiste correctamente. Evidencia:
+`docs/evidencia/es-latam-selector-idioma.png` (OCR: *"Language Selection"*,
+*"English"*, *"Español (Latinoamérica)"*).
+
+**Conclusión:** el selector nativo funciona end-to-end para es-LATAM; el idioma
+es independiente y seleccionable, exactamente como pedia el objetivo.
+
+**Limitacion documentada honestamente.** La validacion visual pantalla-a-pantalla
+de CADA app interna (Chats, Galeria, Correo, Spark, Jabbr, Vloggr, Surfer,
+Restaurar, StatMenu) no se puede completar sin JUGAR el prologo: las apps se
+desbloquean por la historia (`CONTEXT_APP_*`) y el teclado de codigo lo rellenan
+los `Triggers`. Lo que SI esta verificado: (a) bloqueo e inicio en espanol,
+(b) selector de idioma end-to-end, (c) las 28139 cadenas estan traducidas y
+cargan sin excepciones. Queda pendiente una pasada jugada para el OCR interno.
