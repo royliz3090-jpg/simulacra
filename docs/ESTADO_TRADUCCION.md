@@ -537,3 +537,56 @@ No usar `all_translations.json` para regenerar el `.fs`.
    GBENUS).
 4. Borrar o regenerar `all_translations.json` para evitar que un futuro agente
    lo use por error.
+
+## 18. Sesion 2026-11-11 (segunda): reconstruccion del entorno + verificacion real
+
+### Contexto
+El sandbox fue **reiniciado**: `/tmp` quedo vacio y desaparecieron wine, Xvfb,
+xdotool, imagemagick, tesseract, 7z y el JDK. El trabajo NO se perdio porque
+`dist/` (core.assets, core.binary, es-latam.fs) SI esta versionado en GitHub.
+
+### Reconstruccion del entorno (reproducible por cualquier agente)
+```bash
+sudo apt-get install -y wine xvfb x11-utils xdotool imagemagick \
+     tesseract-ocr tesseract-ocr-spa p7zip-full default-jdk-headless
+pip install pycryptodome            # lo necesita tools/blob_tool.py
+# Extraer el juego original desde los volumenes del repo:
+7z x -y -o/tmp/gameext SIMULACRA.7z.001
+mkdir -p /tmp/game && cp /tmp/gameext/core.assets /tmp/gameext/core.binary /tmp/game/
+python3 tools/blob_tool.py extract /tmp/gameext/core.binary /tmp/pyclasses
+python3 -c "import zipfile;zipfile.ZipFile('/tmp/gameext/support.binary').extractall('/tmp/supportdir')"
+# Rebuild (usar el javac del sistema, NO el path fijo del sandbox viejo):
+ORIG=/tmp/game CLASES=/tmp/pyclasses SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_all.sh
+python3 tools/verify_build.py            # -> TODO VALIDADO
+# Binario sin Steam para Wine:
+CLASES=/tmp/pyclasses SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_test_binary.sh dist/core.binary /tmp/core_test.bin
+```
+El rebuild **reproduce** el mismo numero de clases (39) y cadenas (247) y un
+`core.binary` de 1104 entradas. El md5 puede variar ligeramente por la version
+de javac (21.0.4 vs 21.0.13); es equivalente a nivel de bytecode.
+
+### Verificacion REAL en Wine (evidencia, no suposicion)
+- Entorno: Xvfb `:99`, `WINEPREFIX=/workspace/wineprefix`,
+  `LIBGL_ALWAYS_SOFTWARE=1 GALLIUM_DRIVER=llvmpipe` (sin GPU).
+- **Selector de idioma END-TO-END verificado** cambiando
+  `STATE_LANGUAGE` en `.../.prefs/preferences`:
+  - `en-us://`  -> pantalla de bloqueo en INGLES: *"7 missed calls"*,
+    *"Missed call"*. 0 excepciones.
+  - `es-latam://` -> pantalla de bloqueo en ESPANOL: *"¡Bienvenida Anna!"*,
+    *"7 llamadas pérdidas"*, *"13 mensajes"*, *"Pista: el cumpleaños de Toby"*.
+    0 excepciones.
+- Esto demuestra que **es-LATAM es un idioma independiente y seleccionable**
+  (no reemplaza al ingles) y que el contenido `es-latam.fs` + las clases
+  override `game27.gbeslatam.*` cargan de verdad.
+- Capturas en `docs/evidencia/`: `en-lock.png`, `es-latam-lock.png`,
+  `menu-principal.png`.
+
+### Pendiente / siguiente tarea
+1. **Navegar el telefono** (desbloquear con el codigo y abrir apps) para
+   capturar OCR en espanol de: Chats, Galeria, Correo, Spark, Jabbr, Vloggr,
+   Surfer, Restaurar, Ajustes/StatMenu. La logica de desbloqueo esta en
+   `game27.LockScreen` (codigo = cumpleaños de Toby).
+2. Revisar cadenas de UI en clases compartidas sin override.
+3. Borrar/regenerar `all_translations.json` (obsoleto, acentos erroneos).
