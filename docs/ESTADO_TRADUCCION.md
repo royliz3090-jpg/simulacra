@@ -590,3 +590,51 @@ de javac (21.0.4 vs 21.0.13); es equivalente a nivel de bytecode.
    `game27.LockScreen` (codigo = cumpleaños de Toby).
 2. Revisar cadenas de UI en clases compartidas sin override.
 3. Borrar/regenerar `all_translations.json` (obsoleto, acentos erroneos).
+
+## 19. Sesion 2026-11-11 (tercera): reparacion de truncamientos y huecos de texto
+
+**Causa raiz descubierta.** La traduccion base es-ES que sirvio de punto de
+partida se aplico *in-place* respetando la **longitud en bytes** original. Eso
+dejo cientos de cadenas **cortadas a mitad de palabra** (firma inequivoca: la
+cadena ES mide exactamente los mismos bytes que la EN y acaba en letra). Afecto
+a subtitulos de voz, cabeceras de chat, articulos web y etiquetas de UI.
+
+**Reparado en esta sesion (3 commits):**
+| Commit | Que | Volumen |
+|--------|-----|---------|
+| `2804e50` | Interjecciones de dialogo que seguian en ingles (`NO WAY`, `OH FUCK`, `SWEET JEBUS`, `OK FINE`, `Oh no.`, `Ok ok`, `JK LOL`, `SHIT SHIT`, `TOO FAR MAN`, `Huh? No!`, `NO NO`) + `GBESLATAM.text35` | 14 cadenas + 1 clase |
+| `599d668` | Subtitulos de voz `vo://...=TEXTO` y cabeceras `chats://section/` truncadas -> traduccion COMPLETA | 236 ediciones (177 valores VO unicos + 3 chats) |
+| `0d9a6f0` | Cadenas truncadas/sustituidas de UI, articulos y perfiles (`DISEÑO WE`->`DISEÑO WEB`, `*estáti`->`*estática*`, `Inici`->`Iniciar sesión`, `NOTI`->`NOTICIAS`, `Acerc`->`Acerca de`, `NUE`->`NUEVO`, `transpo`->`operadora`, nombres propios, etc.) | 49 ediciones |
+
+**Metodo de deteccion de truncamientos** (reutilizable, ver
+`tools/apply_fs_fixes.py`):
+1. Alinear por indice el `.fs` EN original (extraido en `/tmp/gameext`) y el
+   `.fs` traducido. La cadena i corresponde a la i.
+2. Marcar como candidatas las cadenas donde `EN != ES` **y**
+   `len(EN.encode()) == len(ES.encode())` **y** el ultimo caracter es letra.
+3. Confirmar con un vocabulario de "palabras completas" del propio corpus
+   (palabra seguida de espacio/puntuacion en cualquier otra cadena). Si la
+   ultima palabra del ES **no** es una palabra completa pero **es prefijo** de
+   una palabra completa -> truncada.
+4. Excluir las CLAVES internas (`tools/keys_protegidas.txt`) que
+   `fs_fix_keys.py` restaura en build (`missed`, `age`, `Spark`, `cover`...).
+5. Editar con `tools/apply_fs_fixes.py` (JSON `[{pos,en,es}]`, aplica de mayor
+   a menor posicion) y reconstruir.
+
+**Artefactos de esta sesion** (versionados en git):
+- `translations/es-LATAM/fixes_interjecciones2.json` (14)
+- `translations/es-LATAM/fixes_vo_chats2.json` (236) + `vo_chats_map.json`
+- `translations/es-LATAM/fixes_truncados2.json` (49)
+
+**Verificacion:** `verify_build.py` -> `TODO VALIDADO`; rebuild reproducible
+(39 clases / 247 cadenas / 1104 entradas en core.binary). Prueba en Wine con
+`STATE_LANGUAGE=es-latam://`: pantalla de bloqueo en espanol, **0 excepciones**.
+
+**Pendiente de esta sesion:**
+- Navegar el telefono en Wine para confirmar visualmente las apps internas.
+- Revisar el resto de `vo://` que el detector marca como "dudosos" (33 falsos
+  positivos ya confirmados como traducciones completas).
+- Los nombres propios (personas/empresas) se mantienen o castellanizan de forma
+  inconsistente. Ya corregidos los errores claros (`Bill`->`Fact`,
+  `Sally`->`salid`, `Pat`->`pal`, `Monica`->`Mónic`, `Jessica`->`Jéssic`,
+  `Alex`->`Ále`). Conviene una pasada de coherencia general de nombres.
