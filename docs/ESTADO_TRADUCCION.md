@@ -1,7 +1,20 @@
 # Estado de la traducción de SIMULACRA al español latinoamericano
 
 > Documento persistente para continuar el trabajo desde cualquier sandbox.
-> Última actualización: sesión de recuperación (ver sección "Último commit respaldado").
+> Última actualización: sesión de continuación (ver sección "Último commit respaldado").
+
+## 0. PIVOTE IMPORTANTE (leer primero)
+
+El objetivo ya **no** es reemplazar el inglés por español, sino **añadir es-LATAM como un
+idioma independiente y seleccionable** en el selector nativo del juego (que ya soporta
+`en-us` y `zh-cn`). Por tanto:
+
+- `dist/core.assets` conserva el `en-us.fs` **original en inglés** y añade `es-latam.fs`.
+- `dist/core.binary` añade la clase `game27.gbeslatam.GBESLATAM` y una rama de 3 idiomas
+  en `game27.Grid` + botón/etiqueta en `game27.MainMenu` y `game27.gb.GBMainMenu`.
+
+El trabajo histórico (secciones 2 y 3) describe cómo se llegó hasta aquí; el
+procedimiento vigente es el de las secciones 4-8.
 
 ## 1. Estado actual (resumen)
 
@@ -131,24 +144,115 @@ python3 tools/simulacra_fs.py verify <core.assets> [original.assets]   # compara
 | Nombres propios traducidos literalmente (`Greg Summers` -> `Greg veranos`) | Traducción automática palabra a palabra | Mantener nombres propios sin traducir |
 | `7z` no está instalado | Entorno mínimo | `pip install py7zr` y unir volúmenes con `cat` |
 
-## 8. Trabajo recuperado vs. nuevo vs. pendiente
+## 8. Arquitectura es-LATAM (idioma independiente) — NUEVO
 
-- **Recuperado**: `core.assets` v15b de `main` (6.024 cadenas traducidas), scripts de análisis,
-  glosario y documentación previa de la rama `feature/traduccion-es-latam`.
-- **Nuevo**: `tools/simulacra_fs.py`, esta documentación, catálogo de cadenas y listas de trabajo.
+### 8.1 Recursos entregables (`dist/`)
+
+| Archivo | Contenido |
+|---------|-----------|
+| `dist/core.assets` | ZIP con los 7 recursos originales (incl. `en-us.fs` **en inglés**) + `es-latam.fs` |
+| `dist/core.binary` | Blob KCB1 con 4 clases reemplazadas + `game27.gbeslatam.GBESLATAM` |
+| `dist/es-latam.fs` | Copia suelta del recurso de idioma (referencia) |
+
+### 8.2 Formato `core.binary` (KCB1) — DESCIFRADO
+
+```
+[0:4]    magic 1262699057 (0x4B434231 "KCB1")
+[4:8]    numEntries
+[8:8+9*numEntries]  descriptor: por entrada, 9 int32
+        [0..4]  = palabras del SHA-1(nombre) XOR unlock1..5
+        [5]     = offset del bloque cifrado dentro del area de datos
+        [6]     = tamano comprimido (deflate)
+        [7]     = tamano sin comprimir
+        [8]     = CRC32 del bloque comprimido
+[8+36*n : +4]  tamano del area de datos
+[...]    area de datos: por clase, IV(16) + AES/CTR(cifrado)
+```
+
+- Cifrado: `AES/CTR/NoPadding`, clave = `MD5(nombre)` (16 bytes), IV = primeros 16 bytes.
+- El texto cifrado se descomprime con deflate; se valida el CRC32.
+- `unlock1..5` se deriva del SHA-1 concatenado de las clases del stack de llamadas
+  (`CodeBlob` + sus superclases hasta `Object`, luego `DesktopLauncher` + superclases).
+  Para el parche **no hace falta conocerlo**: se conservan intactas las palabras [0..4] de
+  cada entrada original y solo se recalculan [5..8]. El `unlock` efectivo derivado es
+  `[-109, -31963, -8165577, -119, -44]`.
+
+> Nota: `blob_tool._sha1_words` calcula las palabras con **bytes con signo** (Java promociona
+> `byte` a `int` con extensión de signo). Con bytes sin signo el descriptor no resuelve.
+
+### 8.3 Mecanismo de idioma (código Java)
+
+- `Globals.contentPrefix` (pref. `"en-us://"`, `"zh-cn://"`, nuevo `"es-latam://"`).
+- `Grid` (constructor): elige `GBENUS.setup()` / `GBZHCN.setup()` / **`GBESLATAM.setup()`**.
+- `Grid.load()`: `File.unpackFS("en-us.fs" | "zh-cn.fs" | "es-latam.fs")`.
+- `MainMenu`: botón/etiqueta español + handler que fija `STATE_LANGUAGE = "es-latam://"`.
+- `game27.gbeslatam.GBESLATAM`: rellena `GlobalTexts` en español y registra overrides.
+
+### 8.4 Archivos fuente del parche (`patch/`)
+
+- `patch/game27/Globals.java` — constante `CONTENT_PREFIX_ES_LATAM`, `SAVE_FILENAME_ES_LATAM`.
+- `patch/game27/Grid.java` — rama de 3 idiomas (constructor y `load()`).
+- `patch/game27/MainMenu.java` — widgets y handler del botón español.
+- `patch/game27/gb/GBMainMenu.java` — widgets espejo de los chinos.
+- `patch/game27/gbeslatam/GBESLATAM.java` — **generado** por `tools/gen_gbeslatam.py` a partir
+  de `game27/gb/GBENUS.java` (renombra paquete/clase, ajusta guardado y locale).
+
+## 9. Procedimiento de build y validación (vigente)
+
+```bash
+# 0) Prerrequisitos (una vez):
+#    - clases originales extraidas:  python3 tools/blob_tool.py extract core.binary /tmp/pyclasses
+#    - librerias de support.binary:  /tmp/support.jar
+#    - copia limpia (ingles) de core.assets y core.binary en /tmp/game
+#    - JDK 8+ (javac --release 8)
+
+# 1) Build completo -> dist/
+ORIG=/tmp/game CLASES=/tmp/pyclasses SUPPORT=/tmp/support.jar bash tools/build_all.sh
+
+# 2) Validacion estructural (sin Java)
+python3 tools/verify_build.py dist/core.assets dist/core.binary /tmp/game/core.assets
+```
+
+Salidas esperadas (md5): `dist/core.assets` = `960190f3818ff22a9a35d70beaee74a8`.
+
+## 10. Cómo verificar que el juego carga los textos
+
+- **Sin entorno gráfico** (este sandbox no ejecuta SIMULACRA, es Windows/GPU):
+  - `tools/verify_build.py` (estructura + bytecode + textos).
+  - `tools/build_locale_fs.py` valida el bloque de formato con `parse_format`.
+  - **Prueba fuerte ya ejecutada**: un `ClassLoader` fiel a `CodeBlob` (mismo `read()`: SHA-1,
+    AES/CTR, CRC32, inflate) carga las 4 clases parcheadas + `GBESLATAM` desde
+    `dist/core.binary`, ejecuta `GBESLATAM.setup()` y comprueba que `GlobalTexts.text1` = "Galería".
+  - `sengine.mass.io.Input` (clase real del juego) parsea el bloque de formato de `es-latam.fs`
+    sin bytes sobrantes y con 207 nombres `es-latam://`.
+- **Con entorno gráfico** (Windows): copiar `dist/core.assets` y `dist/core.binary` a la carpeta
+  del juego, iniciar, abrir el selector de idioma y elegir **Español (Latinoamérica)**.
+
+## 11. Trabajo recuperado vs. nuevo vs. pendiente
+
+- **Recuperado**: `core.assets` v15b de `main` (≈6.024 cadenas es-LATAM en sitio), scripts de
+  análisis, glosario, documentación y el análisis de `core.binary` (rama v2).
+- **Nuevo (esta sesión)**:
+  - Corrección de `tools/blob_tool.py` (palabras SHA-1 con signo) -> descriptor KCB1 correcto.
+  - `tools/patch_core_binary.py` (reempaquetado seguro conservando hashes [0..4]).
+  - `tools/build_core_assets.py` (añade `es-latam.fs` sin tocar el inglés).
+  - `tools/build_all.sh` + `tools/verify_build.py` (pipeline reproducible y validación).
+  - `patch/game27/gbeslatam/GBESLATAM.java` + parches de `Globals`/`Grid`/`MainMenu`/`GBMainMenu`.
+  - Entregables `dist/core.assets`, `dist/core.binary`, `dist/es-latam.fs`.
 - **Pendiente**:
-  - Reparar ~950 traducciones truncadas y nombres propios mal traducidos.
-  - Traducir ~371 cadenas que siguen en inglés (subtítulos `vo://`, diálogos y menús).
-  - Validación en el juego real (requiere Windows/GPU).
+  - Traducir a es-LATAM los textos que aún están en inglés (subtítulos `vo://`, diálogos y menús).
+  - Reparar traducciones truncadas y nombres propios mal traducidos (sección 7).
+  - Revisar que el texto de UI de `GlobalTexts` (en `GBESLATAM`) sea coherente y completo.
+  - Prueba en el juego real (Windows/GPU).
 
-## 9. Último commit respaldado
+## 12. Último commit respaldado
 
-Ver el historial de `feature/traduccion-es-latam-v2` en GitHub (el commit más reciente de esta rama
-es el último respaldo). Base recuperada: `56e24e3` de `main`.
+Ver el historial de `feature/traduccion-es-latam-v2` en GitHub (el commit más reciente de esta
+rama es el último respaldo). Base recuperada: `56e24e3` de `main`.
 
-## 10. Próxima tarea concreta
+## 13. Próxima tarea concreta
 
-1. Ejecutar `tools/simulacra_fs.py dump` sobre la base v15b y sobre el original.
-2. Generar `traducciones.json` con: (a) correcciones de cadenas truncadas y nombres propios,
-   (b) traducción de las cadenas que siguen en inglés.
-3. Aplicar, verificar y commitear + push.
+1. Ampliar las traducciones de `es-latam.fs` (contenido real) para las cadenas aún en inglés.
+2. Re-ejecutar `bash tools/build_all.sh` + `python3 tools/verify_build.py`.
+3. Commit + push de `dist/` y `translations/es-LATAM/`.
+

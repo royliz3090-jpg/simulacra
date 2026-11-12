@@ -37,13 +37,24 @@ MAGIC = 1262699057
 
 
 def _sha1_words(name: str):
+    """Palabras del SHA-1 tal como las calcula el juego (bytes CON signo).
+
+    Java promociona `byte` a `int` con extension de signo antes de los
+    desplazamientos, por lo que los bytes >= 0x80 aportan bits altos. Usar
+    bytes sin signo produce una mascara `unlock` distinta y un descriptor
+    que el juego no reconoce.
+    """
     h = hashlib.sha1(name.encode("utf-8")).digest()
+
+    def b(i):
+        return h[i] - 256 if h[i] >= 128 else h[i]
+
     return [
-        (h[19] << 24) | (h[18] << 16) | (h[17] << 8) | h[16],
-        (h[15] << 24) | (h[14] << 16) | (h[13] << 8) | h[12],
-        (h[11] << 24) | (h[10] << 16) | (h[9] << 8) | h[8],
-        (h[7] << 24) | (h[6] << 16) | (h[5] << 8) | h[4],
-        (h[3] << 24) | (h[2] << 16) | (h[1] << 8) | h[0],
+        ((b(19) << 24) | (b(18) << 16) | (b(17) << 8) | b(16)) & 0xFFFFFFFF,
+        ((b(15) << 24) | (b(14) << 16) | (b(13) << 8) | b(12)) & 0xFFFFFFFF,
+        ((b(11) << 24) | (b(10) << 16) | (b(9) << 8) | b(8)) & 0xFFFFFFFF,
+        ((b(7) << 24) | (b(6) << 16) | (b(5) << 8) | b(4)) & 0xFFFFFFFF,
+        ((b(3) << 24) | (b(2) << 16) | (b(1) << 8) | b(0)) & 0xFFFFFFFF,
     ]
 
 

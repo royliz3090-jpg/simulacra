@@ -9,6 +9,11 @@ extracted/
 *.exe
 *.dll
 
+# Entregables del parche SI se versionan (ver dist/)
+!dist/core.assets
+!dist/core.binary
+!dist/es-latam.fs
+
 # Directorio de trabajo
 jre/
 menu/
