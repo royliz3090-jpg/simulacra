@@ -23,14 +23,26 @@ JAVAC="${JAVAC:-/tmp/jdk-21.0.4+7/bin/javac}"
 OUT=work/build
 mkdir -p "$OUT" dist
 
-echo "[1/5] Compilando clases parcheadas (target Java 8)..."
+echo "[1/6] Generando clases de UI en espanol (Builder.overrides)..."
+# Textos de UI "hardcodeados" en las clases gb.* : el juego los cambia por
+# clases especificas del idioma (game27.gbzhcn.* para zh-cn). Replicamos el
+# mecanismo para es-LATAM reescribiendo las cadenas de la clase base y
+# renombrandola a game27.gbeslatam.*. Se excluye GBMainMenu: ese lo parcheamos
+# a mano (selector de idioma + textos dinamicos).
+rm -rf "$OUT/overrides"
+python3 tools/gen_es_overrides.py "$CLASES" "$OUT/overrides" \
+  --exclude GBMainMenu \
+  --java-out patch/game27/gbeslatam/GBESLATAMOverrides.java
+
+echo "[2/6] Compilando clases parcheadas (target Java 8)..."
 rm -rf "$OUT/classes" && mkdir -p "$OUT/classes"
 "$JAVAC" --release 8 -nowarn -encoding UTF-8 \
-  -cp "$CLASES:$SUPPORT" -d "$OUT/classes" \
+  -cp "$CLASES:$SUPPORT:$OUT/overrides" -d "$OUT/classes" \
   patch/game27/Globals.java patch/game27/Grid.java patch/game27/MainMenu.java \
-  patch/game27/gb/GBMainMenu.java patch/game27/gbeslatam/GBESLATAM.java
+  patch/game27/gb/GBMainMenu.java patch/game27/gbeslatam/GBESLATAM.java \
+  patch/game27/gbeslatam/GBESLATAMOverrides.java
 
-echo "[2/5] Construyendo es-latam.fs a partir del .fs traducido..."
+echo "[3/6] Construyendo es-latam.fs a partir del .fs traducido..."
 # Fuente de verdad del texto es-LATAM: translations/es-LATAM/en-us.fs
 # (contenido espanol en el espacio de nombres en-us://).
 #
@@ -45,11 +57,11 @@ python3 tools/fs_fix_keys.py "$ORIG/core.assets" translations/es-LATAM/en-us.fs 
 python3 tools/build_locale_fs.py "$OUT/en-us.fixed.fs" x "$OUT/es-latam.fs" \
   --old-prefix en-us:// --new-prefix es-latam:// --direct >/dev/null
 
-echo "[3/5] Ensamblando core.assets (ingles restaurado + es-latam.fs)..."
+echo "[4/6] Ensamblando core.assets (ingles restaurado + es-latam.fs)..."
 python3 tools/build_core_assets.py "$ORIG/core.assets" "$OUT/core.assets" \
   --add es-latam.fs="$OUT/es-latam.fs"
 
-echo "[4/5] Empaquetando core.binary (familias completas + 1 clase nueva)..."
+echo "[5/6] Empaquetando core.binary (familias completas + clases nuevas)..."
 # IMPORTANTE: hay que reemplazar la familia COMPLETA de cada clase parcheada.
 # Si solo se reemplaza la clase externa (p.ej. game27.MainMenu) pero no su
 # clase interna (game27.MainMenu$Internal), la interna antigua no tendra los
@@ -66,11 +78,20 @@ for rel in \
   cls="${rel//\//.}"
   REPLACE_ARGS+=(--replace "$cls=$OUT/classes/$rel.class")
 done
-python3 tools/patch_core_binary.py "$ORIG/core.binary" "$OUT/core.binary" \
-  "${REPLACE_ARGS[@]}" \
+# Clases NUEVAS: GBESLATAM + GBESLATAMOverrides + todas las UI game27.gbeslatam.*
+ADD_ARGS=(
   --add game27.gbeslatam.GBESLATAM="$OUT/classes/game27/gbeslatam/GBESLATAM.class"
+  --add game27.gbeslatam.GBESLATAMOverrides="$OUT/classes/game27/gbeslatam/GBESLATAMOverrides.class"
+)
+while IFS= read -r cls; do
+  rel="${cls#$OUT/overrides/}"
+  fqn="${rel%.class}"; fqn="${fqn//\//.}"
+  ADD_ARGS+=(--add "$fqn=$cls")
+done < <(find "$OUT/overrides" -name '*.class')
+python3 tools/patch_core_binary.py "$ORIG/core.binary" "$OUT/core.binary" \
+  "${REPLACE_ARGS[@]}" "${ADD_ARGS[@]}"
 
-echo "[5/5] Copiando a dist/..."
+echo "[6/6] Copiando a dist/..."
 cp "$OUT/core.assets" dist/core.assets
 cp "$OUT/core.binary" dist/core.binary
 cp "$OUT/es-latam.fs" dist/es-latam.fs

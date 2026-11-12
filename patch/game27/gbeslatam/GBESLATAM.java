@@ -6,6 +6,9 @@ import java.util.Locale;
 
 public class GBESLATAM {
    public static void setup() {
+      // Sustituye las clases de UI con textos hardcodeados por sus variantes
+      // en espanol (game27.gbeslatam.*), igual que hace GBZHCN para zh-cn.
+      GBESLATAMOverrides.register();
       Globals.SAVE_FILENAME = Globals.SAVE_FILENAME_ES_LATAM;
       Globals.timeLocale = Locale.US;
       Globals.timeLocaleCustomAMPM = new String[]{"am", "pm"};

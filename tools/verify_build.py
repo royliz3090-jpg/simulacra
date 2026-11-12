@@ -52,9 +52,12 @@ def main():
 
     print("== core.binary ==")
     b = Blob(binary)
-    check(b.num == 1064, f"1064 entradas ({b.num})")
+    # 1064 originales + 35 clases nuevas es-LATAM (GBESLATAM, GBESLATAMOverrides
+    # y las 33 UI game27.gbeslatam.*).
+    check(b.num >= 1064, f"al menos 1064 entradas ({b.num})")
     for n in ["game27.Globals", "game27.Grid", "game27.MainMenu", "game27.gb.GBMainMenu",
-              "game27.gbeslatam.GBESLATAM", "game27.DesktopMain"]:
+              "game27.gbeslatam.GBESLATAM", "game27.gbeslatam.GBESLATAMOverrides",
+              "game27.DesktopMain"]:
         d, i = b.get(n)
         check(d is not None, f"clase {n} presente (idx={i})")
         if d:
