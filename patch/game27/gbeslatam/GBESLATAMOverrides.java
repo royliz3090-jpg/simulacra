@@ -17,6 +17,7 @@ public class GBESLATAMOverrides {
       Builder.overrides.put(game27.gb.friends.GBFriendsLoginScreen.class, game27.gbeslatam.friends.GBFriendsLoginScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkContactsScreen.class, game27.gbeslatam.spark.GBSparkContactsScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkEditProfileScreen.class, game27.gbeslatam.spark.GBSparkEditProfileScreen.class);
+      Builder.overrides.put(game27.gb.spark.GBSparkMatchScreen.class, game27.gbeslatam.spark.GBSparkMatchScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkProfileScreen.class, game27.gbeslatam.spark.GBSparkProfileScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkSuccessScreen.class, game27.gbeslatam.spark.GBSparkSuccessScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkThreadScreen.class, game27.gbeslatam.spark.GBSparkThreadScreen.class);
