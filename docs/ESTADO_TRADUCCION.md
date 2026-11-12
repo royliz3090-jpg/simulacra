@@ -220,11 +220,16 @@ Salidas esperadas (md5): `dist/core.assets` = `960190f3818ff22a9a35d70beaee74a8`
 - **Sin entorno gráfico** (este sandbox no ejecuta SIMULACRA, es Windows/GPU):
   - `tools/verify_build.py` (estructura + bytecode + textos).
   - `tools/build_locale_fs.py` valida el bloque de formato con `parse_format`.
-  - **Prueba fuerte ya ejecutada**: un `ClassLoader` fiel a `CodeBlob` (mismo `read()`: SHA-1,
+  - **Prueba fuerte ejecutada**: un `ClassLoader` fiel a `CodeBlob` (mismo `read()`: SHA-1,
     AES/CTR, CRC32, inflate) carga las 4 clases parcheadas + `GBESLATAM` desde
     `dist/core.binary`, ejecuta `GBESLATAM.setup()` y comprueba que `GlobalTexts.text1` = "Galería".
-  - `sengine.mass.io.Input` (clase real del juego) parsea el bloque de formato de `es-latam.fs`
-    sin bytes sobrantes y con 207 nombres `es-latam://`.
+  - `sengine.mass.io.Input` (clase real del juego) parsea el bloque de formato de
+    `es-latam.fs` sin bytes sobrantes y con 207 nombres `es-latam://`.
+  - **Nota sobre la prueba con `CodeBlob` real**: ejecutar el `CodeBlob` real desde este
+    sandbox **falla también con el `core.binary` ORIGINAL** (mismo
+    `ClassNotFoundException: game27.DesktopMain`), porque depende del JRE 8 empaquetado
+    (Windows) y del stack exacto del lanzador. Por eso la validación fiel se hace con el
+    `ClassLoader` replicado, que reproduce exactamente el algoritmo de `CodeBlob.read()`.
 - **Con entorno gráfico** (Windows): copiar `dist/core.assets` y `dist/core.binary` a la carpeta
   del juego, iniciar, abrir el selector de idioma y elegir **Español (Latinoamérica)**.
 
