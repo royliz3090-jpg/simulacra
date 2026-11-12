@@ -15,6 +15,7 @@ import os
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_locale_fs as L  # noqa: E402
+import simulacra_fs as S  # noqa: E402
 from blob_tool import Blob  # noqa: E402
 
 OK = True
@@ -30,7 +31,9 @@ def check(cond, msg):
 def main():
     assets = sys.argv[1] if len(sys.argv) > 1 else "dist/core.assets"
     binary = sys.argv[2] if len(sys.argv) > 2 else "dist/core.binary"
-    pristine = sys.argv[3] if len(sys.argv) > 3 else "/tmp/game/core.assets"
+    # Referencia en-us: el en-us.fs dentro del propio core.assets es el ingles
+    # original intacto (nunca lo modificamos), asi que sirve de patron.
+    pristine = sys.argv[3] if len(sys.argv) > 3 else assets
 
     print("== core.assets ==")
     z = zipfile.ZipFile(assets)
@@ -49,6 +52,23 @@ def main():
     check(len(f["names"]) == 207, f"207 nombres en el formato ({len(f['names'])})")
     check(all(nm.startswith("es-latam://") for nm, _ in f["names"]), "todos los nombres usan es-latam://")
     check(es.count(b"Bienvenido") >= 1, "el bloque de datos contiene textos en espanol")
+
+    # Invariantes de integridad del bloque de datos. El bug historico de
+    # fs_fix_keys.rebuild (no reescribir el prefijo de longitud Kryo) desincroniza
+    # el scanner y hace que el conteo de cadenas baje. Estas dos comprobaciones
+    # lo detectan aunque el texto visible parezca correcto.
+    _, es_data, _ = L.split_fs(es)
+    es_strings = S.scan_strings(es_data)
+    if os.path.exists(pristine):
+        _, en_data, _ = L.split_fs(p.read("en-us.fs"))
+        n_en = len(S.scan_strings(en_data))
+        check(len(es_strings) == n_en,
+              f"mismo conteo de cadenas que en-us.fs ({len(es_strings)} == {n_en})")
+    bad_prefix = 0
+    for it in es_strings:
+        if int.from_bytes(es_data[it["pos"] - 4:it["pos"]], "big") != it["len"]:
+            bad_prefix += 1
+    check(bad_prefix == 0, f"prefijos de longitud Kryo coherentes ({bad_prefix} corruptos)")
 
     print("== core.binary ==")
     b = Blob(binary)
