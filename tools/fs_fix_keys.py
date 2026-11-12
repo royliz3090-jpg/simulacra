@@ -21,6 +21,7 @@ Uso:
 """
 import argparse
 import re
+import struct
 import sys
 import zlib
 
@@ -70,13 +71,17 @@ def parse(fs_bytes):
 def rebuild(f, data, edits):
     """Reemite el .fs aplicando ediciones (pos, len_viejo, bytes_nuevos).
 
-    Recomputa `offsets` sumando el delta de bytes insertado antes de cada uno.
+    Cada cadena Kryo va precedida de su longitud en 4 bytes big-endian; al
+    cambiar el numero de bytes hay que reescribir TAMBIEN ese prefijo o el
+    scanner del juego se desincroniza y se traga la cadena siguiente.  Se
+    recomputa ademas `offsets` sumando el delta de bytes insertado antes de
+    cada uno.
     """
     edits = sorted(edits)
     new_data = bytearray(data)
     # aplicar de atras hacia adelante para no invalidar posiciones
     for pos, old_len, new in reversed(edits):
-        new_data[pos:pos + old_len] = new
+        new_data[pos - 4:pos + old_len] = struct.pack(">I", len(new)) + new
 
     # recomputar offsets: delta acumulado estrictamente antes de cada offset
     new_offsets = []
