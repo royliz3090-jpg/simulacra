@@ -37,15 +37,23 @@ def main():
     VO = load_dict('vo.py', 'VO')
     CORRUPT = load_dict('corrupt.py', 'CORRUPT')
     RESTO = load_dict('resto.py', 'RESTO')
+    FIXES = load_dict('fixes.py', 'FIXES')
     NOMBRES = load_dict('nombres.py', 'NOMBRES')
 
     o = {s['pos']: s for s in S.scan_strings(S.load_fs(orig, 'en-us.fs')[2])}
     b = {s['pos']: s for s in S.scan_strings(S.load_fs(base, 'en-us.fs')[2])}
 
+    # Traducciones claveadas por el TEXTO INGLES original (sirve tanto para
+    # cadenas aun en ingles como para corregir traducciones truncadas/erroneas).
+    TRAD = {}
+    TRAD.update(RESTO)
+    TRAD.update(NOMBRES)
+    TRAD.update(FIXES)
+
     entries, overflow, missing = [], [], []
     for p, s in sorted(b.items()):
         t = s['text']
-        cur = o[p]['text'] if p in o else None
+        en = o[p]['text'] if p in o else t
         new = None
         if t.startswith('vo://'):
             key = t.split('=', 1)[1] if '=' in t else None
@@ -60,10 +68,8 @@ def main():
             if key in RESTO:
                 new = t.split('=', 1)[0] + '= ' + RESTO[key]
         else:
-            if t in RESTO:
-                new = RESTO[t]
-            elif t in NOMBRES:
-                new = NOMBRES[t]
+            if en in TRAD:
+                new = TRAD[en]
         if new is None or new == t:
             continue
         nb = new.encode('utf-8')
