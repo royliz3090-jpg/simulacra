@@ -15,11 +15,14 @@ public class GBESLATAMOverrides {
       Builder.overrides.put(game27.gb.mail.GBMailThreadScreen.class, game27.gbeslatam.mail.GBMailThreadScreen.class);
       Builder.overrides.put(game27.gb.friends.GBFriendsCommentScreen.class, game27.gbeslatam.friends.GBFriendsCommentScreen.class);
       Builder.overrides.put(game27.gb.friends.GBFriendsLoginScreen.class, game27.gbeslatam.friends.GBFriendsLoginScreen.class);
+      Builder.overrides.put(game27.gb.friends.GBFriendsWallScreen.class, game27.gbeslatam.friends.GBFriendsWallScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkContactsScreen.class, game27.gbeslatam.spark.GBSparkContactsScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkEditProfileScreen.class, game27.gbeslatam.spark.GBSparkEditProfileScreen.class);
+      Builder.overrides.put(game27.gb.spark.GBSparkLoginScreen.class, game27.gbeslatam.spark.GBSparkLoginScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkMatchScreen.class, game27.gbeslatam.spark.GBSparkMatchScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkProfileScreen.class, game27.gbeslatam.spark.GBSparkProfileScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkSuccessScreen.class, game27.gbeslatam.spark.GBSparkSuccessScreen.class);
+      Builder.overrides.put(game27.gb.spark.GBSparkThreadProfileScreen.class, game27.gbeslatam.spark.GBSparkThreadProfileScreen.class);
       Builder.overrides.put(game27.gb.spark.GBSparkThreadScreen.class, game27.gbeslatam.spark.GBSparkThreadScreen.class);
       Builder.overrides.put(game27.gb.chats.GBWhatsupContactsScreen.class, game27.gbeslatam.chats.GBWhatsupContactsScreen.class);
       Builder.overrides.put(game27.gb.chats.GBWhatsupMessageThread.class, game27.gbeslatam.chats.GBWhatsupMessageThread.class);
