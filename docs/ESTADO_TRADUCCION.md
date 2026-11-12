@@ -638,3 +638,60 @@ a subtitulos de voz, cabeceras de chat, articulos web y etiquetas de UI.
   inconsistente. Ya corregidos los errores claros (`Bill`->`Fact`,
   `Sally`->`salid`, `Pat`->`pal`, `Monica`->`Mónic`, `Jessica`->`Jéssic`,
   `Alex`->`Ále`). Conviene una pasada de coherencia general de nombres.
+
+## 20. Sesion 2026-11-11 (cuarta): auditoria en sandbox limpio y bug de prefijos Kryo
+
+**Contexto:** el sandbox se reinicio por completo (se perdieron `/tmp`, Wine,
+JDK y las clases extraidas). Todo el trabajo estaba en GitHub, asi que se
+reconstruyo unicamente lo necesario y se reauditaron los entregables.
+
+**BUG CRITICO encontrado (commit `57e922b`).** `tools/fs_fix_keys.py::rebuild`
+sustituia los bytes de una cadena editada pero **no reescribia los 4 bytes de
+longitud big-endian** que preceden a cada cadena Kryo. Mientras la edicion
+conservara el numero de bytes no pasaba nada; en cuanto cambiaba (el blindaje
+del prefijo URI `chats://sección/` 42B -> `chats://section/` 41B), el scanner
+del juego leia el prefijo antiguo (42) sobre 41 bytes reales, se desincronizaba
+y **se tragaba la cadena siguiente**.
+
+- Sintoma: `es-latam.fs` tenia 28138 cadenas en vez de 28139; la cabecera de
+  chat `chats://section/Say something nice to her!` se comia el `sender`
+  posterior y `remite` desaparecia del bloque de datos.
+- Alcance: solo las **2** ediciones que cambiaban de longitud (prefijo URI y
+  `photoroll://`). El resto del `.fs` estaba intacto.
+- Arreglo: `rebuild()` ahora escribe `struct.pack(">I", len(new))` junto al
+  texto. Rebuild -> 28139 cadenas, `verify_build.py` TODO VALIDADO.
+
+**Otras correcciones de contenido (commit `d9aafa4`):**
+- `photoroll://Chat Images/DEN_665` estaba sustituido por prosa ("Cada vez mas
+  cerca"): es una referencia de RECURSO, no texto visible -> restaurado en la
+  fuente (`translations/es-LATAM/fixes_photoroll.json`).
+- Prefijo `chats://sección/` -> `chats://section/` en la fuente
+  (`translations/es-LATAM/fixes_uri_prefix.json`).
+- Los 30 `vo://content/vo/*.ogg=TEXTO` traducidos son CORRECTOS: el `=` separa
+  el recurso de audio del subtitulo visible.
+
+**Blindaje anadido.** `verify_build.py` ahora comprueba dos invariantes que
+detectan esta clase de bug automaticamente, sin Java:
+1. El conteo de cadenas de `es-latam.fs` debe ser **identico** al de `en-us.fs`.
+2. Todos los prefijos de longitud Kryo del bloque de datos deben ser coherentes.
+
+**Reconstruccion del entorno minimo (solo lo necesario para el `.fs`):**
+```bash
+pip install pycryptodome          # para tools/blob_tool.py (AES de core.binary)
+# El .fs NO necesita Java: fs_fix_keys + build_locale_fs + build_core_assets
+python3 tools/fs_fix_keys.py dist/core.assets translations/es-LATAM/en-us.fs \
+    /tmp/f.fs --keys tools/keys_protegidas.txt
+python3 tools/build_locale_fs.py /tmp/f.fs x /tmp/es-latam.fs \
+    --old-prefix en-us:// --new-prefix es-latam:// --direct
+python3 tools/build_core_assets.py dist/core.assets /tmp/core.assets \
+    --replace es-latam.fs=/tmp/es-latam.fs
+python3 tools/verify_build.py
+```
+
+**Pendiente / siguiente tarea:**
+1. **Reconstruir el entorno Wine + JDK** para volver a validar en ejecucion
+   (los pasos estan en las secciones 18/19). El `.fs` y `core.assets` estan
+   verificados estaticamente, pero la prueba en juego requiere el binario.
+2. Instalar el JDK y reconstruir `core.binary` con `tools/build_all.sh` si se
+   cambia alguna clase `patch/game27/*` (no fue el caso esta sesion).
+3. Continuar la pasada de coherencia de nombres propios.
