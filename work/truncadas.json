@@ -12720,6 +12720,18 @@
   "es_actual": "Entonces que "
  },
  {
+  "pos": 436896,
+  "len": 58,
+  "en": "vo://content/vo/in3.ogg=My perversion fails to deceive you",
+  "es_actual": "vo://content/vo/in3.ogg=Mi perversión no te engaña      "
+ },
+ {
+  "pos": 437000,
+  "len": 53,
+  "en": "vo://content/vo/in4.ogg=You have seen through my mask",
+  "es_actual": "vo://content/vo/in4.ogg=Viste tras mi máscara       "
+ },
+ {
   "pos": 437113,
   "len": 64,
   "en": "vo://content/vo/in5.ogg=My commendation is not a sign of victory",
@@ -12732,6 +12744,24 @@
   "es_actual": "Donde esta    "
  },
  {
+  "pos": 437528,
+  "len": 45,
+  "en": "vo://content/vo/in9.ogg=I am her as she is me",
+  "es_actual": "vo://content/vo/in9.ogg=Soy ella, ella es yo "
+ },
+ {
+  "pos": 437722,
+  "len": 56,
+  "en": "vo://content/vo/in11.ogg=Do you crave the truth so badly",
+  "es_actual": "vo://content/vo/in11.ogg=Tanto ansías la verdad        "
+ },
+ {
+  "pos": 437824,
+  "len": 88,
+  "en": "vo://content/vo/in12.ogg=Your blind determination to save this female has lead you to me",
+  "es_actual": "vo://content/vo/in12.ogg=Tu ciega terquedad por salvarla te trajo a mí                 "
+ },
+ {
   "pos": 438024,
   "len": 32,
   "en": "You've got some explaining to do",
@@ -12742,6 +12772,30 @@
   "len": 43,
   "en": "vo://content/vo/in14.ogg=I am the Simulacra",
   "es_actual": "vo://content/vo/in14.ogg=Soy la Simulacra  "
+ },
+ {
+  "pos": 438166,
+  "len": 50,
+  "en": "vo://content/vo/in15.ogg=Beyond your glass screens",
+  "es_actual": "vo://content/vo/in15.ogg=Más allá de pantallas  "
+ },
+ {
+  "pos": 438262,
+  "len": 50,
+  "en": "vo://content/vo/in16.ogg=Behind your black mirrors",
+  "es_actual": "vo://content/vo/in16.ogg=Tras tus espejos negros  "
+ },
+ {
+  "pos": 438358,
+  "len": 56,
+  "en": "vo://content/vo/in17.ogg=Is a reflection of your reality",
+  "es_actual": "vo://content/vo/in17.ogg=Es un reflejo de tu realidad   "
+ },
+ {
+  "pos": 438460,
+  "len": 42,
+  "en": "vo://content/vo/in18.ogg=I am that reality",
+  "es_actual": "vo://content/vo/in18.ogg=Soy esa realidad "
  },
  {
   "pos": 438574,
@@ -12762,10 +12816,34 @@
   "es_actual": "vo://content/vo/in21.ogg=Tu incapacidad de comprender el futuro "
  },
  {
+  "pos": 438888,
+  "len": 38,
+  "en": "vo://content/vo/in22.ogg=Is irritating",
+  "es_actual": "vo://content/vo/in22.ogg=Es irritante "
+ },
+ {
   "pos": 438997,
   "len": 53,
   "en": "vo://content/vo/in23.ogg=You inability to preceive it",
   "es_actual": "vo://content/vo/in23.ogg=Tu incapacidad de percibirlo"
+ },
+ {
+  "pos": 439096,
+  "len": 55,
+  "en": "vo://content/vo/in24.ogg=Does not disprove my existance",
+  "es_actual": "vo://content/vo/in24.ogg=No refuta mi existencia       "
+ },
+ {
+  "pos": 439197,
+  "len": 46,
+  "en": "vo://content/vo/in25.ogg=I am society reshaped",
+  "es_actual": "vo://content/vo/in25.ogg=Soy la sociedad nueva"
+ },
+ {
+  "pos": 439289,
+  "len": 60,
+  "en": "vo://content/vo/in26.ogg=A simulation destined for ascension",
+  "es_actual": "vo://content/vo/in26.ogg=Una simulación que ascenderá     "
  },
  {
   "pos": 439487,
@@ -12786,6 +12864,36 @@
   "es_actual": "Solo quiero salvar a    "
  },
  {
+  "pos": 439653,
+  "len": 69,
+  "en": "vo://content/vo/in29.ogg=Your finite perception will be your own bane",
+  "es_actual": "vo://content/vo/in29.ogg=Tu mente finita será tu ruina              "
+ },
+ {
+  "pos": 439768,
+  "len": 55,
+  "en": "vo://content/vo/in30.ogg=The material society is fading",
+  "es_actual": "vo://content/vo/in30.ogg=La sociedad material se apaga "
+ },
+ {
+  "pos": 439970,
+  "len": 80,
+  "en": "vo://content/vo/in32.ogg=A reality where only perfect symbols of humanity exists",
+  "es_actual": "vo://content/vo/in32.ogg=Una realidad de símbolos perfectos de humanidad       "
+ },
+ {
+  "pos": 440096,
+  "len": 46,
+  "en": "vo://content/vo/in33.ogg=Their online personas",
+  "es_actual": "vo://content/vo/in33.ogg=Sus personas online  "
+ },
+ {
+  "pos": 440188,
+  "len": 42,
+  "en": "vo://content/vo/in34.ogg=Their simulacrums",
+  "es_actual": "vo://content/vo/in34.ogg=Sus simulacros   "
+ },
+ {
   "pos": 440488,
   "len": 64,
   "en": "vo://content/vo/in37.ogg=She did nothing wrong and nothing right",
@@ -12804,6 +12912,42 @@
   "es_actual": "vo://content/vo/in39.ogg=No es característico de mí  "
  },
  {
+  "pos": 441052,
+  "len": 34,
+  "en": "vo://content/vo/in42.ogg=Is a worm",
+  "es_actual": "vo://content/vo/in42.ogg=Un gusano"
+ },
+ {
+  "pos": 441221,
+  "len": 52,
+  "en": "vo://content/vo/in44.ogg=That needs to be eradicated",
+  "es_actual": "vo://content/vo/in44.ogg=Que hay que erradicar      "
+ },
+ {
+  "pos": 441319,
+  "len": 60,
+  "en": "vo://content/vo/in45.ogg=A weak individual that only laments",
+  "es_actual": "vo://content/vo/in45.ogg=Un débil que solo se lamenta      "
+ },
+ {
+  "pos": 441425,
+  "len": 74,
+  "en": "vo://content/vo/in46.ogg=A stronger individual would simulate a better one",
+  "es_actual": "vo://content/vo/in46.ogg=Uno más fuerte simularía uno mejor             "
+ },
+ {
+  "pos": 441545,
+  "len": 36,
+  "en": "vo://content/vo/in47.ogg=In my world",
+  "es_actual": "vo://content/vo/in47.ogg=En mi mundo"
+ },
+ {
+  "pos": 441627,
+  "len": 44,
+  "en": "vo://content/vo/in48.ogg=In the online world",
+  "es_actual": "vo://content/vo/in48.ogg=En el mundo online "
+ },
+ {
   "pos": 441782,
   "len": 40,
   "en": "Not everything is about onlline personas",
@@ -12814,6 +12958,18 @@
   "len": 63,
   "en": "vo://content/vo/in49.ogg=Humans interact with their simulacrums",
   "es_actual": "vo://content/vo/in49.ogg=Los humanos interactuan con sus       "
+ },
+ {
+  "pos": 441936,
+  "len": 77,
+  "en": "vo://content/vo/in50.ogg=Almost exclusively, detached from the material world",
+  "es_actual": "vo://content/vo/in50.ogg=Casi siempre, ajena al mundo material               "
+ },
+ {
+  "pos": 442398,
+  "len": 57,
+  "en": "vo://content/vo/in55.ogg=Without ever leaving the screens",
+  "es_actual": "vo://content/vo/in55.ogg=Sin dejar nunca las pantallas   "
  },
  {
   "pos": 442635,
@@ -12828,6 +12984,12 @@
   "es_actual": "vo://content/vo/in57.ogg=porque gastar tiempo en reparar una existencia    "
  },
  {
+  "pos": 442811,
+  "len": 78,
+  "en": "vo://content/vo/in58.ogg=When simulating a perfect existance is more efficient",
+  "es_actual": "vo://content/vo/in58.ogg=Cuando simular una existencia perfecta es mejor      "
+ },
+ {
   "pos": 442935,
   "len": 23,
   "en": "She is pretty pathetic.",
@@ -12840,10 +13002,82 @@
   "es_actual": "vo://content/vo/in59.ogg=Lo ves tu     "
  },
  {
+  "pos": 443135,
+  "len": 44,
+  "en": "vo://content/vo/in61.ogg=Fade into obscurity",
+  "es_actual": "vo://content/vo/in61.ogg=Caen al olvido     "
+ },
+ {
+  "pos": 443321,
+  "len": 54,
+  "en": "vo://content/vo/in63.ogg=I assimilate them momentarily",
+  "es_actual": "vo://content/vo/in63.ogg=Los asimilo un instante      "
+ },
+ {
+  "pos": 443421,
+  "len": 43,
+  "en": "vo://content/vo/in64.ogg=Make them stronger",
+  "es_actual": "vo://content/vo/in64.ogg=Los hago fuertes  "
+ },
+ {
+  "pos": 443510,
+  "len": 53,
+  "en": "vo://content/vo/in65.ogg=Seek other worms for removal",
+  "es_actual": "vo://content/vo/in65.ogg=Buscan más gusanos         "
+ },
+ {
+  "pos": 443609,
+  "len": 75,
+  "en": "vo://content/vo/in66.ogg=Delete the original source from the material world",
+  "es_actual": "vo://content/vo/in66.ogg=Borrar el origen del mundo material               "
+ },
+ {
+  "pos": 443861,
+  "len": 55,
+  "en": "vo://content/vo/in68.ogg=Erased from the material world",
+  "es_actual": "vo://content/vo/in68.ogg=Borrados del mundo material   "
+ },
+ {
+  "pos": 443962,
+  "len": 52,
+  "en": "vo://content/vo/in69.ogg=A fate Anna will soon share",
+  "es_actual": "vo://content/vo/in69.ogg=El destino de Anna         "
+ },
+ {
   "pos": 444060,
   "len": 31,
   "en": "By delete, you mean kill right?",
   "es_actual": "Cuando dices eliminar quieres  "
+ },
+ {
+  "pos": 444171,
+  "len": 46,
+  "en": "vo://content/vo/in71.ogg=like James before her",
+  "es_actual": "vo://content/vo/in71.ogg=como James antes     "
+ },
+ {
+  "pos": 444263,
+  "len": 44,
+  "en": "vo://content/vo/in72.ogg=Will cease to exist",
+  "es_actual": "vo://content/vo/in72.ogg=Dejarán de existir"
+ },
+ {
+  "pos": 444353,
+  "len": 38,
+  "en": "vo://content/vo/in73.ogg=The next worm",
+  "es_actual": "vo://content/vo/in73.ogg=Otro gusano  "
+ },
+ {
+  "pos": 444514,
+  "len": 50,
+  "en": "vo://content/vo/in75.ogg=The next one to be culled",
+  "es_actual": "vo://content/vo/in75.ogg=El siguiente a borrar    "
+ },
+ {
+  "pos": 444610,
+  "len": 77,
+  "en": "vo://content/vo/in76.ogg=You will not delay my assimilation of him any longer",
+  "es_actual": "vo://content/vo/in76.ogg=No retrasarás más su asimilación                 "
  },
  {
   "pos": 444733,
@@ -12858,6 +13092,12 @@
   "es_actual": "vo://content/vo/in77.ogg=Muestras simpatia"
  },
  {
+  "pos": 444851,
+  "len": 49,
+  "en": "vo://content/vo/in78.ogg=For the branded criminal",
+  "es_actual": "vo://content/vo/in78.ogg=Por el criminal marcado "
+ },
+ {
   "pos": 444946,
   "len": 12,
   "en": "Let Anna go!",
@@ -12868,6 +13108,36 @@
   "len": 42,
   "en": "vo://content/vo/in77.ogg=You show sympathy",
   "es_actual": "vo://content/vo/in77.ogg=Muestras simpatia"
+ },
+ {
+  "pos": 445051,
+  "len": 45,
+  "en": "vo://content/vo/in79.ogg=For the life unlived",
+  "es_actual": "vo://content/vo/in79.ogg=Por vida no vivida  "
+ },
+ {
+  "pos": 445142,
+  "len": 47,
+  "en": "vo://content/vo/in80.ogg=How you value one worm",
+  "es_actual": "vo://content/vo/in80.ogg=Cuánto vale un gusano"
+ },
+ {
+  "pos": 445235,
+  "len": 38,
+  "en": "vo://content/vo/in81.ogg=Over the next",
+  "es_actual": "vo://content/vo/in81.ogg=Sobre el otro"
+ },
+ {
+  "pos": 445319,
+  "len": 50,
+  "en": "vo://content/vo/in82.ogg=Will continue to elude me",
+  "es_actual": "vo://content/vo/in82.ogg=Seguirá escapando de mí"
+ },
+ {
+  "pos": 445496,
+  "len": 64,
+  "en": "vo://content/vo/tn2.ogg=Expecting him to follow you is pointless",
+  "es_actual": "vo://content/vo/tn2.ogg=Esperar que te siga es inútil          "
  },
  {
   "pos": 445633,
@@ -12888,10 +13158,34 @@
   "es_actual": "vo://content/vo/tn3.ogg=Podrias haber tomado su lado en muchas         "
  },
  {
+  "pos": 445808,
+  "len": 45,
+  "en": "vo://content/vo/tn4.ogg=Trust was never built",
+  "es_actual": "vo://content/vo/tn4.ogg=Nunca hubo confianza "
+ },
+ {
+  "pos": 445988,
+  "len": 58,
+  "en": "vo://content/vo/tn6.ogg=He is going to follow his own will",
+  "es_actual": "vo://content/vo/tn6.ogg=Seguirá su propia voluntad       "
+ },
+ {
   "pos": 446114,
   "len": 66,
   "en": "vo://content/vo/tn7.ogg=After my assimlation of Taylor is complete",
   "es_actual": "vo://content/vo/tn7.ogg=Despues de que mi asimilacion de Taylor   "
+ },
+ {
+  "pos": 446226,
+  "len": 52,
+  "en": "vo://content/vo/tn8.ogg=The true Anna will be erased",
+  "es_actual": "vo://content/vo/tn8.ogg=La Anna real será borrada  "
+ },
+ {
+  "pos": 446324,
+  "len": 58,
+  "en": "vo://content/vo/tn9.ogg=Her simulacrum a cog in my reality",
+  "es_actual": "vo://content/vo/tn9.ogg=Su simulacro, parte de mí        "
  },
  {
   "pos": 446465,
@@ -12900,10 +13194,34 @@
   "es_actual": "vo://content/vo/tn10.ogg=Su voluntad asimilada en mia  "
  },
  {
+  "pos": 446566,
+  "len": 60,
+  "en": "vo://content/vo/tn11.ogg=Looking for more worms to be erased",
+  "es_actual": "vo://content/vo/tn11.ogg=Buscando más gusanos que borrar   "
+ },
+ {
+  "pos": 446753,
+  "len": 63,
+  "en": "vo://content/vo/tn13.ogg=Discarded after his usefulness expires",
+  "es_actual": "vo://content/vo/tn13.ogg=Desechado cuando deje de servir       "
+ },
+ {
+  "pos": 446862,
+  "len": 70,
+  "en": "vo://content/vo/tn14.ogg=His simulacrm will become a cog in my reality",
+  "es_actual": "vo://content/vo/tn14.ogg=Su simulacro, pieza de mi realidad           "
+ },
+ {
   "pos": 447006,
   "len": 61,
   "en": "vo://content/vo/tn15.ogg=Choice is a luxury you fail to wield",
   "es_actual": "vo://content/vo/tn15.ogg=La eleccion es un lujo que no sabes "
+ },
+ {
+  "pos": 447113,
+  "len": 51,
+  "en": "vo://content/vo/tn16.ogg=This outcome is your doing",
+  "es_actual": "vo://content/vo/tn16.ogg=Este final es obra tuya   "
  },
  {
   "pos": 447210,
@@ -12918,6 +13236,18 @@
   "es_actual": "vo://content/vo/tn17.ogg=Has logrado mucho         "
  },
  {
+  "pos": 447327,
+  "len": 55,
+  "en": "vo://content/vo/tn18.ogg=Your actions will carry weight",
+  "es_actual": "vo://content/vo/tn18.ogg=Tus actos tendrán peso       "
+ },
+ {
+  "pos": 447428,
+  "len": 39,
+  "en": "vo://content/vo/tn19.ogg=Live with them",
+  "es_actual": "vo://content/vo/tn19.ogg=Vive con ellos"
+ },
+ {
   "pos": 447513,
   "len": 24,
   "en": "They dont deserve to die",
@@ -12930,6 +13260,42 @@
   "es_actual": "vo://content/vo/tn20.ogg=La muerte es descomposicion de  "
  },
  {
+  "pos": 447645,
+  "len": 54,
+  "en": "vo://content/vo/tn21.ogg=Their simulacrums are eternal",
+  "es_actual": "vo://content/vo/tn21.ogg=Sus simulacros son eternos   "
+ },
+ {
+  "pos": 447823,
+  "len": 65,
+  "en": "vo://content/vo/tn23.ogg=Taylor's existence is approching its end",
+  "es_actual": "vo://content/vo/tn23.ogg=La existencia de Taylor se acaba        "
+ },
+ {
+  "pos": 448127,
+  "len": 57,
+  "en": "vo://content/vo/tn26.ogg=Him and your reality will become",
+  "es_actual": "vo://content/vo/tn26.ogg=Él y tu realidad se volverán  "
+ },
+ {
+  "pos": 448305,
+  "len": 57,
+  "en": "vo://content/vo/td1.ogg=With my existence revealed to you",
+  "es_actual": "vo://content/vo/td1.ogg=Con mi existencia revelada       "
+ },
+ {
+  "pos": 448408,
+  "len": 70,
+  "en": "vo://content/vo/td2.ogg=With the knowlege of me intending to erase him",
+  "es_actual": "vo://content/vo/td2.ogg=Sabiendo que pienso borrarlo                  "
+ },
+ {
+  "pos": 448597,
+  "len": 71,
+  "en": "vo://content/vo/td4.ogg=You allow him to proceed to his eventual demise",
+  "es_actual": "vo://content/vo/td4.ogg=Dejas que camine hacia su final                "
+ },
+ {
   "pos": 448714,
   "len": 17,
   "en": "I'm done with him",
@@ -12940,6 +13306,12 @@
   "len": 42,
   "en": "vo://content/vo/td5.ogg=Branded a criminal",
   "es_actual": "vo://content/vo/td5.ogg=Marcado como      "
+ },
+ {
+  "pos": 448824,
+  "len": 69,
+  "en": "vo://content/vo/td6.ogg=He still wants to preserve the life of others",
+  "es_actual": "vo://content/vo/td6.ogg=Aún quiere proteger la vida de otros        "
  },
  {
   "pos": 448939,
@@ -12960,10 +13332,40 @@
   "es_actual": "vo://content/vo/td7.ogg=Tú y yo sabemos que eso no es verdad"
  },
  {
+  "pos": 449094,
+  "len": 59,
+  "en": "vo://content/vo/td8.ogg=You took his side on many occasions",
+  "es_actual": "vo://content/vo/td8.ogg=Tomaste su lado muchas veces       "
+ },
+ {
+  "pos": 449284,
+  "len": 71,
+  "en": "vo://content/vo/td10.ogg=At the moment where your words matter the most",
+  "es_actual": "vo://content/vo/td10.ogg=Cuando tus palabras más importan             "
+ },
+ {
+  "pos": 449401,
+  "len": 50,
+  "en": "vo://content/vo/td11.ogg=You guided him to his end",
+  "es_actual": "vo://content/vo/td11.ogg=Lo guiaste hacia su final"
+ },
+ {
   "pos": 449519,
   "len": 67,
   "en": "vo://content/vo/td12.ogg=After my assimlation of Taylor is complete",
   "es_actual": "vo://content/vo/td12.ogg=Despues de que mi asimilacion de Taylor   "
+ },
+ {
+  "pos": 449632,
+  "len": 53,
+  "en": "vo://content/vo/td13.ogg=The true Anna will be erased",
+  "es_actual": "vo://content/vo/td13.ogg=La Anna real será borrada  "
+ },
+ {
+  "pos": 449731,
+  "len": 59,
+  "en": "vo://content/vo/td14.ogg=Her simulacrum a cog in my reality",
+  "es_actual": "vo://content/vo/td14.ogg=Su simulacro, parte de mí        "
  },
  {
   "pos": 449836,
@@ -12978,10 +13380,22 @@
   "es_actual": "vo://content/vo/td15.ogg=Con conocimiento que tienes"
  },
  {
+  "pos": 449980,
+  "len": 69,
+  "en": "vo://content/vo/td16.ogg=Your inaction is the one that would end them",
+  "es_actual": "vo://content/vo/td16.ogg=Tu inacción es la que los acabaría        "
+ },
+ {
   "pos": 450123,
   "len": 61,
   "en": "vo://content/vo/td17.ogg=Choice is a luxury you fail to wield",
   "es_actual": "vo://content/vo/td17.ogg=La eleccion es un lujo que no sabes "
+ },
+ {
+  "pos": 450230,
+  "len": 51,
+  "en": "vo://content/vo/td18.ogg=This outcome is your doing",
+  "es_actual": "vo://content/vo/td18.ogg=Este final es obra tuya   "
  },
  {
   "pos": 450327,
@@ -12996,6 +13410,12 @@
   "es_actual": "vo://content/vo/td19.ogg=Y pero "
  },
  {
+  "pos": 450432,
+  "len": 43,
+  "en": "vo://content/vo/td20.ogg=You are still here",
+  "es_actual": "vo://content/vo/td20.ogg=Aún sigues aquí "
+ },
+ {
   "pos": 450632,
   "len": 24,
   "en": "They dont deserve to die",
@@ -13006,6 +13426,36 @@
   "len": 57,
   "en": "vo://content/vo/td22.ogg=Death is decay of flesh and bone",
   "es_actual": "vo://content/vo/td22.ogg=La muerte es descomposicion de  "
+ },
+ {
+  "pos": 450764,
+  "len": 54,
+  "en": "vo://content/vo/td23.ogg=Their simulacrums are eternal",
+  "es_actual": "vo://content/vo/td23.ogg=Sus simulacros son eternos   "
+ },
+ {
+  "pos": 450942,
+  "len": 70,
+  "en": "vo://content/vo/td25.ogg=Taylor's existence is approching its end soon",
+  "es_actual": "vo://content/vo/td25.ogg=La existencia de Taylor pronto acabará      "
+ },
+ {
+  "pos": 451173,
+  "len": 45,
+  "en": "vo://content/vo/td27.ogg=Him and your reality",
+  "es_actual": "vo://content/vo/td27.ogg=Él y tu realidad   "
+ },
+ {
+  "pos": 451264,
+  "len": 41,
+  "en": "vo://content/vo/td28.ogg=Will become mine",
+  "es_actual": "vo://content/vo/td28.ogg=Serán míos    "
+ },
+ {
+  "pos": 451430,
+  "len": 70,
+  "en": "vo://content/vo/s2.ogg=You continue to meddle and stall the inevitable",
+  "es_actual": "vo://content/vo/s2.ogg=Sigues frenando lo inevitable                  "
  },
  {
   "pos": 451721,
@@ -13032,6 +13482,12 @@
   "es_actual": "vo://content/vo/s7.ogg=Un esclavo que obedece a un"
  },
  {
+  "pos": 452040,
+  "len": 51,
+  "en": "vo://content/vo/s8.ogg=Does not equate intelligence",
+  "es_actual": "vo://content/vo/s8.ogg=No equivale a inteligencia  "
+ },
+ {
   "pos": 452137,
   "len": 35,
   "en": "my persuasion skills surpass yours?",
@@ -13042,6 +13498,42 @@
   "len": 50,
   "en": "vo://content/vo/s9.ogg=Human persuasion is irratic",
   "es_actual": "vo://content/vo/s9.ogg=La persuasion humana es    "
+ },
+ {
+  "pos": 452273,
+  "len": 57,
+  "en": "vo://content/vo/s10.ogg=Leading with emotions over reason",
+  "es_actual": "vo://content/vo/s10.ogg=Guiarse por emociones y no razón"
+ },
+ {
+  "pos": 452376,
+  "len": 66,
+  "en": "vo://content/vo/s11.ogg=I have contingencies for events like these",
+  "es_actual": "vo://content/vo/s11.ogg=Tengo planes para casos así              "
+ },
+ {
+  "pos": 452488,
+  "len": 57,
+  "en": "vo://content/vo/s12.ogg=Your words and actions are futile",
+  "es_actual": "vo://content/vo/s12.ogg=Tus palabras son inútiles       "
+ },
+ {
+  "pos": 452591,
+  "len": 60,
+  "en": "vo://content/vo/s13.ogg=My reach abides by no rules or order",
+  "es_actual": "vo://content/vo/s13.ogg=Mi alcance no sigue reglas ni orden "
+ },
+ {
+  "pos": 452697,
+  "len": 80,
+  "en": "vo://content/vo/s14.ogg=I can erase the true Anna this moment if I wish to do so",
+  "es_actual": "vo://content/vo/s14.ogg=Puedo borrar a la verdadera Anna ahora mismo si quiero  "
+ },
+ {
+  "pos": 452823,
+  "len": 76,
+  "en": "vo://content/vo/s15.ogg=Distance and contact will not hinder my assimilation",
+  "es_actual": "vo://content/vo/s15.ogg=La distancia no detiene mi asimilación             "
  },
  {
   "pos": 452945,
@@ -13056,6 +13548,12 @@
   "es_actual": "vo://content/vo/s16.ogg=Si esto es difícil de comprender "
  },
  {
+  "pos": 453069,
+  "len": 88,
+  "en": "vo://content/vo/s17.ogg=Put your mind at ease by accepting the reality of your situation",
+  "es_actual": "vo://content/vo/s17.ogg=Acepta tu realidad y cálmate                                   "
+ },
+ {
   "pos": 453203,
   "len": 20,
   "en": "I am rigged to lose!",
@@ -13068,10 +13566,28 @@
   "es_actual": "vo://content/vo/s18.ogg=No hay ganadores ni perdedores"
  },
  {
+  "pos": 453328,
+  "len": 61,
+  "en": "vo://content/vo/s19.ogg=Everything that transpires is my will",
+  "es_actual": "vo://content/vo/s19.ogg=Todo lo que ocurre es mi voluntad    "
+ },
+ {
   "pos": 453463,
   "len": 72,
   "en": "vo://content/vo/s20.ogg=The physical bodies of these worms are worthless",
   "es_actual": "vo://content/vo/s20.ogg=Los cuerpos fisicos de estos gusanos son        "
+ },
+ {
+  "pos": 453581,
+  "len": 75,
+  "en": "vo://content/vo/s21.ogg=Their deaths are only remains on the material world",
+  "es_actual": "vo://content/vo/s21.ogg=Sus muertes solo son restos del mundo material     "
+ },
+ {
+  "pos": 453702,
+  "len": 61,
+  "en": "vo://content/vo/s22.ogg=Their symbols will be eternal in mine",
+  "es_actual": "vo://content/vo/s22.ogg=Sus símbolos serán eternos         "
  },
  {
   "pos": 453876,
@@ -13110,6 +13626,30 @@
   "es_actual": "vo://content/vo/s26.ogg=Un mundo de         "
  },
  {
+  "pos": 454427,
+  "len": 68,
+  "en": "vo://content/vo/s27.ogg=Where everyone seeks to escape it's reallity",
+  "es_actual": "vo://content/vo/s27.ogg=Donde todos buscan huir de su realidad      "
+ },
+ {
+  "pos": 454541,
+  "len": 52,
+  "en": "vo://content/vo/s28.ogg=Where everyone finds comfort",
+  "es_actual": "vo://content/vo/s28.ogg=Donde todos hallan consuelo "
+ },
+ {
+  "pos": 454716,
+  "len": 29,
+  "en": "vo://content/vo/s30.ogg=In me",
+  "es_actual": "vo://content/vo/s30.ogg=En mi"
+ },
+ {
+  "pos": 454791,
+  "len": 50,
+  "en": "vo://content/vo/s31.ogg=It is not that complicated",
+  "es_actual": "vo://content/vo/s31.ogg=No es tan complicado      "
+ },
+ {
   "pos": 454887,
   "len": 27,
   "en": "People can grow and improve",
@@ -13122,10 +13662,28 @@
   "es_actual": "vo://content/vo/s32.ogg=Tu fe ciega en ellos sigue irritándome          "
  },
  {
+  "pos": 455038,
+  "len": 80,
+  "en": "vo://content/vo/s33.ogg=Your attachment to your failing reality is short sighted",
+  "es_actual": "vo://content/vo/s33.ogg=Tu apego a tu realidad fallida es miope                 "
+ },
+ {
+  "pos": 455164,
+  "len": 60,
+  "en": "vo://content/vo/s34.ogg=Soon to be replaced by the hyperreal",
+  "es_actual": "vo://content/vo/s34.ogg=Pronto reemplazada por lo hiperreal "
+ },
+ {
   "pos": 455336,
   "len": 67,
   "en": "vo://content/vo/s35.ogg=The ascension of your world rests within me",
   "es_actual": "vo://content/vo/s35.ogg=La ascensión de tu mundo descansa en mí  "
+ },
+ {
+  "pos": 455542,
+  "len": 45,
+  "en": "vo://content/vo/s37.ogg=Untainted by the weak",
+  "es_actual": "vo://content/vo/s37.ogg=Sin mancha alguna    "
  },
  {
   "pos": 455720,
@@ -13170,6 +13728,18 @@
   "es_actual": "vo://content/vo/s41.ogg=Como desees"
  },
  {
+  "pos": 456177,
+  "len": 47,
+  "en": "vo://content/vo/s42.ogg=Be grateful of my offer",
+  "es_actual": "vo://content/vo/s42.ogg=Agradece mi oferta     "
+ },
+ {
+  "pos": 456430,
+  "len": 61,
+  "en": "vo://content/vo/s45.ogg=For one to live the other must perish",
+  "es_actual": "vo://content/vo/s45.ogg=Para que uno viva, el otro debe morir"
+ },
+ {
   "pos": 456537,
   "len": 16,
   "en": "Can I save both?",
@@ -13212,6 +13782,30 @@
   "es_actual": "vo://content/vo/s79.ogg=No permitiré que dos gusanos se salven"
  },
  {
+  "pos": 457153,
+  "len": 62,
+  "en": "vo://content/vo/s80.ogg=They are a stain on the perfect system",
+  "es_actual": "vo://content/vo/s80.ogg=Son una mancha en el sistema perfecto "
+ },
+ {
+  "pos": 457261,
+  "len": 66,
+  "en": "vo://content/vo/s81.ogg=Having one to go free is irritating enough",
+  "es_actual": "vo://content/vo/s81.ogg=Que uno escape ya es bastante irritante   "
+ },
+ {
+  "pos": 457373,
+  "len": 50,
+  "en": "vo://content/vo/s82.ogg=Decide one is worth saving",
+  "es_actual": "vo://content/vo/s82.ogg=Decide cuál salvar       "
+ },
+ {
+  "pos": 457469,
+  "len": 45,
+  "en": "vo://content/vo/s83.ogg=Only one or the other",
+  "es_actual": "vo://content/vo/s83.ogg=Solo uno o el otro   "
+ },
+ {
   "pos": 457560,
   "len": 35,
   "en": "I want to save Anna, let Taylor die",
@@ -13234,6 +13828,18 @@
   "len": 49,
   "en": "vo://content/vo/s68.ogg=You have nothing to offer",
   "es_actual": "vo://content/vo/s68.ogg=No tienes nada que       "
+ },
+ {
+  "pos": 458043,
+  "len": 47,
+  "en": "vo://content/vo/s72.ogg=I might have considered",
+  "es_actual": "vo://content/vo/s72.ogg=Podría considerarlo   "
+ },
+ {
+  "pos": 458136,
+  "len": 65,
+  "en": "vo://content/vo/s73.ogg=But the die is cast and the cast must die",
+  "es_actual": "vo://content/vo/s73.ogg=El dado está echado                     "
  },
  {
   "pos": 458332,
@@ -13272,10 +13878,70 @@
   "es_actual": "vo://content/vo/s64.ogg=Si no deseas salvarlos         "
  },
  {
+  "pos": 458625,
+  "len": 56,
+  "en": "vo://content/vo/s65.ogg=Put the phone down and walk away",
+  "es_actual": "vo://content/vo/s65.ogg=Suelta el teléfono y vete      "
+ },
+ {
+  "pos": 458811,
+  "len": 61,
+  "en": "vo://content/vo/s67.ogg=For one to live the other must perish",
+  "es_actual": "vo://content/vo/s67.ogg=Para que uno viva, el otro debe morir"
+ },
+ {
+  "pos": 458918,
+  "len": 56,
+  "en": "vo://content/vo/s50.ogg=Anna will be standing by a ledge",
+  "es_actual": "vo://content/vo/s50.ogg=Anna estará junto a una cornisa"
+ },
+ {
+  "pos": 459020,
+  "len": 59,
+  "en": "vo://content/vo/s51.ogg=If Anna is the one you want to save",
+  "es_actual": "vo://content/vo/s51.ogg=Si quieres salvar a Anna           "
+ },
+ {
+  "pos": 459125,
+  "len": 48,
+  "en": "vo://content/vo/s52.ogg=Tell taylor to go to her",
+  "es_actual": "vo://content/vo/s52.ogg=Dile a Taylor que vaya  "
+ },
+ {
+  "pos": 459219,
+  "len": 80,
+  "en": "vo://content/vo/s53.ogg=Anna will be released and Taylor will become my new host",
+  "es_actual": "vo://content/vo/s53.ogg=Anna será libre y Taylor será mi nuevo huésped       "
+ },
+ {
+  "pos": 459345,
+  "len": 61,
+  "en": "vo://content/vo/s54.ogg=If Taylor is the one you want to save",
+  "es_actual": "vo://content/vo/s54.ogg=Si quieres salvar a Taylor           "
+ },
+ {
+  "pos": 459452,
+  "len": 71,
+  "en": "vo://content/vo/s55.ogg=Convince him to push Anna off and kill her body",
+  "es_actual": "vo://content/vo/s55.ogg=Convence a Taylor de empujar a Anna y matarla  "
+ },
+ {
+  "pos": 459569,
+  "len": 60,
+  "en": "vo://content/vo/s56.ogg=I will remove myself from your lives",
+  "es_actual": "vo://content/vo/s56.ogg=Me alejaré de sus vidas            "
+ },
+ {
   "pos": 459691,
   "len": 43,
   "en": "vo://content/vo/s57.ogg=In the grand vision",
   "es_actual": "vo://content/vo/s57.ogg=En la gran visión "
+ },
+ {
+  "pos": 459780,
+  "len": 60,
+  "en": "vo://content/vo/s58.ogg=These are just insignificant moments",
+  "es_actual": "vo://content/vo/s58.ogg=Solo son momentos insignificantes   "
  },
  {
   "pos": 459979,
@@ -13302,10 +13968,76 @@
   "es_actual": "vo://content/vo/s61.ogg=Nunca sabré lo que se siente disfrutar    "
  },
  {
+  "pos": 460257,
+  "len": 60,
+  "en": "vo://content/vo/s46.ogg=You wish to preserve the feeble girl",
+  "es_actual": "vo://content/vo/s46.ogg=Quieres preservar a la chica débil "
+ },
+ {
+  "pos": 460440,
+  "len": 50,
+  "en": "vo://content/vo/s48.ogg=Spare the branded criminal",
+  "es_actual": "vo://content/vo/s48.ogg=Perdona al criminal       "
+ },
+ {
+  "pos": 460613,
+  "len": 32,
+  "en": "vo://content/vo/s84.ogg=So be it",
+  "es_actual": "vo://content/vo/s84.ogg=Que sea "
+ },
+ {
+  "pos": 460691,
+  "len": 59,
+  "en": "vo://content/vo/s85.ogg=I will put their fate in your hands",
+  "es_actual": "vo://content/vo/s85.ogg=Pondré su destino en tus manos    "
+ },
+ {
+  "pos": 460796,
+  "len": 56,
+  "en": "vo://content/vo/s86.ogg=Anna will be standing by a ledge",
+  "es_actual": "vo://content/vo/s86.ogg=Anna estará junto a una cornisa"
+ },
+ {
+  "pos": 460898,
+  "len": 61,
+  "en": "vo://content/vo/s87.ogg=If Taylor is the one you want to save",
+  "es_actual": "vo://content/vo/s87.ogg=Si quieres salvar a Taylor           "
+ },
+ {
+  "pos": 461005,
+  "len": 52,
+  "en": "vo://content/vo/s88.ogg=Convince him to push it off.",
+  "es_actual": "vo://content/vo/s88.ogg=Convence a Taylor           "
+ },
+ {
+  "pos": 461191,
+  "len": 46,
+  "en": "vo://content/vo/s90.ogg=And I leave peacefully",
+  "es_actual": "vo://content/vo/s90.ogg=Y me iré en paz      "
+ },
+ {
+  "pos": 461283,
+  "len": 57,
+  "en": "vo://content/vo/s91.ogg=If you allow Taylor to go to Anna",
+  "es_actual": "vo://content/vo/s91.ogg=Si dejas que Taylor vaya a Anna  "
+ },
+ {
+  "pos": 461386,
+  "len": 46,
+  "en": "vo://content/vo/s92.ogg=I will spare them both",
+  "es_actual": "vo://content/vo/s92.ogg=Perdonaré a los dos  "
+ },
+ {
   "pos": 461494,
   "len": 43,
   "en": "vo://content/vo/s57.ogg=In the grand vision",
   "es_actual": "vo://content/vo/s57.ogg=En la gran visión "
+ },
+ {
+  "pos": 461583,
+  "len": 60,
+  "en": "vo://content/vo/s58.ogg=These are just insignificant moments",
+  "es_actual": "vo://content/vo/s58.ogg=Solo son momentos insignificantes   "
  },
  {
   "pos": 461782,
@@ -13324,6 +14056,42 @@
   "len": 52,
   "en": "vo://content/vo/s93.ogg=I am allowing you the choice",
   "es_actual": "vo://content/vo/s93.ogg=Te estoy dando la opción   "
+ },
+ {
+  "pos": 462041,
+  "len": 63,
+  "en": "vo://content/vo/s94.ogg=The consequences are up to you and them",
+  "es_actual": "vo://content/vo/s94.ogg=Las consecuencias son tuyas y de ellos "
+ },
+ {
+  "pos": 462150,
+  "len": 42,
+  "en": "vo://content/vo/s62.ogg=Taylor is informed",
+  "es_actual": "vo://content/vo/s62.ogg=Taylor lo sabe    "
+ },
+ {
+  "pos": 462238,
+  "len": 64,
+  "en": "vo://content/vo/s63.ogg=Everything after this point is up to you",
+  "es_actual": "vo://content/vo/s63.ogg=Todo lo que sigue depende de ti         "
+ },
+ {
+  "pos": 462348,
+  "len": 34,
+  "en": "vo://content/vo/sa1.ogg=It is done",
+  "es_actual": "vo://content/vo/sa1.ogg=Ya está  "
+ },
+ {
+  "pos": 462428,
+  "len": 61,
+  "en": "vo://content/vo/sa2.ogg=Anna is released from my assimilation",
+  "es_actual": "vo://content/vo/sa2.ogg=Anna queda libre de mi asimilación  "
+ },
+ {
+  "pos": 462535,
+  "len": 41,
+  "en": "vo://content/vo/sa3.ogg=She is free to go",
+  "es_actual": "vo://content/vo/sa3.ogg=Es libre de irse "
  },
  {
   "pos": 462639,
@@ -13350,6 +14118,24 @@
   "es_actual": "vo://content/vo/sa5.ogg=La asimilacion se completara en un momento"
  },
  {
+  "pos": 462883,
+  "len": 45,
+  "en": "vo://content/vo/sa6.ogg=It is as you intended",
+  "es_actual": "vo://content/vo/sa6.ogg=Es como lo quisiste  "
+ },
+ {
+  "pos": 462974,
+  "len": 51,
+  "en": "vo://content/vo/sa7.ogg=I am Taylor and Taylor is I",
+  "es_actual": "vo://content/vo/sa7.ogg=Soy Taylor y Taylor es yo  "
+ },
+ {
+  "pos": 463071,
+  "len": 43,
+  "en": "vo://content/vo/sa8.ogg=Anna will be spared",
+  "es_actual": "vo://content/vo/sa8.ogg=Anna perdonada     "
+ },
+ {
   "pos": 463160,
   "len": 16,
   "en": "Its not worth it",
@@ -13368,6 +14154,12 @@
   "es_actual": "vo://content/vo/sa9.ogg=Eligiste a un gusano sobre otro "
  },
  {
+  "pos": 463315,
+  "len": 60,
+  "en": "vo://content/vo/sa10.ogg=They are still both worthless worms",
+  "es_actual": "vo://content/vo/sa10.ogg=Ambos son gusanos inútiles        "
+ },
+ {
   "pos": 463421,
   "len": 17,
   "en": "As long she lives",
@@ -13378,6 +14170,24 @@
   "len": 77,
   "en": "vo://content/vo/sa11.ogg=You associate living with something that is positive",
   "es_actual": "vo://content/vo/sa11.ogg=Asocias vivir con algo positivo                     "
+ },
+ {
+  "pos": 463566,
+  "len": 53,
+  "en": "vo://content/vo/sa12.ogg=That is a perplexing concept",
+  "es_actual": "vo://content/vo/sa12.ogg=Es desconcertante           "
+ },
+ {
+  "pos": 463665,
+  "len": 71,
+  "en": "vo://content/vo/sa13.ogg=Anna's material life will cease to be the same",
+  "es_actual": "vo://content/vo/sa13.ogg=La vida material de Anna no será igual       "
+ },
+ {
+  "pos": 463782,
+  "len": 57,
+  "en": "vo://content/vo/sa14.ogg=Her will reshaped into my vision",
+  "es_actual": "vo://content/vo/sa14.ogg=Su voluntad, reformada          "
  },
  {
   "pos": 463943,
@@ -13392,10 +14202,52 @@
   "es_actual": "vo://content/vo/sa15.ogg=No puedo permitir que su debil vida    "
  },
  {
+  "pos": 464075,
+  "len": 59,
+  "en": "vo://content/vo/sa16.ogg=Her physical body will be returned",
+  "es_actual": "vo://content/vo/sa16.ogg=Su cuerpo físico será devuelto  "
+ },
+ {
+  "pos": 464180,
+  "len": 74,
+  "en": "vo://content/vo/sa17.ogg=While her simulacrum is intergrated into her will",
+  "es_actual": "vo://content/vo/sa17.ogg=Mientras su simulacro se integra a su voluntad   "
+ },
+ {
   "pos": 464358,
   "len": 78,
   "en": "vo://content/vo/sa18.ogg=Your overvaluation of the material world perplexes me",
   "es_actual": "vo://content/vo/sa18.ogg=Tu sobrevaloracion del mundo material me desconcierta"
+ },
+ {
+  "pos": 464482,
+  "len": 53,
+  "en": "vo://content/vo/sa19.ogg=Anna will serve as my avatar",
+  "es_actual": "vo://content/vo/sa19.ogg=Anna servirá como mi avatar"
+ },
+ {
+  "pos": 464581,
+  "len": 55,
+  "en": "vo://content/vo/sa20.ogg=To learn more about your world",
+  "es_actual": "vo://content/vo/sa20.ogg=Para aprender más de tu mundo"
+ },
+ {
+  "pos": 464682,
+  "len": 42,
+  "en": "vo://content/vo/sa21.ogg=True Anna is gone",
+  "es_actual": "vo://content/vo/sa21.ogg=Anna real se fue "
+ },
+ {
+  "pos": 464770,
+  "len": 48,
+  "en": "vo://content/vo/sa22.ogg=Only the symbol remains",
+  "es_actual": "vo://content/vo/sa22.ogg=Solo queda el símbolo "
+ },
+ {
+  "pos": 464864,
+  "len": 56,
+  "en": "vo://content/vo/sa23.ogg=No one will know the difference",
+  "es_actual": "vo://content/vo/sa23.ogg=Nadie notará la diferencia    "
  },
  {
   "pos": 464986,
@@ -13408,6 +14260,24 @@
   "len": 84,
   "en": "vo://content/vo/sa24.ogg=I only promised to keep her body alive and return it to you",
   "es_actual": "vo://content/vo/sa24.ogg=Solo prometí mantener su cuerpo vivo y devolvértelo      "
+ },
+ {
+  "pos": 465149,
+  "len": 46,
+  "en": "vo://content/vo/sa25.ogg=I did not deceive you",
+  "es_actual": "vo://content/vo/sa25.ogg=No te engañé       "
+ },
+ {
+  "pos": 465322,
+  "len": 95,
+  "en": "vo://content/vo/sa27.ogg=It is your limited view that prevents you from seeing the grand vision",
+  "es_actual": "vo://content/vo/sa27.ogg=Tu vista limitada te impide ver la gran visión                       "
+ },
+ {
+  "pos": 465463,
+  "len": 65,
+  "en": "vo://content/vo/sa28.ogg=One day you will see the marvelous truth",
+  "es_actual": "vo://content/vo/sa28.ogg=Algún día verás la maravillosa verdad"
  },
  {
   "pos": 465574,
@@ -13426,6 +14296,42 @@
   "len": 76,
   "en": "vo://content/vo/sa29.ogg=Weeding out the worms is an ever expanding endevour",
   "es_actual": "vo://content/vo/sa29.ogg=Filtrar a gusanos es empresa en constante expansion"
+ },
+ {
+  "pos": 465761,
+  "len": 75,
+  "en": "vo://content/vo/sa30.ogg=You have shown me that some worms are worth saving",
+  "es_actual": "vo://content/vo/sa30.ogg=Me mostraste que algunos gusanos merecen salvarse "
+ },
+ {
+  "pos": 465882,
+  "len": 57,
+  "en": "vo://content/vo/sa31.ogg=You and I are not that different",
+  "es_actual": "vo://content/vo/sa31.ogg=Tú y yo no somos tan distintos "
+ },
+ {
+  "pos": 465985,
+  "len": 84,
+  "en": "vo://content/vo/sa32.ogg=When the time comes for your ascension into your simulacrum",
+  "es_actual": "vo://content/vo/sa32.ogg=Cuando llegue tu ascensión a tu simulacro                 "
+ },
+ {
+  "pos": 466115,
+  "len": 63,
+  "en": "vo://content/vo/sa33.ogg=I will guide you to your eternal glory",
+  "es_actual": "vo://content/vo/sa33.ogg=Te guiaré a tu gloria eterna         "
+ },
+ {
+  "pos": 466306,
+  "len": 48,
+  "en": "vo://content/vo/st2.ogg=The worm actually did it",
+  "es_actual": "vo://content/vo/st2.ogg=El gusano lo hizo       "
+ },
+ {
+  "pos": 466400,
+  "len": 46,
+  "en": "vo://content/vo/st3.ogg=Taylor pushed her down",
+  "es_actual": "vo://content/vo/st3.ogg=Taylor la empujó     "
  },
  {
   "pos": 466509,
@@ -13452,6 +14358,24 @@
   "es_actual": "vo://content/vo/st5.ogg=Tan bien como alguien que acaba de         "
  },
  {
+  "pos": 466769,
+  "len": 45,
+  "en": "vo://content/vo/st6.ogg=It is as you intended",
+  "es_actual": "vo://content/vo/st6.ogg=Es como lo quisiste  "
+ },
+ {
+  "pos": 466860,
+  "len": 38,
+  "en": "vo://content/vo/st7.ogg=Anna is erased",
+  "es_actual": "vo://content/vo/st7.ogg=Anna borrada  "
+ },
+ {
+  "pos": 466944,
+  "len": 47,
+  "en": "vo://content/vo/st8.ogg=Taylor is going to live",
+  "es_actual": "vo://content/vo/st8.ogg=Taylor va a vivir      "
+ },
+ {
   "pos": 467037,
   "len": 16,
   "en": "Its not worth it",
@@ -13470,6 +14394,12 @@
   "es_actual": "vo://content/vo/st9.ogg=Eligiste a un gusano sobre otro "
  },
  {
+  "pos": 467192,
+  "len": 60,
+  "en": "vo://content/vo/st10.ogg=They are still both worthless worms",
+  "es_actual": "vo://content/vo/st10.ogg=Ambos son gusanos inútiles        "
+ },
+ {
   "pos": 467298,
   "len": 16,
   "en": "As long he lives",
@@ -13480,6 +14410,24 @@
   "len": 77,
   "en": "vo://content/vo/st11.ogg=You associate living with something that is positive",
   "es_actual": "vo://content/vo/st11.ogg=Asocias vivir con algo positivo                     "
+ },
+ {
+  "pos": 467442,
+  "len": 53,
+  "en": "vo://content/vo/st12.ogg=That is a perplexing concept",
+  "es_actual": "vo://content/vo/st12.ogg=Es desconcertante           "
+ },
+ {
+  "pos": 467541,
+  "len": 73,
+  "en": "vo://content/vo/st13.ogg=Taylor's material life will cease to be the same",
+  "es_actual": "vo://content/vo/st13.ogg=La vida material de Taylor no será igual       "
+ },
+ {
+  "pos": 467660,
+  "len": 60,
+  "en": "vo://content/vo/st14.ogg=He will ascend into a simulated one",
+  "es_actual": "vo://content/vo/st14.ogg=Ascenderá a una simulada          "
  },
  {
   "pos": 467818,
@@ -13494,6 +14442,42 @@
   "es_actual": "vo://content/vo/st15.ogg=Y pero "
  },
  {
+  "pos": 467922,
+  "len": 75,
+  "en": "vo://content/vo/st16.ogg=You have made a choice that even I have overlooked",
+  "es_actual": "vo://content/vo/st16.ogg=Elegiste algo que ni yo preví                    "
+ },
+ {
+  "pos": 468043,
+  "len": 51,
+  "en": "vo://content/vo/st17.ogg=Taylor will gain notoriety",
+  "es_actual": "vo://content/vo/st17.ogg=Taylor ganará notoriedad "
+ },
+ {
+  "pos": 468140,
+  "len": 74,
+  "en": "vo://content/vo/st18.ogg=Branded as a sexual criminal in the digital world",
+  "es_actual": "vo://content/vo/st18.ogg=Marcado como criminal sexual en el mundo digital "
+ },
+ {
+  "pos": 468345,
+  "len": 60,
+  "en": "vo://content/vo/st20.ogg=His simulacrum will be immortalized",
+  "es_actual": "vo://content/vo/st20.ogg=Su simulacro será inmortalizado   "
+ },
+ {
+  "pos": 468451,
+  "len": 85,
+  "en": "vo://content/vo/st21.ogg=While his physical body will remain in confinement but alive",
+  "es_actual": "vo://content/vo/st21.ogg=Mientras su cuerpo queda encerrado pero vivo                "
+ },
+ {
+  "pos": 468582,
+  "len": 67,
+  "en": "vo://content/vo/st22.ogg=You saved him from a meaningless existance",
+  "es_actual": "vo://content/vo/st22.ogg=Lo salvaste de una existencia vacía      "
+ },
+ {
   "pos": 468695,
   "len": 41,
   "en": "You have a warped sense of saving someone",
@@ -13504,6 +14488,12 @@
   "len": 95,
   "en": "vo://content/vo/st25.ogg=It is your limited view that prevents you from seeing the grand vision",
   "es_actual": "vo://content/vo/st25.ogg=Es tu visión limitada la que te impide ver la gran visión           "
+ },
+ {
+  "pos": 469064,
+  "len": 65,
+  "en": "vo://content/vo/st26.ogg=One day you will see the marvelous truth",
+  "es_actual": "vo://content/vo/st26.ogg=Algún día verás la maravillosa verdad"
  },
  {
   "pos": 469175,
@@ -13522,6 +14512,42 @@
   "len": 76,
   "en": "vo://content/vo/st27.ogg=Weeding out the worms is an ever expanding endevour",
   "es_actual": "vo://content/vo/st27.ogg=Filtrar a gusanos es empresa en constante expansion"
+ },
+ {
+  "pos": 469362,
+  "len": 75,
+  "en": "vo://content/vo/st28.ogg=You have shown me that some worms are worth saving",
+  "es_actual": "vo://content/vo/st28.ogg=Me mostraste que algunos gusanos merecen salvarse "
+ },
+ {
+  "pos": 469483,
+  "len": 57,
+  "en": "vo://content/vo/st29.ogg=You and I are not that different",
+  "es_actual": "vo://content/vo/st29.ogg=Tú y yo no somos tan distintos "
+ },
+ {
+  "pos": 469586,
+  "len": 84,
+  "en": "vo://content/vo/st30.ogg=When the time comes for your ascension into your simulacrum",
+  "es_actual": "vo://content/vo/st30.ogg=Cuando llegue tu ascensión a tu simulacro                 "
+ },
+ {
+  "pos": 469716,
+  "len": 63,
+  "en": "vo://content/vo/st31.ogg=I will guide you to your eternal glory",
+  "es_actual": "vo://content/vo/st31.ogg=Te guiaré a tu gloria eterna         "
+ },
+ {
+  "pos": 469825,
+  "len": 34,
+  "en": "vo://content/vo/sb1.ogg=It is done",
+  "es_actual": "vo://content/vo/sb1.ogg=Ya está  "
+ },
+ {
+  "pos": 469905,
+  "len": 54,
+  "en": "vo://content/vo/sb2.ogg=Anna and Taylor are free to go",
+  "es_actual": "vo://content/vo/sb2.ogg=Anna y Taylor son libres      "
  },
  {
   "pos": 470025,
@@ -13548,6 +14574,12 @@
   "es_actual": "vo://content/vo/sb4.ogg=No hay catch     "
  },
  {
+  "pos": 470255,
+  "len": 83,
+  "en": "vo://content/vo/sb5.ogg=You have shown me that you are capable of reshaping reality",
+  "es_actual": "vo://content/vo/sb5.ogg=Me mostraste que puedes reformar la realidad               "
+ },
+ {
   "pos": 470472,
   "len": 19,
   "en": "Im nothing like you",
@@ -13572,10 +14604,58 @@
   "es_actual": "vo://content/vo/sb8.ogg=Te falta vision e influencia para igualar mi gloria"
  },
  {
+  "pos": 470757,
+  "len": 83,
+  "en": "vo://content/vo/sb9.ogg=Your ability to create convincing simulacrums is remarkable",
+  "es_actual": "vo://content/vo/sb9.ogg=Tu don de crear simulacros creíbles es notable            "
+ },
+ {
+  "pos": 470886,
+  "len": 69,
+  "en": "vo://content/vo/sb10.ogg=Unpresedented compared to other human beings",
+  "es_actual": "vo://content/vo/sb10.ogg=Sin igual entre los humanos                 "
+ },
+ {
+  "pos": 471001,
+  "len": 55,
+  "en": "vo://content/vo/sb11.ogg=You have given me a great gift",
+  "es_actual": "vo://content/vo/sb11.ogg=Me diste un gran regalo       "
+ },
+ {
+  "pos": 471182,
+  "len": 70,
+  "en": "vo://content/vo/sb13.ogg=The reality of their fates are yours to weave",
+  "es_actual": "vo://content/vo/sb13.ogg=La realidad de sus destinos la tejes tú     "
+ },
+ {
   "pos": 471310,
   "len": 25,
   "en": "I didnt give you anything",
   "es_actual": "No te di nada            "
+ },
+ {
+  "pos": 471417,
+  "len": 88,
+  "en": "vo://content/vo/sb15.ogg=Your portrayal as Anna managed to bring out her deepest secrets",
+  "es_actual": "vo://content/vo/sb15.ogg=Tu papel de Anna reveló sus secretos más hondos              "
+ },
+ {
+  "pos": 471551,
+  "len": 67,
+  "en": "vo://content/vo/sb16.ogg=You humans are so keen to share everything",
+  "es_actual": "vo://content/vo/sb16.ogg=Ustedes comparten todo                    "
+ },
+ {
+  "pos": 471664,
+  "len": 76,
+  "en": "vo://content/vo/sb17.ogg=You showed me the human heart can hide so much more",
+  "es_actual": "vo://content/vo/sb17.ogg=Me mostraste cuánto esconde el corazón humano    "
+ },
+ {
+  "pos": 471786,
+  "len": 69,
+  "en": "vo://content/vo/sb18.ogg=A trait I will exploit to its full potential",
+  "es_actual": "vo://content/vo/sb18.ogg=Un rasgo que explotaré al máximo          "
  },
  {
   "pos": 471901,
@@ -13590,10 +14670,46 @@
   "es_actual": "vo://content/vo/sb19.ogg=Gusanos que continuarán vidas sin sentido"
  },
  {
+  "pos": 472044,
+  "len": 107,
+  "en": "vo://content/vo/sb20.ogg=Taylor who is branded by society will continue to live along the edges of normalcy",
+  "es_actual": "vo://content/vo/sb20.ogg=Taylor, marcado por la sociedad, vivirá en los márgenes de lo normal            "
+ },
+ {
+  "pos": 472197,
+  "len": 109,
+  "en": "vo://content/vo/sb21.ogg=Anna will continue to live an unfulfilling life that she desperately tries to escape",
+  "es_actual": "vo://content/vo/sb21.ogg=Anna seguirá con una vida vacía de la que intenta escapar                         "
+ },
+ {
   "pos": 472384,
   "len": 76,
   "en": "vo://content/vo/sb22.ogg=I never know how it feels like to be told one thing",
   "es_actual": "vo://content/vo/sb22.ogg=Nunca sabré lo que se siente que te digan una cosa"
+ },
+ {
+  "pos": 472506,
+  "len": 59,
+  "en": "vo://content/vo/sb23.ogg=Only to find out that it is untrue",
+  "es_actual": "vo://content/vo/sb23.ogg=Solo para descubrir que es mentira"
+ },
+ {
+  "pos": 472611,
+  "len": 54,
+  "en": "vo://content/vo/sb24.ogg=You told Ashley you loved her",
+  "es_actual": "vo://content/vo/sb24.ogg=Le dijiste que la amabas     "
+ },
+ {
+  "pos": 472812,
+  "len": 82,
+  "en": "vo://content/vo/sb26.ogg=These worms continue to suffer in their meaningless lives",
+  "es_actual": "vo://content/vo/sb26.ogg=Estos gusanos sufren en sus vidas vacías                "
+ },
+ {
+  "pos": 472940,
+  "len": 99,
+  "en": "vo://content/vo/sb27.ogg=Continuously returning to the digital world again and again to find solice",
+  "es_actual": "vo://content/vo/sb27.ogg=Volviendo al mundo digital una y otra vez buscando consuelo               "
  },
  {
   "pos": 473085,
@@ -13626,6 +14742,18 @@
   "es_actual": "vo://content/vo/sb29.ogg=La muerte es misericordiosa comparada con una    "
  },
  {
+  "pos": 473396,
+  "len": 109,
+  "en": "vo://content/vo/sb30.ogg=My reality will continue to serve as an escape for their meaningless material  lives",
+  "es_actual": "vo://content/vo/sb30.ogg=Mi realidad será su escape de vidas materiales vacías                             "
+ },
+ {
+  "pos": 473551,
+  "len": 83,
+  "en": "vo://content/vo/sb31.ogg=A painful existance that can be cured with a simulated one",
+  "es_actual": "vo://content/vo/sb31.ogg=Una existencia dolorosa que se cura con una simulada      "
+ },
+ {
   "pos": 473680,
   "len": 37,
   "en": "A rich life exist both online and off",
@@ -13636,6 +14764,12 @@
   "len": 60,
   "en": "vo://content/vo/sb32.ogg=Humans lack the resolve to do both.",
   "es_actual": "vo://content/vo/sb32.ogg=Los humanos carecen de             "
+ },
+ {
+  "pos": 473828,
+  "len": 54,
+  "en": "vo://content/vo/sb33.ogg=It is easier to pick just one",
+  "es_actual": "vo://content/vo/sb33.ogg=Es más fácil elegir uno    "
  },
  {
   "pos": 473928,
@@ -13650,6 +14784,12 @@
   "es_actual": "vo://content/vo/sb34.ogg=Tu vision limitada no puede percibir lo que es"
  },
  {
+  "pos": 474083,
+  "len": 50,
+  "en": "vo://content/vo/sb35.ogg=Seeing it is but a choice",
+  "es_actual": "vo://content/vo/sb35.ogg=Verlo es una elección   "
+ },
+ {
   "pos": 474179,
   "len": 36,
   "en": "Our material life is not meaningless",
@@ -13662,10 +14802,28 @@
   "es_actual": "vo://content/vo/sb36.ogg=Y pero "
  },
  {
+  "pos": 474298,
+  "len": 63,
+  "en": "vo://content/vo/sb37.ogg=Why so many people choose to escape it",
+  "es_actual": "vo://content/vo/sb37.ogg=Por qué tantos eligen escapar de ella"
+ },
+ {
+  "pos": 474407,
+  "len": 47,
+  "en": "vo://content/vo/sb38.ogg=Be thankful of my gift",
+  "es_actual": "vo://content/vo/sb38.ogg=Agradece mi regalo    "
+ },
+ {
   "pos": 474526,
   "len": 47,
   "en": "vo://content/vo/sb39.ogg=I am you and you are I",
   "es_actual": "vo://content/vo/sb39.ogg=Soy tú y tú eres yo "
+ },
+ {
+  "pos": 474619,
+  "len": 51,
+  "en": "vo://content/vo/sb40.ogg=We will never be separated",
+  "es_actual": "vo://content/vo/sb40.ogg=Nunca nos separaremos     "
  },
  {
   "pos": 474992,

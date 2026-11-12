@@ -35,6 +35,7 @@ def main():
     strict = '--strict' in sys.argv
 
     VO = load_dict('vo.py', 'VO')
+    CORRUPT = load_dict('corrupt.py', 'CORRUPT')
     RESTO = load_dict('resto.py', 'RESTO')
     NOMBRES = load_dict('nombres.py', 'NOMBRES')
 
@@ -52,8 +53,12 @@ def main():
                 new = t.split('=', 1)[0] + '=' + VO[key]
         elif t.startswith('corrupted://'):
             key = t.split('=', 1)[1] if '=' in t else None
-            if key in VO:
-                new = t.split('=', 1)[0] + '=' + VO[key]
+            if key in CORRUPT:
+                new = t.split('=', 1)[0] + '=' + CORRUPT[key]
+        elif t.startswith('photoroll://'):
+            key = t.split('=', 1)[1].strip() if '=' in t else None
+            if key in RESTO:
+                new = t.split('=', 1)[0] + '= ' + RESTO[key]
         else:
             if t in RESTO:
                 new = RESTO[t]
