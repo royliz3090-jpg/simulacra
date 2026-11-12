@@ -50,9 +50,17 @@ python3 tools/verify_build.py            # -> TODO VALIDADO
 1. **Prefijo de longitud Kryo.** Cada cadena `.fs` lleva 4 bytes big-endian de
    longitud. `fs_fix_keys.py` YA lo reescribe si cambia el tamano; si se escribe
    un `replace` propio, hay que hacerlo o se corrompe la cadena siguiente.
-2. **Truncamientos.** La traduccion base se aplico in-place respetando la
-   longitud en bytes del ingles, dejando cientos de cadenas cortadas. Detectar
-   con: cadena ES de la MISMA longitud en bytes que la EN y que acaba en letra.
+2. **Truncamientos (1033 reparados; cuerpo casi cerrado).** La traduccion base
+   se aplico in-place respetando la longitud en bytes del ingles, dejando cientos
+   de cadenas cortadas. Firma fiable: cadena ES de la MISMA longitud en bytes que
+   la EN + relleno de espacios finales + termina en letra (sin puntuacion). Ficheros
+   `translations/es-LATAM/fixes_truncados4..8.json`, `fixes_nombres_typos.json`,
+   `fixes_localizacion.json`; se aplican en orden con `tools/apply_fs_fixes.py`.
+   Detalle completo en `docs/ESTADO_TRADUCCION.md` §13.
+   OJO: el `git config remote.origin.fetch` de este clon venia estrecho (solo
+   `main`); corregido a `+refs/heads/*:refs/remotes/origin/*` para que
+   `origin/feature/traduccion-es-latam-v2` no quede obsoleto. Comprobar el remoto
+   real con `git ls-remote` o la API, no con `origin/<rama>` a ciegas.
 3. **Wine sin `support.binary`** -> `ClassNotFoundException: DesktopLauncher`.
    El classpath necesita `support.binary` (ZIP) ademas de `core.binary`.
 4. **No usar `--add`** al construir `core.assets` (duplica el miembro
