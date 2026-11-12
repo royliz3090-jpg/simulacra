@@ -32,6 +32,18 @@ import sengine.ui.UIElement;
 import sengine.utils.LoadingMenu;
 
 public class GBMainMenu {
+   // Textos de UI del menu que no viven en el .fs: se eligen en tiempo de
+   // construccion segun el idioma activo (Globals.contentPrefix ya esta fijado
+   // por Grid antes de crear MainMenu).
+   private static boolean es() {
+      return Globals.contentPrefix != null
+         && Globals.contentPrefix.equals(Globals.CONTENT_PREFIX_ES_LATAM);
+   }
+
+   private static String L(String en, String es) {
+      return es() ? es : en;
+   }
+
    public static Animation startAnim(float tDelay) {
       return new SequenceAnim(
          new ScaleAnim(tDelay),
@@ -187,7 +199,7 @@ public class GBMainMenu {
       s.newGameWarningView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.95F).move(0.0F, 0.0F))
-         .text(new Text().font(noticeFont, 3).position(1.0F, -14.0F).text("Are you sure you\nwant to restart ?\nYou will lose your\ncurrent progress."))
+         .text(new Text().font(noticeFont, 3).position(1.0F, -14.0F).text(L("Are you sure you\nwant to restart ?\nYou will lose your\ncurrent progress.", "¿Seguro que quieres\nreiniciar?\nPerderás tu\nprogreso actual.")))
          .animation(startAnim(1.0F), null, titleHideAnim);
       s.newGameYesButton = new Clickable()
          .viewport(s.window)
@@ -251,7 +263,7 @@ public class GBMainMenu {
       s.subtitleLabelView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.4F).move(0.0F, 0.42F))
-         .text(new Text().font(noticeFont, 3).position(0.2F, -6.0F).centerLeft().text("Subtitles"))
+         .text(new Text().font(noticeFont, 3).position(0.2F, -6.0F).centerLeft().text(L("Subtitles", "Subtítulos")))
          .animation(startAnim(1.4F), null, titleHideAnim);
       s.subtitleButton = new Clickable()
          .viewport(s.window)
@@ -265,7 +277,7 @@ public class GBMainMenu {
       s.hqVideosLabelView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.4F).move(0.0F, 0.27F))
-         .text(new Text().font(noticeFont, 3).position(0.2F, -6.0F).centerLeft().text("HD Videos"))
+         .text(new Text().font(noticeFont, 3).position(0.2F, -6.0F).centerLeft().text(L("HD Videos", "Videos HD")))
          .animation(startAnim(1.4F), null, titleHideAnim);
       s.hqVideosButton = new Clickable()
          .viewport(s.window)
@@ -277,7 +289,7 @@ public class GBMainMenu {
       s.helpLanguageTitleView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.95F).move(0.0F, 0.1F))
-         .text(new Text().font(noticeFont, 3).position(1.0F, -14.0F).text("Language Selection"))
+         .text(new Text().font(noticeFont, 3).position(1.0F, -14.0F).text(L("Language Selection", "Selección de idioma")))
          .animation(startAnim(1.6F), null, titleHideAnim);
       s.helpLanguageEnglishLabel = new TextBox()
          .viewport(s.window)
@@ -318,12 +330,12 @@ public class GBMainMenu {
       s.helpLanguageSaveWarningTitle = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.95F).move(0.0F, -0.55F))
-         .text(new Text().font(warningFont, 3).position(1.0F, -26.0F).text("(Saves are stored separately for each language.)"))
+         .text(new Text().font(warningFont, 3).position(1.0F, -26.0F).text(L("(Saves are stored separately for each language.)", "(Las partidas se guardan por separado para cada idioma.)")))
          .animation(startAnim(2.0F), null, titleHideAnim);
       s.languageEnglishTitleView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.95F).move(0.0F, 0.3F))
-         .text(new Text().font(noticeFont, 3).position(1.0F, -14.0F).text("Language Selection"))
+         .text(new Text().font(noticeFont, 3).position(1.0F, -14.0F).text(L("Language Selection", "Selección de idioma")))
          .animation(startAnim(0.2F), null, titleHideAnim);
       s.languageChineseTitleView = new TextBox()
          .viewport(s.window)
@@ -400,7 +412,7 @@ public class GBMainMenu {
       s.loadingView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().anchorBottom().move(0.0F, 0.35F))
-         .text(new Text().font(loadingFont, 3).position(0.1F, -18.0F).text("Please Wait"))
+         .text(new Text().font(loadingFont, 3).position(0.1F, -18.0F).text(L("Please Wait", "Espera")))
          .animation(new FadeAnim(3.0F, LinearGraph.zeroToOne), new FadeAnim(1.0F, new SineGraph(1.0F, 1.0F, 0.0F, 0.1F, 0.5F)), null);
       s.tLoadingViewDelay = 2.0F;
       s.headphonesGroup = new UIElement.Group().viewport(s.window);
@@ -410,7 +422,7 @@ public class GBMainMenu {
       new TextBox()
          .viewport(s.headphonesGroup)
          .metrics(new UIElement.Metrics().scale(0.644F).move(0.0F, 0.5222222F))
-         .text(new Text().font(volumeFont, 3).position(0.19668737F, 0.0F).text("For the best experience\nplease turn on the volume"))
+         .text(new Text().font(volumeFont, 3).position(0.19668737F, 0.0F).text(L("For the best experience\nplease turn on the volume", "Para una mejor experiencia,\nsube el volumen")))
          .attach();
       new StaticSprite()
          .viewport(s.headphonesGroup)
@@ -420,7 +432,7 @@ public class GBMainMenu {
       new TextBox()
          .viewport(s.headphonesGroup)
          .metrics(new UIElement.Metrics().scale(0.7408889F).move(0.0F, -0.53022224F))
-         .text(new Text().font(headphonesFont, 3).position(0.08578284F, 0.0F).text("Headphones recommended"))
+         .text(new Text().font(headphonesFont, 3).position(0.08578284F, 0.0F).text(L("Headphones recommended", "Se recomiendan audífonos")))
          .attach();
       if (Gdx.app.getType() == ApplicationType.Android) {
          s.tHeadphonesTime = 2.5F;
@@ -497,7 +509,7 @@ public class GBMainMenu {
       new TextBox()
          .viewport(s.googlePlayPrompt)
          .metrics(new UIElement.Metrics().scale(0.71323913F).move(0.0F, 0.1F))
-         .text(new Text().font(dialogFont, 9).position(0.1841526F, 0.0F).text("Login to enable cloud\nsave and achievements"))
+         .text(new Text().font(dialogFont, 9).position(0.1841526F, 0.0F).text(L("Login to enable cloud\nsave and achievements", "Inicia sesión para activar el guardado\nen la nube y los logros")))
          .attach();
       s.googlePlayPromptLoginButton = new Clickable()
          .viewport(s.googlePlayPrompt)
