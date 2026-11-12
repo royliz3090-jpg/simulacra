@@ -838,3 +838,131 @@ desbloquean por la historia (`CONTEXT_APP_*`) y el teclado de codigo lo rellenan
 los `Triggers`. Lo que SI esta verificado: (a) bloqueo e inicio en espanol,
 (b) selector de idioma end-to-end, (c) las 28139 cadenas estan traducidas y
 cargan sin excepciones. Queda pendiente una pasada jugada para el OCR interno.
+
+---
+
+## 13. Truncamientos en limites de palabra (sesion 2026-11-11/12)
+
+### 13.1 El bug real (importante para futuras sesiones)
+
+La traduccion se aplico en gran parte **in-place**: cada cadena espanola ocupa
+exactamente los **mismos bytes** que su original ingles, rellenando el resto con
+**espacios**. Cuando la traduccion era mas larga que el hueco, quedaba **cortada
+en un limite de palabra**, y el corte pasa desapercibido porque termina en una
+palabra completa:
+
+```
+EN: Find Yolanda          ->  ES: "Encuentra a"          (idx 11738)
+EN: Finding Love          ->  ES: "Encontrando"          (idx 253)
+EN: Camera Photo          ->  ES: "Foto de"              (idx 16039)
+EN: Alexis Worth          ->  ES: "Alexis vale"          (idx 315)
+```
+
+El detector anterior (`fixes_truncated.json`, `fixes_truncados2/3.json`) solo
+veia cortes **a mitad de palabra** (p.ej. "DESARROLLO DE A"), por eso este cuerpo
+grande de errores quedo sin detectar.
+
+### 13.2 Firma fiable del truncamiento
+
+Una cadena esta truncada in-place si y solo si:
+
+1. `len(es.encode()) == len(en.encode())`  (misma longitud en bytes), y
+2. la cadena termina en **espacios de relleno** (`es != es.rstrip()`), y
+3. el ultimo caracter no-espacio es una **letra** (sin puntuacion final).
+
+Los puntos 2 y 3 separan el truncamiento real de las traducciones que
+simplemente son mas cortas (esas terminan en `.` `!` `?` `…`).
+
+Detector reproducible (ver `tools/`): comparar `en-us.fs` original con el
+traducido, aplicar la firma anterior y clasificar por la ultima palabra:
+
+* termina en preposicion/articulo/conector/posesivo/pronombre -> truncamiento
+  casi seguro;
+* termina en sustantivo/verbo/adjetivo -> revisar manualmente.
+
+### 13.3 Cadenas reparadas en esta sesion (1006 en total)
+
+| Fichero | Cadenas | Criterio |
+|---|---|---|
+| `translations/es-LATAM/fixes_truncados4.json` | 507 | terminan en preposicion/articulo/conector |
+| `translations/es-LATAM/fixes_truncados5.json` | 17 | subtitulos `vo://` (se conserva el prefijo `vo://uri=`) |
+| `translations/es-LATAM/fixes_truncados6.json` | 203 | terminan en pronombre/posesivo/preposicion |
+| `translations/es-LATAM/fixes_truncados7.json` | 279 | alta confianza (in-place + menos palabras que el EN) |
+
+Los cuatro ficheros se aplican en orden sobre `translations/es-LATAM/en-us.fs`
+con `tools/apply_fs_fixes.py` (formato `[{pos,idx,en,es}]`). El campo `en` guarda
+la cadena **espanola truncada** original (es el texto que se reemplaza en el
+bloque de objetos Mass), no el ingles.
+
+### 13.4 Verificacion
+
+* `es-latam.fs` -> **28139** cadenas (identico a `en-us.fs`; nada perdido).
+* **0** truncamientos in-place restantes (firma 13.2).
+* `python3 tools/verify_build.py` -> `TODO VALIDADO`.
+* `dist/core.assets` -> 8 miembros, `en-us.fs` intacto, `es-latam.fs` embebido
+  con el mismo md5 que `dist/es-latam.fs`.
+
+### 13.5 Prueba real en el juego (Wine)
+
+Arranque limpio con `STATE_LANGUAGE=es-latam://`. Resultado: menu principal
+(imagenes BEGIN/CREDITS/QUIT), luego el **lockscreen en espanol**:
+
+```
+7 llamadas perdidas
+Llamada perdida
+13 mensajes
+```
+
+Esas cadenas salen de `GBESLATAMOverrides` (clase `GBLockScreen` reescrita), es
+decir el mecanismo de override carga y renderiza correctamente. **0 excepciones
+Java** en el log (solo el aviso esperado `Could not locate OpenAL library`, que
+es la ausencia de tarjeta de sonido en el sandbox).
+
+Evidencia: `docs/evidencia/es-latam-lockscreen-regresion-1006.png`,
+`docs/evidencia/es-latam-mainmenu-regresion.png`.
+
+### 13.6 Procedimiento de reparacion (repetible)
+
+```bash
+# 1. Extraer el juego original
+7z x -y -o/tmp/gameext SIMULACRA.7z.001
+mkdir -p /tmp/game /tmp/pyclasses /tmp/supportdir
+cp /tmp/gameext/core.assets /tmp/gameext/core.binary /tmp/game/
+python3 tools/blob_tool.py extract /tmp/gameext/core.binary /tmp/pyclasses
+python3 -c "import zipfile;zipfile.ZipFile('/tmp/gameext/support.binary').extractall('/tmp/supportdir')"
+
+# 2. Aplicar los fixes de truncamiento sobre la fuente traducida
+python3 tools/apply_fs_fixes.py translations/es-LATAM/en-us.fs \
+  translations/es-LATAM/fixes_truncados4.json /tmp/f4.fs
+python3 tools/apply_fs_fixes.py /tmp/f4.fs \
+  translations/es-LATAM/fixes_truncados5.json /tmp/f5.fs
+python3 tools/apply_fs_fixes.py /tmp/f5.fs \
+  translations/es-LATAM/fixes_truncados6.json /tmp/f6.fs
+python3 tools/apply_fs_fixes.py /tmp/f6.fs \
+  translations/es-LATAM/fixes_truncados7.json translations/es-LATAM/en-us.fs
+
+# 3. Reconstruir los entregables
+ORIG=/tmp/game CLASES=/tmp/pyclasses SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_all.sh
+python3 tools/verify_build.py
+```
+
+### 13.7 Ultimo commit respaldado en GitHub
+
+* Rama: `feature/traduccion-es-latam-v2`
+* Commit: `f1a18a4` ("fix(es-latam): repara 1006 cadenas truncadas en limites de palabra")
+* `git status` limpio y `local HEAD == remoto`.
+
+### 13.8 Proxima tarea concreta
+
+1. Cerrar los truncamientos **residuales** que no cumplen la firma 13.2 (cortes
+   que no llegan al hueco, p.ej. "Encuentra a" vs "Encuentra"): buscar en
+   `es-latam.fs` las cadenas mas cortas que su ingles sin puntuacion final y
+   revisar por lotes de ~100.
+2. Reparar la corrupcion de nombres propios: `idx 315` `Alexis vale` ->
+   `Alexis Worth` (nombre de personaje; **no** traducir).
+3. Ortografia: `Vale pena intentarlo` -> `Vale la pena intentarlo`.
+4. Vocabulario LatAm: `movil`->`celular`, `coche`->`carro`, `gafas`->`lentes`,
+   `piso`->`departamento` (solo donde encaje con la voz del personaje).
+5. Pasada jugada para OCR de las apps internas (Chats, Galeria, Correo, Spark,
+   Jabbr, Vloggr, Surfer, Restaurar, StatMenu).
