@@ -471,12 +471,18 @@ Se replica el mecanismo para es-LATAM **sin recompilar** el juego:
 idioma + textos). Sus etiquetas de UI se eligen en runtime con el helper
 `L(en, es)` segun `Globals.contentPrefix`.
 
-### Cobertura
-- 174 cadenas de UI identificadas (diff EN vs ZH de las clases base, filtrando
-  rutas de assets y constantes).
-- 162 reescritas en 34 clases; 12 restantes ya venian del .fs o del parche
-  manual de GBMainMenu.
-- Traducciones en `translations/es-LATAM/override_ui.json`.
+### Cobertura (actualizada)
+- **219 cadenas** de UI en `translations/es-LATAM/override_ui.json`.
+- **38 clases** override generadas; **230 cadenas reescritas** en
+  `dist/core.binary` (1103 entradas: +40 nuevas, 17 reemplazadas).
+- Incluye etiquetas en mayusculas que el build oficial zh-cn tambien traduce
+  (ABOUT, AGE, NAME, TAGLINE, INTERESTS, SUBMIT, NEXT, YES, OKAY, SKIP,
+  BOOKMARKS, HISTORY, SAVED...), acciones (Open, Play, Restore, Next),
+  perfiles Spark (Works/Studies at Kaigan U), tiempos relativos, fechas.
+- **NUNCA traducir** los nombres de color de fuente usados por el marcado
+  (`HANDLE`, `LINK`, `TAG`, `MAIL_BOLD`, `MAIL_ITALIC`, `MAIN_GAMEPLUS`,
+  `STAT_GREEN`, `boot_bold`): rompen el coloreado y el parseo. El generador
+  tiene un guardia `FORBIDDEN_KEYS` que aborta si aparecen en el mapa.
 
 ### Procedimiento reproducible
 ```bash

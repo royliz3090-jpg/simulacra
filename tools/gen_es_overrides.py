@@ -29,6 +29,12 @@ from class_patch import ClassFile  # noqa: E402
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_UI = os.path.join(HERE, "translations", "es-LATAM", "override_ui.json")
 
+# Nombres de COLOR de fuente usados por el marcado del juego ([HANDLE], [LINK],
+# [TAG]...). NO son texto visible: traducirlos rompe el coloreado y el parseo.
+# El build oficial zh-cn tambien los deja igual.
+FORBIDDEN_KEYS = {"HANDLE", "LINK", "TAG", "MAIL_BOLD", "MAIL_ITALIC",
+                  "MAIN_GAMEPLUS", "STAT_GREEN", "boot_bold"}
+
 # Pares base->override, copiados de GBZHCN.setup() (el mecanismo oficial de
 # idioma del juego). Se incrustan aqui para no depender de fuentes externas.
 OVERRIDE_PAIRS = [
@@ -105,6 +111,13 @@ def main():
     args = ap.parse_args()
 
     ui = json.load(open(args.ui, encoding="utf-8"))
+    forbidden = sorted(FORBIDDEN_KEYS & set(ui))
+    if forbidden:
+        raise SystemExit(
+            "ERROR: %s en %s no son texto traducible (nombres de color de "
+            "fuente usados por el marcado). Eliminalas del mapa."
+            % (forbidden, args.ui)
+        )
     pairs = load_pairs()
     if args.only:
         keep = set(args.only.split(","))
