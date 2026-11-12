@@ -237,13 +237,20 @@ Salidas esperadas (md5): `dist/core.assets` = `960190f3818ff22a9a35d70beaee74a8`
   - `tools/patch_core_binary.py` (reempaquetado seguro conservando hashes [0..4]).
   - `tools/build_core_assets.py` (añade `es-latam.fs` sin tocar el inglés).
   - `tools/build_all.sh` + `tools/verify_build.py` (pipeline reproducible y validación).
+  - `tools/fs_editor.py` + `tools/apply_fs_fixes.py`: editor del bloque de objetos Mass
+    (traducciones de longitud natural, no sólo sobrescritura en sitio).
   - `patch/game27/gbeslatam/GBESLATAM.java` + parches de `Globals`/`Grid`/`MainMenu`/`GBMainMenu`.
+  - **188 traducciones truncadas reparadas** (`translations/es-LATAM/fixes_truncated.json`).
+  - **7 líneas de chat** que quedaban en inglés traducidas (`fixes_chatlines.json`).
+  - `aplicar_parche.bat` / `desinstalar_parche.bat` ahora copian `core.binary`.
   - Entregables `dist/core.assets`, `dist/core.binary`, `dist/es-latam.fs`.
+- **Estado de cobertura**: no queda texto en inglés salvo nombres propios (Greg, Taylor) y
+  cadenas técnicas (identificadores, rutas de archivo, nombres de fuente).
 - **Pendiente**:
-  - Traducir a es-LATAM los textos que aún están en inglés (subtítulos `vo://`, diálogos y menús).
-  - Reparar traducciones truncadas y nombres propios mal traducidos (sección 7).
-  - Revisar que el texto de UI de `GlobalTexts` (en `GBESLATAM`) sea coherente y completo.
-  - Prueba en el juego real (Windows/GPU).
+  - Prueba en el juego real (Windows/GPU): elegir "Español (Latinoamérica)" y recorrer
+    menús, chats, llamadas y correos.
+  - Revisión de estilo (naturalidad) de frases largas y de nombres propios.
+  - Revisar textos incrustados en imágenes del menú (requieren edición de textura).
 
 ## 12. Último commit respaldado
 

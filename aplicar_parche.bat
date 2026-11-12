@@ -41,6 +41,7 @@ echo [INFO] Juego encontrado en: %GAME_DIR%
 echo.
 echo [INFO] Creando copias de seguridad...
 if not exist "%GAME_DIR%\core.assets.bak" copy "%GAME_DIR%\core.assets" "%GAME_DIR%\core.assets.bak"
+if not exist "%GAME_DIR%\core.binary.bak" copy "%GAME_DIR%\core.binary" "%GAME_DIR%\core.binary.bak"
 if exist "%GAME_DIR%\support.assets" if not exist "%GAME_DIR%\support.assets.bak" copy "%GAME_DIR%\support.assets" "%GAME_DIR%\support.assets.bak"
 echo [OK] Copias de seguridad creadas
 
@@ -48,6 +49,7 @@ echo [OK] Copias de seguridad creadas
 echo.
 echo [INFO] Aplicando traducción...
 copy /Y "core.assets" "%GAME_DIR%\core.assets"
+copy /Y "core.binary" "%GAME_DIR%\core.binary"
 if exist "support.assets" copy /Y "support.assets" "%GAME_DIR%\support.assets"
 echo [OK] Archivos traducidos aplicados
 

@@ -42,6 +42,13 @@ if exist "%GAME_DIR%\core.assets.bak" (
     echo [WARN] core.assets.bak no encontrado
 )
 
+if exist "%GAME_DIR%\core.binary.bak" (
+    copy /Y "%GAME_DIR%\core.binary.bak" "%GAME_DIR%\core.binary"
+    echo [OK] core.binary restaurado
+) else (
+    echo [WARN] core.binary.bak no encontrado
+)
+
 if exist "%GAME_DIR%\support.assets.bak" (
     copy /Y "%GAME_DIR%\support.assets.bak" "%GAME_DIR%\support.assets"
     echo [OK] support.assets restaurado
