@@ -695,3 +695,62 @@ python3 tools/verify_build.py
 2. Instalar el JDK y reconstruir `core.binary` con `tools/build_all.sh` si se
    cambia alguna clase `patch/game27/*` (no fue el caso esta sesion).
 3. Continuar la pasada de coherencia de nombres propios.
+
+## 21. Sesion 2026-11-11 (quinta): entorno reconstruido, 33 truncamientos mas y pantalla de bloqueo en espanol
+
+**Entorno reconstruido y rebuild completo.** Tras reinstalar las herramientas
+(seccion 18) se rehizo el pipeline entero con el JDK del sistema:
+
+```bash
+7z x -y -o/tmp/gameext SIMULACRA.7z.001
+python3 tools/blob_tool.py extract /tmp/gameext/core.binary /tmp/pyclasses
+python3 -c "import zipfile;zipfile.ZipFile('/tmp/gameext/support.binary').extractall('/tmp/supportdir')"
+ORIG=/tmp/game CLASES=/tmp/pyclasses SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_all.sh
+CLASES=/tmp/pyclasses SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_test_binary.sh dist/core.binary /tmp/core_test.bin
+```
+
+El rebuild reproduce 39 clases nuevas / 1104 entradas / 28139 cadenas y
+`verify_build.py` da TODO VALIDADO. El md5 de `core.binary` cambia respecto al
+guardado (version de javac); es equivalente a nivel de bytecode.
+
+**Detector de truncamientos mejorado -> 33 reparaciones (commit `24a5e67`).**
+El primer pase (seccion 19) se dejo guiar por "misma longitud en bytes". El
+detector refinado anade un filtro de stopwords y exige que la ultima palabra
+sea prefijo de una palabra COMPLETA del propio corpus, con lo que aparecen 33
+cadenas mas cortadas para caber en el espacio del ingles. Ejemplos:
+`DISEÑO WE`->`DISEÑO WEB`, `DESARROLLO DE A`->`DESARROLLO DE APP`,
+`¡E`->`¡Y bien!`, `Desarrollado por T`->`Desarrollado por TOUCHME`,
+`Sí, lo s`->`Sí, lo soy`, `*olas del m`->`*olas del mar*`, `¡N`->`¡No!`,
+`final d`->`endgame` (clave de video), y las cadenas "corruptas" del acosador
+(`rollo d`->`sI nO`, `PROFUNDIZA EN T`->`DePeNdE dE tI`,
+`YO NO LO S`->`Yo nO lO SoY`), respetando su estilo.
+Fuente: `translations/es-LATAM/fixes_truncados3.json`.
+
+**Verificacion REAL en Wine (evidencia nueva).**
+- `docs/evidencia/es-latam-lock-nueva.png`: pantalla de bloqueo en ESPANOL
+  ("7 llamadas perdidas" reconocido por OCR) tras pulsar BEGIN. 0 excepciones
+  (solo el aviso benigno `Could not locate OpenAL library`).
+- Selector de idioma confirmado en `patch/game27/gb/GBMainMenu.java`: tres
+  opciones con etiquetas `English`, `简体中文` y `Español (Latinoamérica)`,
+  cada una con su boton OK. es-LATAM es un idioma INDEPENDIENTE y seleccionable.
+
+**Hallazgo sobre las pantallas internas (Chats, Galeria, Correo, Spark, Jabbr).**
+El codigo de desbloqueo NO es fijo ni derivado de SHA-1: `game27.LockScreen`
+expone `setCodeKeys(String...)` y son los `game27.triggers.Triggers$*` los que
+lo fijan por letras segun el avance de la historia. Por tanto, para llegar a las
+apps internas hay que JUGAR el prologo (o inyectar estado), no basta un codigo.
+Comprobacion estatica: las cadenas de esas apps ya estan traducidas en
+`es-latam.fs` (p. ej. "Bienvenido a Chats...", 53 lineas de Jabbr, 45 de Spark).
+
+**Analisis de huecos: 0 cadenas de prosa inglesa sin traducir.** Un escaneo que
+busca texto con >=2 palabras funcionales inglesas (the/and/you/... ) entre las
+cadenas donde ES==EN no encontro ninguna. Las restantes coincidencias EN/ES son
+nombres propios, codigos de cifrado, onomatopeyas y URIs.
+
+**Pendiente / siguiente tarea:**
+1. Jugar el prologo en Wine (xdotool) para capturar OCR de las apps internas,
+   o inyectar el estado de desbloqueo para saltar la seccion jugable.
+2. Pasada de coherencia de nombres propios (castellanizacion inconsistente).
+3. Revisar los `vo://` marcados como "dudosos" (33 falsos positivos).
