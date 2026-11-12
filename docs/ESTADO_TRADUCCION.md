@@ -506,11 +506,34 @@ python3 tools/verify_build.py dist/core.assets dist/core.binary /tmp/game/core.a
 - `80be4c5` — clases de UI es-LATAM via Builder.overrides (empujado).
 - `83da5b1` — etiquetas del menu principal segun idioma activo (empujado).
 
+### Estado final de esta sesion
+- `translations/es-LATAM/override_ui.json`: **235 claves**.
+- **39 clases** override; **247 cadenas reescritas**; `dist/core.binary`
+  = **1104 entradas** (+41 nuevas, 17 reemplazadas).
+- `tools/verify_build.py` -> **TODO VALIDADO**.
+- Wine: **0 excepciones**, **0** errores de media/parse/clase.
+- Commits empujados: `80be4c5`, `83da5b1`, `b3dbbb8`, `521c39b`, `5db4d16`,
+  `4dc5e95` y el de creditos. Rama `feature/traduccion-es-latam-v2`.
+
+### IMPORTANTE: fichero obsoleto `all_translations.json`
+`translations/es-LATAM/all_translations.json` (3045 entradas) es un artefacto
+ANTIGUO que **NO alimenta el build**. Contiene 257 cambios de acento erroneos
+(`si`->`sí`, `como`->`cómo`, `solo`->`sólo`) producidos por un script ingenuo;
+eso altera el significado (p. ej. "y si..." -> "y sí..."). La fuente de verdad
+real es `translations/es-LATAM/en-us.fs` (que SI tiene `si`/`como` correctos).
+No usar `all_translations.json` para regenerar el `.fs`.
+
 ### Pendiente / siguiente tarea
-1. Confirmar visualmente las clases override en juego (telefono, galeria,
-   correo, spark, friends, vloggr, restore) con capturas.
-2. Revisar strings que quedaron fuera del filtro (p.ej. `Welcome!`,
-   `Welcome back Anna !` en GBFriendsLoginScreen ya traducidos; verificar
-   `Disembodied head`, `Talk is chic` en contexto).
-3. Los textos de las pantallas siguen cargando del `.fs` (98.5% prosa); las
-   clases override cubren la UI dura. No hay solapamiento pendiente.
+1. **Verificacion visual de pantallas internas**: entrar al telefono
+   (home -> apps) en Wine y capturar: Chats, Galeria, Correo, Spark,
+   Friends/Jabbr, Vloggr, Surfer, Restaurar, Ajustes/StatMenu. Confirmar OCR
+   en espanol de las clases override.
+2. **Verificar el selector de idioma end-to-end**: cambiar English <-> Espanol
+   en el menu de Ajustes -> Idioma y confirmar que recarga `Grid` con el
+   idioma correcto (independiente de ingles).
+3. Revisar cadenas de UI que quedan en clases compartidas sin override
+   (`GBSparkMatchScreen`, `GBSparkThreadProfileScreen`, etc. ya tienen
+   override; revisar `game27.GlobalTexts` etiquetas de intereses que van por
+   GBENUS).
+4. Borrar o regenerar `all_translations.json` para evitar que un futuro agente
+   lo use por error.
