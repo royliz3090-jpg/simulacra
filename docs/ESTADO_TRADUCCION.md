@@ -213,7 +213,10 @@ ORIG=/tmp/game CLASES=/tmp/pyclasses SUPPORT=/tmp/support.jar bash tools/build_a
 python3 tools/verify_build.py dist/core.assets dist/core.binary /tmp/game/core.assets
 ```
 
-Salidas esperadas (md5): `dist/core.assets` = `960190f3818ff22a9a35d70beaee74a8`.
+Salidas esperadas (md5):
+- `dist/core.assets` = `fb2392ffa066dafb29fc9e932e54bc7e`
+- `dist/core.binary` = `da50f319a992dc4391f5872336474b75`
+- `dist/es-latam.fs` = `fdaee2c63df7a25c6dc288a84d38bf16`
 
 ## 10. Cómo verificar que el juego carga los textos
 
@@ -259,12 +262,39 @@ Salidas esperadas (md5): `dist/core.assets` = `960190f3818ff22a9a35d70beaee74a8`
 
 ## 12. Último commit respaldado
 
-Ver el historial de `feature/traduccion-es-latam-v2` en GitHub (el commit más reciente de esta
-rama es el último respaldo). Base recuperada: `56e24e3` de `main`.
+Rama `feature/traduccion-es-latam-v2` (los commits de esta sesión, en orden):
+
+| commit | contenido |
+|---|---|
+| `7b42382` | idioma independiente seleccionable (blob KCB1 + es-latam.fs) |
+| `f7593fd` | reparar 188 traducciones truncadas (longitud natural) |
+| `87195f0` | traducir últimas 7 líneas de chat en inglés |
+| `fcb678d` | instalación, estado y scripts de parche actualizados |
+| `00c0e1d` | prueba de validación con CodeBlob real y límite de entorno |
+
+Base recuperada: `56e24e3` de `main` (core.assets v15b en sitio).
 
 ## 13. Próxima tarea concreta
 
-1. Ampliar las traducciones de `es-latam.fs` (contenido real) para las cadenas aún en inglés.
-2. Re-ejecutar `bash tools/build_all.sh` + `python3 tools/verify_build.py`.
-3. Commit + push de `dist/` y `translations/es-LATAM/`.
+1. **Prueba real en Windows**: copiar `dist/core.assets` + `dist/core.binary`, abrir el
+   selector de idioma, elegir "Español (Latinoamérica)" y recorrer menús, chats,
+   llamadas y correos. Registrar capturas y cualquier texto que siga en inglés.
+2. Si aparece texto en inglés o roto, localizarlo con `tools/simulacra_fs.py` (por
+   contenido), corregirlo con `tools/apply_fs_fixes.py` (admite longitud natural) y
+   reconstruir con `bash tools/build_all.sh`.
+3. Revisar naturalidad de frases largas (estilo latinoamericano) y unificar glosario
+   (`GLOSSARY.md`).
+4. Opcional: traducir texto incrustado en texturas del menú (edición de imagen).
+
+## 14. Receta rápida para el próximo agente
+
+```bash
+git clone https://github.com/royliz3090-jpg/simulacra
+cd simulacra
+git checkout feature/traduccion-es-latam-v2
+python3 tools/verify_build.py dist/core.assets dist/core.binary /ruta/core.assets   # TODO VALIDADO
+# editar translations/es-LATAM/en-us.fs con tools/apply_fs_fixes.py
+bash tools/build_all.sh
+git add -A && git commit -m "..." && git push origin feature/traduccion-es-latam-v2
+```
 

@@ -15,6 +15,7 @@ extracted/
 !dist/es-latam.fs
 
 # Directorio de trabajo
+work/
 jre/
 menu/
 zhcn/
