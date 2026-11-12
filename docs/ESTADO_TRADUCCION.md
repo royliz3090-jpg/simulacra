@@ -429,3 +429,82 @@ independiente:
 3. Revisar la lista de 14 "clean literals" (`Sign In`, `Wrong answer`,
    `Thank you`, `Welcome!`, `NEW`, `lookup`, `Taylor`) — son texto de UI
    hardcodeado en las clases; decidir si conviene parchear las clases.
+
+---
+
+## 17. Clases de UI es-LATAM via `Builder.overrides` (sesion 2026-11-12)
+
+### Descubrimiento
+El juego NO tiene todos los textos en los `.fs`. Los textos de UI "duros"
+(pantalla de bloqueo, menus, dialogos, telefono, galeria, correo, spark,
+friends, vloggr, restore...) estan como cadenas literales dentro de las
+**clases Java** `game27.gb.*`.
+
+El mecanismo oficial de idioma del juego es `sengine.utils.Builder.overrides`:
+`GBZHCN.setup()` registra ~41 pares
+`Builder.overrides.put(game27.gb.GBLockScreen.class, game27.gbzhcn.GBLockScreen.class)`
+y el juego instancia la variante zh-cn. Cuando `Builder` construye un tipo,
+si hay override lo usa en su lugar (`Builder.java`, campo `overrides`).
+
+Por eso el build zh-cn muestra la UI en chino: tiene clases `game27.gbzhcn.*`
+propias. Nuestro build es-LATAM solo tenia `GBESLATAM.setup()` **sin**
+overrides -> la UI dura quedaba en ingles.
+
+### Solucion implementada
+Se replica el mecanismo para es-LATAM **sin recompilar** el juego:
+
+1. `tools/class_patch.py` — reescribe el *constant pool* de un `.class`:
+   - `replace_strings(map)`: cambia solo los `CONSTANT_Utf8` referenciados por
+     un `CONSTANT_String` (nunca nombres de metodos/campos).
+   - `rename_class(old,new)`: renombra `this_class`, referencias `old$X` y el
+     descriptor `Lold;` (atributo Signature).
+2. `tools/gen_es_overrides.py` — para cada par base->override del juego:
+   toma la clase base del binario ORIGINAL, aplica las traducciones de
+   `translations/es-LATAM/override_ui.json` y la renombra a
+   `game27.gbeslatam.*`. Genera tambien
+   `patch/game27/gbeslatam/GBESLATAMOverrides.java` (registro de overrides).
+3. `GBESLATAM.setup()` llama `GBESLATAMOverrides.register()`.
+4. `tools/build_all.sh` genera, compila y agrega las clases nuevas al
+   `core.binary` (36 clases nuevas: GBESLATAM, GBESLATAMOverrides y 34 UI).
+
+`GBMainMenu` se **excluye** del generador: se parchea a mano (selector de
+idioma + textos). Sus etiquetas de UI se eligen en runtime con el helper
+`L(en, es)` segun `Globals.contentPrefix`.
+
+### Cobertura
+- 174 cadenas de UI identificadas (diff EN vs ZH de las clases base, filtrando
+  rutas de assets y constantes).
+- 162 reescritas en 34 clases; 12 restantes ya venian del .fs o del parche
+  manual de GBMainMenu.
+- Traducciones en `translations/es-LATAM/override_ui.json`.
+
+### Procedimiento reproducible
+```bash
+# Requiere: JDK 8+ en $JAVA_HOME, support.jar (GDX+steamworks) y clases del
+# binario ORIGINAL extraidas (Blob) en $CLASES.
+CLASES=/tmp/testbin/cls_orig SUPPORT=/tmp/supportdir \
+JAVAC=/tmp/jdk-21.0.4+7/bin/javac bash tools/build_all.sh
+python3 tools/verify_build.py dist/core.assets dist/core.binary /tmp/game/core.assets
+```
+
+### Validacion de esta sesion
+- `tools/verify_build.py` -> **TODO VALIDADO** (incluye
+  `game27.gbeslatam.GBESLATAMOverrides` presente y bytecode valido).
+- Wine: **0 excepciones**, **0** `Unable to find media`/`Failed to parse`/
+  `NoSuchFieldError`/`ClassNotFound`.
+- OCR de la pantalla de bloqueo: **`Bienvenida Anna!`**, **`7 llamadas
+  perdidas`**, **`13 mensajes`** (antes: `Welcome Anna !`, `7 missed calls`,
+  `13 messages`).
+
+### Commits de esta sesion
+- `80be4c5` — clases de UI es-LATAM via Builder.overrides (empujado).
+- `83da5b1` — etiquetas del menu principal segun idioma activo (empujado).
+
+### Pendiente / siguiente tarea
+1. Confirmar visualmente las clases override en juego (telefono, galeria,
+   correo, spark, friends, vloggr, restore) con capturas.
+2. Revisar strings que quedaron fuera del filtro (p.ej. `Welcome!`,
+   `Welcome back Anna !` en GBFriendsLoginScreen ya traducidos; verificar
+   `Disembodied head`, `Talk is chic` en contexto).
+3. Los textos de las pantallas siguen cargando del `.fs` (98.5% prosa); las
+   clases override cubren la UI dura. No hay solapamiento pendiente.
