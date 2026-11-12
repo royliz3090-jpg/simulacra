@@ -43,5 +43,6 @@ public class GBESLATAMOverrides {
       Builder.overrides.put(game27.gb.boot.GBBBootScreen.class, game27.gbeslatam.boot.GBBBootScreen.class);
       Builder.overrides.put(game27.gb.GBMemoryWipeDialog.class, game27.gbeslatam.GBMemoryWipeDialog.class);
       Builder.overrides.put(game27.gb.GBStatMenu.class, game27.gbeslatam.GBStatMenu.class);
+      Builder.overrides.put(game27.gb.GBCreditsMenu.class, game27.gbeslatam.GBCreditsMenu.class);
    }
 }

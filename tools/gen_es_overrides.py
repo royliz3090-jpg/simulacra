@@ -79,6 +79,8 @@ OVERRIDE_PAIRS = [
     ("game27.gb.GBMemoryWipeDialog", "GBMemoryWipeDialog"),
     ("game27.gb.GBStatMenu", "GBStatMenu"),
     ("game27.gb.homescreen.GBHomescreen", "homescreen.GBHomescreen"),
+    # Extension propia (no en GBZHCN): etiquetas de rol de los creditos.
+    ("game27.gb.GBCreditsMenu", "GBCreditsMenu"),
 ]
 
 
