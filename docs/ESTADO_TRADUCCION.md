@@ -1236,3 +1236,100 @@ cd /tmp/gamerun && DISPLAY=:99 WINEPREFIX=/workspace/wineprefix \
 ```
 OJO: si `wine` da `could not load kernel32.dll`, el `WINEPREFIX` esta corrupto;
 recrearlo con `wineboot -u` y volver a escribir `.prefs/preferences`.
+
+## 23. Sesion 2026-11-13 (continuacion): OBJETOS COMPRIMIDOS (zlib) del .fs
+
+### 23.1 Descubrimiento clave: el escaner de cadenas era INCOMPLETO
+
+El bloque de DATOS de un `.fs` es una secuencia de objetos. La mayoria son
+cadenas planas `[u32 len][utf8]` que `simulacra_fs.scan_strings` detecta. PERO
+algunos objetos son un `String[]` serializado y **comprimido con zlib** (magic
+`78 da`): su contenido NO aparece en la tabla plana y por tanto **escapaba por
+completo al pipeline de traduccion**. Ahi viven:
+
+- Textos de paginas web del juego (Spark, NSFW, Ridr, Faris & Kane, IRIS OS,
+  Phresh Ideas, Kappa Feed, The Write Thing).
+- Correos (Rainforest, Jabbr, Anna/Ed/Elizabeth/Murv, el jefe Faraday).
+- Los blog posts de la trama (Dice Roll / NSFW / el bloguero).
+- Mensajes de chat de la faccion demon/aliado.
+- Fichas de 2 puzzles `restphrase` (greg1, emailmurv1).
+
+Comprobacion: `'Impressive websites and apps...'` existia en la tabla plana
+(ya traducido) y ADEMAS en un objeto comprimido (sin traducir): hay
+**duplicados** entre la tabla plana y los objetos comprimidos.
+
+### 23.2 Herramienta nueva: `tools/apply_blob_fixes.py`
+
+```
+python3 tools/apply_blob_fixes.py <in.fs> <fixes.json> <out.fs>
+```
+- `fixes.json` = `{"<indice_objeto>": {"<texto en>": "<texto es>", ...}, ...}`
+  (el indice de objeto es el 0-based de `build_locale_fs.parse_format`).
+- Descomprime el objeto, sustituye cadenas por coincidencia EXACTA y recomprime.
+- Autodetecta dos disposiciones de payload: (a) secuencia plana de cadenas;
+  (b) `[u32 count]` + `count` cadenas (puzzles restphrase).
+- **Preserva la cola binaria** que sigue a las cadenas (16 bytes en los objetos
+  de chat: `[mensaje][remitente][fecha][hora]` + float/metadata).
+- **Recalcula los offsets** del bloque de formato (los objetos posteriores se
+  desplazan al cambiar el tamano). Verificado: `offsets[-1] == len(data)`.
+
+### 23.3 Como detectar los objetos comprimidos
+
+```python
+import zlib, struct
+sys.path.insert(0,'tools'); import build_locale_fs as B
+raw=open('es-latam.fs','rb').read()
+fmt,data,field=B.split_fs(raw); f=B.parse_format(fmt); offs=f['offsets']
+MAG=(b'\x78\xda',b'\x78\x9c',b'\x78\x01',b'\x78\x5e')
+for k,end in enumerate(offs):
+    start=offs[k-1] if k>0 else 0
+    seg=data[start:end]
+    if seg[:2] in MAG:
+        out=zlib.decompressobj().decompress(seg)   # payload (strings + cola)
+```
+
+### 23.4 Trabajo realizado en esta sesion
+
+| Grupo | Objetos | Textos | Archivos fuente |
+|---|---|---|---|
+| Webs/correos/blog (batch 1) | 60 | 59 | `work/blob_textos.json` + `work/blob_fixes.json` |
+| Puzzles restphrase comprimidos | 2 | 23 fichas | `work/blob_fixes_rest.json` |
+| Chats/correos/articulos (batch 2) | 46 | 46 | `work/blob_textos2.json` + `work/blob_fixes2.json` |
+| Duplicados residuales | 2 | 2 | `work/blob_fixes3.json` |
+| **Total objetos comprimidos** | **110** | **130** | |
+
+Ademas, `work/restphrase_map.py` + `work/restphrase_idx.json` traducen 144
+fichas en 22 bloques de puzzles `restphrase` NO comprimidos (commit `cc443ae`).
+
+### 23.5 Como reproducir (orden de aplicacion sobre el .fs base)
+
+```bash
+# 1) fixes de la tabla plana (ya en translations/es-LATAM/en-us.fs)
+# 2) fichas de puzzles restphrase (no comprimidos)
+python3 tools/apply_fs_fixes.py en-us.fs work/restphrase_fixes.json out.fs
+# 3) objetos comprimidos (3 lotes)
+python3 tools/apply_blob_fixes.py out.fs work/blob_fixes.json    out2.fs
+python3 tools/apply_blob_fixes.py out2.fs work/blob_fixes_rest.json out3.fs
+python3 tools/apply_blob_fixes.py out3.fs work/blob_fixes2.json  out4.fs
+python3 tools/apply_blob_fixes.py out4.fs work/blob_fixes3.json  out5.fs
+# 4) rebuild
+ORIG=/tmp/game CLASES=/tmp/origcls SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_all.sh
+python3 tools/verify_build.py dist/core.assets dist/core.binary /tmp/game/core.assets
+```
+
+### 23.6 Auditoria de cobertura (metodo reutilizable)
+
+Para saber que queda en ingles, comparar objeto-a-objeto EN vs ES (no solo la
+tabla plana). Filtro de ruido: descartar identificadores, triggers, rutas,
+codigo (`Triggers.`, `Globals.`, `://`, `.jpg/.png/...`, `#ifdef`, shaders).
+Resultado: **0 prosa real pendiente**; lo restante son identificadores
+(`__LINKnnn`, `a3_stat_*`, `nav_to_*`, rutas) que NO deben traducirse.
+
+### 23.7 Pendiente / siguiente tarea
+
+1. **Verificacion visual en Wine** de las pantallas afectadas (webs, correo,
+   chat demon) para confirmar renderizado en espanol (entorno de la seccion 22).
+2. Revisar si `en-us.fs` original conserva copias planas de estos textos y si
+   el juego prioriza la copia comprimida o la plana (hoy se traducen ambas).
+3. Revisar cadenas de UI en clases compartidas sin override.
