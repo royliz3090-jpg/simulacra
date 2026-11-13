@@ -1182,3 +1182,57 @@ Verificado: el **contenido extraido es identico** entre builds
 - Commit de este bloque: 124 truncamientos + herramientas (ver `git log`).
 - Proxima: prueba grafica real (Windows/Steam) recorriendo la historia;
   revisar naturalidad de las frases reparadas en contexto.
+
+---
+
+## 22. Validacion REAL en el juego (Wine) — 2026-11-13
+
+Se ejecuto el juego en Wine (sin GPU, `Xvfb :99`, `LIBGL_ALWAYS_SOFTWARE=1
+GALLIUM_DRIVER=llvmpipe`, `WINEPREFIX=/workspace/wineprefix`) con los
+entregables actuales (`dist/core.assets` + binario de prueba sin Steam) y
+`STATE_LANGUAGE=es-latam://` en `.prefs/preferences`.
+
+### 22.1 Textos observados en el juego (OCR, tesseract -l spa)
+| Pantalla | Texto en es-LATAM |
+|---|---|
+| Menu principal | BEGIN / CREDITS / QUIT (texturas, sin cambios) |
+| Pantalla de bloqueo | **"7 llamadas Perdidas"**, **"13 mensajes"** |
+| Home (desbloqueado) | **"¡Bienvenida Anna!"**, **"Pista: el cumpleaños de Toby"** |
+| Iconos de apps | **Jabbr, Vloggr, Surfer, Teléfono, Chats, Galería, Correo** |
+| Nota de la app de notas | **"Pendiente: Encontrar a Anna"** |
+
+Conclusion: el `es-latam.fs` **carga y se renderiza en el juego real**; la
+traduccion no es solo teorica. 0 excepciones relevantes en el arranque.
+
+### 22.2 Evidencia
+Capturas en `docs/evidencia/`:
+`es-latam-mainmenu-2026-11-13.png`, `es-latam-lock-2026-11-13.png`,
+`es-latam-home-2026-11-13.png`, `es-latam-notif-2026-11-13.png`.
+
+### 22.3 Limitaciones de esta validacion
+- No se completo el desbloqueo hasta abrir **Chats** (el teclado / placeholder
+  "Empieza a escribir") por las protecciones de la historia (scare/glitch al
+  navegar rapido con xdotool). Pendiente una partida manual.
+- La app de Chats y el fix `GBESLATAMKeyboard` quedan validados de forma
+  **estatica** (clase presente en `core.binary`, bytecode valido) pero no
+  observados en pantalla en esta sesion.
+
+### 22.4 Entorno reproducible (comandos)
+```bash
+sudo apt-get install -y wine64 xvfb x11-utils xdotool imagemagick \
+     tesseract-ocr tesseract-ocr-spa p7zip-full default-jdk-headless
+sudo dpkg --add-architecture i386 && sudo apt-get update
+pip install pycryptodome Pillow numpy
+# (re)crear wineprefix si esta corrupto:
+WINEPREFIX=/workspace/wineprefix DISPLAY=:99 wineboot -u
+# binario de prueba sin Steam:
+CLASES=/tmp/origcls SUPPORT=/tmp/supportdir JAVAC=/usr/bin/javac \
+  bash tools/build_test_binary.sh dist/core.binary /tmp/core_test.bin
+# lanzar:
+cd /tmp/gamerun && DISPLAY=:99 WINEPREFIX=/workspace/wineprefix \
+  LIBGL_ALWAYS_SOFTWARE=1 GALLIUM_DRIVER=llvmpipe wine simulacra.exe
+# capturar: DISPLAY=:99 import -window root shot.png
+# OCR: tesseract shot.png - -l spa --psm 11
+```
+OJO: si `wine` da `could not load kernel32.dll`, el `WINEPREFIX` esta corrupto;
+recrearlo con `wineboot -u` y volver a escribir `.prefs/preferences`.
