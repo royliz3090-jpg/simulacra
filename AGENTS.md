@@ -22,9 +22,20 @@ Un commit local NO es respaldo: el push remoto debe completarse.
 - `dist/es-latam.fs` — copia del `.fs` final (debe coincidir con el embebido).
 - `tools/` — `blob_tool.py`, `fs_fix_keys.py`, `apply_fs_fixes.py`,
   `build_locale_fs.py`, `build_core_assets.py`, `verify_build.py`,
-  `build_all.sh`, `build_test_binary.sh`.
+  `verify_es_latam_coverage.py`, `fs_translate.py`, `build_all.sh`,
+  `build_test_binary.sh`.
 - `patch/game27/` — clases Java parcheadas (selector de idioma en `gb/GBMainMenu.java`
-  y `MainMenu.java`; overrides en `gbeslatam/`).
+  y `MainMenu.java`; overrides en `gbeslatam/`, incluida
+  `GBESLATAMKeyboard.java` para el placeholder del teclado).
+
+## Textos incrustados en clases (no localizables por `.fs`)
+Algunas clases base se instancian con `new` directo (sin `Builder.overrides`), por
+lo que sus textos NO pasan por el sistema de idioma. Ejemplo resuelto:
+`game27.Keyboard` (creado en `Grid`) mostraba `"Start typing"`; se sustituye por
+`game27.gbeslatam.GBESLATAMKeyboard` (subclase que sobrescribe `hint(String)`).
+Para otros casos (p.ej. `There are %d new posts` de `FriendsApp`) hay que
+sobrescribir el metodo completo. Inventario y estado en
+`docs/ESTADO_TRADUCCION.md` §18-§20.
 
 ## Mecanica del idioma (critico)
 - El idioma activo vive en las preferences de LibGDX bajo `STATE_LANGUAGE`,
