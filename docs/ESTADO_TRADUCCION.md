@@ -1036,3 +1036,39 @@ Analizado con `class_patch.ClassFile.string_literals()` en todas las clases de
 3. Decidir sobre los literales del parser (`triggers/*`): mantener en ingles.
 4. Prueba grafica real en Windows/Steam: elegir "Espanol (Latinoamerica)" y
    recorrer menus, chats (ver "Empieza a escribir"), llamadas y correos.
+
+---
+
+## 19. Verificacion de cobertura (2026-11-13)
+
+Analisis reproducible del `.fs` con `simulacra_fs.py`:
+- `en-us.fs` = 28139 cadenas; `es-latam.fs` = 28139 cadenas.
+- **0 cadenas con prosa inglesa** en `es-latam.fs` (heuristica de palabras
+  inglesas vs espanolas). El contenido jugable esta en espanol.
+- Las cadenas **identicas** al ingles que quedan son legitimas:
+  - Fechas `09 August 2017`, `13 July`, horas `9:30 PM` -> el juego las
+    **parsea** (`Failed to parse time`); traducirlas rompe el arranque.
+  - Claves de estado y codigo embebido (`auto`, `sender`, `x`, `user`,
+    `!a2_memorywipe_timeout`, `Triggers.updateCounter(...)`, `web://...`,
+    `content/...`, `photoroll://...`).
+  - Nombres propios (`Greg`, `Taylor`, `Anna`, `Ashley`, `Yolanda`, `Cassie`).
+  - Claves estructurales protegidas en `tools/keys_protegidas.txt` (`Camera`, ...).
+- **Pendiente menor**: tags de intereses en perfiles NPC de Spark dentro del
+  `.fs` (`Music`, `Food`, `Movies`, `Books`, `Outdoors`, `Gaming`, `Theatre`,
+  `Animals`, `Mom`, `Discrepancies`, `Search`). Son datos de perfil de otros
+  usuarios (solo visualizacion). El emparejamiento con James usa
+  `SparkEditProfileScreen.interests()` (los `sparkTags` del jugador) contra
+  `GlobalTexts.a3_james_tags_*`; **ambos ya estan en espanol y coinciden**, por
+  lo que el match funciona. Traducir estos tags NPC es opcional y requiere
+  cuidado (varios valores ya son neutros: `Music`, `Food`, `Gaming`, `Outdoors`,
+  `Theatre`).
+
+### Estado de los textos de clase (inventario seccion 18)
+- Corregidos y empujados: `Start typing` (teclado), ` years ago` (Jabbr),
+  titulo de pagina del navegador.
+- Ya cubiertos por overrides: intereses de Spark (`sparkTags`, `a3_james_tags`),
+  indicadores "esta escribiendo", mensajes de chat, menus, galeria, correo, etc.
+- Correcto dejar igual: nombres propios, creditos (`GBCreditsMenu`), literales
+  del parser (`triggers/*`, `BootConfig` nombres de youtubers), logs internos.
+- Pendiente opcional: `There are %d new posts` (banner de Jabbr; requiere
+  sobrescribir un metodo completo de `FriendsApp`).
