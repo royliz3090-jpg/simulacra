@@ -1130,3 +1130,55 @@ commits de la sesion: `4862ec9` (teclado) -> `658a5b1` (UI strings) ->
    recorrer chats (ver "Empieza a escribir"), Jabbr, navegador, Spark.
 2. Opcional: `There are %d new posts` via `FriendsApp` subclass.
 3. Opcional: tags de intereses NPC en el `.fs` (cuidado: no romper el match).
+
+---
+
+## 21. Segunda pasada de truncamientos in-place (2026-11-13)
+
+Tras la sesion 13 (§13.2) quedaban cortes que terminan en **sustantivo/verbo**
+(dificiles de detectar). Se cerro el cuerpo con dos detectores nuevos:
+
+### 21.1 Detector A: final en palabra que exige complemento
+Una cadena in-place (`len(es)==len(en)`, con relleno, ultima letra) esta truncada
+si su ultima palabra es un auxiliar/copulativo/cuantificador que no puede cerrar
+la frase: `esta/estoy/tengo/puedo/quiero/voy/mas/bastante/algo/cualquier/...`
+(ej.: `Está` <- `She is missing`, `Todavía hay` <- `There is still hope`,
+`Puedo` <- `I can explain`).
+
+### 21.2 Detector B: final en preposicion/articulo/conjuncion
+Lista estricta (`de, del, a, en, con, por, para, el, la, los, mas, tan...`).
+18 candidatos; 13 eran truncamientos reales.
+
+### 21.3 Cadenas reparadas
+| Fichero | Cadenas | Metodo |
+|---|---|---|
+| `translations/es-LATAM/fixes_truncados9_index.json` | 18 | indice -> `tools/fs_fix_by_index.py` |
+| `translations/es-LATAM/fixes_truncados10_index.json` | 106 | detector A (auxiliares) |
+| `translations/es-LATAM/fixes_truncados9_10.json` | 124 | posiciones combinadas (sin solape) |
+
+Se aplicaron las 124 con `tools/apply_fs_fixes.py` (124/124). Tras aplicar, la
+heuristica solo deja 5 cadenas, todas legitimas (`Ya esta`, `igual me voy`,
+`Te quiero`, `Que es lo que quieres`, y un `vo://...si quiero`).
+
+### 21.4 Herramienta nueva
+`tools/fs_fix_by_index.py <fs> <index_map.json> <out.json>`: genera fixes por
+**indice** de cadena (necesario cuando el texto actual lleva relleno y no se
+puede emparejar por texto exacto).
+
+### 21.5 Nota importante: reproducibilidad de `dist/core.binary`
+El **md5 de `core.binary` cambia en cada build** aunque el contenido sea el mismo:
+el blob KCB1 cifra cada entrada con AES-CTR usando un **IV aleatorio**
+(`os.urandom(16)`, ver `tools/blob_tool.py:237` y `tools/patch_core_binary.py:31`).
+Verificado: el **contenido extraido es identico** entre builds
+(`blob_tool.py extract` + `diff -rq` -> sin diferencias). No es un error.
+`core.assets` y `es-latam.fs` SI son reproducibles (md5 estable).
+
+### 21.6 Estado tras esta sesion
+- md5: `core.assets=4793660c`, `es-latam.fs=db57b1a9` (core.binary varia por IV).
+- `verify_build.py` -> TODO VALIDADO; `verify_es_latam_coverage.py` -> 0 prosa inglesa.
+- 28139 cadenas; truncamientos in-place: cerrados.
+
+### 21.7 Ultimo commit / proxima tarea
+- Commit de este bloque: 124 truncamientos + herramientas (ver `git log`).
+- Proxima: prueba grafica real (Windows/Steam) recorriendo la historia;
+  revisar naturalidad de las frases reparadas en contexto.
