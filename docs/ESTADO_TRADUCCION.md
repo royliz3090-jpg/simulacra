@@ -262,7 +262,14 @@ Salidas esperadas (md5):
 
 ## 12. Último commit respaldado
 
-Rama `feature/traduccion-es-latam-v2` (los commits de esta sesión, en orden):
+> **ESTADO MAS RECIENTE (2026-11-13):** ver **seccion 23** (objetos comprimidos
+> zlib) — es la ultima fuente de verdad. Rama `feature/traduccion-es-latam-v2`,
+> ultimo commit `2fcebba`. Los commits de la sesion 23, en orden:
+> `cc443ae` (144 fichas restphrase) → `a5d677d` (60 objetos comprimidos) →
+> `64ca433` (2 puzzles comprimidos) → `4ddb416` (46 chats/correos/articulos) →
+> `005bb85` (2 duplicados residuales) → `2fcebba` (documentacion seccion 23).
+
+Rama `feature/traduccion-es-latam-v2` (commits de sesiones anteriores):
 
 | commit | contenido |
 |---|---|
