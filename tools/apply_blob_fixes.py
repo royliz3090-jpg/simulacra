@@ -39,28 +39,53 @@ def is_compressed(seg):
     return seg[:2] in _MAGICS
 
 
-def rewrite_payload(payload, mapping):
-    """Sustituye cadenas de un String[] serializado [u32 len][utf8]."""
-    out = bytearray()
-    q = 0
-    applied = 0
-    while q + 4 <= len(payload):
-        L = struct.unpack_from(">I", payload, q)[0]
-        if L == 0 or L > 200000 or q + 4 + L > len(payload):
+def _parse_strings(buf, q):
+    """Lee [u32 len][utf8] repetidos desde `q`. Devuelve (lista, fin)."""
+    out = []
+    n = len(buf)
+    while q + 4 <= n:
+        L = struct.unpack_from(">I", buf, q)[0]
+        if L == 0 or L > 200000 or q + 4 + L > n:
             break
         try:
-            t = payload[q + 4:q + 4 + L].decode("utf-8")
+            out.append(buf[q + 4:q + 4 + L].decode("utf-8"))
         except UnicodeDecodeError:
             break
-        if t in mapping:
-            nb = mapping[t].encode("utf-8")
-            out += struct.pack(">I", len(nb)) + nb
-            applied += 1
-        else:
-            out += payload[q:q + 4 + L]
         q += 4 + L
-    out += payload[q:]
-    return bytes(out), applied
+    return out, q
+
+
+def _emit_strings(items):
+    out = bytearray()
+    for t in items:
+        b = t.encode("utf-8")
+        out += struct.pack(">I", len(b)) + b
+    return bytes(out)
+
+
+def rewrite_payload(payload, mapping):
+    """Sustituye cadenas de un String[] serializado.
+
+    Acepta dos disposiciones usadas por el juego:
+      (a) secuencia de cadenas sin cabecera;
+      (b) [u32 count] seguido de `count` cadenas.
+    Detecta cual es probando cual consume el payload completo.
+    """
+    # (b) con prefijo de conteo
+    if len(payload) >= 4:
+        cnt = struct.unpack_from(">I", payload, 0)[0]
+        items, fin = _parse_strings(payload, 4)
+        if fin == len(payload) and len(items) == cnt and cnt > 0:
+            applied = sum(1 for t in items if t in mapping)
+            new_items = [mapping.get(t, t) for t in items]
+            return (struct.pack(">I", cnt) + _emit_strings(new_items)), applied
+    # (a) secuencia plana
+    items, fin = _parse_strings(payload, 0)
+    if not items:
+        return payload, 0
+    applied = sum(1 for t in items if t in mapping)
+    new_items = [mapping.get(t, t) for t in items]
+    return _emit_strings(new_items) + payload[fin:], applied
 
 
 def main():
