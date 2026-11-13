@@ -5,6 +5,11 @@ import game27.Globals;
 import java.util.Locale;
 
 public class GBESLATAM {
+   /** Teclado con el placeholder del autocompletado en espanol. */
+   public static game27.Keyboard newKeyboard() {
+      return new GBESLATAMKeyboard();
+   }
+
    public static void setup() {
       // Sustituye las clases de UI con textos hardcodeados por sus variantes
       // en espanol (game27.gbeslatam.*), igual que hace GBZHCN para zh-cn.

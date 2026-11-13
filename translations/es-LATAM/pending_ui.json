@@ -1,0 +1,95 @@
+{
+ "game27.gb.GBScreenBar": [
+  "10:30 AM",
+  "10:30 PM",
+  "EEE, d MMMM",
+  "h:mm a"
+ ],
+ "game27.gb.GBLockScreen": [
+  "d MMMM yyyy"
+ ],
+ "game27.gb.mail.GBMailThreadScreen": [
+  "Project Update #14: Drifer: A Space Trading Game by Celcius Game Studios"
+ ],
+ "game27.gb.friends.GBFriendsCommentScreen": [
+  " years ago"
+ ],
+ "game27.gb.spark.GBSparkMatchScreen": [
+  "Greg, 21"
+ ],
+ "game27.gb.spark.GBSparkProfileScreen": [
+  "Anna, 20"
+ ],
+ "game27.gb.spark.GBSparkThreadProfileScreen": [
+  "Anna, 20"
+ ],
+ "game27.gb.spark.GBSparkThreadScreen": [
+  "Sara Whitman"
+ ],
+ "game27.gb.chats.GBWhatsupMessageThread": [
+  "Sara Whitman"
+ ],
+ "game27.gb.browser.GBBrowserHomeScreen": [
+  "Faris & Kane - Spend your money here!",
+  "S U R F",
+  "[browser_linkname]%s - []%s"
+ ],
+ "game27.gb.phone.GBPhoneContactInfoScreen": [
+  "1, Infinity Rd\nCupertino California",
+  "Sara Young"
+ ],
+ "game27.gb.phone.GBPhoneContactsScreen": [
+  "Cody Allison"
+ ],
+ "game27.gb.phone.GBPhoneFavScreen": [
+  "Cody Allison",
+  "Kuala Lumpur"
+ ],
+ "game27.gb.phone.GBPhoneRecentScreen": [
+  "Cody Allison"
+ ],
+ "game27.gb.restore.GBRestoreImageScreen": [
+  "%d / %d",
+  "Image from by Greg"
+ ],
+ "game27.gb.restore.GBRestorePhraseScreen": [
+  "Image from by Greg"
+ ],
+ "game27.gb.gallery.GBPhotoRollAlbumsScreen": [
+  "%s [AlbumScreen.count](%,d)[]",
+  "Another Sat @ CFATL"
+ ],
+ "game27.gb.GBCreditsMenu": [
+  "Azmi Shah",
+  "Bazil Akmal Bidin, Hilmy Abdul Rahim, Rahem Shah",
+  "Christina Begerska, Hasnul Samsudi, Mohan Low",
+  "Cradle Fund Sdn Bhd",
+  "David Teigen",
+  "Denise Chan",
+  "Desmond Lee, Kadri Ugand, Reinaldo Normand",
+  "Detective Murillo",
+  "Gavin Yap",
+  "IMBA Interactive",
+  "Imaginex Studios",
+  "Jeremy Ooi",
+  "Justin Wong",
+  "Kevin Wong, Shern Chong, Ng Yiing Y'ng",
+  "Kimberly Ng",
+  "Lee Ying Foo",
+  "Liyana Shaza",
+  "Maya Michael, Martin Huizinga, Eshan Jayatilaka",
+  "Patrick Lee, Keshavar Ganesparan, Luso Yong",
+  "Phone Operator",
+  "Phraveen Arikiah",
+  "Reuben Cheow",
+  "Shah Rizar",
+  "Shawn Beck, JT Yuen, Dave, Abu Hurairah, Ivan Yee",
+  "Shern Chong",
+  "Shirin Nagendran, Kevin Woon, Alyssa Michael",
+  "Suehaily Abdullah",
+  "Suhana Sulaiman",
+  "The Simulacra",
+  "Wendy Van Horen Carneiro",
+  "Write Handed"
+ ]
+}

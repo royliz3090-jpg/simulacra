@@ -40,6 +40,7 @@ rm -rf "$OUT/classes" && mkdir -p "$OUT/classes"
   -cp "$CLASES:$SUPPORT:$OUT/overrides" -d "$OUT/classes" \
   patch/game27/Globals.java patch/game27/Grid.java patch/game27/MainMenu.java \
   patch/game27/gb/GBMainMenu.java patch/game27/gbeslatam/GBESLATAM.java \
+  patch/game27/gbeslatam/GBESLATAMKeyboard.java \
   patch/game27/gbeslatam/GBESLATAMOverrides.java
 
 echo "[3/6] Construyendo es-latam.fs a partir del .fs traducido..."
@@ -82,6 +83,7 @@ done
 ADD_ARGS=(
   --add game27.gbeslatam.GBESLATAM="$OUT/classes/game27/gbeslatam/GBESLATAM.class"
   --add game27.gbeslatam.GBESLATAMOverrides="$OUT/classes/game27/gbeslatam/GBESLATAMOverrides.class"
+  --add game27.gbeslatam.GBESLATAMKeyboard="$OUT/classes/game27/gbeslatam/GBESLATAMKeyboard.class"
 )
 while IFS= read -r cls; do
   rel="${cls#$OUT/overrides/}"

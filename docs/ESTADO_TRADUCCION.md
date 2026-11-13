@@ -969,3 +969,70 @@ python3 tools/verify_build.py
    `piso`->`departamento` (solo donde encaje con la voz del personaje).
 5. Pasada jugada para OCR de las apps internas (Chats, Galeria, Correo, Spark,
    Jabbr, Vloggr, Surfer, Restaurar, StatMenu).
+
+---
+
+## 18. Sesion 2026-11-13: recuperacion + fix del autocompletado (placeholder del teclado)
+
+### Contexto
+Tras perder el sandbox, se reconstruyo el entorno (JDK 21, py7zr, `SIMULACRA.7z.001`
+-> `/tmp/gameext`, clases en `/tmp/origcls`, `support.binary` -> `/tmp/supportdir`)
+y se verifico que el avance **no se perdio**: la rama `feature/traduccion-es-latam-v2`
+contiene el idioma independiente completo (blob KCB1 + `es-latam.fs`).
+
+### Diagnostico del "texto en ingles en chats/UI"
+- **Los subtitulos en espanol funcionan** => el juego **si carga `es-latam.fs`**.
+  El `Grid` empaquetado en `dist/core.binary` tiene la rama
+  `contentPrefix == "es-latam://" -> File.unpackFS("es-latam.fs")`.
+- El ingles restante **no** viene del `.fs` (28139 cadenas, solo 5 nombres propios
+  sin traducir) sino de **textos incrustados en clases Java** que no pasan por el
+  sistema de localizacion.
+
+### Bug raiz encontrado: placeholder del autocompletado
+`game27.Keyboard` (clase base) instancia su ayuda de autocompletado con
+`this.hint("Start typing")` / `this.hint("Continue typing")`. `Grid` crea el
+teclado con **`new Keyboard()`** (linea 408 de `patch/game27/Grid.java`), es decir
+**sin pasar por `Builder.overrides`**, por lo que su texto queda en ingles en
+todos los idiomas (`'Start typing'` tampoco existia en `override_ui.json`).
+`Continue typing` si se traduce via `GBKeyboard` (override, usado por el
+layout), pero `Start typing` no tenia cobertura.
+
+### Solucion implementada
+1. `patch/game27/gbeslatam/GBESLATAMKeyboard.java` — subclase de `game27.Keyboard`
+   que sobrescribe `public void hint(String)` traduciendo solo los dos textos:
+   `Start typing` -> `Empieza a escribir`, `Continue typing` -> `Sigue escribiendo`.
+2. `GBESLATAM.newKeyboard()` — factoria que devuelve la variante espanola.
+3. `patch/game27/Grid.java` linea 408:
+   `this.keyboard = Globals.CONTENT_PREFIX_ES_LATAM.equals(Globals.contentPrefix) ? GBESLATAM.newKeyboard() : new Keyboard();`
+   (el ingles y el chino conservan `new Keyboard()`; **no se altera** su comportamiento).
+4. `tools/build_all.sh` compila y empaqueta `game27.gbeslatam.GBESLATAMKeyboard`.
+
+### Validacion
+- `tools/build_all.sh` reproduce `dist/` (md5 `core.assets` = `ff52dbab...`).
+- `tools/verify_build.py` -> **TODO VALIDADO** (1105 entradas, +42 nuevas).
+- `javap` confirma `game27.gbeslatam.GBESLATAMKeyboard extends game27.Keyboard`
+  con `hint(String)` sobrescrito, empaquetado en `dist/core.binary`.
+- Pendiente prueba grafica real (ver seccion 10).
+
+### Inventario de ingles visible restante (clases base, NO traducibles por idioma)
+Analizado con `class_patch.ClassFile.string_literals()` en todas las clases de
+`game27.*`:
+- `game27.Keyboard` -> `Start typing` (**CORREGIDO**), `Malformed media autocomplete:` (log).
+- `game27/app/friends/FriendsApp` -> `There are %d new posts` (banner Jabbr). **Pendiente**.
+- `game27/GlobalTexts` / `game27/gb/GBStatMenu` -> `Moving On`, `Finding Love`, ... (intereses de Spark). **Pendiente**.
+- `game27/app/phone/PhoneApp` -> `FAST MODE ENABLED` / `CONSOLE ENABLED` / `SKIP DECODES ENABLED` (solo debug). Ignorar.
+- `game27/triggers/*` -> cadenas de reconocimiento del parser (entradas de texto libre, `a dogs purpose`, `copy writer`, nombres de youtubers de `BootConfig`). **No** traducir (rompen el reconocimiento). **Pendiente de decision**.
+- `game27/gb/GBCreditsMenu` -> creditos (nombres propios). Correcto dejar igual.
+- `game27/gb/*` nombres propios (Sara Whitman, Cody Allison, Greg, 21...). Correcto dejar igual.
+
+### 18.1 Ultimo commit respaldado
+- Rama `feature/traduccion-es-latam-v2`; commits previos: `b4112be` (docs), `fd08369`, `78cb2bd`, `f1a18a4`.
+- Este bloque: fix del autocompletado + documentacion (ver `git log`).
+
+### 18.2 Proxima tarea concreta
+1. Traducir `There are %d new posts` (FriendsApp) via override de clase o parche.
+2. Traducir los intereses de Spark (`Moving On`, `Finding Love`, ...) en
+   `GBStatMenu`/`GlobalTexts` (cadenas ya presentes en `override_ui.json`? verificar).
+3. Decidir sobre los literales del parser (`triggers/*`): mantener en ingles.
+4. Prueba grafica real en Windows/Steam: elegir "Espanol (Latinoamerica)" y
+   recorrer menus, chats (ver "Empieza a escribir"), llamadas y correos.

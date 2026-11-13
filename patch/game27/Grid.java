@@ -405,7 +405,7 @@ public class Grid extends Universe2D implements LoadingMenu.Handler {
       this.wallpaperSprite = new Sprite(Globals.LENGTH, SaraRenderer.renderer.screenNoiseMaterial);
       ColorAttribute.of(this.wallpaperSprite).set(858993663);
       this.loadSaveGame();
-      this.keyboard = new Keyboard();
+      this.keyboard = Globals.CONTENT_PREFIX_ES_LATAM.equals(Globals.contentPrefix) ? GBESLATAM.newKeyboard() : new Keyboard();
       this.notification = new Notification();
       this.homescreen = new Homescreen();
       this.photoRollApp = new PhotoRollApp();
