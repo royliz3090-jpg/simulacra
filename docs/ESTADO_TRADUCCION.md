@@ -1072,3 +1072,61 @@ Analisis reproducible del `.fs` con `simulacra_fs.py`:
   del parser (`triggers/*`, `BootConfig` nombres de youtubers), logs internos.
 - Pendiente opcional: `There are %d new posts` (banner de Jabbr; requiere
   sobrescribir un metodo completo de `FriendsApp`).
+
+---
+
+## 20. Traduccion real del .fs: 58 cadenas visibles (2026-11-13)
+
+Se continuo la traduccion **real del recurso** (`es-latam.fs`), no solo de
+overrides de clase. Cadenas que seguian en ingles y son **datos visibles**
+(verificado que NO son claves de logica comparando contra los literales de
+todas las clases `game27.*`):
+
+- Opciones de respuesta de chat: `Awesome!`->`¡Genial!`, `Again?`->`¿Otra vez?`,
+  `Really?`/`Seriously?`->`¿En serio?`, `Thanks!`->`¡Gracias!`,
+  `Finally!`->`¡Por fin!`, `College?`->`¿La universidad?`,
+  `Blackmail?`->`¿Chantaje?`, `Drinks?`->`¿Unas copas?`, `Promise!`->`¡Lo prometo!`,
+  `Nifty!`/`Noice!`->`¡Qué chido!`/`¡Chido!`, `Sweet!`->`¡Qué padre!`,
+  `Totes!`->`¡Total!`, `Cheers!`->`¡Salud!`, `DUH!`->`¡OBVIO!`, `Wait!`->`¡Espera!`,
+  `Nothing!`->`¡Nada!`, `Anyone?`... (58 en total, ver `fixes_respuestas.json`).
+- Textos de webs: `NEVER MISS ANYTHING`->`NO TE PIERDAS NADA`,
+  `A SMOOTHER START`->`UN INICIO MÁS FLUIDO`, `INVITE GUEST`->`INVITAR A INVITADO`,
+  `WEB DESIGN`->`DISEÑO WEB`, `APP DEVELOPMENT`->`DESARROLLO DE APPS`,
+  `Announcement!`->`¡Anuncio!`, `HurRRy!!!`->`¡Apúrate!!!`.
+- Emoticonos/onomatopeyas: `*hugs*`->`*abrazos*`, `ba dum tsh`->`badum tss`.
+
+Procedimiento usado (reproducible):
+1. `python3 tools/fs_translate.py scan <es-latam.fs> <en-us-original.fs>` lista
+   las cadenas identicas al ingles no legitimas (fechas/claves/rutas/nombres).
+2. Se traducen a un `pares.json` y se generan posiciones con
+   `python3 tools/fs_translate.py fixes <es-latam.fs> <pares.json> <out.json>`.
+3. `python3 tools/apply_fs_fixes.py <es-latam.fs> <out.json> <nuevo.fs>` (58/58).
+4. El nuevo `.fs` pasa a ser la fuente de verdad (`translations/es-LATAM/en-us.fs`).
+5. `bash tools/build_all.sh` reconstruye `dist/`; `tools/verify_build.py` OK.
+
+### Herramientas nuevas de esta sesion
+- `tools/verify_es_latam_coverage.py`: valida conteo de cadenas, ausencia de
+  prosa inglesa, cadenas legitimas y **coherencia de los tags de Spark**
+  (`sparkTags` debe contener `a3_james_tags_required/optional`; hoy OK).
+- `tools/fs_translate.py`: `scan` y `fixes` (genera posiciones para `apply_fs_fixes`).
+
+### Estado final de esta sesion
+- `es-latam.fs`: 28139 cadenas, 0 prosa inglesa, 213 identicas restantes
+  (todas legitimas: fechas, claves, rutas, emails, nombres, emoticonos).
+- md5 actuales: `es-latam.fs=77899a6d`, `core.assets=68a0dff6`.
+- `dist/core.binary`: 1105 entradas, incluye `game27.gbeslatam.GBESLATAMKeyboard`.
+- Pendientes menores (opcionales, bajo impacto): `There are %d new posts`
+  (Jabbr), cadenas dinamicas con nombre/edad embebidos (`Greg, 21`,
+  `Anna, 20`, `Image from by Greg`) y tags de intereses de perfiles NPC en el
+  `.fs`.
+
+### 20.1 Ultimo commit respaldado
+`4402066` (58 cadenas del .fs) sobre `feature/traduccion-es-latam-v2`. Cadena de
+commits de la sesion: `4862ec9` (teclado) -> `658a5b1` (UI strings) ->
+`1d91bbd` (docs cobertura) -> `4402066` (58 cadenas .fs).
+
+### 20.2 Proxima tarea concreta
+1. Prueba grafica real en Windows/Steam: idioma "Espanol (Latinoamerica)",
+   recorrer chats (ver "Empieza a escribir"), Jabbr, navegador, Spark.
+2. Opcional: `There are %d new posts` via `FriendsApp` subclass.
+3. Opcional: tags de intereses NPC en el `.fs` (cuidado: no romper el match).
