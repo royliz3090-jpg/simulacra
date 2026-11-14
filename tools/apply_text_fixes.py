@@ -19,6 +19,7 @@ import os
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import fs_editor as E  # noqa: E402
+import simulacra_fs as S  # noqa: E402
 
 
 def main():
@@ -33,23 +34,20 @@ def main():
         if ob["comp"]:
             continue
         body = ob["body"]
-        q, n = 0, len(body)
-        while q + 4 <= n:
-            L = struct.unpack_from(">I", body, q)[0]
-            if L == 0 or L > 200000 or q + 4 + L > n:
-                break
-            try:
-                t = body[q + 4:q + 4 + L].decode("utf-8")
-            except UnicodeDecodeError:
-                break
-            if t in mapping:
-                nb = mapping[t].encode("utf-8")
-                body[q:q + 4 + L] = struct.pack(">I", len(nb)) + nb
-                applied += 1
-                seen.add(t)
-                q += 4 + len(nb)
+        # scan_strings localiza los pares [u32 len][utf8] y salta el contador
+        # inicial de los arrays (formato [count][str...]).
+        edits = []
+        for it in S.scan_strings(bytes(body)):
+            t = it["text"]
+            if t not in mapping:
                 continue
-            q += 4 + L
+            edits.append((it["pos"] - 4, it["len"], mapping[t].encode("utf-8")))
+            seen.add(t)
+        # de mayor a menor posicion: asi los reemplazos previos no desplazan
+        # las posiciones aun pendientes.
+        for q, old_len, nb in sorted(edits, key=lambda x: -x[0]):
+            body[q:q + 4 + old_len] = struct.pack(">I", len(nb)) + nb
+            applied += 1
 
     out = E.emit_fs(f, objs)
     with open(out_fs, "wb") as fh:
