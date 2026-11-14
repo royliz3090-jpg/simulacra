@@ -1672,3 +1672,126 @@ confirmar que los textos se renderizan bien. No ejecutable en este sandbox.
    comprobar visualmente los textos en las escenas citadas.
 2. Si alguna cadena se ve mal (cortada, desbordada, sin traducir), anotarla y
    crear un `fixes_lote4.json` con `{en, es}`; aplicar con el mismo pipeline.
+
+## 29. Sesion 2026-11-11 (auditoria V2 ligera): minijuegos + fixes por objeto + Java
+
+Rama de trabajo: `fix/auditoria-v2-minijuegos-java` (desde `ad7dc1b`).
+Commits respaldados: `39f2632` y `f693829` en `origin/fix/auditoria-v2-minijuegos-java`.
+
+### 29.1 Que se recupero del paquete adjunto
+
+El usuario adjunto `SIMULACRA_OPENHANDS_AUDITORIA_LIGERA.zip` (auditoria V2 +
+correcciones pendientes). Se descomprimio en `/tmp/paquete/`. Los tres SHA-256
+de `dist/` **coincidian** con `MANIFIESTO_SHA256` del paquete, asi que la
+auditoria describe el estado actual:
+- `core.assets` `97b81e0f...`, `core.binary` `7d7ea3b5...`, `es-latam.fs` `943dffe9...`.
+
+Contenido relevante:
+- `SIMULACRA_V2_FIXES_POR_OBJETO.json` (52 correcciones por objeto).
+- `SIMULACRA_MINIJUEGOS_RESTPHRASE_AUDITORIA.json` (25 minijuegos, 24 con diferencias).
+- `SIMULACRA_MINIJUEGO_GREG1_FIXES.json` (3 fixes de alta confianza).
+- `SIMULACRA_V2_PENDIENTES_JAVA.json` (28 cadenas en clases Java).
+
+Verificacion inicial con `tools/verify_objeto_fixes.py`: **0 aplicadas, 52 PENDIENTE**.
+
+### 29.2 Minijuegos `restphrase` (prioridad) — RESUELTO
+
+Cada minijuego tiene 2 objetos: el recurso (`content/restphrase/<id>`) y sus
+fragmentos. Ademas hay un "mensaje restaurado" (`corrupted://<id>=<frase>`) que
+se muestra al completar. **El bug era que los fragmentos concatenados NO
+coincidian con el mensaje restaurado** (frases agramaticales).
+
+Solucion aplicada a 25 recursos:
+- Se sincronizaron los **fragmentos** (fichas) y el **mensaje restaurado** para
+  que concatenen EXACTAMENTE la misma frase natural.
+- Se conserva: numero de fichas, prefijo `corrupted://<id>=`, marcador final.
+- Se conserva el efecto visual "corrupto" (mayus/minus alternas en los
+  recursos jamesh*, que imitan el estilo del original ingles).
+- Casos: `greg1` (salio->paso, linea->raya), `james2` (`position`->`puesto`),
+  `ashley1` (`phone`->`su`), `taylor1` (lastima), `gregrc2` (infiel),
+  `jamesh10/11/13` (frases naturales), etc.
+
+Resultado: **0 desajustes** entre fragmentos y mensaje restaurado en los 23
+recursos con mensaje (`emailmurv1` y `james1` no tienen mensaje restaurado).
+
+### 29.3 Correcciones por objeto (52) — APLICADAS
+
+Puntuacion (signos de apertura ¿ ¡), tildes, `Ana`->`Anna`, `taylor`->`Taylor`,
+y el correo completo de Anna a Ed (contenido_faltante). Total combinado
+(52 objeto + 84 minijuegos, 2 ya aplicados) = **136 fixes, 136/136 correctos**
+en `dist/es-latam.fs`.
+
+### 29.4 Cadenas Java (28) — ACLARADO Y CERRADO
+
+Las 28 cadenas del JSON siguen en **ingles en las clases base** (`game27.gb.*`).
+Eso es **correcto**: el ingles NO se reemplaza. El espanol se sirve por clases
+`game27.gbeslatam.*` via `Builder.overrides` (mecanismo replicado de `gbzhcn`).
+
+Se encontro y corrigio un hueco real:
+- `patch/game27/gb/GBMainMenu.java`: 3 cadenas (`OPTIONS`, `Talk to us...`,
+  texto del modo `BEGIN+`) **no estaban envueltas en `L()`** y quedaban en
+  ingles. Ahora devuelven espanol cuando el idioma activo es es-LATAM.
+- `translations/es-LATAM/override_ui.json`: `"VOICE WORKS"` estaba sin traducir
+  (creditos, `GBCreditsMenu`) -> `"TRABAJO DE VOCES"`.
+
+`dist/core.binary` se reconstruyo con **JDK 21** (`javac --release 8`) a partir
+de los originales pristinos extraidos de `SIMULACRA.7z` (con `7z`).
+
+### 29.5 Herramientas nuevas
+
+- `tools/apply_index_fixes.py` — aplica fixes por `{objeto, indice_cadena}`
+  usando `fs_editor` (descomprime objetos zlib). Valida indice, texto actual e
+  invariante de numero de cadenas; idempotente.
+- `tools/verify_objeto_fixes.py` — clasifica APLICADA/PENDIENTE/DESPLAZADA/YA_OK.
+- `tools/exenciones_minijuego.json` + `fs_fix_keys.py --exempt`: evita que
+  `fs_fix_keys` revierta `phone`/`position` **solo** en los fragmentos de
+  minijuego donde son texto visible (el resto de contextos sigue protegido).
+- `tools/runtime_test/BlobLoad.java` + `run_blob_smoke.sh` — **prueba fuerte de
+  runtime**: carga clases directamente desde `core.binary` replicando CodeBlob
+  (SHA-1->unlock; AES/CTR + CRC32 + inflate), ejecuta `GBESLATAM.setup()` y
+  comprueba que `GlobalTexts.text1` == "Galeria".
+
+### 29.6 Comandos reproducibles
+
+```bash
+# Entorno (una vez):
+7z e SIMULACRA.7z.001 -o/tmp/game core.assets core.binary support.binary -y
+python3 -c "import zipfile;zipfile.ZipFile('/tmp/game/support.binary').extractall('/tmp/supportdir')"
+python3 tools/blob_tool.py extract /tmp/game/core.binary /tmp/origcls   # clases pristinas
+# JDK 21 en /tmp/jdk (o el que haya); javac --release 8
+
+# Aplicar fixes por objeto+indice (fuente de verdad):
+python3 tools/apply_index_fixes.py translations/es-LATAM/en-us.fs \
+    fixes_auditoria_v2.json work/chatgpt/en-us.audit.fs --report exports/apply_auditoria_v2.json
+cp work/chatgpt/en-us.audit.fs translations/es-LATAM/en-us.fs
+
+# Build completo -> dist/:
+JAVAC=/tmp/jdk/bin/javac ORIG=/tmp/game CLASES=/tmp/origcls SUPPORT=/tmp/supportdir \
+    bash tools/build_all.sh
+
+# Verificacion:
+python3 tools/verify_build.py dist/core.assets dist/core.binary /tmp/game/core.assets
+JAVAC=/tmp/jdk/bin/javac JAVA=/tmp/jdk/bin/java SUPPORT=/tmp/supportdir \
+    bash tools/runtime_test/run_blob_smoke.sh dist/core.binary
+```
+
+### 29.7 Resultados de validacion de esta sesion
+
+- `verify_build.py` -> **TODO VALIDADO** (207 nombres es-latam://, 28139 cadenas,
+  0 prefijos Kryo corruptos, clases bytecode validas).
+- `run_blob_smoke.sh` -> **BLOB-SMOKE OK** (`text1=Galeria text12=Telefono
+  quest1a=Encontrar a Anna`; cargan GBMainMenu, GBCreditsMenu, GBNotification,
+  GBRestorePhraseScreen, GBESLATAMOverrides desde el blob).
+- 136/136 fixes por objeto correctos en `dist/es-latam.fs`.
+- 0 desajustes de minijuegos.
+- `en-us.fs` **identico** (md5 `d571609d36e29116f175bb2da9bf3b7b`).
+- Integridad: 28315 objetos / 30877 cadenas (sin cambios de conteo).
+
+### 29.8 Pendiente / proxima tarea concreta
+
+1. **Prueba visual en el juego (Wine)** de las escenas de minijuego (restphrase)
+   y del menu principal (`OPCIONES`, ayuda, modo BEGIN+), no ejecutable en este
+   sandbox. Cargar `dist/core.assets` + `dist/core.binary`.
+2. **Revisar el resto de recursos `.fs`** (`main.fs`, `content.fs`, `web.fs`,
+   `videos.fs`, `zh-cn.fs`) por si hay texto traducible fuera de `en-us.fs`.
+3. Si algo se ve mal, crear un `fixes_lote4.json` y aplicar con el mismo pipeline.
