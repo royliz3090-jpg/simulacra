@@ -63,14 +63,45 @@ def _emit_strings(items):
     return bytes(out)
 
 
+def rewrite_by_scan(payload, mapping):
+    """Sustituye cadenas por su codificacion ``[u32 len][utf8]`` en cualquier
+    posicion del payload.
+
+    Muchos objetos son un mensaje con metadatos (p.ej. ``ffffffff`` + texto +
+    ``ffffffff`` + vista previa + binario) y no encajan en las disposiciones
+    (a)/(b). Como toda cadena del ``.fs`` va precedida por su longitud en
+    big-endian, buscar el par ``[len][bytes]`` es seguro y conserva intacto el
+    resto de la estructura.
+    """
+    out = bytearray(payload)
+    applied = 0
+    for src, dst in mapping.items():
+        if src == dst:
+            continue
+        old = struct.pack(">I", len(src.encode("utf-8"))) + src.encode("utf-8")
+        new = struct.pack(">I", len(dst.encode("utf-8"))) + dst.encode("utf-8")
+        idx = 0
+        while True:
+            hit = out.find(old, idx)
+            if hit < 0:
+                break
+            out[hit:hit + len(old)] = new
+            idx = hit + len(new)
+            applied += 1
+    return bytes(out), applied
+
+
 def rewrite_payload(payload, mapping):
     """Sustituye cadenas de un String[] serializado.
 
-    Acepta dos disposiciones usadas por el juego:
+    Estrategia principal: ``rewrite_by_scan`` (robusta ante cualquier
+    disposicion). Si no aplica nada, prueba las disposiciones clasicas:
       (a) secuencia de cadenas sin cabecera;
       (b) [u32 count] seguido de `count` cadenas.
-    Detecta cual es probando cual consume el payload completo.
     """
+    scanned, applied = rewrite_by_scan(payload, mapping)
+    if applied:
+        return scanned, applied
     # (b) con prefijo de conteo
     if len(payload) >= 4:
         cnt = struct.unpack_from(">I", payload, 0)[0]
