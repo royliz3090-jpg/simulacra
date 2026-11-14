@@ -23,6 +23,36 @@ REVIEW_CATS = {"narrativo", "ui"}
 KEEP_TOKENS = re.compile(r"#[\w.:]+#|__[A-Z]+\d*|\[[A-Z_]+\]|\[\]|\{\w+\}")
 _WORD = re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,}")
 _TERM = ".?!…\"'»”’)]"
+# Cadenas que NO deben traducirse aunque sean iguales en EN y ES:
+# claves internas del juego (rompen busquedas), fechas (SimpleDateFormat US),
+# colores hex, handles, correos y codigos.
+_HEX = re.compile(r"^[0-9a-fA-F]{6}$")
+_HANDLE = re.compile(r"^[@#][\w.]+$")
+_DATE = re.compile(r"^\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}(,\s*\d{1,2}:\d{2}\s*[AP]M)?$")
+_TIME = re.compile(r"^\d{1,2}:\d{2}(:\d{2})?\s*[AP]M$")
+_KEYS = None  # se carga de tools/keys_protegidas.txt
+
+
+def _load_keys():
+    global _KEYS
+    if _KEYS is not None:
+        return _KEYS
+    import os
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "keys_protegidas.txt")
+    try:
+        _KEYS = {l.rstrip("\n") for l in open(p, encoding="utf-8") if l.strip()}
+    except OSError:
+        _KEYS = set()
+    return _KEYS
+
+
+def is_untranslatable(en):
+    """True si la cadena NO debe traducirse (clave/fecha/color/handle)."""
+    if en in _load_keys():
+        return True
+    if _HEX.match(en) or _HANDLE.match(en) or _DATE.match(en) or _TIME.match(en):
+        return True
+    return False
 
 
 def reviewable(rec):
@@ -55,7 +85,9 @@ def issues(rec):
     if es is None:
         return ["sin_es"]
     if es == en:
-        out.append("sin_traducir")
+        # no es un problema si la cadena es una clave/fecha/color/handle
+        if not is_untranslatable(en):
+            out.append("sin_traducir")
     if _truncated(en, es):
         out.append("posible_truncado")
     # marcadores presentes en EN pero ausentes en ES (o viceversa)

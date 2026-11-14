@@ -1,0 +1,573 @@
+{
+  "total_fixes": 62,
+  "ok": [
+    {
+      "en": "Already talking to other guys!??!",
+      "es": "¿¡Ya está hablando con otros chicos!?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Also…",
+      "es": "Además…",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/recordings/ashley/gossip.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Bow-chicka-wow-wow!",
+      "es": "¡Bow-chicka-wow-wow!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/jabbr/config"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Car troubles, maybe?",
+      "es": "¿Problemas con el auto, tal vez?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Cheers!",
+      "es": "¡Salud!",
+      "ocurrencias": 2,
+      "recursos": [
+        "content/weblayouts/iris.os/update",
+        "content/webpages/iris.os/update"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "DEAL!",
+      "es": "¡Trato hecho!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/murv.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Done.",
+      "es": "Listo.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "For domestic disturbances, press 3.",
+      "es": "Para denunciar conflictos domésticos, presione 3.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/calls/police/immediate.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Gezz fine.",
+      "es": "Uf, está bien.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Haha",
+      "es": "Jaja",
+      "ocurrencias": 3,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor",
+        "content/spark/fillermale1.DialogueTreeDescriptor",
+        "content/spark/taylorrc1.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Hahahaha",
+      "es": "Jajajaja",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylorrc1.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Hahahahah",
+      "es": "Jajajajaj",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/fillermale1.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Hi.",
+      "es": "Hola.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/videos/vlog1.mp4.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Huh!",
+      "es": "¡Eh!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/recordings/taylor/gregkilledanna.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "HurRRy!!!",
+      "es": "¡¡¡Apúrate!!!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/restphrase/jamesh11"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "I can't trust you right now..",
+      "es": "Ahora mismo no puedo confiar en ti...",
+      "ocurrencias": 2,
+      "recursos": [
+        "content/spark/demon",
+        "content/spark/demon.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "I had a wee bit too much to drink last night.",
+      "es": "Anoche bebí un poquito de más.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/recordings/ashley/forgetaboutit.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "I saw him.. then I blacked out..",
+      "es": "Lo vi... y luego perdí el conocimiento...",
+      "ocurrencias": 2,
+      "recursos": [
+        "content/spark/demon",
+        "content/spark/demon.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "If Candy Crush is not a real game, what is?",
+      "es": "Si Candy Crush no es un juego de verdad, ¿cuál lo es?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/edwinbyrd.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Is something wrong?",
+      "es": "¿Pasa algo?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Its the meetings again right?",
+      "es": "Son las reuniones otra vez, ¿verdad?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Just make sure the profile you make contains tags that are similar to them!",
+      "es": "¡Solo asegúrate de que el perfil que crees tenga etiquetas similares a las de ellos!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Key doesn't work?",
+      "es": "¿No funciona la llave?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Love is, being there.",
+      "es": "El amor es estar ahí.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/videos/vlog5.mp4.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Maybe she has friends that we can trick into getting to her computer?",
+      "es": "Quizás tenga amigos a quienes podamos engañar para acceder a su computadora.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Never know who's texting you...",
+      "es": "Nunca sabes quién te está escribiendo...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Next thing you know.",
+      "es": "Y cuando menos te lo esperas...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "No helping that..",
+      "es": "No hay nada que hacer...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Oh so you're close!",
+      "es": "¡Ah, entonces estás cerca!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Oh!",
+      "es": "¡Oh!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/calls/taylor/testcall.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Ok I realize how all this looks.",
+      "es": "Bueno, sé cómo se ve todo esto.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Okay.",
+      "es": "Está bien.",
+      "ocurrencias": 3,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor",
+        "content/chats/ashleyrc1.DialogueTreeDescriptor",
+        "content/subtitles/content/videos/vlog7.mp4.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Or.. maybe killed is a strong word.",
+      "es": "O... quizá «matar» sea una palabra demasiado fuerte.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/recordings/taylor/gregkilledanna.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Please…",
+      "es": "Por favor…",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/subtitles/content/calls/taylor/presson.ogg"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Providence has spoken.",
+      "es": "La providencia ha hablado.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/chaosstar.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Save and get the girl ammirite?",
+      "es": "La salvas y te quedas con ella, ¿no?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sorry!",
+      "es": "¡Perdón!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sorry, couldn't resist.",
+      "es": "Perdón, no pude evitarlo.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sorry, not a good time.",
+      "es": "Perdón, ahora no es buen momento.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sorry, not feeling myself lately.",
+      "es": "Perdón, últimamente no he sido yo.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sounds like a long shot.",
+      "es": "Parece poco probable que funcione.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sounds like you and Anna got issues.",
+      "es": "Parece que Anna y tú tienen problemas.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Sure.",
+      "es": "Claro.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "That cant be right..",
+      "es": "Eso no puede ser...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/murv.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "That's creepy..",
+      "es": "Qué inquietante...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Thats cheating!",
+      "es": "¡Eso es hacer trampa!",
+      "ocurrencias": 2,
+      "recursos": [
+        "content/spark/demon",
+        "content/spark/demon.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Thats cool.",
+      "es": "Qué bien.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Thats strange..",
+      "es": "Qué raro...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Thats too reckless.",
+      "es": "Eso es demasiado imprudente.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Thats true...",
+      "es": "Eso es cierto...",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Thats what she said?",
+      "es": "¿Eso fue lo que dijo ella?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "The damage is done.",
+      "es": "El daño ya está hecho.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "This is difficult for me too!!",
+      "es": "¡¡Esto también es difícil para mí!!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "This is relevant because?",
+      "es": "¿Y esto qué tiene que ver?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/busted.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Wanna try new things, yknow?",
+      "es": "Quiero probar cosas nuevas, ¿sabes?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "What's my favourite movie?",
+      "es": "¿Cuál es mi película favorita?",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Whats done is done.",
+      "es": "Lo hecho, hecho está.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/murv.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "When is then?!!?",
+      "es": "¿Y cuándo será eso?!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Wow no wonder you’re single.",
+      "es": "Vaya, con razón no tienes pareja.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/spark/taylor.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "Wrong again!",
+      "es": "¡Otra vez te equivocas!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/greg.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "You know i read somewhere that psycopaths try their best to fit in?",
+      "es": "¿Sabes? Leí por ahí que los psicópatas hacen todo lo posible por encajar.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/cassie.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "pregnant!",
+      "es": "¡Embarazada!",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/restphrase/gregrc2"
+      ],
+      "problemas": []
+    }
+  ],
+  "avisos": [],
+  "errores": []
+}

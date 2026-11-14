@@ -1,6 +1,6 @@
 # SIMULACRA - LOTE 2: solo cadenas con incidencias
 
-Pares con incidencia: 321
+Pares con incidencia: 195
 
 Traduce/corrige cada `ES` para que corresponda a su `EN`.
 
@@ -12,28 +12,20 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: No  [sin_traducir]  (x8)
 - EN: Anna
   ES: Anna  [sin_traducir]  (x6)
-- EN: Camera
-  ES: Camera  [sin_traducir]  (x5)
 - EN: Oh
   ES: Oh  [sin_traducir]  (x5)
 - EN: Ok
   ES: Ok  [sin_traducir]  (x4)
-- EN: Ashley
-  ES: Ashley  [sin_traducir]  (x3)
 - EN: Greg Summers
   ES: Greg Summers  [sin_traducir]  (x3)
 - EN: I R I S. OS
   ES: I R I S. OS  [sin_traducir]  (x3)
 - EN: Yolanda
   ES: Yolanda  [sin_traducir]  (x3)
-- EN: @keepingitcassie
-  ES: @keepingitcassie  [sin_traducir]  (x2)
 - EN: Ashley?!?!
   ES: Ashley?!?!  [sin_traducir]  (x2)
 - EN: Cassie
   ES: Cassie  [sin_traducir]  (x2)
-- EN: Chat Images
-  ES: Chat Images  [sin_traducir]  (x2)
 - EN: Faraday Safety
   ES: Faraday Safety  [sin_traducir]  (x2)
 - EN: Greg?
@@ -60,106 +52,10 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: +1 A41D GR3G  [sin_traducir]  (x1)
 - EN: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1
   ES: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1  [sin_traducir]  (x1)
-- EN: 00cc33
-  ES: 00cc33  [sin_traducir]  (x1)
-- EN: 00cccc
-  ES: 00cccc  [sin_traducir]  (x1)
-- EN: 00ffff
-  ES: 00ffff  [sin_traducir]  (x1)
 - EN: 1-800-MURILO
   ES: 1-800-MURILO  [sin_traducir]  (x1)
-- EN: 26 April 2017, 3:22 PM
-  ES: 26 April 2017, 3:22 PM  [sin_traducir]  (x1)
-- EN: 26 April 2017, 7:51 PM
-  ES: 26 April 2017, 7:51 PM  [sin_traducir]  (x1)
-- EN: 26 April 2017, 9:42 PM
-  ES: 26 April 2017, 9:42 PM  [sin_traducir]  (x1)
-- EN: 27 April 2017, 11:32 AM
-  ES: 27 April 2017, 11:32 AM  [sin_traducir]  (x1)
-- EN: 27 April 2017, 2:22 PM
-  ES: 27 April 2017, 2:22 PM  [sin_traducir]  (x1)
-- EN: 27 April 2017, 4:41 AM
-  ES: 27 April 2017, 4:41 AM  [sin_traducir]  (x1)
-- EN: 27 April 2017, 5:31 PM
-  ES: 27 April 2017, 5:31 PM  [sin_traducir]  (x1)
-- EN: 27 April 2017, 8:44 PM
-  ES: 27 April 2017, 8:44 PM  [sin_traducir]  (x1)
-- EN: 28 April 2017, 1:12 AM
-  ES: 28 April 2017, 1:12 AM  [sin_traducir]  (x1)
-- EN: 28 April 2017, 5:22 AM
-  ES: 28 April 2017, 5:22 AM  [sin_traducir]  (x1)
-- EN: 28 April 2017, 8:44 AM
-  ES: 28 April 2017, 8:44 AM  [sin_traducir]  (x1)
-- EN: 33ff00
-  ES: 33ff00  [sin_traducir]  (x1)
-- EN: 3:18:00 PM
-  ES: 3:18:00 PM  [sin_traducir]  (x1)
-- EN: 6633cc
-  ES: 6633cc  [sin_traducir]  (x1)
 - EN: 66EA3521113
   ES: 66EA3521113  [sin_traducir]  (x1)
-- EN: @anna_256
-  ES: @anna_256  [sin_traducir]  (x1)
-- EN: @ashketchum
-  ES: @ashketchum  [sin_traducir]  (x1)
-- EN: @best_lester
-  ES: @best_lester  [sin_traducir]  (x1)
-- EN: @chris_don
-  ES: @chris_don  [sin_traducir]  (x1)
-- EN: @click_hole
-  ES: @click_hole  [sin_traducir]  (x1)
-- EN: @faraday_safety
-  ES: @faraday_safety  [sin_traducir]  (x1)
-- EN: @foxsaysmeow
-  ES: @foxsaysmeow  [sin_traducir]  (x1)
-- EN: @gregos
-  ES: @gregos  [sin_traducir]  (x1)
-- EN: @jacccc
-  ES: @jacccc  [sin_traducir]  (x1)
-- EN: @jacobtrex
-  ES: @jacobtrex  [sin_traducir]  (x1)
-- EN: @jessthismess
-  ES: @jessthismess  [sin_traducir]  (x1)
-- EN: @jimjams
-  ES: @jimjams  [sin_traducir]  (x1)
-- EN: @josh2chen
-  ES: @josh2chen  [sin_traducir]  (x1)
-- EN: @kadre
-  ES: @kadre  [sin_traducir]  (x1)
-- EN: @kantoiking
-  ES: @kantoiking  [sin_traducir]  (x1)
-- EN: @katekatekate
-  ES: @katekatekate  [sin_traducir]  (x1)
-- EN: @lemonpie
-  ES: @lemonpie  [sin_traducir]  (x1)
-- EN: @lillisa
-  ES: @lillisa  [sin_traducir]  (x1)
-- EN: @madmikey
-  ES: @madmikey  [sin_traducir]  (x1)
-- EN: @monica55
-  ES: @monica55  [sin_traducir]  (x1)
-- EN: @normal_rei
-  ES: @normal_rei  [sin_traducir]  (x1)
-- EN: @okbrandon
-  ES: @okbrandon  [sin_traducir]  (x1)
-- EN: @paulchin
-  ES: @paulchin  [sin_traducir]  (x1)
-- EN: @robbyj
-  ES: @robbyj  [sin_traducir]  (x1)
-- EN: @rockethop
-  ES: @rockethop  [sin_traducir]  (x1)
-- EN: @ron_coms
-  ES: @ron_coms  [sin_traducir]  (x1)
-- EN: @saytaylor
-  ES: @saytaylor  [sin_traducir]  (x1)
-- EN: @tabby34
-  ES: @tabby34  [sin_traducir]  (x1)
-- EN: @unclecharles
-  ES: @unclecharles  [sin_traducir]  (x1)
-- EN: @williamhanson
-  ES: @williamhanson  [sin_traducir]  (x1)
-- EN: @yllas
-  ES: @yllas  [sin_traducir]  (x1)
 - EN: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM
   ES: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM  [sin_traducir]  (x1)
 - EN: Abby Shin
@@ -178,12 +74,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Alexis Worth  [sin_traducir]  (x1)
 - EN: Alfred Perlo
   ES: Alfred Perlo  [sin_traducir]  (x1)
-- EN: Already talking to other guys!??!
-  ES: Ya esta hablando con otros         [posible_truncado]  (x1)
-- EN: Also…
-  ES: Además  [posible_truncado]  (x1)
-- EN: Amity
-  ES: Amity  [sin_traducir]  (x1)
 - EN: Anna!
   ES: Anna!  [sin_traducir]  (x1)
 - EN: Annabelle
@@ -208,14 +98,10 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Black Beauty  [sin_traducir]  (x1)
 - EN: Blehhhhhh
   ES: Blehhhhhh  [sin_traducir]  (x1)
-- EN: Bow-chicka-wow-wow!
-  ES: ¡Arco-chicka-guau-  [posible_truncado]  (x1)
 - EN: Brandon K
   ES: Brandon K  [sin_traducir]  (x1)
 - EN: Bruce
   ES: Bruce  [sin_traducir]  (x1)
-- EN: Car troubles, maybe?
-  ES: Problemas con carro,  [posible_truncado]  (x1)
 - EN: Cassandra
   ES: Cassandra  [sin_traducir]  (x1)
 - EN: Cassie,
@@ -224,16 +110,8 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Casual  [sin_traducir]  (x1)
 - EN: Chandra Nala
   ES: Chandra Nala  [sin_traducir]  (x1)
-- EN: Chat Audio
-  ES: Chat Audio  [sin_traducir]  (x1)
-- EN: Chat Videos
-  ES: Chat Videos  [sin_traducir]  (x1)
-- EN: Cheers!
-  ES: ¡Salud  [posible_truncado]  (x1)
 - EN: Chloe Rice
   ES: Chloe Rice  [sin_traducir]  (x1)
-- EN: DEAL!
-  ES: TRATO  [posible_truncado]  (x1)
 - EN: Danny
   ES: Danny  [sin_traducir]  (x1)
 - EN: David Teegan
@@ -242,8 +120,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Desiree  [sin_traducir]  (x1)
 - EN: Det. Murilo
   ES: Det. Murilo  [sin_traducir]  (x1)
-- EN: Done.
-  ES: Listo  [posible_truncado]  (x1)
 - EN: Ed
   ES: Ed  [sin_traducir]  (x1)
 - EN: Edwin
@@ -268,8 +144,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Farah Ramsey  [sin_traducir]  (x1)
 - EN: Faris & Kane
   ES: Faris & Kane  [sin_traducir]  (x1)
-- EN: For domestic disturbances, press 3.
-  ES: Para disturbios domesticos, pulse 3  [posible_truncado]  (x1)
 - EN: Fred
   ES: Fred  [sin_traducir]  (x1)
 - EN: Fred Tanner
@@ -280,52 +154,24 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Free Willy  [sin_traducir]  (x1)
 - EN: Futa Baker
   ES: Futa Baker  [sin_traducir]  (x1)
-- EN: Gezz fine.
-  ES: Ya esta     [posible_truncado]  (x1)
 - EN: Gillan Tan
   ES: Gillan Tan  [sin_traducir]  (x1)
 - EN: Gordon Akram
   ES: Gordon Akram  [sin_traducir]  (x1)
-- EN: Haha
-  ES: Haha  [sin_traducir]  (x1)
-- EN: Hahahaha
-  ES: Hahahaha  [sin_traducir]  (x1)
-- EN: Hahahahah
-  ES: Hahahahah  [sin_traducir]  (x1)
 - EN: Haru Oakey
   ES: Haru Oakey  [sin_traducir]  (x1)
-- EN: Hi.
-  ES: Oye  [posible_truncado]  (x1)
 - EN: Hmmmmm
   ES: Hmmmmm  [sin_traducir]  (x1)
-- EN: Huh!
-  ES: ¡Eh  [posible_truncado]  (x1)
-- EN: HurRRy!!!
-  ES: apurarte  [posible_truncado]  (x1)
 - EN: I am just going to look for her.
   ES: Voy a buscarla.                   [contenido_faltante]  (x1)
-- EN: I can't trust you right now..
-  ES: No puedo confiar en ti ahora   [posible_truncado]  (x1)
-- EN: I had a wee bit too much to drink last night.
-  ES: Anoche bebí demasiado.                        [contenido_faltante]  (x1)
-- EN: I saw him.. then I blacked out..
-  ES: Lo vi.. y luego todo se puso      [posible_truncado]  (x1)
 - EN: Iain Gorman
   ES: Iain Gorman  [sin_traducir]  (x1)
 - EN: Ideas
   ES: Ideas  [sin_traducir]  (x1)
-- EN: If Candy Crush is not a real game, what is?
-  ES: Si Candy Crush no es un juego de verdad,     [posible_truncado]  (x1)
 - EN: Iris
   ES: Iris  [sin_traducir]  (x1)
 - EN: Iris Chat
   ES: Iris Chat  [sin_traducir]  (x1)
-- EN: Is something wrong?
-  ES: Esta pasando algo    [posible_truncado]  (x1)
-- EN: Its the meetings again right?
-  ES: Son reuniones de nuevo,        [posible_truncado]  (x1)
-- EN: Jabbr
-  ES: Jabbr  [sin_traducir]  (x1)
 - EN: Jackie C
   ES: Jackie C  [sin_traducir]  (x1)
 - EN: Jacob Rex
@@ -346,8 +192,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Jimmy  [sin_traducir]  (x1)
 - EN: Josh Chen
   ES: Josh Chen  [sin_traducir]  (x1)
-- EN: Just make sure the profile you make contains tags that are similar to them!
-  ES: Solo asegúrate de que el perfil que crees tenga etiquetas similares a las de ellos  [posible_truncado]  (x1)
 - EN: Justin Woodman
   ES: Justin Woodman  [sin_traducir]  (x1)
 - EN: Kad Deidre
@@ -362,8 +206,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Kesh O Mara  [sin_traducir]  (x1)
 - EN: Kevin Baxter
   ES: Kevin Baxter  [sin_traducir]  (x1)
-- EN: Key doesn't work?
-  ES: La llave no        [posible_truncado]  (x1)
 - EN: Kyle Deeley
   ES: Kyle Deeley  [sin_traducir]  (x1)
 - EN: Lee Everee
@@ -372,8 +214,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Lester  [sin_traducir]  (x1)
 - EN: Lilli Vesely
   ES: Lilli Vesely  [sin_traducir]  (x1)
-- EN: Love is, being there.
-  ES: El amor es estar       [posible_truncado]  (x1)
 - EN: Luis Sutcliffe
   ES: Luis Sutcliffe  [sin_traducir]  (x1)
 - EN: Madison Mike
@@ -388,10 +228,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Matt Wilson  [sin_traducir]  (x1)
 - EN: Max Clauf
   ES: Max Clauf  [sin_traducir]  (x1)
-- EN: Maybe she has friends that we can trick into getting to her computer?
-  ES: Quizás tiene amigos con los que podamos engañar para llegar a su computadora  [posible_truncado]  (x1)
-- EN: Me
-  ES: Me  [sin_traducir]  (x1)
 - EN: Melanie Fox
   ES: Melanie Fox  [sin_traducir]  (x1)
 - EN: Mom
@@ -402,14 +238,8 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Murv  [sin_traducir]  (x1)
 - EN: Naya Scott
   ES: Naya Scott  [sin_traducir]  (x1)
-- EN: Never know who's texting you...
-  ES: Nunca sabes quién te está escribiendo  [posible_truncado]  (x1)
-- EN: Next thing you know.
-  ES: Y de ahí todo pasó  [posible_truncado]  (x1)
 - EN: Nissa Renner
   ES: Nissa Renner  [sin_traducir]  (x1)
-- EN: No helping that..
-  ES: No se puede hacer nada  [posible_truncado]  (x1)
 - EN: No.
   ES: No.  [sin_traducir]  (x1)
 - EN: Nononono
@@ -418,24 +248,14 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Noooooooooo  [sin_traducir]  (x1)
 - EN: Odric Marshel
   ES: Odric Marshel  [sin_traducir]  (x1)
-- EN: Oh so you're close!
-  ES: Oh, así que estás cerca  [posible_truncado]  (x1)
-- EN: Oh!
-  ES: ¡O  [posible_truncado]  (x1)
 - EN: Ohh
   ES: Ohh  [sin_traducir]  (x1)
 - EN: Oh~~
   ES: Oh~~  [sin_traducir]  (x1)
-- EN: Ok I realize how all this looks.
-  ES: Ok, me doy cuenta de cómo se ve  [posible_truncado]  (x1)
-- EN: Okay.
-  ES: Bueno  [posible_truncado]  (x1)
 - EN: Oliver Peters
   ES: Oliver Peters  [sin_traducir]  (x1)
 - EN: Ooohh
   ES: Ooohh  [sin_traducir]  (x1)
-- EN: Or.. maybe killed is a strong word.
-  ES: O... tal vez matar sea una palabra   [posible_truncado]  (x1)
 - EN: Pat
   ES: Pat  [sin_traducir]  (x1)
 - EN: Patricia
@@ -452,12 +272,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Phill  [sin_traducir]  (x1)
 - EN: Phresh
   ES: Phresh  [sin_traducir]  (x1)
-- EN: Phresh Ideas
-  ES: Phresh Ideas  [sin_traducir]  (x1)
-- EN: Please…
-  ES: Por favor  [posible_truncado]  (x1)
-- EN: Providence has spoken.
-  ES: La Providencia ha       [posible_truncado]  (x1)
 - EN: Qahar Said
   ES: Qahar Said  [sin_traducir]  (x1)
 - EN: Quinton Lewis
@@ -466,8 +280,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT  [sin_traducir]  (x1)
 - EN: Ralph Conners
   ES: Ralph Conners  [sin_traducir]  (x1)
-- EN: Recovered
-  ES: Recovered  [sin_traducir]  (x1)
 - EN: Rei Norman
   ES: Rei Norman  [sin_traducir]  (x1)
 - EN: Richard Garf
@@ -490,64 +302,22 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Sam Mutt  [sin_traducir]  (x1)
 - EN: Sam Parlow
   ES: Sam Parlow  [sin_traducir]  (x1)
-- EN: Save and get the girl ammirite?
-  ES: Salvar y conseguir a chica,      [posible_truncado]  (x1)
 - EN: Shawn Beckman
   ES: Shawn Beckman  [sin_traducir]  (x1)
 - EN: Sherman Chong
   ES: Sherman Chong  [sin_traducir]  (x1)
-- EN: Sorry!
-  ES: Perdon  [posible_truncado]  (x1)
-- EN: Sorry, couldn't resist.
-  ES: Lo siento, no pude       [posible_truncado]  (x1)
-- EN: Sorry, not a good time.
-  ES: Lo siento, no es buen    [posible_truncado]  (x1)
-- EN: Sorry, not feeling myself lately.
-  ES: Lo siento, no me siento bien       [posible_truncado]  (x1)
-- EN: Sounds like a long shot.
-  ES: Suena a que es mucho      [posible_truncado]  (x1)
-- EN: Sounds like you and Anna got issues.
-  ES: Suena a que tu y Anna tienen          [posible_truncado]  (x1)
-- EN: Spark
-  ES: Spark  [sin_traducir]  (x1)
-- EN: Springwood
-  ES: Springwood  [sin_traducir]  (x1)
 - EN: Stephanie
   ES: Stephanie  [sin_traducir]  (x1)
 - EN: Summers?
   ES: Summers?  [sin_traducir]  (x1)
-- EN: Sure.
-  ES: Claro  [posible_truncado]  (x1)
 - EN: Taka Ann
   ES: Taka Ann  [sin_traducir]  (x1)
 - EN: Tammy
   ES: Tammy  [sin_traducir]  (x1)
 - EN: Taylor Perrera
   ES: Taylor Perrera  [sin_traducir]  (x1)
-- EN: That cant be right..
-  ES: Eso no puede ser      [posible_truncado]  (x1)
-- EN: That's creepy..
-  ES: Eso es           [posible_truncado]  (x1)
-- EN: Thats cheating!
-  ES: Eso es hacer     [posible_truncado]  (x1)
-- EN: Thats cool.
-  ES: Eso está bien  [posible_truncado]  (x1)
-- EN: Thats strange..
-  ES: Eso es           [posible_truncado]  (x1)
-- EN: Thats too reckless.
-  ES: Eso es demasiado     [posible_truncado]  (x1)
-- EN: Thats true...
-  ES: Eso es         [posible_truncado]  (x1)
-- EN: Thats what she said?
-  ES: Eso es lo que ella    [posible_truncado]  (x1)
 - EN: The Click Hole
   ES: The Click Hole  [sin_traducir]  (x1)
-- EN: The damage is done.
-  ES: El daño ya está hecho  [posible_truncado]  (x1)
-- EN: This is difficult for me too!!
-  ES: Esto también es difícil para mí  [posible_truncado]  (x1)
-- EN: This is relevant because?
-  ES: Y esto es relevante        [posible_truncado]  (x1)
 - EN: This service is complimentary for 1 year from this date.
   ES: Este servicio es gratuito por 1 año a partir de esta fecha  [posible_truncado]  (x1)
 - EN: Tim Faraday
@@ -564,32 +334,12 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: Twister?  [sin_traducir]  (x1)
 - EN: Valerie Smith
   ES: Valerie Smith  [sin_traducir]  (x1)
-- EN: Videos
-  ES: Videos  [sin_traducir]  (x1)
-- EN: Voicemail
-  ES: Voicemail  [sin_traducir]  (x1)
-- EN: Wallpapers
-  ES: Wallpapers  [sin_traducir]  (x1)
 - EN: Walter Whitelaw
   ES: Walter Whitelaw  [sin_traducir]  (x1)
-- EN: Wanna try new things, yknow?
-  ES: Quiero probar cosas nuevas,   [posible_truncado]  (x1)
-- EN: What's my favourite movie?
-  ES: Cual es mi pelicula         [posible_truncado]  (x1)
-- EN: Whats done is done.
-  ES: Lo que esta hecho,   [posible_truncado]  (x1)
-- EN: When is then?!!?
-  ES: Cuando lo sera    [posible_truncado]  (x1)
 - EN: Woodsboro
   ES: Woodsboro  [sin_traducir]  (x1)
-- EN: Wow no wonder you’re single.
-  ES: Guau, no me extraña que estés  [posible_truncado]  (x1)
-- EN: Wrong again!
-  ES: Otra vez      [posible_truncado]  (x1)
 - EN: Yolanda?
   ES: Yolanda?  [sin_traducir]  (x1)
-- EN: You know i read somewhere that psycopaths try their best to fit in?
-  ES: Sabes, leí en algún lado que los psicópatas intentan encajar lo más posible  [posible_truncado]  (x1)
 - EN: Yusof Kitt
   ES: Yusof Kitt  [sin_traducir]  (x1)
 - EN: __LINK151, spark.demon.nav_to_demon
@@ -640,8 +390,6 @@ Traduce/corrige cada `ES` para que corresponda a su `EN`.
   ES: chats.busted.a3_tricked_ashley, __LINK150  [sin_traducir]  (x1)
 - EN: nav_restricted, __LINK1, __LINK2
   ES: nav_restricted, __LINK1, __LINK2  [sin_traducir]  (x1)
-- EN: pregnant!
-  ES: preñada  [posible_truncado]  (x1)
 - EN: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna
   ES: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna  [sin_traducir]  (x1)
 - EN: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66
