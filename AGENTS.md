@@ -86,3 +86,18 @@ python3 tools/verify_build.py            # -> TODO VALIDADO
 - En juego (Wine): pantalla de bloqueo y home en espanol, 0 excepciones;
   selector de idioma end-to-end escribe `STATE_LANGUAGE=es-latam://`.
 - Evidencia en `docs/evidencia/`.
+
+## Auditoria de textos (sesion 25)
+- El array `map` del `.fs` es un grafo de referencias: `v>>2` = indice de objeto,
+  `v&3` = tag (3 = referencia). BFS desde los objetos nombrados (`names`) alcanza
+  los 28315 objetos y atribuye cada uno a su recurso. Detalle en
+  `docs/AUDITORIA_ARQUITECTURA.md`.
+- **Total real de cadenas = 30877** (escaneo POR OBJETO). El escaneo del bloque
+  completo da 28139 porque pierde los objetos comprimidos (zlib). Usar siempre el
+  escaneo por objeto para auditorias.
+- `tools/export_auditoria.py` -> `exports/simulacra_textos_completos.jsonl` (100%).
+- `tools/export_revision.py` -> paquete para ChatGPT en `exports/revision_chatgpt/`.
+- `tools/validate_export.py` -> valida cobertura 100% contra el `.fs` real.
+- Texto de UI incrustado en clases Java: `tools/java_strings.py` +
+  `tools/export_java_ui.py` (empareja `game27/gb/**` con `game27/gbeslatam/**`).
+- Rama de auditoria: `audit/export-dialogos-es-latam-v2` (no modifica el juego).
