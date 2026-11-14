@@ -1,0 +1,180 @@
+{
+  "assets": "dist/core.assets",
+  "objetos_en": 28315,
+  "objetos_es": 28315,
+  "cadenas_en": 30877,
+  "por_categoria": {
+    "tecnico": 24651,
+    "ui": 1456,
+    "narrativo": 4770
+  },
+  "owners": 206,
+  "top_owners": [
+    [
+      "content/chats/greg.DialogueTreeDescriptor",
+      5015
+    ],
+    [
+      "content/chats/busted.DialogueTreeDescriptor",
+      4122
+    ],
+    [
+      "content/spark/taylor.DialogueTreeDescriptor",
+      3228
+    ],
+    [
+      "content/chats/ashley.DialogueTreeDescriptor",
+      2814
+    ],
+    [
+      "content/spark/demon.DialogueTreeDescriptor",
+      2619
+    ],
+    [
+      "content/spark/demon",
+      839
+    ],
+    [
+      "content/chats/phill.DialogueTreeDescriptor",
+      815
+    ],
+    [
+      "content/chats/murv.DialogueTreeDescriptor",
+      809
+    ],
+    [
+      "content/chats/yolanda.DialogueTreeDescriptor",
+      790
+    ],
+    [
+      "content/chats/cassie.DialogueTreeDescriptor",
+      684
+    ],
+    [
+      "content/spark/jamesrc.DialogueTreeDescriptor",
+      670
+    ],
+    [
+      "content/chats/ashleyrc1.DialogueTreeDescriptor",
+      503
+    ],
+    [
+      "content/chats/jamesh.DialogueTreeDescriptor",
+      491
+    ],
+    [
+      "content/chats/gregrc1.DialogueTreeDescriptor",
+      490
+    ],
+    [
+      "content/spark/fillermale1.DialogueTreeDescriptor",
+      478
+    ],
+    [
+      "content/gallery/config",
+      415
+    ],
+    [
+      "content/chats/mom.DialogueTreeDescriptor",
+      374
+    ],
+    [
+      "content/spark/fillerfemale1.DialogueTreeDescriptor",
+      312
+    ],
+    [
+      "content/chats/elizabeth.DialogueTreeDescriptor",
+      308
+    ],
+    [
+      "content/calls/config",
+      303
+    ],
+    [
+      "content/jabbr/config",
+      264
+    ],
+    [
+      "content/calls/dialog/emergency.DialogueTreeDescriptor",
+      240
+    ],
+    [
+      "content/chats/techtitan.DialogueTreeDescriptor",
+      228
+    ],
+    [
+      "content/calls/dialog/fariskaneivr.DialogueTreeDescriptor",
+      214
+    ],
+    [
+      "content/chats/jamesh",
+      169
+    ],
+    [
+      "content/spark/config",
+      168
+    ],
+    [
+      "content/spark/edwinbyrd.DialogueTreeDescriptor",
+      142
+    ],
+    [
+      "content/spark/alex.DialogueTreeDescriptor",
+      142
+    ],
+    [
+      "content/chats/chaosstar.DialogueTreeDescriptor",
+      138
+    ],
+    [
+      "content/calls/dialog/peace.DialogueTreeDescriptor",
+      138
+    ],
+    [
+      "content/spark/taylorrc1.DialogueTreeDescriptor",
+      130
+    ],
+    [
+      "content/weblayouts/fariskane.web",
+      106
+    ],
+    [
+      "content/calls/stockconfig",
+      95
+    ],
+    [
+      "content/weblayouts/cbb.web/news/5895833",
+      93
+    ],
+    [
+      "content/weblayouts/phreshideas.web",
+      93
+    ],
+    [
+      "content/weblayouts/educatethyself.web/article/665",
+      81
+    ],
+    [
+      "content/webpages/cbb.web/news/5895833",
+      77
+    ],
+    [
+      "content/weblayouts/iris.os",
+      72
+    ],
+    [
+      "content/weblayouts/nsfw.gov.web",
+      70
+    ],
+    [
+      "content/weblayouts/spark.web/irl",
+      65
+    ]
+  ],
+  "untranslated": null,
+  "flags": {
+    "untranslated": 24302,
+    "padded": 3250,
+    "has_marker": 8743
+  }
+}

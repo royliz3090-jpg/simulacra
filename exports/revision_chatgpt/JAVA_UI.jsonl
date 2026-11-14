@@ -1,0 +1,657 @@
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 0, "flags": [], "en": "SKIP", "es": "SALTAR"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "SIMULACRA", "es": "SIMULACRA"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 2, "flags": [], "en": "A KAIGAN GAMES PRODUCTION", "es": "UNA PRODUCCIÓN DE KAIGAN GAMES"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 3, "flags": [], "en": "PRODUCER", "es": "PRODUCTOR"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 4, "flags": ["sin_traducir"], "en": "Shah Rizar", "es": "Shah Rizar"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 5, "flags": [], "en": "GAME DESIGN", "es": "DISEÑO DE JUEGO"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 6, "flags": ["sin_traducir"], "en": "Jeremy Ooi", "es": "Jeremy Ooi"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 7, "flags": [], "en": "DEVELOPMENT", "es": "DESARROLLO"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 8, "flags": ["sin_traducir"], "en": "Azmi Shah", "es": "Azmi Shah"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 9, "flags": [], "en": "ART AND UI DESIGN", "es": "ARTE Y DISEÑO DE UI"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 10, "flags": [], "en": "OPERATIONS", "es": "OPERACIONES"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 11, "flags": ["sin_traducir"], "en": "Suhana Sulaiman", "es": "Suhana Sulaiman"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 12, "flags": [], "en": "STORY BY", "es": "HISTORIA DE"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 13, "flags": ["sin_traducir"], "en": "Justin Wong", "es": "Justin Wong"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 14, "flags": [], "en": "WRITTEN BY", "es": "ESCRITO POR"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 15, "flags": ["sin_traducir"], "en": "Justin Wong", "es": "Justin Wong"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 16, "flags": ["sin_traducir"], "en": "David Teigen", "es": "David Teigen"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 17, "flags": ["sin_traducir"], "en": "Shern Chong", "es": "Shern Chong"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 18, "flags": ["sin_traducir"], "en": "Jeremy Ooi", "es": "Jeremy Ooi"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 19, "flags": [], "en": "VIDEO PRODUCTION", "es": "PRODUCCIÓN DE VIDEO"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 20, "flags": ["sin_traducir"], "en": "Write Handed", "es": "Write Handed"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 21, "flags": [], "en": "AUDIO PRODUCTION", "es": "PRODUCCIÓN DE AUDIO"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 22, "flags": ["sin_traducir"], "en": "IMBA Interactive", "es": "IMBA Interactive"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 23, "flags": ["sin_traducir"], "en": "VOICE WORKS", "es": "VOICE WORKS"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 24, "flags": ["sin_traducir"], "en": "Imaginex Studios", "es": "Imaginex Studios"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 25, "flags": [], "en": "CAST", "es": "REPARTO"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 26, "flags": ["sin_traducir"], "en": "Anna", "es": "Anna"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 27, "flags": ["sin_traducir"], "en": "Wendy Van Horen Carneiro", "es": "Wendy Van Horen Carneiro"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 28, "flags": ["sin_traducir"], "en": "Greg", "es": "Greg"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 29, "flags": ["sin_traducir"], "en": "Reuben Cheow", "es": "Reuben Cheow"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 30, "flags": ["sin_traducir"], "en": "Ashley", "es": "Ashley"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 31, "flags": ["sin_traducir"], "en": "Kimberly Ng", "es": "Kimberly Ng"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 32, "flags": ["sin_traducir"], "en": "Taylor", "es": "Taylor"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 33, "flags": ["sin_traducir"], "en": "Phraveen Arikiah", "es": "Phraveen Arikiah"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 34, "flags": [], "en": "VOICE ACTORS", "es": "ACTORES DE VOZ"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 35, "flags": ["sin_traducir"], "en": "Anna", "es": "Anna"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 36, "flags": ["sin_traducir"], "en": "Wendy Van Horen Carneiro", "es": "Wendy Van Horen Carneiro"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 37, "flags": ["sin_traducir"], "en": "Greg", "es": "Greg"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 38, "flags": ["sin_traducir"], "en": "Gavin Yap", "es": "Gavin Yap"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 39, "flags": ["sin_traducir"], "en": "Ashley", "es": "Ashley"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 40, "flags": ["sin_traducir"], "en": "Denise Chan", "es": "Denise Chan"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 41, "flags": ["sin_traducir"], "en": "Taylor", "es": "Taylor"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 42, "flags": ["sin_traducir"], "en": "Phraveen Arikiah", "es": "Phraveen Arikiah"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 43, "flags": ["sin_traducir"], "en": "The Simulacra", "es": "The Simulacra"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 44, "flags": ["sin_traducir"], "en": "Gavin Yap", "es": "Gavin Yap"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 45, "flags": ["sin_traducir"], "en": "Detective Murillo", "es": "Detective Murillo"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 46, "flags": ["sin_traducir"], "en": "Gavin Yap", "es": "Gavin Yap"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 47, "flags": ["sin_traducir"], "en": "Phone Operator", "es": "Phone Operator"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 48, "flags": ["sin_traducir"], "en": "Suehaily Abdullah", "es": "Suehaily Abdullah"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 49, "flags": ["sin_traducir"], "en": "Cassie", "es": "Cassie"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 50, "flags": [], "en": "SPECIAL THANKS", "es": "AGRADECIMIENTOS ESPECIALES"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 51, "flags": ["sin_traducir"], "en": "Desmond Lee, Kadri Ugand, Reinaldo Normand", "es": "Desmond Lee, Kadri Ugand, Reinaldo Normand"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 52, "flags": ["sin_traducir"], "en": "Christina Begerska, Hasnul Samsudi, Mohan Low", "es": "Christina Begerska, Hasnul Samsudi, Mohan Low"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 53, "flags": ["sin_traducir"], "en": "Shawn Beck, JT Yuen, Dave, Abu Hurairah, Ivan Yee", "es": "Shawn Beck, JT Yuen, Dave, Abu Hurairah, Ivan Yee"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 54, "flags": ["sin_traducir"], "en": "Patrick Lee, Keshavar Ganesparan, Luso Yong", "es": "Patrick Lee, Keshavar Ganesparan, Luso Yong"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 55, "flags": ["sin_traducir"], "en": "Shirin Nagendran, Kevin Woon, Alyssa Michael", "es": "Shirin Nagendran, Kevin Woon, Alyssa Michael"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 56, "flags": ["sin_traducir"], "en": "Maya Michael, Martin Huizinga, Eshan Jayatilaka", "es": "Maya Michael, Martin Huizinga, Eshan Jayatilaka"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 57, "flags": ["sin_traducir"], "en": "Bazil Akmal Bidin, Hilmy Abdul Rahim, Rahem Shah", "es": "Bazil Akmal Bidin, Hilmy Abdul Rahim, Rahem Shah"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 58, "flags": ["sin_traducir"], "en": "Kevin Wong, Shern Chong, Ng Yiing Y'ng", "es": "Kevin Wong, Shern Chong, Ng Yiing Y'ng"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 59, "flags": ["sin_traducir"], "en": "AND", "es": "AND"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 60, "flags": ["sin_traducir"], "en": "GameFounders", "es": "GameFounders"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 61, "flags": ["sin_traducir"], "en": "MDeC", "es": "MDeC"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 62, "flags": ["sin_traducir"], "en": "Cradle Fund Sdn Bhd", "es": "Cradle Fund Sdn Bhd"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 63, "flags": [], "en": "And to all our loyal fans!", "es": "¡Y a todos nuestros fieles fans!"}
+{"class": "game27/gb/GBCreditsMenu.class", "method": "<init>(Lgame27/CreditsMenu;)V", "ordinal": 64, "flags": [], "en": "Thank you", "es": "Gracias"}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 0, "flags": ["sin_override_es"], "en": "am", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 1, "flags": ["sin_override_es"], "en": "pm", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 2, "flags": ["sin_override_es"], "en": "15bt57v9AhyK8-USYGIoE7evyoREUGWicURmaFrMFE9I", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 3, "flags": ["sin_override_es"], "en": "Gallery", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 4, "flags": ["sin_override_es"], "en": "Preparing", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 5, "flags": ["sin_override_es"], "en": "Restoring Home...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 6, "flags": ["sin_override_es"], "en": "Restoring Calls...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 7, "flags": ["sin_override_es"], "en": "Restoring Chats...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 8, "flags": ["sin_override_es"], "en": "Restoring Gallery...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 9, "flags": ["sin_override_es"], "en": "Restoring Mail...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 10, "flags": ["sin_override_es"], "en": "Restoring Spark...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 11, "flags": ["sin_override_es"], "en": "Restoring Jabbr...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 12, "flags": ["sin_override_es"], "en": "Restoring Vloggr...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 13, "flags": ["sin_override_es"], "en": "Restoring Surfer...", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 14, "flags": ["sin_override_es"], "en": "Phone", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 15, "flags": ["sin_override_es"], "en": "Chats", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 16, "flags": ["sin_override_es"], "en": "Gallery", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 17, "flags": ["sin_override_es"], "en": "Spark", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 18, "flags": ["sin_override_es"], "en": "Vloggr", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 19, "flags": ["sin_override_es"], "en": "Surfer", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 20, "flags": ["sin_override_es"], "en": "Mail", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 21, "flags": ["sin_override_es"], "en": "Jabbr", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 22, "flags": ["sin_override_es"], "en": "What is your pet's name?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 23, "flags": ["sin_override_es"], "en": "What is your mom’s maiden name ?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 24, "flags": ["sin_override_es"], "en": "What is your favorite movie ?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 25, "flags": ["sin_override_es"], "en": "Connecting AnnaHome-PC", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 26, "flags": ["sin_override_es"], "en": "Phill", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 27, "flags": ["sin_override_es"], "en": "Anna", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 28, "flags": ["sin_override_es"], "en": "Works at FaradaySolutions", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 29, "flags": ["sin_override_es"], "en": "You're here too so don't judge", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 30, "flags": ["sin_override_es"], "en": "James", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 31, "flags": ["sin_override_es"], "en": "Works at Phresh Ideas", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 32, "flags": ["sin_override_es"], "en": "Just the right amount of awkward", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 33, "flags": ["sin_override_es"], "en": "BUSTED", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 34, "flags": ["sin_override_es"], "en": "CONTINUE", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 35, "flags": ["sin_override_es"], "en": "Welcome", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 36, "flags": ["sin_override_es"], "en": "This phone belongs to:", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 37, "flags": ["sin_override_es"], "en": "Name", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 38, "flags": ["sin_override_es"], "en": "This phone uses your name for some features", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 39, "flags": ["sin_override_es"], "en": "next", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 40, "flags": ["sin_override_es"], "en": "Next", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 41, "flags": ["sin_override_es"], "en": "Hello #state:boot.name#!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 42, "flags": ["sin_override_es"], "en": "For a more personalized user experience, please answer the following questions to help us better serve your needs\n\nDon't worry it will only take a moment!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 43, "flags": ["sin_override_es"], "en": "How old are you?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 44, "flags": ["sin_override_es"], "en": "Where is your home country or region?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 45, "flags": ["sin_override_es"], "en": "Are you a new user or an experienced user?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 46, "flags": ["sin_override_es"], "en": "Experienced", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 47, "flags": ["sin_override_es"], "en": "New", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 48, "flags": ["sin_override_es"], "en": "If needed, would you like to manually configure new settings or allow the phone to do it for you automatically?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 49, "flags": ["sin_override_es"], "en": "Auto", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 50, "flags": ["sin_override_es"], "en": "Manual", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 51, "flags": ["sin_override_es"], "en": "Do you like to to backup your phone often or occasionally?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 52, "flags": ["sin_override_es"], "en": "Occasional", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 53, "flags": ["sin_override_es"], "en": "Often", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 54, "flags": ["sin_override_es"], "en": "Do you like to sleep late or sleep early?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 55, "flags": ["sin_override_es"], "en": "Early", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 56, "flags": ["sin_override_es"], "en": "What is your favorite kind of smell?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 57, "flags": ["sin_override_es"], "en": "Which part of an animal do you prefer to eat?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 58, "flags": ["sin_override_es"], "en": "Ribs", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 59, "flags": ["sin_override_es"], "en": "Thigh", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 60, "flags": ["sin_override_es"], "en": "Tell me about your saddest moment in life.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 61, "flags": ["sin_override_es"], "en": "Are you paranoid that your phone or laptop camera might be recording your every move?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 62, "flags": ["sin_override_es"], "en": "No", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 63, "flags": ["sin_override_es"], "en": "Yes", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 64, "flags": ["sin_override_es"], "en": "If everyone can only tell the truth all the time, do you think this will make the world a better or worse place?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 65, "flags": ["sin_override_es"], "en": "Worse", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 66, "flags": ["sin_override_es"], "en": "Better", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 67, "flags": ["sin_override_es"], "en": "Do you swear to tell the truth, the whole truth and nothing but the truth?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 68, "flags": ["sin_override_es"], "en": "Would you rather know the date of your death or the cause of your death?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 69, "flags": ["sin_override_es"], "en": "Cause", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 70, "flags": ["sin_override_es"], "en": "Date", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 71, "flags": ["sin_override_es"], "en": "Would you rather lose your mind or all your limbs?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 72, "flags": ["sin_override_es"], "en": "Mind", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 73, "flags": ["sin_override_es"], "en": "If you look behind you right now, would you rather see a floating disembodied head or a headless body?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 74, "flags": ["sin_override_es"], "en": "Headless Body", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 75, "flags": ["sin_override_es"], "en": "Floating Head", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 76, "flags": ["sin_override_es"], "en": "Your hair smells nice.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 77, "flags": ["sin_override_es"], "en": "False", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 78, "flags": ["sin_override_es"], "en": "True", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 79, "flags": ["sin_override_es"], "en": "Can I touch your hair?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 80, "flags": ["sin_override_es"], "en": "No", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 81, "flags": ["sin_override_es"], "en": "Sure", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 82, "flags": ["sin_override_es"], "en": "You agree to [boot_bold]surrender all of your personal data[] to IRIS OS for the further improvement of your experience and other services at our discretion.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 83, "flags": ["sin_override_es"], "en": "Decline", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 84, "flags": ["sin_override_es"], "en": "Agree", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 85, "flags": ["sin_override_es"], "en": "But if we know more about the user, we can help you find them in case they go missing.\n\nDon’t you agree?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 86, "flags": ["sin_override_es"], "en": "We value your privacy and will not use log data for any other purposes.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 87, "flags": ["sin_override_es"], "en": "Too bad for Anna then.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 88, "flags": ["sin_override_es"], "en": "Thank You!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 89, "flags": ["sin_override_es"], "en": "Your phone is now ready to be used.\n\nEnjoy!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 90, "flags": ["sin_override_es"], "en": "Finish", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 91, "flags": ["sin_override_es"], "en": "You MUST tell me your name.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 92, "flags": ["sin_override_es"], "en": "I asked for YOUR name.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 93, "flags": ["sin_override_es"], "en": "Toby, is the cat. I ASKED FOR YOUR NAME!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 94, "flags": ["sin_override_es"], "en": "You are not Greg. I ASKED FOR YOUR NAME!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 95, "flags": ["sin_override_es"], "en": "You are not Ashley. I ASKED FOR YOUR NAME!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 96, "flags": ["sin_override_es"], "en": "It is not you, and you are not it.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 97, "flags": ["sin_override_es"], "en": "I ASKED FOR YOUR NAME!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 98, "flags": ["sin_override_es"], "en": "No cussing, you ASSHOLE!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 99, "flags": ["sin_override_es"], "en": "This cannot be a name!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 100, "flags": ["sin_override_es"], "en": "Your name is TOO short!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 101, "flags": ["sin_override_es"], "en": "FULL name please.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 102, "flags": ["sin_override_es"], "en": "You MUST tell me your age.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 103, "flags": ["sin_override_es"], "en": "That is not a number.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 104, "flags": ["sin_override_es"], "en": "Please call your parents or another responsible adult to continue.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 105, "flags": ["sin_override_es"], "en": "That is not a number.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 106, "flags": ["sin_override_es"], "en": "You WILL tell me your location.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 107, "flags": ["sin_override_es"], "en": "You WILL tell me your favorite smell.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 108, "flags": ["sin_override_es"], "en": "You WILL tell me your saddest moments.", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 109, "flags": ["sin_override_es"], "en": "You HAVE to tell me more!", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 110, "flags": ["sin_override_es"], "en": "OPEN?", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 111, "flags": ["sin_override_es"], "en": "NO", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 112, "flags": ["sin_override_es"], "en": "THING", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 113, "flags": ["sin_override_es"], "en": "IS", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 114, "flags": ["sin_override_es"], "en": "WHAT", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 115, "flags": ["sin_override_es"], "en": "IT", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 116, "flags": ["sin_override_es"], "en": "SEEMS", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 117, "flags": ["sin_override_es"], "en": "NOTHING", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 118, "flags": ["sin_override_es"], "en": "IS", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 119, "flags": ["sin_override_es"], "en": "WHAT", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 120, "flags": ["sin_override_es"], "en": "IT", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 121, "flags": ["sin_override_es"], "en": "SEEMS", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 122, "flags": ["sin_override_es"], "en": "Edit Profile", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 123, "flags": ["sin_override_es"], "en": "Create Profile", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 124, "flags": ["sin_override_es"], "en": "You sent a video", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 125, "flags": ["sin_override_es"], "en": "You sent an audio recording", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 126, "flags": ["sin_override_es"], "en": "You sent a photo", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 127, "flags": ["sin_override_es"], "en": " sent a video", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 128, "flags": ["sin_override_es"], "en": " sent an audio recording", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 129, "flags": ["sin_override_es"], "en": " sent a photo", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 130, "flags": ["sin_override_es"], "en": "Message corrupted", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 131, "flags": ["sin_override_es"], "en": "You sent a link", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 132, "flags": ["sin_override_es"], "en": " sent a link", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 133, "flags": ["sin_override_es"], "en": "E-mail corrupted", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 134, "flags": ["sin_override_es"], "en": "Find Anna", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 135, "flags": ["sin_override_es"], "en": "New message from Greg. Talk to him", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 136, "flags": ["sin_override_es"], "en": "New message from Taylor. Talk to him", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 137, "flags": ["sin_override_es"], "en": "Try to login the Jabbr app", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 138, "flags": ["sin_override_es"], "en": "Greg and Anna had some relationship problems", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 139, "flags": ["sin_override_es"], "en": "Anna took a picture with Toby on its birthday", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 140, "flags": ["sin_override_es"], "en": "Taylor feels more connected to Anna now", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 141, "flags": ["sin_override_es"], "en": "Make sure that Ashley never finds out about Anna's disappearance", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 142, "flags": ["sin_override_es"], "en": "Trick Ashley into revealing Anna's Favorite Movie", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 143, "flags": ["sin_override_es"], "en": "Taylor wants a picture of Anna in exchange for information", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 144, "flags": ["sin_override_es"], "en": "New message from Ashley. Talk to her", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 145, "flags": ["sin_override_es"], "en": "Get the authorization code from Titan Tech", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 146, "flags": ["sin_override_es"], "en": "Send the QR code to Greg", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 147, "flags": ["sin_override_es"], "en": "Unblock Greg's card from Titan Tech", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 148, "flags": ["sin_override_es"], "en": "Ashley knows that Anna is missing", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 149, "flags": ["sin_override_es"], "en": "Investigate Anna's home with Greg", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 150, "flags": ["sin_override_es"], "en": "Find out Toby's birthday to unlock e-mails", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 151, "flags": ["sin_override_es"], "en": "Unlock the Jabbr app", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 152, "flags": ["sin_override_es"], "en": "Check for the Jabbr password reset link in the email", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 153, "flags": ["sin_override_es"], "en": "Tell Greg about Anna's Jabbr Post", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 154, "flags": ["sin_override_es"], "en": "Blackmail her colleague into accessing her work computer", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 155, "flags": ["sin_override_es"], "en": "Do a background check on Anna's Spark matches", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 156, "flags": ["sin_override_es"], "en": "Taylor is a registered sex offender", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 157, "flags": ["sin_override_es"], "en": "Confront Taylor on his criminal record", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 158, "flags": ["sin_override_es"], "en": "Help Greg stop the memory wipe", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 159, "flags": ["sin_override_es"], "en": "Someone tried to delete all the data on Anna's phone", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 160, "flags": ["sin_override_es"], "en": "Anna found cheeky note from someone named \"Yolanda\" on Greg's phone", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 161, "flags": ["sin_override_es"], "en": "Anna found an inconclusive pregnancy test from Greg's phone", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 162, "flags": ["sin_override_es"], "en": "Do a background check on Anna's Spark matches", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 163, "flags": ["sin_override_es"], "en": "Call out Greg for his suspicious behaviour", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 164, "flags": ["sin_override_es"], "en": "Anna met someone on Spark", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 165, "flags": ["sin_override_es"], "en": "There is another backup at her workplace", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 166, "flags": ["sin_override_es"], "en": "Confront Yolanda about Greg's behaviour", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 167, "flags": ["sin_override_es"], "en": "Greg cheated on Anna with Yolanda", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 168, "flags": ["sin_override_es"], "en": "New message from the group \"BUSTED\"", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 169, "flags": ["sin_override_es"], "en": "Get the second backup from her workplace", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 170, "flags": ["sin_override_es"], "en": "Reported Murv to HR", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 171, "flags": ["sin_override_es"], "en": "Protected Murv from an investigation", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 172, "flags": ["sin_override_es"], "en": "Blackmail her colleague into accessing her work computer", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 173, "flags": ["sin_override_es"], "en": "Get the second backup from her workplace", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 174, "flags": ["sin_override_es"], "en": "All previous Spark messages have been restored", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 175, "flags": ["sin_override_es"], "en": "Find out who Anna met with on Spark by restoring her messages", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 176, "flags": ["sin_override_es"], "en": "Create a profile that can match with James", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 177, "flags": ["sin_override_es"], "en": "James used to work at Phresh Ideas", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 178, "flags": ["sin_override_es"], "en": "James met with a Jabbr celeb named Cassie before Anna", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 179, "flags": ["sin_override_es"], "en": "Anna met with James", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 180, "flags": ["sin_override_es"], "en": "Find out more about James through Cassie", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 181, "flags": ["sin_override_es"], "en": "Find out more about James through his workplace", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 182, "flags": ["sin_override_es"], "en": "Talk to Taylor about James' behaviour", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 183, "flags": ["sin_override_es"], "en": "Ashley reveals she loves Anna more than a friend", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 184, "flags": ["sin_override_es"], "en": "Ashley knows the truth and called the cops", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 185, "flags": ["sin_override_es"], "en": "Save Anna and Taylor", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 186, "flags": ["sin_override_es"], "en": "Moving On", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 187, "flags": ["sin_override_es"], "en": "Finding Love", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 188, "flags": ["sin_override_es"], "en": "Movies", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 189, "flags": ["sin_override_es"], "en": "Books", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 190, "flags": ["sin_override_es"], "en": "Indoors", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 191, "flags": ["sin_override_es"], "en": "Personal Growth", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 192, "flags": ["sin_override_es"], "en": "Pets and Animals", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 193, "flags": ["sin_override_es"], "en": "Gaming", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 194, "flags": ["sin_override_es"], "en": "Work and Career", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 195, "flags": ["sin_override_es"], "en": "Music", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 196, "flags": ["sin_override_es"], "en": "Studies", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 197, "flags": ["sin_override_es"], "en": "Travelling", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 198, "flags": ["sin_override_es"], "en": "Movies", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 199, "flags": ["sin_override_es"], "en": "Food", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 200, "flags": ["sin_override_es"], "en": "Books", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 201, "flags": ["sin_override_es"], "en": "Indoors", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 202, "flags": ["sin_override_es"], "en": "Outdoors", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 203, "flags": ["sin_override_es"], "en": "Theatre", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 204, "flags": ["sin_override_es"], "en": "Painting", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 205, "flags": ["sin_override_es"], "en": "Moving On", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 206, "flags": ["sin_override_es"], "en": "Dancing", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 207, "flags": ["sin_override_es"], "en": "Photography", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 208, "flags": ["sin_override_es"], "en": "Personal Growth", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 209, "flags": ["sin_override_es"], "en": "Health & Exercise", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 210, "flags": ["sin_override_es"], "en": "Charity", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 211, "flags": ["sin_override_es"], "en": "Politics", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 212, "flags": ["sin_override_es"], "en": "Travelling", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 213, "flags": ["sin_override_es"], "en": "Pets and Animals", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 214, "flags": ["sin_override_es"], "en": "Gaming", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 215, "flags": ["sin_override_es"], "en": "Finding Love", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 216, "flags": ["sin_override_es"], "en": "Casual", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 217, "flags": ["sin_override_es"], "en": "Work and Career", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 218, "flags": ["sin_override_es"], "en": "Music", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 219, "flags": ["sin_override_es"], "en": "Arts and Craft", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 220, "flags": ["sin_override_es"], "en": "Finance", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 221, "flags": ["sin_override_es"], "en": "Cooking", "es": null}
+{"class": "game27/gb/GBENUS.class", "method": "setup()V", "ordinal": 222, "flags": ["sin_override_es"], "en": "Studies", "es": null}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 0, "flags": [], "en": "Continue typing", "es": "Sigue escribiendo"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "confirm", "es": "confirm"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 2, "flags": [], "en": "Show keyboard", "es": "Mostrar teclado"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 3, "flags": [], "en": "Show keyboard", "es": "Mostrar teclado"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 4, "flags": [], "en": "Send Video", "es": "Enviar video"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 5, "flags": [], "en": "Choose a reply", "es": "Elige una respuesta"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 6, "flags": [], "en": "with IRIS™", "es": "con IRIS™"}
+{"class": "game27/gb/GBKeyboard.class", "method": "<init>(Lgame27/Keyboard;)V", "ordinal": 7, "flags": ["sin_traducir"], "en": "C_ACT", "es": "C_ACT"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "background", "es": "background"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 1, "flags": [], "en": "Welcome Anna !", "es": "¡Bienvenida Anna!"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 2, "flags": [], "en": "2 February 2017", "es": "2 de febrero de 2017"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 3, "flags": ["sin_traducir"], "en": "h:mm", "es": "h:mm"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 4, "flags": ["sin_traducir"], "en": "d MMMM yyyy", "es": "d MMMM yyyy"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 5, "flags": ["sin_traducir"], "en": "Greg", "es": "Greg"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 6, "flags": [], "en": "7 missed calls", "es": "7 llamadas perdidas"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 7, "flags": ["sin_traducir"], "en": "1 h", "es": "1 h"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 8, "flags": [], "en": "Hint: Toby's birthday", "es": "Pista: el cumpleaños de Toby"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 9, "flags": [], "en": "Invalid Passcode", "es": "Contraseña incorrecta"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 10, "flags": [], "en": "Cancel", "es": "Cancelar"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 11, "flags": ["sin_traducir"], "en": "Greg", "es": "Greg"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 12, "flags": [], "en": "7 missed calls", "es": "7 llamadas perdidas"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 13, "flags": ["sin_traducir"], "en": "58 m", "es": "58 m"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 14, "flags": ["sin_traducir"], "en": "Ashley", "es": "Ashley"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 15, "flags": [], "en": "Missed call", "es": "2 h"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 16, "flags": [], "en": "2 h", "es": "Greg"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 17, "flags": [], "en": "Greg", "es": "13 mensajes"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 18, "flags": [], "en": "13 messages", "es": "4 h"}
+{"class": "game27/gb/GBLockScreen.class", "method": "<init>(Lgame27/LockScreen;)V", "ordinal": 19, "flags": ["sin_override_es"], "en": "4 h", "es": null}
+{"class": "game27/gb/GBLockedAppDialog.class", "method": "<init>(Lgame27/LockedAppDialog;)V", "ordinal": 0, "flags": [], "en": "Signing In", "es": "Iniciando sesión"}
+{"class": "game27/gb/GBLockedAppDialog.class", "method": "<init>(Lgame27/LockedAppDialog;)V", "ordinal": 1, "flags": [], "en": "Passcode Required", "es": "Se requiere contraseña"}
+{"class": "game27/gb/GBLockedAppDialog.class", "method": "<init>(Lgame27/LockedAppDialog;)V", "ordinal": 2, "flags": [], "en": "For Mail access", "es": "Para acceder al correo"}
+{"class": "game27/gb/GBLockedAppDialog.class", "method": "<init>(Lgame27/LockedAppDialog;)V", "ordinal": 3, "flags": [], "en": "Welcome Anna!", "es": "¡Bienvenida Anna!"}
+{"class": "game27/gb/GBLockedAppDialog.class", "method": "<init>(Lgame27/LockedAppDialog;)V", "ordinal": 4, "flags": [], "en": "Your passcode is required to unlock your Mail account", "es": "Se requiere tu contraseña para desbloquear tu cuenta de correo"}
+{"class": "game27/gb/GBLockedAppDialog.class", "method": "<init>(Lgame27/LockedAppDialog;)V", "ordinal": 5, "flags": [], "en": "Synchronizing Account", "es": "Sincronizando cuenta"}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 0, "flags": ["sin_override_es"], "en": "MAIN_GAMEPLUS", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 1, "flags": ["sin_override_es"], "en": "Are you sure you\nwant to restart ?\nYou will lose your\ncurrent progress.", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 2, "flags": ["sin_override_es"], "en": "¿Seguro que quieres\nreiniciar?\nPerderás tu\nprogreso actual.", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 3, "flags": ["sin_override_es"], "en": "You can now enable\n[MAIN_GAMEPLUS]BEGIN+[] mode\n\nIn this mode, text speed\nwill be increased\ndramatically\n\nDo you wish to\nenable this mode?", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 4, "flags": ["sin_override_es"], "en": "OPTIONS", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 5, "flags": ["sin_override_es"], "en": "Talk to us if you need\nhelp or find any issues\nwith SIMULACRA", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 6, "flags": ["sin_override_es"], "en": "Subtitles", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 7, "flags": ["sin_override_es"], "en": "Subtítulos", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 8, "flags": ["sin_override_es"], "en": "HD Videos", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 9, "flags": ["sin_override_es"], "en": "Videos HD", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 10, "flags": ["sin_override_es"], "en": "Selección de idioma", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 11, "flags": ["sin_override_es"], "en": "English", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 12, "flags": ["sin_override_es"], "en": "简体中文", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 13, "flags": ["sin_override_es"], "en": "Español (Latinoamérica)", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 14, "flags": ["sin_override_es"], "en": "Selección de idioma", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 15, "flags": ["sin_override_es"], "en": "语言选择", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 16, "flags": ["sin_override_es"], "en": "English", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 17, "flags": ["sin_override_es"], "en": "简体中文", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 18, "flags": ["sin_override_es"], "en": "Selección de idioma", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 19, "flags": ["sin_override_es"], "en": "Español (Latinoamérica)", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 20, "flags": ["sin_override_es"], "en": "Please Wait", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 21, "flags": ["sin_override_es"], "en": "Espera", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 22, "flags": ["sin_override_es"], "en": "For the best experience\nplease turn on the volume", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 23, "flags": ["sin_override_es"], "en": "Para una mejor experiencia,\nsube el volumen", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 24, "flags": ["sin_override_es"], "en": "Headphones recommended", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 25, "flags": ["sin_override_es"], "en": "Se recomiendan audífonos", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 26, "flags": ["sin_override_es"], "en": "Inicia sesión para activar el guardado\nen la nube y los logros", "es": null}
+{"class": "game27/gb/GBMainMenu.class", "method": "<init>(Lgame27/MainMenu;)V", "ordinal": 27, "flags": ["sin_override_es"], "en": "SKIP", "es": null}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 0, "flags": [], "en": "Remote Wipe", "es": "Borrado remoto"}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 1, "flags": [], "en": "A request has been made from AnnaHome-PC to permanently delete all data in this device.", "es": "Se ha solicitado desde AnnaHome-PC borrar permanentemente todos los datos de este dispositivo."}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 2, "flags": [], "en": "SEC", "es": "SEG"}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 3, "flags": [], "en": "You have %d seconds to\ncancel this request.", "es": "Tienes %d segundos para\ncancelar esta solicitud."}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 4, "flags": [], "en": "Close", "es": "Cerrar"}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 5, "flags": [], "en": "REMOTE WIPE", "es": "BORRADO REMOTO"}
+{"class": "game27/gb/GBMemoryWipeDialog.class", "method": "<init>(Lgame27/MemoryWipeDialog;)V", "ordinal": 6, "flags": [], "en": "From AnnaHome-PC", "es": "Desde AnnaHome-PC"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 0, "flags": [], "en": "Iris Memos", "es": "Notas de Iris"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 1, "flags": [], "en": "EXIT TO MAIN MENU", "es": "SALIR AL MENÚ PRINCIPAL"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 2, "flags": [], "en": "Are you sure you want to return to main menu?\n\nYou will lose any progress you have made since the last checkpoint.", "es": "¿Seguro que quieres volver al menú principal?\n\nPerderás todo el progreso desde el último punto de control."}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 3, "flags": ["sin_traducir"], "en": "No", "es": "No"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 4, "flags": [], "en": "Yes", "es": "Sí"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 5, "flags": [], "en": "Pending", "es": "Pendiente"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 6, "flags": [], "en": "Failed", "es": "Falló"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 7, "flags": [], "en": "Memo", "es": "Nota"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 8, "flags": [], "en": "Completed", "es": "Completado"}
+{"class": "game27/gb/GBNotification.class", "method": "<init>(Lgame27/Notification;)V", "ordinal": 9, "flags": [], "en": "SAVED", "es": "GUARDADO"}
+{"class": "game27/gb/GBRebootingDialog.class", "method": "<init>(Lgame27/RebootingDialog;)V", "ordinal": 0, "flags": [], "en": "System Restore", "es": "Restauración del sistema"}
+{"class": "game27/gb/GBRebootingDialog.class", "method": "<init>(Lgame27/RebootingDialog;)V", "ordinal": 1, "flags": [], "en": "Please wait while we restore your device, do not switch off while restoration is in progress.", "es": "Espera mientras restauramos tu dispositivo; no lo apagues mientras la restauración esté en curso."}
+{"class": "game27/gb/GBRebootingDialog.class", "method": "<init>(Lgame27/RebootingDialog;)V", "ordinal": 2, "flags": [], "en": "Restoring Calls...", "es": "Restaurando Llamadas..."}
+{"class": "game27/gb/GBScreenBar.class", "method": "<init>(Lgame27/ScreenBar;)V", "ordinal": 0, "flags": [], "en": "Gallery", "es": "Galería"}
+{"class": "game27/gb/GBScreenBar.class", "method": "<init>(Lgame27/ScreenBar;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "10:30 AM", "es": "10:30 AM"}
+{"class": "game27/gb/GBScreenBar.class", "method": "<init>(Lgame27/ScreenBar;)V", "ordinal": 2, "flags": [], "en": "Tuesday, 2 Feb", "es": "martes, 2 feb"}
+{"class": "game27/gb/GBScreenBar.class", "method": "<init>(Lgame27/ScreenBar;)V", "ordinal": 3, "flags": ["sin_traducir"], "en": "10:30 PM", "es": "10:30 PM"}
+{"class": "game27/gb/GBScreenBar.class", "method": "<init>(Lgame27/ScreenBar;)V", "ordinal": 4, "flags": ["sin_traducir"], "en": "h:mm a", "es": "h:mm a"}
+{"class": "game27/gb/GBScreenBar.class", "method": "<init>(Lgame27/ScreenBar;)V", "ordinal": 5, "flags": ["sin_traducir"], "en": "EEE, d MMMM", "es": "EEE, d MMMM"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "STAT_GREEN", "es": "STAT_GREEN"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 1, "flags": [], "en": "Save Anna by sacrificing Taylor", "es": "Salvar a Anna sacrificando a Taylor"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 2, "flags": [], "en": "Allow Anna to be killed by Taylor", "es": "Permitir que Taylor mate a Anna"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 3, "flags": [], "en": "Save Anna by sacrificing Taylor", "es": "Salvar a Anna sacrificando a Taylor"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 4, "flags": [], "en": "Save both Anna and Taylor", "es": "Salvar a Anna y a Taylor"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 5, "flags": [], "en": "Abandon all hope", "es": "Abandona toda esperanza"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 6, "flags": [], "en": "Save Anna by sacrificing Taylor", "es": "Salvar a Anna sacrificando a Taylor"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 7, "flags": [], "en": "You asked Taylor to push Anna to her death to spare his life. However, he is forever branded a murderer. \n\nIs that what you intended?\n\nSIMULACRA has many easter eggs and multiple endings. Play again and try for a different outcome.", "es": "Para salvar a Anna, permites que Taylor sea sacrificado. Sin embargo, puede que ella no vuelva a ser la misma.\n\n¿Era eso lo que querías?\n\nSIMULACRA tiene muchos huevos de pascua y varios finales. Juega de nuevo y busca otro desenlace. "}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 8, "flags": [], "en": "To save Anna, you allow Taylor to be sacrificed. However, she might not be the same again.\n\nIs that what you intended?\n\nSIMULACRA has many easter eggs and multiple endings. Play again and try for a different outcome. ", "es": "Gracias por jugar.\n\n¿Disfrutaste la experiencia?"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 9, "flags": [], "en": "You managed to appease the unknown forces through an elaborate lie to spare Anna and Taylor.\n\nSIMULACRA has many easter eggs and multiple endings. Play again and try to find them all.", "es": "SÍ"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 10, "flags": [], "en": "Taylor's lack of trust in you made him to take matters into his own hands which caused the demise of himself and Anna.\n\nIs that what you intended?\n\nSIMULACRA has many easter eggs and multiple endings. Play again and try for a different outcome.", "es": "NO"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 11, "flags": [], "en": "Thank you for playing.\n\nDid you enjoy the experience?", "es": "¡Genial!\n\nDanos una calificación y deja una reseña para mostrar tu apoyo."}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 12, "flags": [], "en": "YES", "es": "OK"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 13, "flags": [], "en": "NO", "es": "SALTAR"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 14, "flags": [], "en": "Great!\n\nPlease gave us a rating and leave a review to show your support.", "es": "Para noticias sobre SIMULACRA y nuestros próximos títulos,\n\nsíguenos en Twitter y Facebook"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 15, "flags": [], "en": "OKAY", "es": "SIGUIENTE"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 16, "flags": [], "en": "SKIP", "es": "SIGUIENTE"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 17, "flags": [], "en": "For news on SIMULACRA and our upcoming titles,\n\nFollow us on Twitter and Facebook", "es": "SIGUIENTE"}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 18, "flags": ["sin_override_es"], "en": "NEXT", "es": null}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 19, "flags": ["sin_override_es"], "en": "NEXT", "es": null}
+{"class": "game27/gb/GBStatMenu.class", "method": "<init>(Lgame27/StatMenu;)V", "ordinal": 20, "flags": ["sin_override_es"], "en": "NEXT", "es": null}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "boot_bold", "es": "boot_bold"}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 1, "flags": [], "en": "Welcome!", "es": "¡Bienvenido!"}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 2, "flags": [], "en": "This phone belongs to:", "es": "Este teléfono pertenece a:"}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 3, "flags": [], "en": "The phone uses your name for some features", "es": "El teléfono usa tu nombre para algunas funciones"}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 4, "flags": [], "en": "Next", "es": "Siguiente"}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 5, "flags": [], "en": "Disembodied head", "es": "Cabeza flotante sin cuerpo"}
+{"class": "game27/gb/boot/GBBBootScreen.class", "method": "<init>(Lgame27/app/boot/BootScreen;)V", "ordinal": 6, "flags": [], "en": "Rebooting...", "es": "Reiniciando..."}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "browser_linkname", "es": "browser_linkname"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "Surf", "es": "Surf"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 2, "flags": [], "en": "Where to ?", "es": "¿A dónde?"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 3, "flags": [], "en": "BOOKMARKS", "es": "MARCADORES"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 4, "flags": [], "en": "HISTORY", "es": "HISTORIAL"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 5, "flags": [], "en": "Where to ?", "es": "¿A dónde?"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 6, "flags": [], "en": "Home page", "es": "Página de inicio"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 7, "flags": [], "en": "Surf's Up", "es": "A navegar"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 8, "flags": ["sin_traducir"], "en": "S U R F", "es": "S U R F"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 9, "flags": [], "en": "Recently visited", "es": "Visitados recientemente"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 10, "flags": [], "en": "Faris & Kane - Spend your money here!", "es": "Faris & Kane - ¡Gasta tu dinero aquí!"}
+{"class": "game27/gb/browser/GBBrowserHomeScreen.class", "method": "<init>(Lgame27/app/browser/BrowserScreen;)V", "ordinal": 11, "flags": [], "en": "Bookmarks", "es": "Marcadores"}
+{"class": "game27/gb/chats/GBWhatsupContactsScreen.class", "method": "<init>(Lgame27/app/chats/WhatsupContactsScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "WhatsupContactScreen.typing", "es": "WhatsupContactScreen.typing"}
+{"class": "game27/gb/chats/GBWhatsupContactsScreen.class", "method": "<init>(Lgame27/app/chats/WhatsupContactsScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "Chats", "es": "Chats"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Sara Whitman", "es": "Sara Whitman"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 1, "flags": [], "en": "last seen 6.41AM", "es": "visto por última vez 6.41AM"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 2, "flags": [], "en": "%s is typing...", "es": "%s está escribiendo..."}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 3, "flags": [], "en": "You are typing...", "es": "Estás escribiendo..."}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 4, "flags": [], "en": "Online", "es": "En línea"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 5, "flags": [], "en": "Offline", "es": "Desconectado"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 6, "flags": [], "en": "View", "es": "Ver"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 7, "flags": [], "en": "Play", "es": "Reproducir"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 8, "flags": ["sin_traducir"], "en": "levels", "es": "levels"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 9, "flags": ["sin_traducir"], "en": "icon", "es": "icon"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 10, "flags": ["sin_traducir"], "en": "progressbar", "es": "progressbar"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 11, "flags": [], "en": "Open", "es": "Abrir"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 12, "flags": [], "en": "View", "es": "Ver"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 13, "flags": [], "en": "Play", "es": "Reproducir"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 14, "flags": ["sin_traducir"], "en": "levels", "es": "levels"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 15, "flags": ["sin_traducir"], "en": "icon", "es": "icon"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 16, "flags": ["sin_traducir"], "en": "progressbar", "es": "progressbar"}
+{"class": "game27/gb/chats/GBWhatsupMessageThread.class", "method": "<init>(Lgame27/app/chats/WhatsupThreadScreen;)V", "ordinal": 17, "flags": [], "en": "New messages", "es": "Mensajes nuevos"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 0, "flags": [], "en": "Comments", "es": "Comentarios"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 1, "flags": [], "en": "Type a Message", "es": "Escribe un mensaje"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "fuck", "es": "fuck"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 3, "flags": ["sin_traducir"], "en": "fucker", "es": "fucker"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 4, "flags": ["sin_traducir"], "en": "fucks", "es": "fucks"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 5, "flags": ["sin_traducir"], "en": "fucking", "es": "fucking"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 6, "flags": ["sin_traducir"], "en": "fuckin", "es": "fuckin"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 7, "flags": ["sin_traducir"], "en": "motherfucker", "es": "motherfucker"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 8, "flags": ["sin_traducir"], "en": "shit", "es": "shit"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 9, "flags": ["sin_traducir"], "en": "bitch", "es": "bitch"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 10, "flags": ["sin_traducir"], "en": "damn", "es": "damn"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 11, "flags": ["sin_traducir"], "en": "crap", "es": "crap"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 12, "flags": ["sin_traducir"], "en": "piss", "es": "piss"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 13, "flags": ["sin_traducir"], "en": "dick", "es": "dick"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 14, "flags": ["sin_traducir"], "en": "cock", "es": "cock"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 15, "flags": ["sin_traducir"], "en": "pussy", "es": "pussy"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 16, "flags": ["sin_traducir"], "en": "asshole", "es": "asshole"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 17, "flags": ["sin_traducir"], "en": "arsehole", "es": "arsehole"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 18, "flags": ["sin_traducir"], "en": "fag", "es": "fag"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 19, "flags": ["sin_traducir"], "en": "bastard", "es": "bastard"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 20, "flags": ["sin_traducir"], "en": "slut", "es": "slut"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 21, "flags": ["sin_traducir"], "en": "douche", "es": "douche"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 22, "flags": ["sin_traducir"], "en": "bloody", "es": "bloody"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 23, "flags": ["sin_traducir"], "en": "cunt", "es": "cunt"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "<init>(Lgame27/app/friends/FriendsCommentScreen;)V", "ordinal": 24, "flags": ["sin_traducir"], "en": "bollocks", "es": "bollocks"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 0, "flags": [], "en": "a minute ago", "es": "hace un minuto"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 1, "flags": [], "en": " minutes ago", "es": " minutos atrás"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 2, "flags": [], "en": "an hour ago", "es": "hace una hora"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 3, "flags": [], "en": " hours ago", "es": " horas atrás"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 4, "flags": [], "en": "yesterday", "es": "ayer"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 5, "flags": [], "en": " days ago", "es": " días atrás"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 6, "flags": [], "en": "last month", "es": "el mes pasado"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 7, "flags": [], "en": " months ago", "es": " meses atrás"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 8, "flags": [], "en": "last year", "es": "el año pasado"}
+{"class": "game27/gb/friends/GBFriendsCommentScreen.class", "method": "textLongElapsed(J)Ljava/lang/String;", "ordinal": 9, "flags": [], "en": " years ago", "es": " años atrás"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 0, "flags": [], "en": "Talk is chic", "es": "Hablar es chic"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 1, "flags": [], "en": "Start a conversation.\nShare your moments.", "es": "Inicia una conversación.\nComparte tus momentos."}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 2, "flags": [], "en": "Welcome back Anna !", "es": "¡Bienvenida de nuevo, Anna!"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 3, "flags": [], "en": "Password", "es": "Contraseña"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 4, "flags": [], "en": "Not your account ?", "es": "¿No es tu cuenta?"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 5, "flags": [], "en": "Forgot password ?", "es": "¿Olvidaste tu contraseña?"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 6, "flags": [], "en": "Wrong password", "es": "Contraseña incorrecta"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 7, "flags": [], "en": "Don't worry Anna !", "es": "¡No te preocupes, Anna!"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 8, "flags": [], "en": "We’ve sent a password recovery link to your email address.", "es": "Hemos enviado un enlace de recuperación de contraseña a tu correo."}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 9, "flags": [], "en": "Check your email now.", "es": "Revisa tu correo ahora."}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 10, "flags": [], "en": "Back", "es": "Atrás"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 11, "flags": [], "en": "Sign In", "es": "Iniciar sesión"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 12, "flags": [], "en": "Username", "es": "Usuario"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 13, "flags": [], "en": "Password", "es": "Contraseña"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 14, "flags": [], "en": "Create new account", "es": "Crear cuenta nueva"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 15, "flags": [], "en": "Back", "es": "Atrás"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 16, "flags": [], "en": "Invalid username or password", "es": "Usuario o contraseña incorrectos"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 17, "flags": [], "en": "New Account", "es": "Cuenta nueva"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 18, "flags": [], "en": "Username", "es": "Usuario"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 19, "flags": [], "en": "Back", "es": "Atrás"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 20, "flags": [], "en": "Sorry, that username is taken. Try another.", "es": "Elige un nombre de usuario. Este será tu identidad pública en Jabbr."}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 21, "flags": [], "en": "Choose a username. This username will be your public identity in Jabbr.", "es": "Pregunta de seguridad #1"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 22, "flags": [], "en": "Security Question #1", "es": "Debes responder estas preguntas de seguridad para verificar que realmente eres tú."}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 23, "flags": [], "en": "You need to answer these security questions to verify its really you.", "es": "¿Cuál es el apellido de soltera de tu mamá?"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 24, "flags": [], "en": "What is your mother's maiden name?", "es": "Respuesta incorrecta"}
+{"class": "game27/gb/friends/GBFriendsLoginScreen.class", "method": "<init>(Lgame27/app/friends/FriendsLoginScreen;)V", "ordinal": 25, "flags": ["sin_override_es"], "en": "Wrong answer", "es": null}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "<init>(Lgame27/app/friends/FriendsWallScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "TAG", "es": "TAG"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "<init>(Lgame27/app/friends/FriendsWallScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "HANDLE", "es": "HANDLE"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "<init>(Lgame27/app/friends/FriendsWallScreen;)V", "ordinal": 2, "flags": [], "en": "from [HANDLE]%s", "es": "de [HANDLE]%s"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "textShortElapsed(J)Ljava/lang/String;", "ordinal": 0, "flags": ["sin_traducir"], "en": " min", "es": " min"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "textShortElapsed(J)Ljava/lang/String;", "ordinal": 1, "flags": [], "en": " hr", "es": " h"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "textShortElapsed(J)Ljava/lang/String;", "ordinal": 2, "flags": ["sin_traducir"], "en": " d", "es": " d"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "textShortElapsed(J)Ljava/lang/String;", "ordinal": 3, "flags": [], "en": " mo", "es": " mes"}
+{"class": "game27/gb/friends/GBFriendsWallScreen.class", "method": "textShortElapsed(J)Ljava/lang/String;", "ordinal": 4, "flags": ["sin_override_es"], "en": "yr", "es": null}
+{"class": "game27/gb/gallery/GBPhotoRollAlbumsScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollAlbumsScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Another Sat @ CFATL", "es": "Another Sat @ CFATL"}
+{"class": "game27/gb/gallery/GBPhotoRollAlbumsScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollAlbumsScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "AlbumScreen.count", "es": "AlbumScreen.count"}
+{"class": "game27/gb/gallery/GBPhotoRollAlbumsScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollAlbumsScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "%s [AlbumScreen.count](%,d)[]", "es": "%s [AlbumScreen.count](%,d)[]"}
+{"class": "game27/gb/gallery/GBPhotoRollAlbumsScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollAlbumsScreen;)V", "ordinal": 3, "flags": [], "en": "Albums", "es": "Álbumes"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 0, "flags": [], "en": "1 Photo", "es": "1 Foto"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 1, "flags": [], "en": "%,d Photos", "es": "%,d Fotos"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 2, "flags": ["sin_traducir"], "en": "1 Video", "es": "1 Video"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 3, "flags": ["sin_traducir"], "en": "%,d Videos", "es": "%,d Videos"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 4, "flags": [], "en": "1 Recording", "es": "1 Grabación"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 5, "flags": [], "en": "%,d Recordings", "es": "%,d Grabaciones"}
+{"class": "game27/gb/gallery/GBPhotoRollGridScreen.class", "method": "summarize(III)Ljava/lang/String;", "ordinal": 6, "flags": [], "en": "Nothing here", "es": "Nada aquí"}
+{"class": "game27/gb/gallery/GBPhotoRollPhotoScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollPhotoScreen;)V", "ordinal": 0, "flags": [], "en": "Send", "es": "Enviar"}
+{"class": "game27/gb/gallery/GBPhotoRollPhotoScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollPhotoScreen;)V", "ordinal": 1, "flags": [], "en": "Restore", "es": "Restaurar"}
+{"class": "game27/gb/gallery/GBPhotoRollPhotoScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollPhotoScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "IMAGE3142", "es": "IMAGE3142"}
+{"class": "game27/gb/gallery/GBPhotoRollVideoScreen.class", "method": "<init>(Lgame27/app/gallery/PhotoRollVideoScreen;)V", "ordinal": 0, "flags": [], "en": "Send", "es": "Enviar"}
+{"class": "game27/gb/mail/GBMailInboxScreen.class", "method": "<init>(Lgame27/app/mail/MailInboxScreen;)V", "ordinal": 0, "flags": [], "en": "Inbox", "es": "Bandeja"}
+{"class": "game27/gb/mail/GBMailInboxScreen.class", "method": "buildUnreadTitleString(I)Ljava/lang/String;", "ordinal": 0, "flags": [], "en": "Inbox", "es": "Bandeja"}
+{"class": "game27/gb/mail/GBMailInboxScreen.class", "method": "buildUnreadTitleString(I)Ljava/lang/String;", "ordinal": 1, "flags": [], "en": "Inbox (%,d)", "es": "Bandeja (%,d)"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "MAIL_BOLD", "es": "MAIL_BOLD"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "MAIL_ITALIC", "es": "MAIL_ITALIC"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 2, "flags": [], "en": "View", "es": "Ver"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 3, "flags": [], "en": "View", "es": "Ver"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 4, "flags": [], "en": "Play", "es": "Reproducir"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 5, "flags": [], "en": "Play", "es": "Reproducir"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 6, "flags": [], "en": "From:", "es": "De:"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 7, "flags": [], "en": "From: ", "es": "De: "}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 8, "flags": [], "en": "To:", "es": "Para:"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 9, "flags": [], "en": "To: ", "es": "Para: "}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 10, "flags": ["sin_traducir"], "en": "Project Update #14: Drifer: A Space Trading Game by Celcius Game Studios", "es": "Project Update #14: Drifer: A Space Trading Game by Celcius Game Studios"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 11, "flags": [], "en": "Subject: ", "es": "Asunto: "}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 12, "flags": [], "en": "21 September 2012, 6.42PM", "es": "21 de septiembre de 2012, 6:42PM"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 13, "flags": [], "en": "7 of 8", "es": "7 de 8"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "<init>(Lgame27/app/mail/MailThreadScreen;)V", "ordinal": 14, "flags": [], "en": "Offline", "es": "Desconectado"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "buildThreadTimeString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;", "ordinal": 0, "flags": ["sin_traducir"], "en": "%s\n%s", "es": "%s\n%s"}
+{"class": "game27/gb/mail/GBMailThreadScreen.class", "method": "buildReplyInfoString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;", "ordinal": 0, "flags": [], "en": "On %s, %s, %s <%s> sent:", "es": "El %s, %s, %s <%s> envió:"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 0, "flags": [], "en": "Incoming Call", "es": "Greg"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 1, "flags": [], "en": "Incoming Call", "es": "Rechazar"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 2, "flags": [], "en": "Calling", "es": "Aceptar"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 3, "flags": [], "en": "Incoming Call", "es": "Finalizar"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 4, "flags": [], "en": "Greg", "es": "Teclado"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 5, "flags": [], "en": "Decline", "es": "Silenciar"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 6, "flags": [], "en": "Accept", "es": "Activar sonido"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 7, "flags": [], "en": "End", "es": "ABC"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 8, "flags": [], "en": "Dialpad", "es": "DEF"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 9, "flags": [], "en": "Mute", "es": "GHI"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 10, "flags": [], "en": "Unmute", "es": "JKL"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 11, "flags": [], "en": "ABC", "es": "MNO"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 12, "flags": [], "en": "DEF", "es": "PQRS"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 13, "flags": [], "en": "GHI", "es": "TUV"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 14, "flags": [], "en": "JKL", "es": "WXYZ"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 15, "flags": [], "en": "MNO", "es": "Conectando"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 16, "flags": [], "en": "PQRS", "es": "Error de señal"}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 17, "flags": ["sin_override_es"], "en": "TUV", "es": null}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 18, "flags": ["sin_override_es"], "en": "WXYZ", "es": null}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 19, "flags": ["sin_override_es"], "en": "Connecting", "es": null}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 20, "flags": ["sin_override_es"], "en": "Signal Error", "es": null}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "<init>(Lgame27/app/phone/PhoneCallScreen;)V", "ordinal": 21, "flags": ["sin_override_es"], "en": "Call Ended", "es": null}
+{"class": "game27/gb/phone/GBPhoneCallScreen.class", "method": "convertSeconds(I)Ljava/lang/String;", "ordinal": 0, "flags": ["sin_traducir"], "en": "%d:%02d", "es": "%d:%02d"}
+{"class": "game27/gb/phone/GBPhoneContactInfoScreen.class", "method": "<init>(Lgame27/app/phone/PhoneContactInfoScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Sara Young", "es": "Sara Young"}
+{"class": "game27/gb/phone/GBPhoneContactInfoScreen.class", "method": "<init>(Lgame27/app/phone/PhoneContactInfoScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "1, Infinity Rd\nCupertino California", "es": "1, Infinity Rd\nCupertino California"}
+{"class": "game27/gb/phone/GBPhoneContactInfoScreen.class", "method": "<init>(Lgame27/app/phone/PhoneContactInfoScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "work", "es": "work"}
+{"class": "game27/gb/phone/GBPhoneContactInfoScreen.class", "method": "<init>(Lgame27/app/phone/PhoneContactInfoScreen;)V", "ordinal": 3, "flags": [], "en": "Info", "es": "Información"}
+{"class": "game27/gb/phone/GBPhoneContactsScreen.class", "method": "<init>(Lgame27/app/phone/PhoneContactsScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Cody Allison", "es": "Cody Allison"}
+{"class": "game27/gb/phone/GBPhoneContactsScreen.class", "method": "<init>(Lgame27/app/phone/PhoneContactsScreen;)V", "ordinal": 1, "flags": [], "en": "Contacts", "es": "Contactos"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 0, "flags": [], "en": "Dial", "es": "Marcar"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "ABC", "es": "ABC"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "DEF", "es": "DEF"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 3, "flags": ["sin_traducir"], "en": "GHI", "es": "GHI"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 4, "flags": ["sin_traducir"], "en": "JKL", "es": "JKL"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 5, "flags": ["sin_traducir"], "en": "MNO", "es": "MNO"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 6, "flags": ["sin_traducir"], "en": "PQRS", "es": "PQRS"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 7, "flags": ["sin_traducir"], "en": "TUV", "es": "TUV"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 8, "flags": ["sin_traducir"], "en": "WXYZ", "es": "WXYZ"}
+{"class": "game27/gb/phone/GBPhoneDialerScreen.class", "method": "<init>(Lgame27/app/phone/PhoneDialerScreen;)V", "ordinal": 9, "flags": [], "en": "Voicemail", "es": "Buzón de voz"}
+{"class": "game27/gb/phone/GBPhoneFavScreen.class", "method": "<init>(Lgame27/app/phone/PhoneFavScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Cody Allison", "es": "Cody Allison"}
+{"class": "game27/gb/phone/GBPhoneFavScreen.class", "method": "<init>(Lgame27/app/phone/PhoneFavScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "Kuala Lumpur", "es": "Kuala Lumpur"}
+{"class": "game27/gb/phone/GBPhoneFavScreen.class", "method": "<init>(Lgame27/app/phone/PhoneFavScreen;)V", "ordinal": 2, "flags": [], "en": "Favourites", "es": "Favoritos"}
+{"class": "game27/gb/phone/GBPhoneRecentScreen.class", "method": "<init>(Lgame27/app/phone/PhoneRecentScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Cody Allison", "es": "Cody Allison"}
+{"class": "game27/gb/phone/GBPhoneRecentScreen.class", "method": "<init>(Lgame27/app/phone/PhoneRecentScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "mobile", "es": "mobile"}
+{"class": "game27/gb/phone/GBPhoneRecentScreen.class", "method": "<init>(Lgame27/app/phone/PhoneRecentScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "phone", "es": "phone"}
+{"class": "game27/gb/phone/GBPhoneRecentScreen.class", "method": "<init>(Lgame27/app/phone/PhoneRecentScreen;)V", "ordinal": 3, "flags": [], "en": "Recents", "es": "Recientes"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 0, "flags": [], "en": "Restore Tool", "es": "Herramienta de restauración"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "Image from by Greg", "es": "Image from by Greg"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 2, "flags": [], "en": "Saving", "es": "Guardando"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 3, "flags": [], "en": "36% RESTORED", "es": "36% RESTAURADO"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 4, "flags": [], "en": "IMAGE CORRUPTED", "es": "IMAGEN DAÑADA"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 5, "flags": [], "en": "Select the fragments in the correct order to rebuild the image.", "es": "Selecciona los fragmentos en el orden correcto para reconstruir la imagen."}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 6, "flags": [], "en": "SKIP", "es": "SALTAR"}
+{"class": "game27/gb/restore/GBRestoreImageScreen.class", "method": "<init>(Lgame27/app/restore/RestoreImageScreen;)V", "ordinal": 7, "flags": [], "en": "%d%% RESTORED", "es": "%d%% RESTAURADO"}
+{"class": "game27/gb/restore/GBRestorePhraseScreen.class", "method": "<init>(Lgame27/app/restore/RestorePhraseScreen;)V", "ordinal": 0, "flags": [], "en": "Restore Tool", "es": "Herramienta de restauración"}
+{"class": "game27/gb/restore/GBRestorePhraseScreen.class", "method": "<init>(Lgame27/app/restore/RestorePhraseScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "Image from by Greg", "es": "Image from by Greg"}
+{"class": "game27/gb/restore/GBRestorePhraseScreen.class", "method": "<init>(Lgame27/app/restore/RestorePhraseScreen;)V", "ordinal": 2, "flags": [], "en": "MESSAGE CORRUPTED", "es": "MENSAJE DAÑADO"}
+{"class": "game27/gb/restore/GBRestorePhraseScreen.class", "method": "<init>(Lgame27/app/restore/RestorePhraseScreen;)V", "ordinal": 3, "flags": [], "en": "Select the words in the correct order to rebuild the message.", "es": "Selecciona las palabras en el orden correcto para reconstruir el mensaje."}
+{"class": "game27/gb/restore/GBRestorePhraseScreen.class", "method": "<init>(Lgame27/app/restore/RestorePhraseScreen;)V", "ordinal": 4, "flags": [], "en": "SKIP", "es": "SALTAR"}
+{"class": "game27/gb/restore/GBRestorePhraseScreen.class", "method": "<init>(Lgame27/app/restore/RestorePhraseScreen;)V", "ordinal": 5, "flags": [], "en": "Saving", "es": "Guardando"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 0, "flags": [], "en": "Create Profile", "es": "Crear perfil"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 1, "flags": [], "en": "Upload Photo", "es": "Subir foto"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 2, "flags": [], "en": "NAME", "es": "NOMBRE"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 3, "flags": [], "en": "AGE", "es": "EDAD"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 4, "flags": [], "en": "TAGLINE", "es": "DESCRIPCIÓN"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 5, "flags": [], "en": "ABOUT", "es": "ACERCA DE"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 6, "flags": [], "en": "INTERESTS", "es": "INTERESES"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 7, "flags": [], "en": "SUBMIT", "es": "ENVIAR"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 8, "flags": [], "en": "No matches near you", "es": "No hay coincidencias cerca de ti"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 9, "flags": [], "en": "No matches near you", "es": "No hay coincidencias cerca de ti"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 10, "flags": [], "en": "1 match near you", "es": "1 coincidencia cerca de ti"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 11, "flags": [], "en": "%d matches near you", "es": "%d coincidencias cerca de ti"}
+{"class": "game27/gb/spark/GBSparkEditProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkEditProfileScreen;)V", "ordinal": 12, "flags": [], "en": "99+ matches near you", "es": "99+ coincidencias cerca de ti"}
+{"class": "game27/gb/spark/GBSparkLoginScreen.class", "method": "<init>(Lgame27/app/spark/SparkLoginScreen;)V", "ordinal": 0, "flags": [], "en": "NEXT", "es": "SIGUIENTE"}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Oops..", "es": "Oops.."}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 1, "flags": [], "en": "\"You won't be disappointed!\"", "es": "Parece que te quedaste sin coincidencias...\n¡Intenta actualizar tu perfil!"}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 2, "flags": [], "en": "Greg, 21", "es": "\"¡No te decepcionará!\""}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 3, "flags": [], "en": "Studies at Kaigan U", "es": "Greg, 21"}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 4, "flags": [], "en": "\"You won't be disappointed!\"", "es": "Estudia en Kaigan U"}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 5, "flags": [], "en": "Greg, 21", "es": "\"¡No te decepcionará!\""}
+{"class": "game27/gb/spark/GBSparkMatchScreen.class", "method": "<init>(Lgame27/app/spark/SparkMatchScreen;)V", "ordinal": 6, "flags": [], "en": "Studies at Kaigan U", "es": "Greg, 21"}
+{"class": "game27/gb/spark/GBSparkProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkProfileScreen;)V", "ordinal": 0, "flags": [], "en": "\"You won't be disappointed!\"", "es": "\"¡No te decepcionará!\""}
+{"class": "game27/gb/spark/GBSparkProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkProfileScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "Anna, 20", "es": "Anna, 20"}
+{"class": "game27/gb/spark/GBSparkProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkProfileScreen;)V", "ordinal": 2, "flags": [], "en": "Works at Kaigan U", "es": "Trabaja en Kaigan U"}
+{"class": "game27/gb/spark/GBSparkProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkProfileScreen;)V", "ordinal": 3, "flags": [], "en": "INTERESTS", "es": "INTERESES"}
+{"class": "game27/gb/spark/GBSparkProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkProfileScreen;)V", "ordinal": 4, "flags": [], "en": "EDIT PROFILE", "es": "EDITAR PERFIL"}
+{"class": "game27/gb/spark/GBSparkSuccessScreen.class", "method": "<init>(Lgame27/app/spark/SparkSuccessScreen;)V", "ordinal": 0, "flags": [], "en": "You and %s swiped right on each other", "es": "Tú y %s se dieron like mutuamente"}
+{"class": "game27/gb/spark/GBSparkSuccessScreen.class", "method": "<init>(Lgame27/app/spark/SparkSuccessScreen;)V", "ordinal": 1, "flags": [], "en": "START CHATTING", "es": "EMPEZAR A CHATEAR"}
+{"class": "game27/gb/spark/GBSparkSuccessScreen.class", "method": "<init>(Lgame27/app/spark/SparkSuccessScreen;)V", "ordinal": 2, "flags": [], "en": "KEEP SWIPING", "es": "SIGUE DESLIZANDO"}
+{"class": "game27/gb/spark/GBSparkThreadProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadProfileScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Spark", "es": "Spark"}
+{"class": "game27/gb/spark/GBSparkThreadProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadProfileScreen;)V", "ordinal": 1, "flags": [], "en": "\"You won't be disappointed!\"", "es": "\"¡No te decepcionará!\""}
+{"class": "game27/gb/spark/GBSparkThreadProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadProfileScreen;)V", "ordinal": 2, "flags": ["sin_traducir"], "en": "Anna, 20", "es": "Anna, 20"}
+{"class": "game27/gb/spark/GBSparkThreadProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadProfileScreen;)V", "ordinal": 3, "flags": [], "en": "Works at Kaigan U", "es": "Trabaja en Kaigan U"}
+{"class": "game27/gb/spark/GBSparkThreadProfileScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadProfileScreen;)V", "ordinal": 4, "flags": [], "en": "INTERESTS", "es": "INTERESES"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 0, "flags": ["sin_traducir"], "en": "Sara Whitman", "es": "Sara Whitman"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 1, "flags": [], "en": "last seen 6.41AM", "es": "visto por última vez 6.41AM"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 2, "flags": [], "en": "%s is typing...", "es": "%s está escribiendo..."}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 3, "flags": [], "en": "You are typing...", "es": "Estás escribiendo..."}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 4, "flags": [], "en": "Online", "es": "En línea"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 5, "flags": [], "en": "Offline", "es": "Desconectado"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 6, "flags": [], "en": "View", "es": "Ver"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 7, "flags": [], "en": "Play", "es": "Reproducir"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 8, "flags": ["sin_traducir"], "en": "levels", "es": "levels"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 9, "flags": ["sin_traducir"], "en": "icon", "es": "icon"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 10, "flags": ["sin_traducir"], "en": "progressbar", "es": "progressbar"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 11, "flags": [], "en": "Open", "es": "Abrir"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 12, "flags": [], "en": "View", "es": "Ver"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 13, "flags": [], "en": "Play", "es": "Reproducir"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 14, "flags": ["sin_traducir"], "en": "levels", "es": "levels"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 15, "flags": ["sin_traducir"], "en": "icon", "es": "icon"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 16, "flags": ["sin_traducir"], "en": "progressbar", "es": "progressbar"}
+{"class": "game27/gb/spark/GBSparkThreadScreen.class", "method": "<init>(Lgame27/app/spark/SparkThreadScreen;)V", "ordinal": 17, "flags": [], "en": "New messages", "es": "Mensajes nuevos"}
+{"class": "game27/gb/vloggr/GBVloggrScreen.class", "method": "<init>(Lgame27/app/vloggr/VloggrScreen;)V", "ordinal": 0, "flags": [], "en": "Syncing", "es": "Sincronizando"}
+{"class": "game27/gb/vloggr/GBVloggrScreen.class", "method": "<init>(Lgame27/app/vloggr/VloggrScreen;)V", "ordinal": 1, "flags": ["sin_traducir"], "en": "%d%%", "es": "%d%%"}
+{"class": "game27/gb/vloggr/GBVloggrScreen.class", "method": "<init>(Lgame27/app/vloggr/VloggrScreen;)V", "ordinal": 2, "flags": [], "en": "Recently added", "es": "Añadidos recientemente"}
+{"class": "game27/gb/vloggr/GBVloggrScreen.class", "method": "<init>(Lgame27/app/vloggr/VloggrScreen;)V", "ordinal": 3, "flags": [], "en": "Syncing videos", "es": "Sincronizando videos"}
+{"class": "game27/gb/vloggr/GBVloggrScreen.class", "method": "<init>(Lgame27/app/vloggr/VloggrScreen;)V", "ordinal": 4, "flags": [], "en": "New Vlog Available", "es": "Nuevo vlog disponible"}
