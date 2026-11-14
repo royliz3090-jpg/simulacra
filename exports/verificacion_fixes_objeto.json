@@ -1,0 +1,788 @@
+{
+  "total": 52,
+  "APLICADA": [],
+  "PENDIENTE": [
+    {
+      "fix": {
+        "objeto": 138,
+        "indice_cadena": 0,
+        "en": "Hello?",
+        "es_actual": "Hola? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola? ",
+      "actual_en": "Hello?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 510,
+        "indice_cadena": 0,
+        "en": "Mom",
+        "es_actual": "Mam",
+        "es_propuesto": "Mamá",
+        "comprimido": false,
+        "certeza": "media",
+        "motivo": "Parece un nombre de contacto truncado; verificar que sea texto visible"
+      },
+      "actual_es": "Mam",
+      "actual_en": "Mom",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 1318,
+        "indice_cadena": 0,
+        "en": "Hello?",
+        "es_actual": "Hola? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola? ",
+      "actual_en": "Hello?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 3128,
+        "indice_cadena": 0,
+        "en": "Are you okay, Anna?",
+        "es_actual": "Estas bien, Anna?  ",
+        "es_propuesto": "¿Estás bien, Anna?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Estas bien, Anna?  ",
+      "actual_en": "Are you okay, Anna?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 3226,
+        "indice_cadena": 0,
+        "en": "Nothing personal??",
+        "es_actual": "Nada personal??   ",
+        "es_propuesto": "¿Nada personal?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Nada personal??   ",
+      "actual_en": "Nothing personal??",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 3467,
+        "indice_cadena": 0,
+        "en": "Hey Ed\n\nI think it works! Thanks again\n\nPS: You and your factory chain coffee :P\n\nCheers\n#block#graphic://content/mail/text/anna-footer.png",
+        "es_actual": "Hola Ed, ¡gracias otra vez!\n\nPD: Tú y tu café de cadena :P\n\nSaludos\n#block#graphic://content/mail/text/anna-footer.png                  ",
+        "es_propuesto": "Hola, Ed\n\n¡Creo que funciona! Gracias de nuevo.\n\nP. D.: Tú y tu café de cadena :P\n\nSaludos\n#block#graphic://content/mail/text/anna-footer.png",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Párrafo omitido en el correo de Anna a Ed; se recupera la frase de funcionamiento y se preserva el enlace al pie de página"
+      },
+      "actual_es": "Hola Ed, ¡gracias otra vez!\n\nPD: Tú y tu café de cadena :P\n\nSaludos\n#block#graphic://content/mail/text/anna-footer.png                  ",
+      "actual_en": "Hey Ed\n\nI think it works! Thanks again\n\nPS: You and your factory chain coffee :P\n\nCheers\n#block#graphic://content/mail/text/anna-footer.png",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 3828,
+        "indice_cadena": 0,
+        "en": "How do I find her?",
+        "es_actual": "Como encuentro?   ",
+        "es_propuesto": "¿Cómo la encuentro?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Como encuentro?   ",
+      "actual_en": "How do I find her?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 3841,
+        "indice_cadena": 0,
+        "en": "Can you help me?",
+        "es_actual": "Puedes ayudarme?",
+        "es_propuesto": "¿Puedes ayudarme?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Puedes ayudarme?",
+      "actual_en": "Can you help me?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 6645,
+        "indice_cadena": 0,
+        "en": "Who are you, exactly?",
+        "es_actual": "Quien eres, ?        ",
+        "es_propuesto": "¿Quién eres exactamente?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Quien eres, ?        ",
+      "actual_en": "Who are you, exactly?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 6771,
+        "indice_cadena": 0,
+        "en": "So I pretend to be anna?",
+        "es_actual": "Entonces finjo ser Anna?",
+        "es_propuesto": "¿Entonces finjo ser Anna?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Entonces finjo ser Anna?",
+      "actual_en": "So I pretend to be anna?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 7026,
+        "indice_cadena": 0,
+        "en": "More clues?",
+        "es_actual": "Mas pistas?",
+        "es_propuesto": "¿Más pistas?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Mas pistas?",
+      "actual_en": "More clues?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 7257,
+        "indice_cadena": 0,
+        "en": "Do you have a better lead?",
+        "es_actual": "Tienes alguna mejor pista?",
+        "es_propuesto": "¿Tienes alguna pista mejor?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Tienes alguna mejor pista?",
+      "actual_en": "Do you have a better lead?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 7329,
+        "indice_cadena": 0,
+        "en": "You there?",
+        "es_actual": "Estas ahi?",
+        "es_propuesto": "¿Estás ahí?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Estas ahi?",
+      "actual_en": "You there?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 7960,
+        "indice_cadena": 0,
+        "en": "Did you get it?",
+        "es_actual": "Lo conseguiste?",
+        "es_propuesto": "¿Lo conseguiste?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Lo conseguiste?",
+      "actual_en": "Did you get it?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 10016,
+        "indice_cadena": 0,
+        "en": "Give it a shot?",
+        "es_actual": "Lo intentamos? ",
+        "es_propuesto": "¿Lo intentamos?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Lo intentamos? ",
+      "actual_en": "Give it a shot?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 10168,
+        "indice_cadena": 0,
+        "en": "Can I ask you something?",
+        "es_actual": "Puedo preguntarte algo? ",
+        "es_propuesto": "¿Puedo preguntarte algo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Puedo preguntarte algo? ",
+      "actual_en": "Can I ask you something?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 10193,
+        "indice_cadena": 0,
+        "en": "Are you hiding anything?",
+        "es_actual": "Me estas ocultando algo?",
+        "es_propuesto": "¿Me estás ocultando algo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Me estas ocultando algo?",
+      "actual_en": "Are you hiding anything?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 12893,
+        "indice_cadena": 0,
+        "en": "How?",
+        "es_actual": "Eh? ",
+        "es_propuesto": "¿Cómo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Eh? ",
+      "actual_en": "How?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 13032,
+        "indice_cadena": 0,
+        "en": "How?",
+        "es_actual": "Eh? ",
+        "es_propuesto": "¿Cómo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Eh? ",
+      "actual_en": "How?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 13165,
+        "indice_cadena": 0,
+        "en": "Did she say where she was all along?",
+        "es_actual": "Dijo donde estuvo todo este tiempo? ",
+        "es_propuesto": "¿Dijo dónde estuvo todo este tiempo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Dijo donde estuvo todo este tiempo? ",
+      "actual_en": "Did she say where she was all along?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 15889,
+        "indice_cadena": 0,
+        "en": "Hello?",
+        "es_actual": "Hola? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola? ",
+      "actual_en": "Hello?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 15890,
+        "indice_cadena": 0,
+        "en": "Is anyone there?",
+        "es_actual": "Hay alguien ahi?",
+        "es_propuesto": "¿Hay alguien ahí?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hay alguien ahi?",
+      "actual_en": "Is anyone there?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 15922,
+        "indice_cadena": 0,
+        "en": "Where are you now?",
+        "es_actual": "Donde estas ahora?",
+        "es_propuesto": "¿Dónde estás ahora?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Donde estas ahora?",
+      "actual_en": "Where are you now?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 15947,
+        "indice_cadena": 0,
+        "en": "Who are you really?",
+        "es_actual": "Quien eres?        ",
+        "es_propuesto": "¿Quién eres realmente?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Quien eres?        ",
+      "actual_en": "Who are you really?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16069,
+        "indice_cadena": 0,
+        "en": "What happens now?",
+        "es_actual": "Que pasa ahora?  ",
+        "es_propuesto": "¿Qué pasa ahora?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Que pasa ahora?  ",
+      "actual_en": "What happens now?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16109,
+        "indice_cadena": 0,
+        "en": "What happens now?",
+        "es_actual": "Que pasa ahora?  ",
+        "es_propuesto": "¿Qué pasa ahora?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Que pasa ahora?  ",
+      "actual_en": "What happens now?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16334,
+        "indice_cadena": 0,
+        "en": "How is this a good thing?",
+        "es_actual": "Como es esto algo bueno? ",
+        "es_propuesto": "¿Y eso qué tiene de bueno?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Como es esto algo bueno? ",
+      "actual_en": "How is this a good thing?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16520,
+        "indice_cadena": 0,
+        "en": "Where?",
+        "es_actual": "Donde?",
+        "es_propuesto": "¿Dónde?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Donde?",
+      "actual_en": "Where?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16521,
+        "indice_cadena": 0,
+        "en": "Your job. You hate it right?",
+        "es_actual": "Tu trabajo. Lo odias verdad?",
+        "es_propuesto": "Tu trabajo. Lo odias, ¿verdad?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Tu trabajo. Lo odias verdad?",
+      "actual_en": "Your job. You hate it right?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16523,
+        "indice_cadena": 0,
+        "en": "How'd you know?",
+        "es_actual": "Como lo sabias?",
+        "es_propuesto": "¿Cómo lo supiste?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Como lo sabias?",
+      "actual_en": "How'd you know?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16570,
+        "indice_cadena": 0,
+        "en": "Good weird?",
+        "es_actual": "Raro bueno?",
+        "es_propuesto": "¿Raro en el buen sentido?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Raro bueno?",
+      "actual_en": "Good weird?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 16620,
+        "indice_cadena": 0,
+        "en": "How?",
+        "es_actual": "Eh? ",
+        "es_propuesto": "¿Cómo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Eh? ",
+      "actual_en": "How?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 17987,
+        "indice_cadena": 0,
+        "en": "Hello?",
+        "es_actual": "Hola? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola? ",
+      "actual_en": "Hello?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 18044,
+        "indice_cadena": 0,
+        "en": "Who are you really?",
+        "es_actual": "Quien eres?        ",
+        "es_propuesto": "¿Quién eres realmente?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Quien eres?        ",
+      "actual_en": "Who are you really?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 18919,
+        "indice_cadena": 0,
+        "en": "Anna",
+        "es_actual": "Ana ",
+        "es_propuesto": "Anna",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Nombre propio alterado"
+      },
+      "actual_es": "Ana ",
+      "actual_en": "Anna",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 19176,
+        "indice_cadena": 0,
+        "en": "Taylor",
+        "es_actual": "taylor",
+        "es_propuesto": "Taylor",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Mayúscula en nombre propio"
+      },
+      "actual_es": "taylor",
+      "actual_en": "Taylor",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 19400,
+        "indice_cadena": 0,
+        "en": "Anna",
+        "es_actual": "Ana ",
+        "es_propuesto": "Anna",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Nombre propio alterado"
+      },
+      "actual_es": "Ana ",
+      "actual_en": "Anna",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 20142,
+        "indice_cadena": 0,
+        "en": "You there?",
+        "es_actual": "Estas ahi?",
+        "es_propuesto": "¿Estás ahí?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Estas ahi?",
+      "actual_en": "You there?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 21398,
+        "indice_cadena": 0,
+        "en": "Reset password ?",
+        "es_actual": "Resetear clave? ",
+        "es_propuesto": "¿Restablecer contraseña?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Resetear clave? ",
+      "actual_en": "Reset password ?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 22215,
+        "indice_cadena": 0,
+        "en": "Have you been reading the news?",
+        "es_actual": "Has estado leyendo noticias?   ",
+        "es_propuesto": "¿Has estado leyendo las noticias?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Has estado leyendo noticias?   ",
+      "actual_en": "Have you been reading the news?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 22326,
+        "indice_cadena": 0,
+        "en": "What Totem Animal Spirit\nAre You?",
+        "es_actual": "Que Animal Espiritu Totem\nEres?  ",
+        "es_propuesto": "¿Cuál es tu espíritu\nanimal tótem?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Que Animal Espiritu Totem\nEres?  ",
+      "actual_en": "What Totem Animal Spirit\nAre You?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 22540,
+        "indice_cadena": 0,
+        "en": "Hello?",
+        "es_actual": "Hola? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola? ",
+      "actual_en": "Hello?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 22541,
+        "indice_cadena": 0,
+        "en": "Hello??",
+        "es_actual": "Hola?? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola?? ",
+      "actual_en": "Hello??",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 24800,
+        "indice_cadena": 0,
+        "en": "Hello?",
+        "es_actual": "Hola? ",
+        "es_propuesto": "¿Hola?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Hola? ",
+      "actual_en": "Hello?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 25076,
+        "indice_cadena": 0,
+        "en": "Tell what?!?",
+        "es_actual": "QUE COSA?!? ",
+        "es_propuesto": "¿¡Decir qué!?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "QUE COSA?!? ",
+      "actual_en": "Tell what?!?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 25617,
+        "indice_cadena": 0,
+        "en": "How may I assist you?",
+        "es_actual": "Como puedo ayudarte? ",
+        "es_propuesto": "¿En qué puedo ayudarte?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Como puedo ayudarte? ",
+      "actual_en": "How may I assist you?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 25658,
+        "indice_cadena": 0,
+        "en": "Did you kidnap Anna?",
+        "es_actual": "Secuestraste a Anna?",
+        "es_propuesto": "¿Secuestraste a Anna?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Secuestraste a Anna?",
+      "actual_en": "Did you kidnap Anna?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 25681,
+        "indice_cadena": 0,
+        "en": "Are you telling this right?",
+        "es_actual": "Estas contando esto bien?  ",
+        "es_propuesto": "¿Estás contando esto bien?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Estas contando esto bien?  ",
+      "actual_en": "Are you telling this right?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 25702,
+        "indice_cadena": 0,
+        "en": "Are you telling this right?",
+        "es_actual": "Estas contando esto bien?  ",
+        "es_propuesto": "¿Estás contando esto bien?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Estas contando esto bien?  ",
+      "actual_en": "Are you telling this right?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 25741,
+        "indice_cadena": 0,
+        "en": "How did it end?",
+        "es_actual": "Como termino?  ",
+        "es_propuesto": "¿Cómo terminó?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Como termino?  ",
+      "actual_en": "How did it end?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 27900,
+        "indice_cadena": 0,
+        "en": "Why do you want to work here?",
+        "es_actual": "porque quieres trabajar aqui?",
+        "es_propuesto": "¿Por qué quieres trabajar aquí?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "porque quieres trabajar aqui?",
+      "actual_en": "Why do you want to work here?",
+      "verdict": "PENDIENTE"
+    },
+    {
+      "fix": {
+        "objeto": 27958,
+        "indice_cadena": 0,
+        "en": "How?",
+        "es_actual": "Eh? ",
+        "es_propuesto": "¿Cómo?",
+        "comprimido": false,
+        "certeza": "alta",
+        "motivo": "Traducción incompleta, error de sentido u ortografía"
+      },
+      "actual_es": "Eh? ",
+      "actual_en": "How?",
+      "verdict": "PENDIENTE"
+    }
+  ],
+  "DESPLAZADA": [],
+  "YA_OK": []
+}

@@ -1,0 +1,674 @@
+[
+ {
+  "objeto": 20033,
+  "indice_cadena": 5,
+  "en": "went",
+  "es_actual": "salió",
+  "es_propuesto": "pasó",
+  "motivo": "greg1 alta confianza: Sincronizar frase del minijuego de Greg "
+ },
+ {
+  "objeto": 20033,
+  "indice_cadena": 8,
+  "en": "line",
+  "es_actual": "línea",
+  "es_propuesto": "raya",
+  "motivo": "greg1 alta confianza: Sincronizar frase del minijuego de Greg "
+ },
+ {
+  "objeto": 6514,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/greg1=You are the one that went out of line",
+  "es_actual": "corrupted://content/restphrase/greg1=Tu eres el que se paso de la raya    ",
+  "es_propuesto": "corrupted://content/restphrase/greg1=Tú eres el que se pasó de la raya",
+  "motivo": "greg1 alta confianza: Sincronizar frase del minijuego de Greg "
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 1,
+  "en": "yOu",
+  "es_actual": "has",
+  "es_propuesto": "la",
+  "motivo": "fragmento jamesh10"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 2,
+  "en": "fOunD",
+  "es_actual": "encontrado",
+  "es_propuesto": "has",
+  "motivo": "fragmento jamesh10"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 3,
+  "en": "Her",
+  "es_actual": "a",
+  "es_propuesto": "podido",
+  "motivo": "fragmento jamesh10"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 4,
+  "en": "YeT?",
+  "es_actual": "ella?",
+  "es_propuesto": "encontrar?",
+  "motivo": "fragmento jamesh10"
+ },
+ {
+  "objeto": 3836,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh10=HaVE yOu fOunD Her YeT?",
+  "es_actual": "corrupted://content/restphrase/jamesh10=Ya La HaS hAlLaDo?     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh10=¿Ya la has podido encontrar?",
+  "motivo": "mensaje restaurado jamesh10"
+ },
+ {
+  "objeto": 19978,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh10=HaVE yOu fOunD Her YeT?",
+  "es_actual": "corrupted://content/restphrase/jamesh10=Ya La HaS hAlLaDo?     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh10=¿Ya la has podido encontrar?",
+  "motivo": "mensaje restaurado jamesh10"
+ },
+ {
+  "objeto": 3848,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh12=tHe ANsWer is IN SpArK.",
+  "es_actual": "corrupted://content/restphrase/jamesh12=La ReSpUeStA eN sPaRk. ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh12=La respuesta está en Spark.",
+  "motivo": "mensaje restaurado jamesh12"
+ },
+ {
+  "objeto": 19990,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh12=tHe ANsWer is IN SpArK.",
+  "es_actual": "corrupted://content/restphrase/jamesh12=La ReSpUeStA eN sPaRk. ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh12=La respuesta está en Spark.",
+  "motivo": "mensaje restaurado jamesh12"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 5,
+  "en": "TiME,",
+  "es_actual": "tiempo,",
+  "es_propuesto": "tiempo.",
+  "motivo": "fragmento jamesh11"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 6,
+  "en": "yOu",
+  "es_actual": "tú",
+  "es_propuesto": "¡Tienes",
+  "motivo": "fragmento jamesh11"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 7,
+  "en": "NeeEEd",
+  "es_actual": "tienes",
+  "es_propuesto": "que",
+  "motivo": "fragmento jamesh11"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 8,
+  "en": "to",
+  "es_actual": "que",
+  "es_propuesto": "apresurarte",
+  "motivo": "fragmento jamesh11"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 9,
+  "en": "HurRRy!!!",
+  "es_actual": "¡¡¡Apúrate!!!",
+  "es_propuesto": "ya!",
+  "motivo": "fragmento jamesh11"
+ },
+ {
+  "objeto": 3840,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh11=sHe Is RUnNinG OuT oF TiME, yOu NeeEEd to HurRRy!!!",
+  "es_actual": "corrupted://content/restphrase/jamesh11=Se Le AcAbA eL tIeMpO, aPrEsUrAtE!!!               ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh11=Ella se está quedando sin tiempo. ¡Tienes que apresurarte ya!",
+  "motivo": "mensaje restaurado jamesh11"
+ },
+ {
+  "objeto": 19979,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh11=sHe Is RUnNinG OuT oF TiME, yOu NeeEEd to HurRRy!!!",
+  "es_actual": "corrupted://content/restphrase/jamesh11=Se Le AcAbA eL tIeMpO, aPrEsUrAtE!!!               ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh11=Ella se está quedando sin tiempo. ¡Tienes que apresurarte ya!",
+  "motivo": "mensaje restaurado jamesh11"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 0,
+  "en": "ShE",
+  "es_actual": "eLLA",
+  "es_propuesto": "Ella",
+  "motivo": "fragmento jamesh13"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 1,
+  "en": "wILL",
+  "es_actual": "vA",
+  "es_propuesto": "correrá",
+  "motivo": "fragmento jamesh13"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 2,
+  "en": "sHaRE",
+  "es_actual": "cOMPARTIR",
+  "es_propuesto": "la",
+  "motivo": "fragmento jamesh13"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 3,
+  "en": "mY",
+  "es_actual": "mI",
+  "es_propuesto": "misma",
+  "motivo": "fragmento jamesh13"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 4,
+  "en": "fAtE",
+  "es_actual": "dESTINO",
+  "es_propuesto": "suerte",
+  "motivo": "fragmento jamesh13"
+ },
+ {
+  "objeto": 3869,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh13=ShE wILL sHaRE mY fAtE",
+  "es_actual": "corrupted://content/restphrase/jamesh13=CoMpArTiRa Mi DeStInO ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh13=Ella correrá la misma suerte",
+  "motivo": "mensaje restaurado jamesh13"
+ },
+ {
+  "objeto": 20011,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh13=ShE wILL sHaRE mY fAtE",
+  "es_actual": "corrupted://content/restphrase/jamesh13=CoMpArTiRa Mi DeStInO ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh13=Ella correrá la misma suerte",
+  "motivo": "mensaje restaurado jamesh13"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 2,
+  "en": "on",
+  "es_actual": "engañaste",
+  "es_propuesto": "fuiste",
+  "motivo": "fragmento gregrc2"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 3,
+  "en": "me",
+  "es_actual": "y",
+  "es_propuesto": "infiel",
+  "motivo": "fragmento gregrc2"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 4,
+  "en": "and",
+  "es_actual": "casi,",
+  "es_propuesto": "y",
+  "motivo": "fragmento gregrc2"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 8,
+  "en": "pregnant!",
+  "es_actual": "¡Embarazada!",
+  "es_propuesto": "embarazada!",
+  "motivo": "fragmento gregrc2"
+ },
+ {
+  "objeto": 25097,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/gregrc2=You cheated on me and almost got her pregnant!",
+  "es_actual": "corrupted://content/restphrase/gregrc2=Me enganaste y casi la dejas embarazada!      ",
+  "es_propuesto": "corrupted://content/restphrase/gregrc2=Tú me fuiste infiel y casi la dejas embarazada!",
+  "motivo": "mensaje restaurado gregrc2"
+ },
+ {
+  "objeto": 10408,
+  "indice_cadena": 6,
+  "en": "laugh?",
+  "es_actual": "¿Reírse?",
+  "es_propuesto": "lástima?",
+  "motivo": "fragmento taylor1"
+ },
+ {
+  "objeto": 9771,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/taylor1=Come on, not even a pity laugh?",
+  "es_actual": "corrupted://content/restphrase/taylor1=Vamos, ni una risa de lastima? ",
+  "es_propuesto": "corrupted://content/restphrase/taylor1=Vamos, ¿ni siquiera una risa de lástima?",
+  "motivo": "mensaje restaurado taylor1"
+ },
+ {
+  "objeto": 10457,
+  "indice_cadena": 1,
+  "en": "mUsT",
+  "es_actual": "debes",
+  "es_propuesto": "tienes",
+  "motivo": "fragmento jamesh5"
+ },
+ {
+  "objeto": 10457,
+  "indice_cadena": 2,
+  "en": "HaVE",
+  "es_actual": "de",
+  "es_propuesto": "que",
+  "motivo": "fragmento jamesh5"
+ },
+ {
+  "objeto": 3813,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh5=yOU mUsT HaVE sEeN iT!",
+  "es_actual": "corrupted://content/restphrase/jamesh5=yA lO vIsTe!          ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh5=¡Tú tienes que haberlo visto!",
+  "motivo": "mensaje restaurado jamesh5"
+ },
+ {
+  "objeto": 19954,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh5=yOU mUsT HaVE sEeN iT!",
+  "es_actual": "corrupted://content/restphrase/jamesh5=yA lO vIsTe!          ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh5=¡Tú tienes que haberlo visto!",
+  "motivo": "mensaje restaurado jamesh5"
+ },
+ {
+  "objeto": 3809,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh4=yoU Must RESIST iT's wOrdS",
+  "es_actual": "corrupted://content/restphrase/jamesh4=ReSiStE sUs PaLaBrAs      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh4=Tú debes resistir sus palabras",
+  "motivo": "mensaje restaurado jamesh4"
+ },
+ {
+  "objeto": 19951,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh4=yoU Must RESIST iT's wOrdS",
+  "es_actual": "corrupted://content/restphrase/jamesh4=ReSiStE sUs PaLaBrAs      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh4=Tú debes resistir sus palabras",
+  "motivo": "mensaje restaurado jamesh4"
+ },
+ {
+  "objeto": 3827,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh7=ShEE wILL bE GonNNe SoOOn",
+  "es_actual": "corrupted://content/restphrase/jamesh7=ElLa Se IrA pRoNtO       ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh7=Ella se irá muy pronto",
+  "motivo": "mensaje restaurado jamesh7"
+ },
+ {
+  "objeto": 19969,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh7=ShEE wILL bE GonNNe SoOOn",
+  "es_actual": "corrupted://content/restphrase/jamesh7=ElLa Se IrA pRoNtO       ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh7=Ella se irá muy pronto",
+  "motivo": "mensaje restaurado jamesh7"
+ },
+ {
+  "objeto": 10469,
+  "indice_cadena": 3,
+  "en": "is",
+  "es_actual": "esta",
+  "es_propuesto": "esa",
+  "motivo": "fragmento gregrc1"
+ },
+ {
+  "objeto": 25078,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/gregrc1=Who the hell is Yolanda?",
+  "es_actual": "corrupted://content/restphrase/gregrc1=Quien es Yolanda?       ",
+  "es_propuesto": "corrupted://content/restphrase/gregrc1=¿Quién diablos es esa Yolanda?",
+  "motivo": "mensaje restaurado gregrc1"
+ },
+ {
+  "objeto": 3818,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh6=yOU aRE NoT AnnAaAa",
+  "es_actual": "corrupted://content/restphrase/jamesh6=Tu No ErEs AnNaAa  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh6=Tú no eres Anna",
+  "motivo": "mensaje restaurado jamesh6"
+ },
+ {
+  "objeto": 19960,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh6=yOU aRE NoT AnnAaAa",
+  "es_actual": "corrupted://content/restphrase/jamesh6=Tu No ErEs AnNaAa  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh6=Tú no eres Anna",
+  "motivo": "mensaje restaurado jamesh6"
+ },
+ {
+  "objeto": 3784,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh1=ArE YOu SaFE?",
+  "es_actual": "corrupted://content/restphrase/jamesh1=EsTaS bIeN?  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh1=¿Estás a salvo?",
+  "motivo": "mensaje restaurado jamesh1"
+ },
+ {
+  "objeto": 19927,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh1=ArE YOu SaFE?",
+  "es_actual": "corrupted://content/restphrase/jamesh1=EsTaS bIeN?  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh1=¿Estás a salvo?",
+  "motivo": "mensaje restaurado jamesh1"
+ },
+ {
+  "objeto": 10475,
+  "indice_cadena": 0,
+  "en": "U",
+  "es_actual": "tú",
+  "es_propuesto": "Tú",
+  "motivo": "fragmento jamesh3"
+ },
+ {
+  "objeto": 3801,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh3=U WiLL HeAR it SOONNN",
+  "es_actual": "corrupted://content/restphrase/jamesh3=PrOnTo Lo OiRaS      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh3=Tú lo oirás muy pronto",
+  "motivo": "mensaje restaurado jamesh3"
+ },
+ {
+  "objeto": 19943,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh3=U WiLL HeAR it SOONNN",
+  "es_actual": "corrupted://content/restphrase/jamesh3=PrOnTo Lo OiRaS      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh3=Tú lo oirás muy pronto",
+  "motivo": "mensaje restaurado jamesh3"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 1,
+  "en": "NeeDDD",
+  "es_actual": "necesitas",
+  "es_propuesto": "tienes",
+  "motivo": "fragmento jamesh2"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 2,
+  "en": "to",
+  "es_actual": "aprender",
+  "es_propuesto": "que",
+  "motivo": "fragmento jamesh2"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 3,
+  "en": "TUne",
+  "es_actual": "a",
+  "es_propuesto": "hacer",
+  "motivo": "fragmento jamesh2"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 4,
+  "en": "iT",
+  "es_actual": "ignorar",
+  "es_propuesto": "oídos",
+  "motivo": "fragmento jamesh2"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 5,
+  "en": "OUt",
+  "es_actual": "eso",
+  "es_propuesto": "sordos",
+  "motivo": "fragmento jamesh2"
+ },
+ {
+  "objeto": 3795,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh2=YoU NeeDDD to TUne iT OUt",
+  "es_actual": "corrupted://content/restphrase/jamesh2=TiEnEs qUe IgNoRaRlO     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh2=Tú tienes que hacer oídos sordos",
+  "motivo": "mensaje restaurado jamesh2"
+ },
+ {
+  "objeto": 19938,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh2=YoU NeeDDD to TUne iT OUt",
+  "es_actual": "corrupted://content/restphrase/jamesh2=TiEnEs qUe IgNoRaRlO     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh2=Tú tienes que hacer oídos sordos",
+  "motivo": "mensaje restaurado jamesh2"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 3,
+  "en": "Copywriter,",
+  "es_actual": "sonar",
+  "es_propuesto": "que",
+  "motivo": "fragmento james1"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 4,
+  "en": "making",
+  "es_actual": "mejor",
+  "es_propuesto": "lo",
+  "motivo": "fragmento james1"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 5,
+  "en": "crappy",
+  "es_actual": "las",
+  "es_propuesto": "malo",
+  "motivo": "fragmento james1"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 6,
+  "en": "stuff",
+  "es_actual": "cosas",
+  "es_propuesto": "suene",
+  "motivo": "fragmento james1"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 7,
+  "en": "sound",
+  "es_actual": "malas",
+  "es_propuesto": "mejor",
+  "motivo": "fragmento james1"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 11,
+  "en": "looks.",
+  "es_actual": "parecen",
+  "es_propuesto": "es.",
+  "motivo": "fragmento james1"
+ },
+ {
+  "objeto": 13808,
+  "indice_cadena": 1,
+  "en": "position",
+  "es_actual": "position",
+  "es_propuesto": "puesto",
+  "motivo": "fragmento james2"
+ },
+ {
+  "objeto": 13808,
+  "indice_cadena": 6,
+  "en": "still",
+  "es_actual": "sigue",
+  "es_propuesto": "está",
+  "motivo": "fragmento james2"
+ },
+ {
+  "objeto": 13808,
+  "indice_cadena": 7,
+  "en": "open",
+  "es_actual": "libre",
+  "es_propuesto": "disponible",
+  "motivo": "fragmento james2"
+ },
+ {
+  "objeto": 16516,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james2=My position at Phresh Ideas is still open",
+  "es_actual": "corrupted://content/restphrase/james2=Mi puesto en Phresh Ideas sigue libre    ",
+  "es_propuesto": "corrupted://content/restphrase/james2=Mi puesto en Phresh Ideas aún está disponible",
+  "motivo": "mensaje restaurado james2"
+ },
+ {
+  "objeto": 13810,
+  "indice_cadena": 3,
+  "en": "unnatural",
+  "es_actual": "antinatural",
+  "es_propuesto": "inquietante",
+  "motivo": "fragmento james3"
+ },
+ {
+  "objeto": 16539,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james3=You have an unnatural talent of guessing my backstory",
+  "es_actual": "corrupted://content/restphrase/james3=Tienes un talento raro para adivinar mi historia     ",
+  "es_propuesto": "corrupted://content/restphrase/james3=Tienes un talento inquietante para adivinar toda mi historia",
+  "motivo": "mensaje restaurado james3"
+ },
+ {
+  "objeto": 13812,
+  "indice_cadena": 0,
+  "en": "I",
+  "es_actual": "Yo",
+  "es_propuesto": "Hice",
+  "motivo": "fragmento james4"
+ },
+ {
+  "objeto": 13812,
+  "indice_cadena": 1,
+  "en": "matched",
+  "es_actual": "emparejé",
+  "es_propuesto": "match",
+  "motivo": "fragmento james4"
+ },
+ {
+  "objeto": 13812,
+  "indice_cadena": 3,
+  "en": "this",
+  "es_actual": "esta",
+  "es_propuesto": "una",
+  "motivo": "fragmento james4"
+ },
+ {
+  "objeto": 16563,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james4=I matched with this girl named Cassie, also known as @keepingitcassie",
+  "es_actual": "corrupted://content/restphrase/james4=Hice match con Cassie, tambien conocida como @keepingitcassie        ",
+  "es_propuesto": "corrupted://content/restphrase/james4=Hice match con una chica llamada Cassie, también conocida como @keepingitcassie",
+  "motivo": "mensaje restaurado james4"
+ },
+ {
+  "objeto": 13858,
+  "indice_cadena": 0,
+  "en": "Meet",
+  "es_actual": "Encuéntrame",
+  "es_propuesto": "Quedemos",
+  "motivo": "fragmento james5"
+ },
+ {
+  "objeto": 16621,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james5=Meet me this weekend and I’ll show ya",
+  "es_actual": "corrupted://content/restphrase/james5=Nos vemos el finde y te muestro        ",
+  "es_propuesto": "corrupted://content/restphrase/james5=Quedemos este fin de semana y te muestro",
+  "motivo": "mensaje restaurado james5"
+ },
+ {
+  "objeto": 1322,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/ashleyrc1=I WILL MAKE YOUR PROFILE FOR YOU",
+  "es_actual": "corrupted://content/restphrase/ashleyrc1=TE HARE TU PERFIL               ",
+  "es_propuesto": "corrupted://content/restphrase/ashleyrc1=YO TE VOY A HACER TU PERFIL",
+  "motivo": "mensaje restaurado ashleyrc1"
+ },
+ {
+  "objeto": 21902,
+  "indice_cadena": 4,
+  "en": "size",
+  "es_actual": "cuerpo",
+  "es_propuesto": "ropa",
+  "motivo": "fragmento emailmurv1"
+ },
+ {
+  "objeto": 23422,
+  "indice_cadena": 3,
+  "en": "his",
+  "es_actual": "tomé",
+  "es_propuesto": "quité",
+  "motivo": "fragmento ashley1"
+ },
+ {
+  "objeto": 23422,
+  "indice_cadena": 4,
+  "en": "phone",
+  "es_actual": "phone",
+  "es_propuesto": "su",
+  "motivo": "fragmento ashley1"
+ },
+ {
+  "objeto": 23422,
+  "indice_cadena": 9,
+  "en": "him.",
+  "es_actual": "mostré",
+  "es_propuesto": "mostré.",
+  "motivo": "fragmento ashley1"
+ },
+ {
+  "objeto": 2905,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/ashley1=So I took his phone and showed it to him.",
+  "es_actual": "corrupted://content/restphrase/ashley1=Le quite el telefono y se lo mostre.     ",
+  "es_propuesto": "corrupted://content/restphrase/ashley1=Así que le quité su teléfono y se lo mostré.",
+  "motivo": "mensaje restaurado ashley1"
+ },
+ {
+  "objeto": 3833,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh9=FInD mE anD yOu wiLL fIND hEEErrrr",
+  "es_actual": "corrupted://content/restphrase/jamesh9=BuScAmE y La HaLLaRaS             ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh9=Encuéntrame y tú la vas a encontrar",
+  "motivo": "mensaje restaurado jamesh9"
+ },
+ {
+  "objeto": 19975,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh9=FInD mE anD yOu wiLL fIND hEEErrrr",
+  "es_actual": "corrupted://content/restphrase/jamesh9=BuScAmE y La HaLLaRaS             ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh9=Encuéntrame y tú la vas a encontrar",
+  "motivo": "mensaje restaurado jamesh9"
+ },
+ {
+  "objeto": 3832,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh8=I cAnnOt ReMEmbEr",
+  "es_actual": "corrupted://content/restphrase/jamesh8=No ReCuErDo      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh8=No puedo recordar",
+  "motivo": "mensaje restaurado jamesh8"
+ },
+ {
+  "objeto": 19973,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh8=I cAnnOt ReMEmbEr",
+  "es_actual": "corrupted://content/restphrase/jamesh8=No ReCuErDo      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh8=No puedo recordar",
+  "motivo": "mensaje restaurado jamesh8"
+ }
+]

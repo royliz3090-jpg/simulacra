@@ -20,6 +20,7 @@ Uso:
   python3 tools/fs_fix_keys.py <orig.fs> <traducido.fs> <salida.fs> [--keys claves.txt]
 """
 import argparse
+import json
 import re
 import struct
 import sys
@@ -108,9 +109,18 @@ def main():
     ap.add_argument("trans")
     ap.add_argument("out")
     ap.add_argument("--keys", default="tools/keys_protegidas.txt")
+    ap.add_argument("--exempt", default=None,
+                    help="JSON con pares {\"en\":..,\"es\":..} que NO deben "
+                         "restaurarse aunque su `en` este en la lista de claves "
+                         "(traducciones intencionales en contexto de minijuego)")
     ap.add_argument("--direct", action="store_true",
                     help="tratar los .fs como archivos crudos (no ZIP)")
     a = ap.parse_args()
+
+    exempt = set()
+    if a.exempt:
+        for e in json.load(open(a.exempt, encoding="utf-8")):
+            exempt.add((e["en"], e["es"]))
 
     def read(p):
         # los .fs sueltos suelen ser crudos; core.assets es un ZIP
@@ -146,6 +156,8 @@ def main():
         eng = so[i]["text"]
         esp = st[i]["text"]
         if eng == esp:
+            continue
+        if (eng, esp) in exempt:
             continue
         if eng in keys or is_protected_date(eng):
             pos = st[i]["pos"]

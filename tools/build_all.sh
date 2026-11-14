@@ -53,7 +53,8 @@ echo "[3/6] Construyendo es-latam.fs a partir del .fs traducido..."
 # al cargar ("Unable to find media _Jabbr/cover", "Failed to parse time...").
 # El .fs original en ingles es la referencia del orden de cadenas.
 python3 tools/fs_fix_keys.py "$ORIG/core.assets" translations/es-LATAM/en-us.fs \
-  "$OUT/en-us.fixed.fs" --keys tools/keys_protegidas.txt >/dev/null
+  "$OUT/en-us.fixed.fs" --keys tools/keys_protegidas.txt \
+  --exempt tools/exenciones_minijuego.json >/dev/null
 # NOTA: $ORIG/core.assets es un ZIP; fs_fix_keys lee su miembro en-us.fs.
 python3 tools/build_locale_fs.py "$OUT/en-us.fixed.fs" x "$OUT/es-latam.fs" \
   --old-prefix en-us:// --new-prefix es-latam:// --direct >/dev/null

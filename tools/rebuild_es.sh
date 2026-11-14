@@ -23,7 +23,8 @@ PY
 
 echo "[2/5] Restaurando claves protegidas + fechas (fs_fix_keys)..."
 python3 tools/fs_fix_keys.py /tmp/en-orig.fs "$SRC" "$OUT/en-us.fixed.fs" \
-  --keys tools/keys_protegidas.txt >/dev/null
+  --keys tools/keys_protegidas.txt \
+  --exempt tools/exenciones_minijuego.json >/dev/null
 
 echo "[3/5] Reescritura de prefijo en-us:// -> es-latam://..."
 python3 tools/build_locale_fs.py "$OUT/en-us.fixed.fs" x "$OUT/es-latam.fs" \

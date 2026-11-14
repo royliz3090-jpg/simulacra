@@ -1,0 +1,954 @@
+[
+ {
+  "objeto": 138,
+  "indice_cadena": 0,
+  "en": "Hello?",
+  "es_actual": "Hola? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 510,
+  "indice_cadena": 0,
+  "en": "Mom",
+  "es_actual": "Mam",
+  "es_propuesto": "Mamá"
+ },
+ {
+  "objeto": 1318,
+  "indice_cadena": 0,
+  "en": "Hello?",
+  "es_actual": "Hola? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 3128,
+  "indice_cadena": 0,
+  "en": "Are you okay, Anna?",
+  "es_actual": "Estas bien, Anna?  ",
+  "es_propuesto": "¿Estás bien, Anna?"
+ },
+ {
+  "objeto": 3226,
+  "indice_cadena": 0,
+  "en": "Nothing personal??",
+  "es_actual": "Nada personal??   ",
+  "es_propuesto": "¿Nada personal?"
+ },
+ {
+  "objeto": 3467,
+  "indice_cadena": 0,
+  "en": "Hey Ed\n\nI think it works! Thanks again\n\nPS: You and your factory chain coffee :P\n\nCheers\n#block#graphic://content/mail/text/anna-footer.png",
+  "es_actual": "Hola Ed, ¡gracias otra vez!\n\nPD: Tú y tu café de cadena :P\n\nSaludos\n#block#graphic://content/mail/text/anna-footer.png                  ",
+  "es_propuesto": "Hola, Ed\n\n¡Creo que funciona! Gracias de nuevo.\n\nP. D.: Tú y tu café de cadena :P\n\nSaludos\n#block#graphic://content/mail/text/anna-footer.png"
+ },
+ {
+  "objeto": 3828,
+  "indice_cadena": 0,
+  "en": "How do I find her?",
+  "es_actual": "Como encuentro?   ",
+  "es_propuesto": "¿Cómo la encuentro?"
+ },
+ {
+  "objeto": 3841,
+  "indice_cadena": 0,
+  "en": "Can you help me?",
+  "es_actual": "Puedes ayudarme?",
+  "es_propuesto": "¿Puedes ayudarme?"
+ },
+ {
+  "objeto": 6645,
+  "indice_cadena": 0,
+  "en": "Who are you, exactly?",
+  "es_actual": "Quien eres, ?        ",
+  "es_propuesto": "¿Quién eres exactamente?"
+ },
+ {
+  "objeto": 6771,
+  "indice_cadena": 0,
+  "en": "So I pretend to be anna?",
+  "es_actual": "Entonces finjo ser Anna?",
+  "es_propuesto": "¿Entonces finjo ser Anna?"
+ },
+ {
+  "objeto": 7026,
+  "indice_cadena": 0,
+  "en": "More clues?",
+  "es_actual": "Mas pistas?",
+  "es_propuesto": "¿Más pistas?"
+ },
+ {
+  "objeto": 7257,
+  "indice_cadena": 0,
+  "en": "Do you have a better lead?",
+  "es_actual": "Tienes alguna mejor pista?",
+  "es_propuesto": "¿Tienes alguna pista mejor?"
+ },
+ {
+  "objeto": 7329,
+  "indice_cadena": 0,
+  "en": "You there?",
+  "es_actual": "Estas ahi?",
+  "es_propuesto": "¿Estás ahí?"
+ },
+ {
+  "objeto": 7960,
+  "indice_cadena": 0,
+  "en": "Did you get it?",
+  "es_actual": "Lo conseguiste?",
+  "es_propuesto": "¿Lo conseguiste?"
+ },
+ {
+  "objeto": 10016,
+  "indice_cadena": 0,
+  "en": "Give it a shot?",
+  "es_actual": "Lo intentamos? ",
+  "es_propuesto": "¿Lo intentamos?"
+ },
+ {
+  "objeto": 10168,
+  "indice_cadena": 0,
+  "en": "Can I ask you something?",
+  "es_actual": "Puedo preguntarte algo? ",
+  "es_propuesto": "¿Puedo preguntarte algo?"
+ },
+ {
+  "objeto": 10193,
+  "indice_cadena": 0,
+  "en": "Are you hiding anything?",
+  "es_actual": "Me estas ocultando algo?",
+  "es_propuesto": "¿Me estás ocultando algo?"
+ },
+ {
+  "objeto": 12893,
+  "indice_cadena": 0,
+  "en": "How?",
+  "es_actual": "Eh? ",
+  "es_propuesto": "¿Cómo?"
+ },
+ {
+  "objeto": 13032,
+  "indice_cadena": 0,
+  "en": "How?",
+  "es_actual": "Eh? ",
+  "es_propuesto": "¿Cómo?"
+ },
+ {
+  "objeto": 13165,
+  "indice_cadena": 0,
+  "en": "Did she say where she was all along?",
+  "es_actual": "Dijo donde estuvo todo este tiempo? ",
+  "es_propuesto": "¿Dijo dónde estuvo todo este tiempo?"
+ },
+ {
+  "objeto": 15889,
+  "indice_cadena": 0,
+  "en": "Hello?",
+  "es_actual": "Hola? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 15890,
+  "indice_cadena": 0,
+  "en": "Is anyone there?",
+  "es_actual": "Hay alguien ahi?",
+  "es_propuesto": "¿Hay alguien ahí?"
+ },
+ {
+  "objeto": 15922,
+  "indice_cadena": 0,
+  "en": "Where are you now?",
+  "es_actual": "Donde estas ahora?",
+  "es_propuesto": "¿Dónde estás ahora?"
+ },
+ {
+  "objeto": 15947,
+  "indice_cadena": 0,
+  "en": "Who are you really?",
+  "es_actual": "Quien eres?        ",
+  "es_propuesto": "¿Quién eres realmente?"
+ },
+ {
+  "objeto": 16069,
+  "indice_cadena": 0,
+  "en": "What happens now?",
+  "es_actual": "Que pasa ahora?  ",
+  "es_propuesto": "¿Qué pasa ahora?"
+ },
+ {
+  "objeto": 16109,
+  "indice_cadena": 0,
+  "en": "What happens now?",
+  "es_actual": "Que pasa ahora?  ",
+  "es_propuesto": "¿Qué pasa ahora?"
+ },
+ {
+  "objeto": 16334,
+  "indice_cadena": 0,
+  "en": "How is this a good thing?",
+  "es_actual": "Como es esto algo bueno? ",
+  "es_propuesto": "¿Y eso qué tiene de bueno?"
+ },
+ {
+  "objeto": 16520,
+  "indice_cadena": 0,
+  "en": "Where?",
+  "es_actual": "Donde?",
+  "es_propuesto": "¿Dónde?"
+ },
+ {
+  "objeto": 16521,
+  "indice_cadena": 0,
+  "en": "Your job. You hate it right?",
+  "es_actual": "Tu trabajo. Lo odias verdad?",
+  "es_propuesto": "Tu trabajo. Lo odias, ¿verdad?"
+ },
+ {
+  "objeto": 16523,
+  "indice_cadena": 0,
+  "en": "How'd you know?",
+  "es_actual": "Como lo sabias?",
+  "es_propuesto": "¿Cómo lo supiste?"
+ },
+ {
+  "objeto": 16570,
+  "indice_cadena": 0,
+  "en": "Good weird?",
+  "es_actual": "Raro bueno?",
+  "es_propuesto": "¿Raro en el buen sentido?"
+ },
+ {
+  "objeto": 16620,
+  "indice_cadena": 0,
+  "en": "How?",
+  "es_actual": "Eh? ",
+  "es_propuesto": "¿Cómo?"
+ },
+ {
+  "objeto": 17987,
+  "indice_cadena": 0,
+  "en": "Hello?",
+  "es_actual": "Hola? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 18044,
+  "indice_cadena": 0,
+  "en": "Who are you really?",
+  "es_actual": "Quien eres?        ",
+  "es_propuesto": "¿Quién eres realmente?"
+ },
+ {
+  "objeto": 18919,
+  "indice_cadena": 0,
+  "en": "Anna",
+  "es_actual": "Ana ",
+  "es_propuesto": "Anna"
+ },
+ {
+  "objeto": 19176,
+  "indice_cadena": 0,
+  "en": "Taylor",
+  "es_actual": "taylor",
+  "es_propuesto": "Taylor"
+ },
+ {
+  "objeto": 19400,
+  "indice_cadena": 0,
+  "en": "Anna",
+  "es_actual": "Ana ",
+  "es_propuesto": "Anna"
+ },
+ {
+  "objeto": 20142,
+  "indice_cadena": 0,
+  "en": "You there?",
+  "es_actual": "Estas ahi?",
+  "es_propuesto": "¿Estás ahí?"
+ },
+ {
+  "objeto": 21398,
+  "indice_cadena": 0,
+  "en": "Reset password ?",
+  "es_actual": "Resetear clave? ",
+  "es_propuesto": "¿Restablecer contraseña?"
+ },
+ {
+  "objeto": 22215,
+  "indice_cadena": 0,
+  "en": "Have you been reading the news?",
+  "es_actual": "Has estado leyendo noticias?   ",
+  "es_propuesto": "¿Has estado leyendo las noticias?"
+ },
+ {
+  "objeto": 22326,
+  "indice_cadena": 0,
+  "en": "What Totem Animal Spirit\nAre You?",
+  "es_actual": "Que Animal Espiritu Totem\nEres?  ",
+  "es_propuesto": "¿Cuál es tu espíritu\nanimal tótem?"
+ },
+ {
+  "objeto": 22540,
+  "indice_cadena": 0,
+  "en": "Hello?",
+  "es_actual": "Hola? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 22541,
+  "indice_cadena": 0,
+  "en": "Hello??",
+  "es_actual": "Hola?? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 24800,
+  "indice_cadena": 0,
+  "en": "Hello?",
+  "es_actual": "Hola? ",
+  "es_propuesto": "¿Hola?"
+ },
+ {
+  "objeto": 25076,
+  "indice_cadena": 0,
+  "en": "Tell what?!?",
+  "es_actual": "QUE COSA?!? ",
+  "es_propuesto": "¿¡Decir qué!?"
+ },
+ {
+  "objeto": 25617,
+  "indice_cadena": 0,
+  "en": "How may I assist you?",
+  "es_actual": "Como puedo ayudarte? ",
+  "es_propuesto": "¿En qué puedo ayudarte?"
+ },
+ {
+  "objeto": 25658,
+  "indice_cadena": 0,
+  "en": "Did you kidnap Anna?",
+  "es_actual": "Secuestraste a Anna?",
+  "es_propuesto": "¿Secuestraste a Anna?"
+ },
+ {
+  "objeto": 25681,
+  "indice_cadena": 0,
+  "en": "Are you telling this right?",
+  "es_actual": "Estas contando esto bien?  ",
+  "es_propuesto": "¿Estás contando esto bien?"
+ },
+ {
+  "objeto": 25702,
+  "indice_cadena": 0,
+  "en": "Are you telling this right?",
+  "es_actual": "Estas contando esto bien?  ",
+  "es_propuesto": "¿Estás contando esto bien?"
+ },
+ {
+  "objeto": 25741,
+  "indice_cadena": 0,
+  "en": "How did it end?",
+  "es_actual": "Como termino?  ",
+  "es_propuesto": "¿Cómo terminó?"
+ },
+ {
+  "objeto": 27900,
+  "indice_cadena": 0,
+  "en": "Why do you want to work here?",
+  "es_actual": "porque quieres trabajar aqui?",
+  "es_propuesto": "¿Por qué quieres trabajar aquí?"
+ },
+ {
+  "objeto": 27958,
+  "indice_cadena": 0,
+  "en": "How?",
+  "es_actual": "Eh? ",
+  "es_propuesto": "¿Cómo?"
+ },
+ {
+  "objeto": 20033,
+  "indice_cadena": 5,
+  "en": "went",
+  "es_actual": "salió",
+  "es_propuesto": "pasó"
+ },
+ {
+  "objeto": 20033,
+  "indice_cadena": 8,
+  "en": "line",
+  "es_actual": "línea",
+  "es_propuesto": "raya"
+ },
+ {
+  "objeto": 6514,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/greg1=You are the one that went out of line",
+  "es_actual": "corrupted://content/restphrase/greg1=Tu eres el que se paso de la raya    ",
+  "es_propuesto": "corrupted://content/restphrase/greg1=Tú eres el que se pasó de la raya"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 1,
+  "en": "yOu",
+  "es_actual": "has",
+  "es_propuesto": "la"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 2,
+  "en": "fOunD",
+  "es_actual": "encontrado",
+  "es_propuesto": "has"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 3,
+  "en": "Her",
+  "es_actual": "a",
+  "es_propuesto": "podido"
+ },
+ {
+  "objeto": 3469,
+  "indice_cadena": 4,
+  "en": "YeT?",
+  "es_actual": "ella?",
+  "es_propuesto": "encontrar?"
+ },
+ {
+  "objeto": 3836,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh10=HaVE yOu fOunD Her YeT?",
+  "es_actual": "corrupted://content/restphrase/jamesh10=Ya La HaS hAlLaDo?     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh10=¿Ya la has podido encontrar?"
+ },
+ {
+  "objeto": 19978,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh10=HaVE yOu fOunD Her YeT?",
+  "es_actual": "corrupted://content/restphrase/jamesh10=Ya La HaS hAlLaDo?     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh10=¿Ya la has podido encontrar?"
+ },
+ {
+  "objeto": 3848,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh12=tHe ANsWer is IN SpArK.",
+  "es_actual": "corrupted://content/restphrase/jamesh12=La ReSpUeStA eN sPaRk. ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh12=La respuesta está en Spark."
+ },
+ {
+  "objeto": 19990,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh12=tHe ANsWer is IN SpArK.",
+  "es_actual": "corrupted://content/restphrase/jamesh12=La ReSpUeStA eN sPaRk. ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh12=La respuesta está en Spark."
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 5,
+  "en": "TiME,",
+  "es_actual": "tiempo,",
+  "es_propuesto": "tiempo."
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 6,
+  "en": "yOu",
+  "es_actual": "tú",
+  "es_propuesto": "¡Tienes"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 7,
+  "en": "NeeEEd",
+  "es_actual": "tienes",
+  "es_propuesto": "que"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 8,
+  "en": "to",
+  "es_actual": "que",
+  "es_propuesto": "apresurarte"
+ },
+ {
+  "objeto": 3483,
+  "indice_cadena": 9,
+  "en": "HurRRy!!!",
+  "es_actual": "¡¡¡Apúrate!!!",
+  "es_propuesto": "ya!"
+ },
+ {
+  "objeto": 3840,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh11=sHe Is RUnNinG OuT oF TiME, yOu NeeEEd to HurRRy!!!",
+  "es_actual": "corrupted://content/restphrase/jamesh11=Se Le AcAbA eL tIeMpO, aPrEsUrAtE!!!               ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh11=Ella se está quedando sin tiempo. ¡Tienes que apresurarte ya!"
+ },
+ {
+  "objeto": 19979,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh11=sHe Is RUnNinG OuT oF TiME, yOu NeeEEd to HurRRy!!!",
+  "es_actual": "corrupted://content/restphrase/jamesh11=Se Le AcAbA eL tIeMpO, aPrEsUrAtE!!!               ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh11=Ella se está quedando sin tiempo. ¡Tienes que apresurarte ya!"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 0,
+  "en": "ShE",
+  "es_actual": "eLLA",
+  "es_propuesto": "Ella"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 1,
+  "en": "wILL",
+  "es_actual": "vA",
+  "es_propuesto": "correrá"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 2,
+  "en": "sHaRE",
+  "es_actual": "cOMPARTIR",
+  "es_propuesto": "la"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 3,
+  "en": "mY",
+  "es_actual": "mI",
+  "es_propuesto": "misma"
+ },
+ {
+  "objeto": 3485,
+  "indice_cadena": 4,
+  "en": "fAtE",
+  "es_actual": "dESTINO",
+  "es_propuesto": "suerte"
+ },
+ {
+  "objeto": 3869,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh13=ShE wILL sHaRE mY fAtE",
+  "es_actual": "corrupted://content/restphrase/jamesh13=CoMpArTiRa Mi DeStInO ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh13=Ella correrá la misma suerte"
+ },
+ {
+  "objeto": 20011,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh13=ShE wILL sHaRE mY fAtE",
+  "es_actual": "corrupted://content/restphrase/jamesh13=CoMpArTiRa Mi DeStInO ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh13=Ella correrá la misma suerte"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 2,
+  "en": "on",
+  "es_actual": "engañaste",
+  "es_propuesto": "fuiste"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 3,
+  "en": "me",
+  "es_actual": "y",
+  "es_propuesto": "infiel"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 4,
+  "en": "and",
+  "es_actual": "casi,",
+  "es_propuesto": "y"
+ },
+ {
+  "objeto": 7996,
+  "indice_cadena": 8,
+  "en": "pregnant!",
+  "es_actual": "¡Embarazada!",
+  "es_propuesto": "embarazada!"
+ },
+ {
+  "objeto": 25097,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/gregrc2=You cheated on me and almost got her pregnant!",
+  "es_actual": "corrupted://content/restphrase/gregrc2=Me enganaste y casi la dejas embarazada!      ",
+  "es_propuesto": "corrupted://content/restphrase/gregrc2=Tú me fuiste infiel y casi la dejas embarazada!"
+ },
+ {
+  "objeto": 10408,
+  "indice_cadena": 6,
+  "en": "laugh?",
+  "es_actual": "¿Reírse?",
+  "es_propuesto": "lástima?"
+ },
+ {
+  "objeto": 9771,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/taylor1=Come on, not even a pity laugh?",
+  "es_actual": "corrupted://content/restphrase/taylor1=Vamos, ni una risa de lastima? ",
+  "es_propuesto": "corrupted://content/restphrase/taylor1=Vamos, ¿ni siquiera una risa de lástima?"
+ },
+ {
+  "objeto": 10457,
+  "indice_cadena": 1,
+  "en": "mUsT",
+  "es_actual": "debes",
+  "es_propuesto": "tienes"
+ },
+ {
+  "objeto": 10457,
+  "indice_cadena": 2,
+  "en": "HaVE",
+  "es_actual": "de",
+  "es_propuesto": "que"
+ },
+ {
+  "objeto": 3813,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh5=yOU mUsT HaVE sEeN iT!",
+  "es_actual": "corrupted://content/restphrase/jamesh5=yA lO vIsTe!          ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh5=¡Tú tienes que haberlo visto!"
+ },
+ {
+  "objeto": 19954,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh5=yOU mUsT HaVE sEeN iT!",
+  "es_actual": "corrupted://content/restphrase/jamesh5=yA lO vIsTe!          ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh5=¡Tú tienes que haberlo visto!"
+ },
+ {
+  "objeto": 3809,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh4=yoU Must RESIST iT's wOrdS",
+  "es_actual": "corrupted://content/restphrase/jamesh4=ReSiStE sUs PaLaBrAs      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh4=Tú debes resistir sus palabras"
+ },
+ {
+  "objeto": 19951,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh4=yoU Must RESIST iT's wOrdS",
+  "es_actual": "corrupted://content/restphrase/jamesh4=ReSiStE sUs PaLaBrAs      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh4=Tú debes resistir sus palabras"
+ },
+ {
+  "objeto": 3827,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh7=ShEE wILL bE GonNNe SoOOn",
+  "es_actual": "corrupted://content/restphrase/jamesh7=ElLa Se IrA pRoNtO       ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh7=Ella se irá muy pronto"
+ },
+ {
+  "objeto": 19969,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh7=ShEE wILL bE GonNNe SoOOn",
+  "es_actual": "corrupted://content/restphrase/jamesh7=ElLa Se IrA pRoNtO       ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh7=Ella se irá muy pronto"
+ },
+ {
+  "objeto": 10469,
+  "indice_cadena": 3,
+  "en": "is",
+  "es_actual": "esta",
+  "es_propuesto": "esa"
+ },
+ {
+  "objeto": 25078,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/gregrc1=Who the hell is Yolanda?",
+  "es_actual": "corrupted://content/restphrase/gregrc1=Quien es Yolanda?       ",
+  "es_propuesto": "corrupted://content/restphrase/gregrc1=¿Quién diablos es esa Yolanda?"
+ },
+ {
+  "objeto": 3818,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh6=yOU aRE NoT AnnAaAa",
+  "es_actual": "corrupted://content/restphrase/jamesh6=Tu No ErEs AnNaAa  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh6=Tú no eres Anna"
+ },
+ {
+  "objeto": 19960,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh6=yOU aRE NoT AnnAaAa",
+  "es_actual": "corrupted://content/restphrase/jamesh6=Tu No ErEs AnNaAa  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh6=Tú no eres Anna"
+ },
+ {
+  "objeto": 3784,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh1=ArE YOu SaFE?",
+  "es_actual": "corrupted://content/restphrase/jamesh1=EsTaS bIeN?  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh1=¿Estás a salvo?"
+ },
+ {
+  "objeto": 19927,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh1=ArE YOu SaFE?",
+  "es_actual": "corrupted://content/restphrase/jamesh1=EsTaS bIeN?  ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh1=¿Estás a salvo?"
+ },
+ {
+  "objeto": 10475,
+  "indice_cadena": 0,
+  "en": "U",
+  "es_actual": "tú",
+  "es_propuesto": "Tú"
+ },
+ {
+  "objeto": 3801,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh3=U WiLL HeAR it SOONNN",
+  "es_actual": "corrupted://content/restphrase/jamesh3=PrOnTo Lo OiRaS      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh3=Tú lo oirás muy pronto"
+ },
+ {
+  "objeto": 19943,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh3=U WiLL HeAR it SOONNN",
+  "es_actual": "corrupted://content/restphrase/jamesh3=PrOnTo Lo OiRaS      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh3=Tú lo oirás muy pronto"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 1,
+  "en": "NeeDDD",
+  "es_actual": "necesitas",
+  "es_propuesto": "tienes"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 2,
+  "en": "to",
+  "es_actual": "aprender",
+  "es_propuesto": "que"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 3,
+  "en": "TUne",
+  "es_actual": "a",
+  "es_propuesto": "hacer"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 4,
+  "en": "iT",
+  "es_actual": "ignorar",
+  "es_propuesto": "oídos"
+ },
+ {
+  "objeto": 13322,
+  "indice_cadena": 5,
+  "en": "OUt",
+  "es_actual": "eso",
+  "es_propuesto": "sordos"
+ },
+ {
+  "objeto": 3795,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh2=YoU NeeDDD to TUne iT OUt",
+  "es_actual": "corrupted://content/restphrase/jamesh2=TiEnEs qUe IgNoRaRlO     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh2=Tú tienes que hacer oídos sordos"
+ },
+ {
+  "objeto": 19938,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh2=YoU NeeDDD to TUne iT OUt",
+  "es_actual": "corrupted://content/restphrase/jamesh2=TiEnEs qUe IgNoRaRlO     ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh2=Tú tienes que hacer oídos sordos"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 3,
+  "en": "Copywriter,",
+  "es_actual": "sonar",
+  "es_propuesto": "que"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 4,
+  "en": "making",
+  "es_actual": "mejor",
+  "es_propuesto": "lo"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 5,
+  "en": "crappy",
+  "es_actual": "las",
+  "es_propuesto": "malo"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 6,
+  "en": "stuff",
+  "es_actual": "cosas",
+  "es_propuesto": "suene"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 7,
+  "en": "sound",
+  "es_actual": "malas",
+  "es_propuesto": "mejor"
+ },
+ {
+  "objeto": 13806,
+  "indice_cadena": 11,
+  "en": "looks.",
+  "es_actual": "parecen",
+  "es_propuesto": "es."
+ },
+ {
+  "objeto": 13808,
+  "indice_cadena": 1,
+  "en": "position",
+  "es_actual": "position",
+  "es_propuesto": "puesto"
+ },
+ {
+  "objeto": 13808,
+  "indice_cadena": 6,
+  "en": "still",
+  "es_actual": "sigue",
+  "es_propuesto": "está"
+ },
+ {
+  "objeto": 13808,
+  "indice_cadena": 7,
+  "en": "open",
+  "es_actual": "libre",
+  "es_propuesto": "disponible"
+ },
+ {
+  "objeto": 16516,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james2=My position at Phresh Ideas is still open",
+  "es_actual": "corrupted://content/restphrase/james2=Mi puesto en Phresh Ideas sigue libre    ",
+  "es_propuesto": "corrupted://content/restphrase/james2=Mi puesto en Phresh Ideas aún está disponible"
+ },
+ {
+  "objeto": 13810,
+  "indice_cadena": 3,
+  "en": "unnatural",
+  "es_actual": "antinatural",
+  "es_propuesto": "inquietante"
+ },
+ {
+  "objeto": 16539,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james3=You have an unnatural talent of guessing my backstory",
+  "es_actual": "corrupted://content/restphrase/james3=Tienes un talento raro para adivinar mi historia     ",
+  "es_propuesto": "corrupted://content/restphrase/james3=Tienes un talento inquietante para adivinar toda mi historia"
+ },
+ {
+  "objeto": 13812,
+  "indice_cadena": 0,
+  "en": "I",
+  "es_actual": "Yo",
+  "es_propuesto": "Hice"
+ },
+ {
+  "objeto": 13812,
+  "indice_cadena": 1,
+  "en": "matched",
+  "es_actual": "emparejé",
+  "es_propuesto": "match"
+ },
+ {
+  "objeto": 13812,
+  "indice_cadena": 3,
+  "en": "this",
+  "es_actual": "esta",
+  "es_propuesto": "una"
+ },
+ {
+  "objeto": 16563,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james4=I matched with this girl named Cassie, also known as @keepingitcassie",
+  "es_actual": "corrupted://content/restphrase/james4=Hice match con Cassie, tambien conocida como @keepingitcassie        ",
+  "es_propuesto": "corrupted://content/restphrase/james4=Hice match con una chica llamada Cassie, también conocida como @keepingitcassie"
+ },
+ {
+  "objeto": 13858,
+  "indice_cadena": 0,
+  "en": "Meet",
+  "es_actual": "Encuéntrame",
+  "es_propuesto": "Quedemos"
+ },
+ {
+  "objeto": 16621,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/james5=Meet me this weekend and I’ll show ya",
+  "es_actual": "corrupted://content/restphrase/james5=Nos vemos el finde y te muestro        ",
+  "es_propuesto": "corrupted://content/restphrase/james5=Quedemos este fin de semana y te muestro"
+ },
+ {
+  "objeto": 1322,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/ashleyrc1=I WILL MAKE YOUR PROFILE FOR YOU",
+  "es_actual": "corrupted://content/restphrase/ashleyrc1=TE HARE TU PERFIL               ",
+  "es_propuesto": "corrupted://content/restphrase/ashleyrc1=YO TE VOY A HACER TU PERFIL"
+ },
+ {
+  "objeto": 21902,
+  "indice_cadena": 4,
+  "en": "size",
+  "es_actual": "cuerpo",
+  "es_propuesto": "ropa"
+ },
+ {
+  "objeto": 23422,
+  "indice_cadena": 3,
+  "en": "his",
+  "es_actual": "tomé",
+  "es_propuesto": "quité"
+ },
+ {
+  "objeto": 23422,
+  "indice_cadena": 4,
+  "en": "phone",
+  "es_actual": "phone",
+  "es_propuesto": "su"
+ },
+ {
+  "objeto": 23422,
+  "indice_cadena": 9,
+  "en": "him.",
+  "es_actual": "mostré",
+  "es_propuesto": "mostré."
+ },
+ {
+  "objeto": 2905,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/ashley1=So I took his phone and showed it to him.",
+  "es_actual": "corrupted://content/restphrase/ashley1=Le quite el telefono y se lo mostre.     ",
+  "es_propuesto": "corrupted://content/restphrase/ashley1=Así que le quité su teléfono y se lo mostré."
+ },
+ {
+  "objeto": 3833,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh9=FInD mE anD yOu wiLL fIND hEEErrrr",
+  "es_actual": "corrupted://content/restphrase/jamesh9=BuScAmE y La HaLLaRaS             ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh9=Encuéntrame y tú la vas a encontrar"
+ },
+ {
+  "objeto": 19975,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh9=FInD mE anD yOu wiLL fIND hEEErrrr",
+  "es_actual": "corrupted://content/restphrase/jamesh9=BuScAmE y La HaLLaRaS             ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh9=Encuéntrame y tú la vas a encontrar"
+ },
+ {
+  "objeto": 3832,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh8=I cAnnOt ReMEmbEr",
+  "es_actual": "corrupted://content/restphrase/jamesh8=No ReCuErDo      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh8=No puedo recordar"
+ },
+ {
+  "objeto": 19973,
+  "indice_cadena": 0,
+  "en": "corrupted://content/restphrase/jamesh8=I cAnnOt ReMEmbEr",
+  "es_actual": "corrupted://content/restphrase/jamesh8=No ReCuErDo      ",
+  "es_propuesto": "corrupted://content/restphrase/jamesh8=No puedo recordar"
+ }
+]
