@@ -22,7 +22,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: But I know you are
   ES: Pero sé que tú sí
 - EN: So talk to me
-  ES: Hablame        [relleno_espacios]
+  ES: Hablame        [relleno_espacios,contenido_faltante]
 - EN: I can explain everything
   ES: Puedo explicarlo todo     [relleno_espacios]
 - EN: I will let you cool off first
@@ -58,7 +58,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: And ur blocking my calls now?
   ES: ¿Y estás bloqueando mis llamadas ahora?
 - EN: Where on earth are you?
-  ES: ¿Dónde estás?         [relleno_espacios]
+  ES: ¿Dónde estás?         [relleno_espacios,contenido_faltante]
 - EN: Who is this?
   ES: ¿Quién es?
 - EN: You’re kidding me Anna.
@@ -164,7 +164,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: First you want to show me something
   ES: Primero quieres mostrarme algo       [relleno_espacios]
 - EN: Then now you dont
-  ES: Ahora no           [relleno_espacios,posible_recorte]
+  ES: Ahora no           [relleno_espacios]
 - EN: Stop wasting my time and get to the point
   ES: Deja de perder mi tiempo y ve al grano     [relleno_espacios]
 - EN: Wtf is going on??
@@ -192,7 +192,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Are you helping me or not?!
   ES: ¿Me vas a ayudar o no?!     [relleno_espacios]
 - EN: Make up your mind!
-  ES: ¡Decídete!        [relleno_espacios]
+  ES: ¡Decídete!        [relleno_espacios,contenido_faltante]
 - EN: Shit something came up
   ES: Mierda, surgió algo    [relleno_espacios]
 - EN: I'll try again later
@@ -448,7 +448,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I can't remember its birthday though..
   ES: Pero no puedo acordar su cumpleanos..   [relleno_espacios]
 - EN: Do you want to find her or not?
-  ES: ¿Quieres encontrarla o no?      [relleno_espacios]
+  ES: ¿Quieres encontrarla o no?      [relleno_espacios,contenido_faltante]
 - EN: I need it to help you
   ES: Lo necesito para ayudarte
 - EN: I'm working on it!
@@ -528,7 +528,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Awesome!
   ES: ¡Genial!
 - EN: Send it to me!
-  ES: ¡Mándamela!   [relleno_espacios]
+  ES: ¡Mándamela!   [relleno_espacios,contenido_faltante]
 - EN: No.. This is not right..
   ES: No.. Esto no esta bien..
 - EN: Oh wait.
@@ -660,7 +660,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Must be Toby!
   ES: ¡Debe ser Toby!
 - EN: Thats strange..
-  ES: Eso es           [relleno_espacios,posible_recorte]
+  ES: Eso es           [relleno_espacios]
 - EN: I don't see Toby anywhere
   ES: No veo a Toby en ningun    [relleno_espacios]
 - EN: What did you hear?
@@ -672,7 +672,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Sounds like.. talking?
   ES: Suena como.. hablando?
 - EN: It's kinda creepy
-  ES: Es medio           [relleno_espacios,posible_recorte]
+  ES: Es medio           [relleno_espacios]
 - EN: Anything that stands out?
   ES: ¿Algo que se destaque?    [relleno_espacios]
 - EN: Her place is a mess.
@@ -1142,7 +1142,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Why the sudden interest in me?
   ES: ¿por qué el repentino interés en mí?
 - EN: Thats true...
-  ES: Eso es         [relleno_espacios,posible_recorte]
+  ES: Eso es         [relleno_espacios]
 - EN: I hope youre done wasting my time
   ES: Espero que ya hayas terminado de hacerme perder el tiempo
 - EN: Lets talk about your relationship with Anna
@@ -1152,7 +1152,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: What is there to talk about us
   ES: Que hay de hablar de nosotros   [relleno_espacios]
 - EN: Are you both still together?
-  ES: ¿Siguen juntos?              [relleno_espacios]
+  ES: ¿Siguen juntos?              [relleno_espacios,contenido_faltante]
 - EN: We had a small argument
   ES: Tuvimos una pequena      [relleno_espacios]
 - EN: But I am still her boyfriend
@@ -1240,7 +1240,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Im not sugar coating anything for you
   ES: No te voy a endulzar nada              [relleno_espacios]
 - EN: just deal with it
-  ES: simplemente        [relleno_espacios]
+  ES: simplemente        [relleno_espacios,contenido_faltante]
 - EN: I would never physically harm Anna
   ES: Nunca le haria dano fisico a Anna   [relleno_espacios]
 - EN: Ever
@@ -1514,7 +1514,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I respectfully parted ways based on different opinions
   ES: Respetuosamente me separé por diferencias de opinión
 - EN: You could've asked me first
-  ES: Podrias habermelo            [relleno_espacios]
+  ES: Podrias habermelo            [relleno_espacios,contenido_faltante]
 - EN: Why do I need permission from you do do anything?!
   ES: ¿¿Por qué necesito tu permiso para hacer algo?!
 - EN: Too late for that now
@@ -1710,7 +1710,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Ashley ratted on you
   ES: Ashley te delató     [relleno_espacios]
 - EN: OMFG HOW DID SHE KNOW 😱😱
-  ES: ¡¡¡COMO SUPO?!?!😱😱     [relleno_espacios]
+  ES: ¡¡¡COMO SUPO?!?!😱😱     [relleno_espacios,contenido_faltante]
 - EN: You told her didnt you!!
   ES: ¡¡Le dijiste verdad!!   [relleno_espacios]
 - EN: FUCK I WARNED YOU ABOUT THIS
@@ -1720,7 +1720,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Oh god I cant be at home
   ES: Oh Dios no puedo estar    [relleno_espacios]
 - EN: I need to lay low
-  ES: Necesito           [relleno_espacios,posible_recorte]
+  ES: Necesito           [relleno_espacios,contenido_faltante]
 - EN: I didnt hear anything from them
   ES: No escuché nada de ellos        [relleno_espacios]
 - EN: Great
@@ -1919,7 +1919,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Greg
   ES: Greg  [sin_traducir]
 - EN: And I am starting with you
-  ES: Y empiezo contigo           [relleno_espacios]
+  ES: Y empiezo contigo           [relleno_espacios,contenido_faltante]
 - EN: Greg
   ES: Greg  [sin_traducir]
 - EN: That is not working smart
@@ -1951,7 +1951,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Greg
   ES: Greg  [sin_traducir]
 - EN: Different reasons
-  ES: Razones            [relleno_espacios,posible_recorte]
+  ES: Razones            [relleno_espacios]
 - EN: Greg
   ES: Greg  [sin_traducir]
 - EN: Finally we are agreeing on something
@@ -2635,7 +2635,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: What a saint
   ES: Qué santo    [relleno_espacios]
 - EN: There are so many posts
-  ES: Hay tantas               [relleno_espacios,posible_recorte]
+  ES: Hay tantas               [relleno_espacios,contenido_faltante]
 - EN: That's the point of Jabbr isnt it
   ES: Ese es el punto de Jabbr, ¿no?    [relleno_espacios]
 - EN: She is really into contests and games with her fans.
@@ -2757,7 +2757,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I am starting to think you are doubting what is happening right now
   ES: Estoy empezando a creer que estas dudando de lo que esta pasando     [relleno_espacios]
 - EN: Are you with me on this or not?
-  ES: ¿Estás conmigo o no?           [relleno_espacios]
+  ES: ¿Estás conmigo o no?           [relleno_espacios,contenido_faltante]
 - EN: Yeah Im with you
   ES: Sí, estoy contigo
 - EN: Can we think about this a little more?
@@ -2803,7 +2803,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: So if there is a slight chance we can find Anna
   ES: Entonces si hay la más mínima posibilidad de que encontremos a Anna
 - EN: I am going to risk it
-  ES: Voy a arriesgarme      [relleno_espacios]
+  ES: Voy a arriesgarme      [relleno_espacios,contenido_faltante]
 - EN: You are my best shot at this
   ES: Tu eres mi mejor oportunidad
 - EN: Please
@@ -3159,7 +3159,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: She said someone else
   ES: Ella dijo que alguien
 - EN: (I think she means you) 🤔
-  ES:  🤔                         [relleno_espacios,posible_recorte]
+  ES:  🤔                         [relleno_espacios,contenido_faltante]
 - EN: was hogging her Spark account
   ES: estaba acaparando su cuenta de Spark
 - EN: When she finally remembered her password she logged back in
@@ -3297,7 +3297,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Goodbye
   ES: Adiós
 - EN: Good riddance
-  ES: Buena          [relleno_espacios,posible_recorte]
+  ES: Buena          [relleno_espacios]
 - EN: Hey uh
   ES: Oye,    [relleno_espacios]
 - EN: Anna texted me again
@@ -3431,7 +3431,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Im going to get her
   ES: Voy a por ella       [relleno_espacios]
 - EN: I looked at her
-  ES: La miré         [relleno_espacios,posible_recorte]
+  ES: La miré         [relleno_espacios]
 - EN: That face
   ES: Esa cara   [relleno_espacios]
 - EN: What is that smile
@@ -3462,7 +3462,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: She’s not at her phone right now.
   ES: Ella no está con su teléfono ahora.
 - EN: Oh. Awkward.
-  ES: Oh.           [relleno_espacios,posible_recorte]
+  ES: Oh.           [relleno_espacios]
 - EN: You her roommate?
   ES: ¿Eres su compañera de cuarto?
 - EN: I'm not Anna right now.
@@ -3712,7 +3712,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Its wrong to share personal info
   ES: Esta mal compartir informacion    [relleno_espacios]
 - EN: Your're no fun :(
-  ES: No eres            [relleno_espacios,posible_recorte]
+  ES: No eres            [relleno_espacios]
 - EN: Interested in reading her emails?
   ES: ¿Interesado en leer sus correos?
 - EN: Ooohh
@@ -3768,7 +3768,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Thats what Im here for.
   ES: Para eso estoy aquí.    [relleno_espacios]
 - EN: Come on, you gotta give me something?
-  ES: Vamos, ¿algo más?                    [relleno_espacios,posible_recorte]
+  ES: Vamos, ¿algo más?                    [relleno_espacios]
 - EN: Help you help me help you?
   ES: Me ayudas a ayudarte a ayudarme?
 - EN: I need Anna's Favorite Movie
@@ -3806,7 +3806,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: So? What is it?
   ES: ¿Entonces? ¿Cuál es?
 - EN: Great. Give it to me
-  ES: Genial. Dámela       [relleno_espacios]
+  ES: Genial. Dámela       [relleno_espacios,contenido_faltante]
 - EN: Not so fast!
   ES: ¡No tan rápido!
 - EN: This is a working relationship. You gotta have something or me first
@@ -3822,7 +3822,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: If you send me a pic of Anna, I'll tell you her favorite movie
   ES: Si me mandas una foto de Anna, te diré su película favorita   [relleno_espacios]
 - EN: That's creepy..
-  ES: Eso es           [relleno_espacios,posible_recorte]
+  ES: Eso es           [relleno_espacios]
 - EN: This is wrong..
   ES: Esto esta mal..
 - EN: Oh no.
@@ -4062,7 +4062,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: All I am saying is I think there is more to Greg that he is leading on.
   ES: Lo que digo es que creo que hay más de Greg de lo que aparenta.         [relleno_espacios]
 - EN: Again. Hypothetical
-  ES: Otra vez.            [relleno_espacios,posible_recorte]
+  ES: Otra vez.            [relleno_espacios]
 - EN: What else he told you?
   ES: ¿Qué más te dijo?    [relleno_espacios]
 - EN: Anna met someone on Spark
@@ -4078,9 +4078,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You actually met Anna
   ES: Tu conociste a Anna    [relleno_espacios]
 - EN: If I met her
-  ES: Si yo         [relleno_espacios,posible_recorte]
+  ES: Si yo         [relleno_espacios]
 - EN: Our job woule be done
-  ES: Nuestro trabajo        [relleno_espacios]
+  ES: Nuestro trabajo        [relleno_espacios,contenido_faltante]
 - EN: And I wouldnt be talking to you right now
   ES: Y no estaría hablando contigo ahora       [relleno_espacios]
 - EN: Don't you believe me?
@@ -4256,9 +4256,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You shouldnt too
   ES: Tú tampoco deberías
 - EN: Good to know
-  ES: Bueno         [relleno_espacios,posible_recorte]
+  ES: Bueno         [relleno_espacios]
 - EN: I got the dirt on Greg
-  ES: Tengo informacion       [relleno_espacios]
+  ES: Tengo informacion       [relleno_espacios,contenido_faltante]
 - EN: From Yolanda right?
   ES: De Yolanda verdad?   [relleno_espacios]
 - EN: I spoke to Yolanda
@@ -4276,7 +4276,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Awesome!
   ES: ¡Genial!
 - EN: Lay it on me buddy
-  ES: Cuéntamelo, compa
+  ES: Cuéntamelo, compa  [contenido_faltante]
 - EN: Greg is a two timing bastard
   ES: Greg es un bastardo de dos    [relleno_espacios]
 - EN: Hooooly hell that cheating son on a gun
@@ -4534,7 +4534,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Well you try declaring yourself a pervert wherever you go
   ES: Bueno, intenta declararte pervertido donde vayas           [relleno_espacios]
 - EN: Sounds awful
-  ES: Suena         [relleno_espacios,posible_recorte]
+  ES: Suena         [relleno_espacios]
 - EN: I'm just keeping my head low
   ES: Solo estoy manteniendo        [relleno_espacios]
 - EN: If I mess up
@@ -4552,7 +4552,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: What the hell!??!
   ES: QUE DIABLOS!??!    [relleno_espacios]
 - EN: Did you lie to me?
-  ES: ¿Me mentiste?      [relleno_espacios]
+  ES: ¿Me mentiste?      [relleno_espacios,contenido_faltante]
 - EN: I cant guarantee
   ES: No puedo garantizarlo
 - EN: Its a real conversation starter
@@ -4711,7 +4711,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I confronted him about it.
   ES: Lo confronté al respecto.
 - EN: and he again denied it
-  ES: y volvió a negarlo     [relleno_espacios]
+  ES: y volvió a negarlo     [relleno_espacios,contenido_faltante]
 - EN: NO WAY
   ES: ¡NO PUEDE SER!
 - EN: you looked through his phone?!?!?! 😱😱
@@ -4985,7 +4985,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: This must be an elaborate prank or something.
   ES: Esto debe ser una broma elaborada o algo asi.
 - EN: I am just going to look for her.
-  ES: Voy a buscarla.                   [relleno_espacios,posible_recorte]
+  ES: Voy a buscarla.                   [relleno_espacios,contenido_faltante]
 - EN: If anything happens to her.
   ES: Si le pasa algo.             [relleno_espacios]
 - EN: I swear the police is going to be all over your ass
@@ -5559,7 +5559,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: The first 24hours are crucial
   ES: Las primeras 24 horas son      [relleno_espacios]
 - EN: I am going to call them
-  ES: Voy a llamarlos          [relleno_espacios]
+  ES: Voy a llamarlos          [relleno_espacios,contenido_faltante]
 - EN: I'm working as fast as I can
   ES: Estoy trabajando tan rapido   [relleno_espacios]
 - EN: Not fast enough
@@ -5912,7 +5912,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: He fell down
   ES: Se cayó      [relleno_espacios]
 - EN: He jumped off
-  ES: Saltó         [relleno_espacios,posible_recorte]
+  ES: Saltó         [relleno_espacios]
 - EN: I can't tell
   ES: No se decir   [relleno_espacios]
 - EN: Yes he died
@@ -6162,7 +6162,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You are twisting words around!
   ES: Estas tergiversando todo!       [relleno_espacios]
 - EN: Just like that?
-  ES: ¿Así?          [relleno_espacios,posible_recorte]
+  ES: ¿Así?          [relleno_espacios]
 - EN: Why the change of heart?
   ES: ¿Por qué el cambio de opinión?
 - EN: I'm sure there is a catch
@@ -6598,7 +6598,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Please help..
   ES: Ayudame..      [relleno_espacios]
 - EN: What the heck happened?
-  ES: ¿Qué pasó?            [relleno_espacios,posible_recorte]
+  ES: ¿Qué pasó?            [relleno_espacios]
 - EN: I dont know...
   ES: No sé...       [relleno_espacios]
 - EN: The last thing I remember
@@ -6612,7 +6612,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Is he ok?
   ES: Esta bn?   [relleno_espacios]
 - EN: He fell down
-  ES: Cayó         [relleno_espacios,posible_recorte]
+  ES: Cayó         [relleno_espacios]
 - EN: He jumped off
   ES: Se tiró       [relleno_espacios]
 - EN: Is he.. dead?
@@ -6640,7 +6640,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Where are you now?
   ES: Donde estas ahora?
 - EN: What the heck happened?
-  ES: ¿Qué pasó?            [relleno_espacios,posible_recorte]
+  ES: ¿Qué pasó?            [relleno_espacios]
 - EN: A warehouse?
   ES: Un almacen?   [relleno_espacios]
 - EN: A building
@@ -7203,7 +7203,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: It froze for a bit
   ES: Se congeló un rato
 - EN: Did you get the backup?
-  ES: Conseguiste respaldo?    [relleno_espacios]
+  ES: Conseguiste respaldo?    [relleno_espacios,contenido_faltante]
 - EN: Yeah I got it
   ES: Sí, lo tengo
 - EN: I've done everything you told me
@@ -7685,7 +7685,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: We don't tolerate show offs over here
   ES: No toleramos presumidos aquí          [relleno_espacios]
 - EN: Last question
-  ES: Ultima         [relleno_espacios,posible_recorte]
+  ES: Ultima         [relleno_espacios]
 - EN: Why do you want to work here?
   ES: porque quieres trabajar aqui?
 - EN: And we are done.
@@ -7757,7 +7757,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Nothing of that sort happened
   ES: Nada de eso sucedió           [relleno_espacios]
 - EN: Let me clear it up
-  ES: Déjame aclarar     [relleno_espacios]
+  ES: Déjame aclarar     [relleno_espacios,contenido_faltante]
 - EN: We had to let him go becasue of his umprofessional behavior
   ES: Tuuvimos que dejarlo ir por su comportamiento                [relleno_espacios]
 - EN: Is he a criminal?
@@ -7948,7 +7948,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Im not!
   ES: ¡No lo hago!
 - EN: How bout you?
-  ES: ¿Y tú?       [relleno_espacios,posible_recorte]
+  ES: ¿Y tú?       [relleno_espacios]
 - EN: You must be a smooth texter then
   ES: Debes ser buena escribiendo       [relleno_espacios]
 - EN: Only when it comes to seducing corporate clients
@@ -8118,7 +8118,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You should totally record yourself quitting your job
   ES: Deberías grabar tu renuncia                          [relleno_espacios]
 - EN: You dont sleep do you
-  ES: ¿No duermes?          [relleno_espacios]
+  ES: ¿No duermes?          [relleno_espacios,contenido_faltante]
 - EN: Chatting with you is more fun 😊
   ES: Contigo es más divertido 😊      [relleno_espacios]
 - EN: Recording myself quitting isnt tho
@@ -8239,7 +8239,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: If thats what you REALLY want to know
   ES: Si eso es lo que quieres saber         [relleno_espacios]
 - EN: Only two conditions
-  ES: Solo dos             [relleno_espacios,posible_recorte]
+  ES: Solo dos             [relleno_espacios]
 - EN: First
   ES: Primero
 - EN: Tell me why do you need info on him?
@@ -9144,7 +9144,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: We met a few times after work
   ES: Nos vimos un par de veces      [relleno_espacios]
 - EN: Shes presistent
-  ES: Ella es          [relleno_espacios,posible_recorte]
+  ES: Ella es          [relleno_espacios]
 - EN: I made a mistake
   ES: Cometí un error
 - EN: I own that
@@ -9183,7 +9183,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: should I come over?
   ES: deberia ir?          [relleno_espacios]
 - EN: I don't know.
-  ES: No sé.        [relleno_espacios,posible_recorte]
+  ES: No sé.        [relleno_espacios]
 - EN: I keep going back and forth between being angry at him
   ES: No dejo de debatirme entre estar enojada con él o no
 - EN: and feeling guilty about being so upset.
@@ -9261,7 +9261,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Let's hang out tomorrow.
   ES: Salgamos mañana.         [relleno_espacios]
 - EN: I don't know.
-  ES: No sé.        [relleno_espacios,posible_recorte]
+  ES: No sé.        [relleno_espacios]
 - EN: I'm pretty content in my angry lonesome hole.
   ES: Estoy bastante contento en mi agujero solitario y enojado.
 - EN: Got a good book rhythm going.
@@ -9301,7 +9301,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Like we talked about just get on Spark
   ES: Como hablamos, solo únete a Spark      [relleno_espacios]
 - EN: I don't know.
-  ES: No sé.        [relleno_espacios,posible_recorte]
+  ES: No sé.        [relleno_espacios]
 - EN: Haha.
   ES: Jaja.
 - EN: you're not going back to Greg, so what's the harm?
@@ -9460,7 +9460,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Who is this?
   ES: ¿Quién es?
 - EN: IT'ssss VOiCe
-  ES: ES VOZ         [relleno_espacios,posible_recorte]
+  ES: ES VOZ         [relleno_espacios]
 - EN: Do NOT
   ES: NO      [relleno_espacios]
 - EN: ThEE OnEE
@@ -9516,7 +9516,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: How do I find her?
   ES: ¿Cómo la encuentro?
 - EN: Tell me who you are
-  ES: SI NO                [relleno_espacios,posible_recorte]
+  ES: SI NO                [relleno_espacios,contenido_faltante]
 - EN: iF nOtt
   ES: sI nO
 - EN: Getting closer
@@ -9836,7 +9836,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Hahahahah
   ES: Hahahahah  [sin_traducir]
 - EN: You're funny
-  ES: Eres          [relleno_espacios,posible_recorte]
+  ES: Eres          [relleno_espacios]
 - EN: So whatcha up to?
   ES: Entonces ¿qué tramas?
 - EN: So.. how bout a number?
@@ -9854,7 +9854,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: So we gonna keep talking or what?
   ES: ¿Seguimos hablando o qué?        [relleno_espacios]
 - EN: Lets get to know each other better first
-  ES: Conozcámonos mejor primero               [relleno_espacios]
+  ES: Conozcámonos mejor primero               [relleno_espacios,contenido_faltante]
 - EN: You holding out on me?
   ES: ¿Me estás ocultando algo?
 - EN: If you're gonna take this at glacial speed
@@ -9906,7 +9906,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You wont believe me if I told you
   ES: No me creerías si te lo dijera    [relleno_espacios]
 - EN: Sounds exciting
-  ES: Suena            [relleno_espacios,posible_recorte]
+  ES: Suena            [relleno_espacios]
 - EN: Try me
   ES: Prueba
 - EN: I am not who you think I am
@@ -10047,7 +10047,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I M nOT iT
   ES: YO NO LO HICE
 - EN: iT Is noT mEEeeEE
-  ES: NO SOOOY           [relleno_espacios,posible_recorte]
+  ES: NO SOOOY           [relleno_espacios]
 - EN: fInDd mE
   ES: BuScAmE   [relleno_espacios]
 - EN: fInD iTTTT
@@ -10283,7 +10283,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Forcing Mr Faraday's hand is just going to upset him
   ES: La justicia es más importante. Envía el reporte     [relleno_espacios]
 - EN: Justice is more important. Send the report
-  ES: Si insistes.                                [relleno_espacios,posible_recorte]
+  ES: Si insistes.                                [relleno_espacios,contenido_faltante]
 - EN: If you insist.
   ES: Si insistes.    [relleno_espacios]
 - EN: Ok. Consider it done
@@ -10409,7 +10409,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: It just helps me put things into perspective
   ES: Solo me ayuda a poner cosas en perspectiva    [relleno_espacios]
 - EN: How bout you?
-  ES: ¿Y tú?       [relleno_espacios,posible_recorte]
+  ES: ¿Y tú?       [relleno_espacios]
 - EN: Are you as good as advertised?
   ES: ¿Eres tan bueno como dicen?    [relleno_espacios]
 - EN: We can meet up
@@ -10569,7 +10569,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Ok you got me on that one
   ES: Ok, me atrapaste con esa   [relleno_espacios]
 - EN: Do I get something in return?
-  ES: ¿Algo a cambio?               [relleno_espacios]
+  ES: ¿Algo a cambio?               [relleno_espacios,contenido_faltante]
 - EN: Your number maybe?
   ES: Tu numero quizas?   [relleno_espacios]
 - EN: I'll think about it 😊
@@ -10635,7 +10635,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Anna
   ES: Ana   [relleno_espacios]
 - EN: Give it up while you still have the chance.
-  ES: Rindete mientras puedas.                     [relleno_espacios]
+  ES: Rindete mientras puedas.                     [relleno_espacios,contenido_faltante]
 - EN: Tim Faraday
   ES: Tim Faraday  [sin_traducir]
 - EN: (no subject)
@@ -10884,7 +10884,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Looks for\nwomen
   ES: Busca\nmujeres    [relleno_espacios]
 - EN: CALL NOW\n1880-FARISKANE
-  ES: LLAMA AHORA              [relleno_espacios,posible_recorte]
+  ES: LLAMA AHORA              [relleno_espacios]
 - EN: Patron Family
   ES: Fam. Patron    [relleno_espacios]
 - EN: Register your immediate relative\nunder your account.
@@ -11325,7 +11325,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/weblayouts/nsfw.gov.web  (13 cadenas)
 
 - EN: (National Sex Felon Website)
-  ES:                               [posible_recorte]
+  ES:                               [contenido_faltante]
 - EN: Division of State Police
   ES: Division de Policia       [relleno_espacios]
 - EN: The National Sex Felon Website (NSFW)\nis a database that provides the public\nwith access to registered sex offenders.\n\n\nNSFW is a private entity working togeth-\ner with governments and communities to\nprovide a safe environment for our\nfriends and families.\n\n\nConcerned residents can utilize the\nsearch tool to identify information on sex\noffenders residing and working not only\nin their own neighborhoods but in other\ncommunities.
@@ -11354,7 +11354,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera  (13 cadenas)
 
 - EN: (National Sex Felon Website)
-  ES:                               [posible_recorte]
+  ES:                               [contenido_faltante]
 - EN: Division of State Police
   ES: Division de Policia       [relleno_espacios]
 - EN: FOUND 6 MATCHES
@@ -11383,7 +11383,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/weblayouts/nsfw.gov.web/norecords  (13 cadenas)
 
 - EN: (National Sex Felon Website)
-  ES:                               [posible_recorte]
+  ES:                               [contenido_faltante]
 - EN: Division of State Police
   ES: Division de Policia       [relleno_espacios]
 - EN: NO RECORDS FOUND
@@ -11524,7 +11524,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/weblayouts/nsfw.gov.web/?r=15213  (12 cadenas)
 
 - EN: (National Sex Felon Website)
-  ES:                               [posible_recorte]
+  ES:                               [contenido_faltante]
 - EN: Division of State Police
   ES: Division de Policia       [relleno_espacios]
 - EN: RECORD FOUND
@@ -11690,7 +11690,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Can you do me a favour and just ignore.. All of it?
   ES: ¿Puedes hacerme un favor y simplemente ignorarlo..
 - EN: I had a wee bit too much to drink last night.
-  ES: Anoche bebí demasiado.                        [relleno_espacios,posible_recorte]
+  ES: Anoche bebí demasiado.                        [relleno_espacios,contenido_faltante]
 - EN: And… I have no idea what I was saying.
   ES: Y... no se que estaba diciendo.           [relleno_espacios]
 - EN: I’ll make it up to you okay?
@@ -11736,7 +11736,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Is this your plan?
   ES: ¿Es este tu plan?
 - EN: Did you lie to me?
-  ES: ¿Me mentiste?      [relleno_espacios]
+  ES: ¿Me mentiste?      [relleno_espacios,contenido_faltante]
 - EN: It didn’t work!
   ES: ¡No funcionó!    [relleno_espacios]
 - EN: Oh god what did I do?
@@ -12528,7 +12528,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Please state your report.
   ES: Por favor indique su informe.
 - EN: For vandalism of public or private property, press 1.
-  ES: Para vandalismo, pulse 1.                              [relleno_espacios,posible_recorte]
+  ES: Para vandalismo, pulse 1.                              [relleno_espacios,contenido_faltante]
 - EN: For theft of any nature, press 2.
   ES: Para robo de cualquier naturaleza, presione 2.
 - EN: For corporate whistleblowing or white collar crimes, press 4.
@@ -12994,7 +12994,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/subtitles/content/calls/police/transfer-operators.ogg  (1 cadenas)
 
 - EN: Please hold while we transfer you to one of our operators.
-  ES: Espere mientras lo transfieren.                             [relleno_espacios]
+  ES: Espere mientras lo transfieren.                             [relleno_espacios,contenido_faltante]
 
 ## content/subtitles/content/calls/police/transfer-service.ogg  (1 cadenas)
 

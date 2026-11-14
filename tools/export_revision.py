@@ -21,6 +21,7 @@ from collections import Counter, defaultdict
 REVIEW_CATS = {"narrativo", "ui"}
 # Marcadores que NUNCA deben traducirse ni perderse.
 KEEP_TOKENS = re.compile(r"#[\w.:]+#|__[A-Z]+\d*|\[[A-Z_]+\]|\[\]|\{\w+\}")
+_WORD = re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,}")
 
 
 def reviewable(rec):
@@ -42,8 +43,12 @@ def issues(rec):
     ms = Counter(KEEP_TOKENS.findall(es))
     if me != ms:
         out.append("marcadores_distintos")
-    # longitud muy dispar (posible recorte)
-    if en.strip() and len(es.strip()) < 0.5 * len(en.strip()) and len(en.strip()) >= 12:
+    # contenido probablemente perdido: muchas menos palabras en ES que en EN
+    enw = len(_WORD.findall(en))
+    esw = len(_WORD.findall(es))
+    if enw >= 4 and esw <= 0.4 * enw:
+        out.append("contenido_faltante")
+    elif en.strip() and len(es.strip()) < 0.4 * len(en.strip()) and len(en.strip()) >= 16:
         out.append("posible_recorte")
     return out
 
@@ -102,11 +107,46 @@ def main():
         for owner in sorted(by_owner, key=lambda o: -len(by_owner[o])):
             fh.write(f"| {owner} | {len(by_owner[owner])} |\n")
 
-    print(f"revisables: {total}  recursos: {len(by_owner)}")
-    print("incidencias:", dict(flagged))
+    # --- vista deduplicada (la mas util para revisar con ChatGPT) ---
+    uniq = {}
+    for owner, recs in by_owner.items():
+        for rec in recs:
+            key = (rec["en"], rec.get("es"))
+            u = uniq.setdefault(key, {"en": rec["en"], "es": rec.get("es"),
+                                      "count": 0, "owners": set(),
+                                      "problemas": set(), "category": rec["category"]})
+            u["count"] += 1
+            u["owners"].add(owner)
+            u["problemas"].update(rec["problemas"])
+    uniq_rows = sorted(uniq.values(), key=lambda u: (-len(u["problemas"]), -u["count"], u["en"]))
+
+    ujsonl = os.path.join(args.out, "UNICOS.jsonl")
+    with open(ujsonl, "w", encoding="utf-8") as fh:
+        for u in uniq_rows:
+            fh.write(json.dumps({
+                "en": u["en"], "es": u["es"], "categoria": u["category"],
+                "repeticiones": u["count"], "problemas": sorted(u["problemas"]),
+                "recursos": sorted(u["owners"]),
+            }, ensure_ascii=False) + "\n")
+
+    umd = os.path.join(args.out, "UNICOS.md")
+    with open(umd, "w", encoding="utf-8") as fh:
+        fh.write("# SIMULACRA - textos UNICOS para revision (EN -> es-LATAM)\n\n")
+        fh.write(f"Pares unicos: {len(uniq_rows)}  (de {total} ocurrencias)\n\n")
+        fh.write("Cada entrada: `EN` original, `ES` traduccion actual, numero de veces "
+                 "que aparece y problemas detectados.\n\n")
+        for u in uniq_rows:
+            tag = f"  [{','.join(sorted(u['problemas']))}]" if u["problemas"] else ""
+            en = u["en"].replace("\n", "\\n")
+            es = (u["es"] or "").replace("\n", "\\n")
+            fh.write(f"- EN: {en}\n  ES: {es}  (x{u['count']}){tag}\n")
+
+    print(f"pares unicos: {len(uniq_rows)}")
     print("->", jsonl_path)
     print("->", md)
     print("->", idx)
+    print("->", ujsonl)
+    print("->", umd)
 
 
 if __name__ == "__main__":

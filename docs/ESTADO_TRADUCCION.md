@@ -1419,3 +1419,73 @@ pantallas de perfiles SPARK.
    la galeria (Camera) y el navegador NSFW (Discrepancies).
 2. Revisar si quedan cadenas de UI en clases base compartidas sin override
    (ver inventario de la seccion 18).
+
+---
+
+## 25. Sesion 25 - Auditoria completa del 100% de textos (rama `audit/export-dialogos-es-latam-v2`)
+
+Objetivo: extraer el 100% de los textos narrativos y de dialogo de SIMULACRA
+para que ChatGPT los revise, **sin modificar el juego**.
+
+### 25.1 Hallazgo principal: el grafo `map` del `.fs`
+
+El array `map` del bloque de formato del `.fs` es un grafo de referencias. Cada
+valor `v` codifica `indice_destino = v >> 2` y `tag = v & 3` (3 = referencia).
+Siguiendo esas referencias (BFS) desde los 207 objetos raiz (los nombrados en
+`names`) se alcanzan **los 28315 objetos**, y **27975 tienen un unico
+propietario**, lo que permite atribuir cada cadena a su recurso
+(`content/chats/greg`, `content/mail/...`, etc.). Detalle en
+`docs/AUDITORIA_ARQUITECTURA.md`.
+
+### 25.2 Total real de cadenas: 30877 (no 28139)
+
+- Escaneo del bloque completo: 28139 (pierde los objetos comprimidos con zlib).
+- Escaneo **por objeto** (descomprimiendo cada uno): **30877**
+  = 27634 planas + 3243 en objetos comprimidos.
+- Los 490 "extras" del escaneo de bloque son falsos positivos de 1 caracter.
+
+Alineacion EN/ES verificada: 0 objetos con distinto numero de cadenas.
+
+### 25.3 Herramientas nuevas
+
+| herramienta | funcion |
+|---|---|
+| `tools/export_auditoria.py` | extrae las 30877 cadenas EN+ES alineadas con propietario, tipo, categoria y flags |
+| `tools/export_revision.py` | genera el paquete para ChatGPT (REVISION/UNICOS + indice) |
+| `tools/java_strings.py` | extrae constantes LDC de clases Java (sin JDK) |
+| `tools/export_java_ui.py` | empareja `game27/gb/**` (EN) con `game27/gbeslatam/**` (ES), 657 cadenas |
+| `tools/validate_export.py` | valida cobertura 100% contra el `.fs` real |
+
+### 25.4 Resultado
+
+- `exports/simulacra_textos_completos.jsonl`: **30877** registros (100%).
+- `exports/revision_chatgpt/`: paquete para revision.
+  - narrativo 4770, UI 1456, tecnico 24651.
+  - pares unicos EN/ES: 5451.
+  - incidencias: 425 sin_traducir, 2564 relleno_espacios, 35 contenido_faltante,
+    3 marcadores_distintos.
+- `tools/validate_export.py` -> "OK - cobertura 100%".
+
+### 25.5 Texto de UI incrustado en clases Java
+
+Parte del texto de UI (menus, notificaciones, dialogos de sistema) vive en las
+clases Java de `core.binary`, no en el `.fs`. El juego trae la version inglesa en
+`game27/gb/**` y overrides en espanol en `game27/gbeslatam/**`. Se extrajeron
+657 cadenas alineadas por (metodo, ordinal) en `exports/revision_chatgpt/JAVA_UI.jsonl`.
+`GBMainMenu` ya contiene espanol incrustado (menu de opciones, selector de
+idioma), senal de que sesiones previas parchearon clases Java.
+
+### 25.6 Commit respaldado
+
+`feat(auditoria): extraccion del 100% de textos (30877 cadenas)` en
+`origin/audit/export-dialogos-es-latam-v2`.
+
+### 25.7 Proxima tarea concreta
+
+1. Enviar `exports/revision_chatgpt/UNICOS.md` a ChatGPT y obtener las
+   correcciones de las 425 sin_traducir + 2564 con relleno_espacios.
+2. Aplicar las correcciones con `tools/apply_blob_fixes.py` (objetos comprimidos)
+   y `tools/apply_fs_fixes.py`/`fs_editor.py` (planos), preservando marcadores.
+3. Reconstruir con `tools/rebuild_es.sh` y verificar con `tools/validate_export.py`
+   (que las cadenas corregidas ya no esten en EN) y `tools/verify_build.py`.
+4. Prueba visual en Wine de las pantallas afectadas.
