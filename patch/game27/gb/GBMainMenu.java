@@ -219,7 +219,10 @@ public class GBMainMenu {
                .font(noticeFont, 3)
                .position(1.0F, -14.0F)
                .text(
-                  "You can now enable\n[MAIN_GAMEPLUS]BEGIN+[] mode\n\nIn this mode, text speed\nwill be increased\ndramatically\n\nDo you wish to\nenable this mode?"
+                  L(
+                     "You can now enable\n[MAIN_GAMEPLUS]BEGIN+[] mode\n\nIn this mode, text speed\nwill be increased\ndramatically\n\nDo you wish to\nenable this mode?",
+                     "Ahora puedes activar\nel modo [MAIN_GAMEPLUS]BEGIN+[]\n\nEn este modo, la velocidad\ndel texto aumentará\nmucho\n\n¿Deseas activar\neste modo?"
+                  )
                )
          )
          .animation(startAnim(1.0F), null, titleHideAnim);
@@ -247,13 +250,13 @@ public class GBMainMenu {
          .metrics(new UIElement.Metrics().scale(0.055555556F).anchorTop().anchorRight().move(-0.195F, -0.025F))
          .visuals(Sprite.load("menu/help.png"), 2)
          .animation(startAnim(1.8F), null, pressedAnim, releasedAnim, titleHideAnim)
-         .text(new Text().font(helpButtonFont, 3).position(2.2F, 0.0F, 2.5F, 0.3F, 0.0F).text("OPTIONS"))
+         .text(new Text().font(helpButtonFont, 3).position(2.2F, 0.0F, 2.5F, 0.3F, 0.0F).text(L("OPTIONS", "OPCIONES")))
          .inputPadding(0.5F, 2.0F, 10.0F, 2.0F);
       s.helpTitleView = new TextBox()
          .viewport(s.window)
          .metrics(new UIElement.Metrics().scale(0.7F).anchorLeft().move(0.04F, 0.65F))
          .text(new Text().font(noticeFont, 3).position(1.0F, -12.0F).centerLeft())
-         .autoLengthText("Talk to us if you need\nhelp or find any issues\nwith SIMULACRA")
+         .autoLengthText(L("Talk to us if you need\nhelp or find any issues\nwith SIMULACRA", "Contáctanos si necesitas\nayuda o encuentras problemas\ncon SIMULACRA"))
          .animation(startAnim(1.0F), null, titleHideAnim);
       s.helpDiscordButton = new Clickable()
          .viewport(s.window)
