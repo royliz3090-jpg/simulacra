@@ -1340,3 +1340,82 @@ Resultado: **0 prosa real pendiente**; lo restante son identificadores
 2. Revisar si `en-us.fs` original conserva copias planas de estos textos y si
    el juego prioriza la copia comprimida o la plana (hoy se traducen ambas).
 3. Revisar cadenas de UI en clases compartidas sin override.
+
+## 24. Sesion 2026-11-11: etiquetas de intereses, UI y bug del aplicador (continuacion)
+
+### 24.1 Auditoria de cobertura (metodo reutilizable)
+
+Se comparo objeto-a-objeto EN vs ES sobre `dist/core.assets`. Resultado:
+- total de cadenas con texto EN: 28139
+- traducidas (ES != EN y no vacias): ~6400
+- identicas EN=ES: 21809, de las cuales ~11576 son tecnicas (rutas, ids,
+  triggers, fechas, constantes) y el resto nombres propios/emojis/simbolos.
+- Tras filtrar ruido (codigo, rutas, triggers, nombres, emojis), la prosa real
+  pendiente es **0**. La unica cadena EN=ES con palabras funcionales inglesas
+  es `The Click Hole` (nombre de marca, se conserva por politica).
+
+Comprobacion rapida: buscar cadenas EN=ES que contengan palabras funcionales
+inglesas (`the|you|is|and|with|what|...`). Hoy devuelve 1 sola.
+
+### 24.2 Bug encontrado y corregido en `tools/apply_text_fixes.py`
+
+El aplicador anterior recorria el cuerpo de cada objeto con un bucle de saltos
+`[u32 len][utf8]`. Dos fallos:
+1. **No reconocia los arrays Kryo** `[u32 count][str][str]...`: al leer el
+   contador como si fuera una longitud, desincronizaba todo el resto del objeto
+   y dejaba las cadenas siguientes sin aplicar.
+2. **No aplicaba los reemplazos en orden descendente de offset**, de modo que al
+   alargar una cadena se desplazaban las posiciones aun pendientes del mismo
+   objeto (el conteo de cadenas se desviaba, p.ej. 28139 -> 28105).
+
+Ahora usa `S.scan_strings` (que salta el contador) y aplica los cambios de mayor
+a menor posicion. Verificado: 28315 objetos, 27634 cadenas planas identicas
+antes y despues.
+
+### 24.3 Traducciones nuevas de esta sesion
+
+Etiquetas de interes de los perfiles SPARK (arrays dentro de objetos planos),
+42 apariciones de 18 etiquetas:
+`Animals`->Animales, `Books`->Libros, `Charity`->Caridad, `Cooking`->Cocina,
+`Dancing`->Baile, `Finance`->Finanzas, `Food`->Comida, `Gaming`->Videojuegos,
+`Indoors`->Interiores, `Movies`->Peliculas, `Music`->Musica,
+`Outdoors`->Aire libre, `Pets`->Mascotas, `Politics`->Politica,
+`Studies`->Estudios, `Theatre`->Teatro, `Travelling`->Viajes, `Search`->Buscar.
+
+Titulos de seccion truncados, completados:
+`Moving On`->`Seguir adelante`, `Finding Love`->`Encontrando el amor`,
+`Personal Growth`->`Crecimiento personal`.
+
+UI: `Camera`->Camara (5), `Discrepancies`->Discrepancias (5).
+
+NO traducido (a proposito): `Chat Images` es el nombre de la carpeta en rutas
+`photoroll://Chat Images/...`; `CBB`, `NSFW`, `PhreshIdeas`, `Kappafeed`,
+`The Click Hole` son nombres propios/marca; `No`/`OK`/`Ok` son validos en ambos
+idiomas; `Springwood`/`Casual` son lugar/adjetivo valido en espanol.
+
+### 24.4 Herramienta nueva
+
+`tools/gen_blob_batch.py`: dado un `.fs` y un mapa `{en: es}` (o lista
+`[{en,es}]`), genera el JSON `{indice_objeto: {en: es}}` que consume
+`tools/apply_blob_fixes.py` para los objetos comprimidos (zlib).
+
+### 24.5 Commits respaldados en esta sesion
+
+- `bec3c4b`: etiquetas de intereses + 3 titulos truncados + bug del aplicador.
+- `9d85ebd`: etiquetas de UI (Camera, Discrepancies).
+
+Ambos confirmados en `origin/feature/traduccion-es-latam-v2`.
+
+### 24.6 Validacion
+
+`tools/rebuild_es.sh` + `tools/verify_build.py`: en-us.fs identico al original,
+207 nombres en formato, todos `es-latam://`, 28139 == 28139 cadenas, 0 prefijos
+Kryo corruptos. La prueba visual en Wine (seccion 22) sigue pendiente para las
+pantallas de perfiles SPARK.
+
+### 24.7 Proxima tarea concreta
+
+1. Verificacion visual en Wine de los perfiles SPARK (etiquetas de interes),
+   la galeria (Camera) y el navegador NSFW (Discrepancies).
+2. Revisar si quedan cadenas de UI en clases base compartidas sin override
+   (ver inventario de la seccion 18).
