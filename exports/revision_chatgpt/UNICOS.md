@@ -1,29 +1,21 @@
 # SIMULACRA - textos UNICOS para revision (EN -> es-LATAM)
 
-Pares unicos: 5451  (de 6226 ocurrencias)
+Pares unicos: 5382  (de 6226 ocurrencias)
 
 Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece y problemas detectados.
 
 - EN: Did you lie to me?
   ES: ¿Me mentiste?      (x2)  [contenido_faltante,relleno_espacios]
-- EN: (I think she means you) 🤔
-  ES:  🤔                         (x1)  [contenido_faltante,relleno_espacios]
 - EN: And I am starting with you
   ES: Y empiezo contigo           (x1)  [contenido_faltante,relleno_espacios]
 - EN: Are you both still together?
   ES: ¿Siguen juntos?              (x1)  [contenido_faltante,relleno_espacios]
 - EN: Are you with me on this or not?
   ES: ¿Estás conmigo o no?           (x1)  [contenido_faltante,relleno_espacios]
-- EN: Did you get the backup?
-  ES: Conseguiste respaldo?    (x1)  [contenido_faltante,relleno_espacios]
 - EN: Do I get something in return?
   ES: ¿Algo a cambio?               (x1)  [contenido_faltante,relleno_espacios]
 - EN: Do you want to find her or not?
   ES: ¿Quieres encontrarla o no?      (x1)  [contenido_faltante,relleno_espacios]
-- EN: For vandalism of public or private property, press 1.
-  ES: Para vandalismo, pulse 1.                              (x1)  [contenido_faltante,relleno_espacios]
-- EN: Give it up while you still have the chance.
-  ES: Rindete mientras puedas.                     (x1)  [contenido_faltante,relleno_espacios]
 - EN: Great. Give it to me
   ES: Genial. Dámela       (x1)  [contenido_faltante,relleno_espacios]
 - EN: I am going to call them
@@ -32,48 +24,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Voy a arriesgarme      (x1)  [contenido_faltante,relleno_espacios]
 - EN: I am just going to look for her.
   ES: Voy a buscarla.                   (x1)  [contenido_faltante,relleno_espacios]
-- EN: I got the dirt on Greg
-  ES: Tengo informacion       (x1)  [contenido_faltante,relleno_espacios]
 - EN: I had a wee bit too much to drink last night.
   ES: Anoche bebí demasiado.                        (x1)  [contenido_faltante,relleno_espacios]
-- EN: I need to lay low
-  ES: Necesito           (x1)  [contenido_faltante,relleno_espacios]
-- EN: Justice is more important. Send the report
-  ES: Si insistes.                                (x1)  [contenido_faltante,relleno_espacios]
-- EN: Let me clear it up
-  ES: Déjame aclarar     (x1)  [contenido_faltante,relleno_espacios]
 - EN: Lets get to know each other better first
   ES: Conozcámonos mejor primero               (x1)  [contenido_faltante,relleno_espacios]
 - EN: Make up your mind!
   ES: ¡Decídete!        (x1)  [contenido_faltante,relleno_espacios]
-- EN: OMFG HOW DID SHE KNOW 😱😱
-  ES: ¡¡¡COMO SUPO?!?!😱😱     (x1)  [contenido_faltante,relleno_espacios]
-- EN: Our job woule be done
-  ES: Nuestro trabajo        (x1)  [contenido_faltante,relleno_espacios]
-- EN: Patron Organization
-  ES: Patrona              (x1)  [posible_recorte,relleno_espacios]
-- EN: Please hold while we transfer you to one of our operators.
-  ES: Espere mientras lo transfieren.                             (x1)  [contenido_faltante,relleno_espacios]
 - EN: Send it to me!
   ES: ¡Mándamela!   (x1)  [contenido_faltante,relleno_espacios]
-- EN: So talk to me
-  ES: Hablame        (x1)  [contenido_faltante,relleno_espacios]
-- EN: Tell me who you are
-  ES: SI NO                (x1)  [contenido_faltante,relleno_espacios]
-- EN: There are so many posts
-  ES: Hay tantas               (x1)  [contenido_faltante,relleno_espacios]
 - EN: Where on earth are you?
   ES: ¿Dónde estás?         (x1)  [contenido_faltante,relleno_espacios]
-- EN: You could've asked me first
-  ES: Podrias habermelo            (x1)  [contenido_faltante,relleno_espacios]
 - EN: You dont sleep do you
   ES: ¿No duermes?          (x1)  [contenido_faltante,relleno_espacios]
-- EN: [HANDLE]@unclecharles[] IKR
-  ES: [MANGO]@unclecharles[] IKR   (x1)  [marcadores_distintos,relleno_espacios]
 - EN: and he again denied it
   ES: y volvió a negarlo     (x1)  [contenido_faltante,relleno_espacios]
-- EN: just deal with it
-  ES: simplemente        (x1)  [contenido_faltante,relleno_espacios]
 - EN: Greg
   ES: Greg  (x78)  [sin_traducir]
 - EN: Taylor
@@ -82,8 +46,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mensaje de Aulner    (x13)  [relleno_espacios]
 - EN: No
   ES: No  (x8)  [sin_traducir]
-- EN: What?
-  ES: Que?   (x7)  [relleno_espacios]
 - EN: Anna
   ES: Anna  (x6)  [sin_traducir]
 - EN: Hello?
@@ -96,26 +58,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: AVISO\nProposito     (x5)  [relleno_espacios]
 - EN: Oh
   ES: Oh  (x5)  [sin_traducir]
-- EN: (National Sex Felon Website)
-  ES:                               (x4)  [contenido_faltante]
-- EN: Any person who uses information in this registry to\ninjure, harass, or commit a criminal offense against\nany person included in the registry or any other\nperson is subject to criminal prosecution.\n\n\nWe have not considered or assessed the specific risk\nof re-offense with regard to any individual prior to his\nor her inclusion within this registry and has made no\ndetermination that any individual included in the reg-\nistry is currently dangerous. The main purpose of pro-\nviding this data on the internet is to make information\nmore easily available and accessible, not to warn\nabout any specific individual.
-  ES: Any person who uses information in this registry to\ninjure, harass, or commit a criminal offense against\nany person included in the registry or any other\nperson is subject to criminal prosecution.\n\n\nWe have not considered or assessed the specific risk\nof re-offense with regard to any individual prior to his\nor her inclusion within this registry and has made no\ndetermination that any individual included in the reg-\nistry is currently dangerous. The main purpose of pro-\nviding this data on the internet is to make information\nmore easily available and accessible, not to warn\nabout any specific individual.  (x4)  [sin_traducir]
-- EN: Division of State Police
-  ES: Division de Policia       (x4)  [relleno_espacios]
 - EN: How?
   ES: Eh?   (x4)  [relleno_espacios]
 - EN: Message from James
   ES: Mensaje de James    (x4)  [relleno_espacios]
 - EN: Ok
   ES: Ok  (x4)  [sin_traducir]
-- EN: This information is made available for the purpose of\ncomplying with 89382 section 33221, which requires\nthe Department of Public Safety to establish and\nmaintain a registry of persons who are required to reg-\nister as sex offenders and to post electronically infor-\nmation on sex offenders. The registry is based on the\nlegislature's decision to facilitate access to publicly\navailable information about persons convicted of\nsexual offenses.
-  ES: This information is made available for the purpose of\ncomplying with 89382 section 33221, which requires\nthe Department of Public Safety to establish and\nmaintain a registry of persons who are required to reg-\nister as sex offenders and to post electronically infor-\nmation on sex offenders. The registry is based on the\nlegislature's decision to facilitate access to publicly\navailable information about persons convicted of\nsexual offenses.  (x4)  [sin_traducir]
 - EN: What are you talking about?
   ES: ¿De qué estás hablando?   (x4)  [relleno_espacios]
 - EN: What is it?
   ES: ¿Qué es?   (x4)  [relleno_espacios]
-- EN: Your problems, our solutions
-  ES: Tus problemas, nosotros       (x4)  [relleno_espacios]
 - EN: Ashley
   ES: Ashley  (x3)  [sin_traducir]
 - EN: Come on
@@ -136,10 +88,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No sé.        (x3)  [relleno_espacios]
 - EN: I dont understand
   ES: No entiendo        (x3)  [relleno_espacios]
-- EN: I want to save Anna, let Taylor die
-  ES: Quiero salvar a Anna, Taylor muera   (x3)  [relleno_espacios]
-- EN: I want to save Taylor, let Anna die
-  ES: Quiero salvar a Taylor, Anna muera   (x3)  [relleno_espacios]
 - EN: Is she alive or what?
   ES: ¿Está viva o qué?   (x3)  [relleno_espacios]
 - EN: Its not worth it
@@ -154,8 +102,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No merecen morir          (x3)  [relleno_espacios]
 - EN: This is sick
   ES: Que enfermo   (x3)  [relleno_espacios]
-- EN: Wait, what?
-  ES: Espera,      (x3)  [relleno_espacios]
 - EN: What is going to happen now
   ES: ¿Qué va a pasar ahora?     (x3)  [relleno_espacios]
 - EN: Yeah
@@ -192,18 +138,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mientras viva      (x2)  [relleno_espacios]
 - EN: Ashley?!?!
   ES: Ashley?!?!  (x2)  [sin_traducir]
-- EN: By delete, you mean kill right?
-  ES: Eliminar es matar, no?           (x2)  [relleno_espacios]
 - EN: Cassie
   ES: Cassie  (x2)  [sin_traducir]
-- EN: Caught red handed.
-  ES: Pillado con manos   (x2)  [relleno_espacios]
 - EN: Chat Images
   ES: Chat Images  (x2)  [sin_traducir]
 - EN: Disclaimer
   ES: Aviso       (x2)  [relleno_espacios]
-- EN: Do I really have to?
-  ES: tengo que hacerlo??   (x2)  [relleno_espacios]
 - EN: Do NOT
   ES: NO      (x2)  [relleno_espacios]
 - EN: Emergency Services
@@ -212,14 +152,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Todo bien?    (x2)  [relleno_espacios]
 - EN: Faraday Safety
   ES: Faraday Safety  (x2)  [sin_traducir]
-- EN: Find out about our next\nSpark IRL announcement\nin our app!
-  ES: Descubre nuestro proximo\nanuncio de Spark IRL\nen la app!    (x2)  [relleno_espacios]
-- EN: Free shipping on orders above $150. Use code FANK
-  ES: Envio gratis en pedidos sobre $150. Usa FANK       (x2)  [relleno_espacios]
 - EN: Give me another chance!
   ES: Dame otra oportunidad!   (x2)  [relleno_espacios]
-- EN: God dammit
-  ES: Maldita     (x2)  [relleno_espacios]
 - EN: Greg?
   ES: Greg?  (x2)  [sin_traducir]
 - EN: Greg?!?!
@@ -228,8 +162,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: JA!   (x2)  [relleno_espacios]
 - EN: He is just being emotional
   ES: Solo es emocional           (x2)  [relleno_espacios]
-- EN: Hooooly hell that cheating son on a gun
-  ES: Coooooraaazon de maldito chico infiel    (x2)  [relleno_espacios]
 - EN: How bout you?
   ES: ¿Y tú?       (x2)  [relleno_espacios]
 - EN: How is that possible
@@ -240,12 +172,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo iNtEnTo    (x2)  [relleno_espacios]
 - EN: I am going to do SOMETHING abut it
   ES: Voy a hacer ALGO al respecto        (x2)  [relleno_espacios]
-- EN: I am hitting dead ends everywhere
-  ES: Estoy dando con muros por todos    (x2)  [relleno_espacios]
 - EN: I am rigged to lose!
   ES: Naci para perder!     (x2)  [relleno_espacios]
-- EN: I am trying my best here
-  ES: Estoy haciendo lo mejor   (x2)  [relleno_espacios]
 - EN: I can fix this!
   ES: Lo arreglo!      (x2)  [relleno_espacios]
 - EN: I can't tell
@@ -262,8 +190,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No sé...       (x2)  [relleno_espacios]
 - EN: I just want to save Anna
   ES: Quiero salvar a Anna      (x2)  [relleno_espacios]
-- EN: I mean its sound really bad
-  ES: O sea suena muy mal          (x2)  [relleno_espacios]
 - EN: I screwed up
   ES: La cagué     (x2)  [relleno_espacios]
 - EN: I see where this is going
@@ -284,20 +210,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Seguro hay una trampa      (x2)  [relleno_espacios]
 - EN: I've been trying to reach out
   ES: He intentado comunicarme       (x2)  [relleno_espacios]
-- EN: IS nOt EaAsy
-  ES: No Es FaCiL   (x2)  [relleno_espacios]
 - EN: IT ComEs & GoES
   ES: VIENE Y VA       (x2)  [relleno_espacios]
 - EN: IT'ssss VOiCe
   ES: ES LA VOZ      (x2)  [relleno_espacios]
 - EN: Im nothing like you
   ES: No me parezco a ti   (x2)  [relleno_espacios]
-- EN: Is he ok?
-  ES: Esta bn?   (x2)  [relleno_espacios]
-- EN: Is he.. dead?
-  ES: Esta muerto?   (x2)  [relleno_espacios]
-- EN: It must be someone else's phone then
-  ES: Entonces es el telefono de otro       (x2)  [relleno_espacios]
 - EN: It was a high building
   ES: Era un edificio alto    (x2)  [relleno_espacios]
 - EN: Its my fault..
@@ -308,16 +226,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Te ayudo     (x2)  [relleno_espacios]
 - EN: Message from Ashley
   ES: Mensaje de Ashley    (x2)  [relleno_espacios]
-- EN: More information required.
-  ES: Mas informacion.            (x2)  [relleno_espacios]
 - EN: NEWS DAILY
   ES: NOTICIAS    (x2)  [relleno_espacios]
 - EN: NO RECORDS FOUND
   ES: SIN REGISTROS     (x2)  [relleno_espacios]
-- EN: Next. Simon B.
-  ES: Siguiente.      (x2)  [relleno_espacios]
-- EN: No worries it happens all the time
-  ES: No te preocupes, pasa todo tiempo   (x2)  [relleno_espacios]
 - EN: Normal language please
   ES: Habla normal            (x2)  [relleno_espacios]
 - EN: Not everything is about onlline personas
@@ -330,10 +242,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Oh      (x2)  [relleno_espacios]
 - EN: Okok
   ES: Okok  (x2)  [sin_traducir]
-- EN: Patron Associate
-  ES: Patron Asociado   (x2)  [relleno_espacios]
-- EN: Patron Family
-  ES: Fam. Patron    (x2)  [relleno_espacios]
 - EN: Please answer me!!
   ES: Contestame!!        (x2)  [relleno_espacios]
 - EN: Please fill out your details below and one of our\nrepresentative will contact you soon:
@@ -342,40 +250,24 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ayudame..      (x2)  [relleno_espacios]
 - EN: Please update
   ES: Actualiza      (x2)  [relleno_espacios]
-- EN: Please you gotta help me
-  ES: Por favor, ayudame        (x2)  [relleno_espacios]
 - EN: RECORD FOUND
   ES: REGISTRO      (x2)  [relleno_espacios]
 - EN: Related Link :
   ES: Enlace rel.:    (x2)  [relleno_espacios]
-- EN: Resist what?
-  ES: Resistir q?   (x2)  [relleno_espacios]
 - EN: Robert
   ES: Robert  (x2)  [sin_traducir]
-- EN: SHOULDVE KNOWN YOURE GOING TO SET ME UP
-  ES: DEBIA SABER QUE ME TENDEIAS UNA TRAMPA   (x2)  [relleno_espacios]
 - EN: SoMeTHiiiNg is WrONg
   ES: ALGO ESTÁ MAL        (x2)  [relleno_espacios]
 - EN: Something bad happened
   ES: Pasó algo malo         (x2)  [relleno_espacios]
 - EN: Something is off
   ES: Algo está mal    (x2)  [relleno_espacios]
-- EN: Spark related crimes soar as\nincreasing number of felons use\ndating apps to target victims.
-  ES: Crecen los crimenes ligados a Spark\npues mas delincuentes usan\napps de citas para atacar.    (x2)  [relleno_espacios]
 - EN: Speaking of dogs. Imma shower now. I smell like wet one
   ES: Hablando de perros. Voy a ducharme. Huelo como uno       (x2)  [relleno_espacios]
-- EN: Specific Ridrs will be re-\nrouted to the closest\ncollection centre for a\nsurprise thank-you gift.
-  ES: Algunos Ridrs se redirigen\nal centro de acopio\nmas cercano para un\nregalo sorpresa.                (x2)  [relleno_espacios]
 - EN: Summer Lineup is now\navailable for viewing
   ES: La coleccion de verano ya\nesta disponible   (x2)  [relleno_espacios]
-- EN: Talk to our “Love Doctors” a free consultation\nto help you improve your Spark profile and get\nmore likes!
-  ES: Habla con nuestros “Love Doctors” gratis\npara mejorar tu perfil de Spark y tener\nmas likes!                (x2)  [relleno_espacios]
 - EN: Tell me.
   ES: Dime.     (x2)  [relleno_espacios]
-- EN: ThEE OnEE
-  ES: EL UNO     (x2)  [relleno_espacios]
-- EN: ThaT!
-  ES: sO!    (x2)  [relleno_espacios]
 - EN: Thank you
   ES: Gracias    (x2)  [relleno_espacios]
 - EN: Thanks for not giving up on me.. I should go...
@@ -396,8 +288,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: El mundo material importa igual          (x2)  [relleno_espacios]
 - EN: The world is your boutique.
   ES: El mundo es tu boutique.     (x2)  [relleno_espacios]
-- EN: They all broke up recently with their\ngirl/boyfriends and looking for love (ex-\ncept James but I am willing to put money\nthat he did too)
-  ES: Todos rompieron hace poco con su\npareja y buscan amor (ex-\ncepto James, pero apuesto a que\ntambien)                                        (x2)  [relleno_espacios]
 - EN: They are stronger than that
   ES: Son más fuertes que eso     (x2)  [relleno_espacios]
 - EN: This is not Anna
@@ -408,12 +298,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Este sitio usa cookies.     (x2)  [relleno_espacios]
 - EN: Time out
   ES: Tiempo    (x2)  [relleno_espacios]
-- EN: Victims are like in the graph aged be-\ntween 21 to 25
-  ES: Las victimas del grafico tienen entre\n21 y 25          (x2)  [relleno_espacios]
-- EN: WE HAD A FUCKIN DEAL
-  ES: TENIAMOS UN TRATO     (x2)  [relleno_espacios]
-- EN: WHAT THE [web_bold_red]FAKE MASS MEDIA[] DO\nNOT WANT YOU TO SEE ABOUT THE\nRECENT DISAPPEARANCES ON\nDATING APPS!
-  ES: LO QUE [web_bold_red]MEDIOS FALSOS[]\nNO QUIEREN QUE VEAS SOBRE\nLAS DESAPARICIONES EN\nAPPS DE CITAS!              (x2)  [relleno_espacios]
 - EN: WORLD & TECH
   ES: MUNDO TECNO   (x2)  [relleno_espacios]
 - EN: We are unable to verify your identity.
@@ -428,34 +312,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué planeas hacer con él?     (x2)  [relleno_espacios]
 - EN: What do you see?
   ES: ¿Qué ves?       (x2)  [relleno_espacios]
-- EN: What gives?
-  ES: Que onda?    (x2)  [relleno_espacios]
 - EN: What happens now?
   ES: Que pasa ahora?    (x2)  [relleno_espacios]
-- EN: What is that smile
-  ES: Que es esa          (x2)  [relleno_espacios]
 - EN: What the heck happened?
   ES: ¿Qué pasó?            (x2)  [relleno_espacios]
 - EN: What will happen to Ashley?
   ES: ¿Qué pasará con Ashley?   (x2)  [relleno_espacios]
 - EN: Whats gotten into you?
   ES: ¿Qué te pasa?         (x2)  [relleno_espacios]
-- EN: Whats wrong?
-  ES: Que paso?     (x2)  [relleno_espacios]
 - EN: Who are you
   ES: Quien eres   (x2)  [relleno_espacios]
 - EN: Who are you really?
   ES: Quien eres?          (x2)  [relleno_espacios]
-- EN: Who gives you that right?
-  ES: Quien te da ese derecho?   (x2)  [relleno_espacios]
-- EN: Who is the unlucky girl?
-  ES: Quien es chica de mala    (x2)  [relleno_espacios]
 - EN: Why are you doing this?
   ES: ¿Por qué haces esto?   (x2)  [relleno_espacios]
-- EN: Why did I trust you with Anna's phone?
-  ES: Por que te confie telefono de Anna?     (x2)  [relleno_espacios]
-- EN: Why me?
-  ES: Por q?   (x2)  [relleno_espacios]
 - EN: YOOOU!!
   ES: TI!!!    (x2)  [relleno_espacios]
 - EN: Yeah?
@@ -464,24 +334,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si!   (x2)  [relleno_espacios]
 - EN: You are twisting words around!
   ES: Estas tergiversando todo!       (x2)  [relleno_espacios]
-- EN: You dont know what the real world is like
-  ES: No sabes cómo es el mundo real            (x2)  [relleno_espacios]
-- EN: You gotta give me more than that
-  ES: Necesito mas que eso              (x2)  [relleno_espacios]
 - EN: You lied to me!
   ES: Me mentiste!     (x2)  [relleno_espacios]
 - EN: You monster
   ES: Monstruo     (x2)  [relleno_espacios]
-- EN: You shouldve stuck with us
-  ES: Debiste haberte quedado     (x2)  [relleno_espacios]
 - EN: You think so?
   ES: ¿Crees?       (x2)  [relleno_espacios]
 - EN: You're the only one speaking here
   ES: Eres el único que habla aquí     (x2)  [relleno_espacios]
 - EN: Your chat ID is: #state:boot.chatid#
   ES: Tu ID de chat: #state:boot.chatid#    (x2)  [relleno_espacios]
-- EN: Your system is up to date
-  ES: Tu sistema esta al dia     (x2)  [relleno_espacios]
 - EN: __LINK103, __LINK104, __LINK105
   ES: __LINK103, __LINK104, __LINK105  (x2)  [sin_traducir]
 - EN: __LINK109, __LINK110
@@ -600,20 +462,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: oso polar emplumado   (x2)  [relleno_espacios]
 - EN: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
   ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8  (x2)  [sin_traducir]
-- EN: tIMe Is sHoRt
-  ES: EL TIEMPO ES   (x2)  [relleno_espacios]
 - EN: updating is easy and free*!
   ES: actualizar es gratis*!       (x2)  [relleno_espacios]
 - EN: © IRIS SYSTEMS INC.
   ES: © IRIS SYSTEMS INC.  (x2)  [sin_traducir]
 - EN: "Type" ?
   ES: 'Tipo'?   (x1)  [relleno_espacios]
-- EN: 'the easiest answer is most often right'
-  ES: 'la respuesta mas facil suele ser         (x1)  [relleno_espacios]
-- EN: 'the obvious answer is most often true'
-  ES: 'la respuesta obvia suele ser            (x1)  [relleno_espacios]
-- EN: 'the simplest answer is most often correct'
-  ES: 'la respuesta mas simple suele ser           (x1)  [relleno_espacios]
 - EN: (I came up with it)
   ES: (lo inventé yo)     (x1)  [relleno_espacios]
 - EN: (except when you have it legally changed)
@@ -626,28 +480,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *Yolanda*  (x1)  [sin_traducir]
 - EN: *background* I think this is the answering machine, I’ll just leave a message first.*
   ES: *fondo* Creo que este es el contestador automático, primero dejaré un mensaje.*        (x1)  [relleno_espacios]
-- EN: *breaking* Are you ignoring me?
-  ES: *cortandose* Me ignoras?         (x1)  [relleno_espacios]
-- EN: *breaking* DAMMIT!
-  ES: *corte* MALDITO     (x1)  [relleno_espacios]
-- EN: *breaking* If anything happens to here, it’s not you!
-  ES: *rompiéndose* Si algo le pasa aquí, ¡no eres tú!     (x1)  [relleno_espacios]
-- EN: *breaking* Why aren’t you speaking?
-  ES: *rompiéndose* ¿Por qué no hablas?   (x1)  [relleno_espacios]
 - EN: *distorted* But if, pushing her down is gonna save lives, I’m gonna do it.
   ES: *distorsionado* Pero si empujarla hacia abajo va a salvar vidas, lo haré.    (x1)  [relleno_espacios]
 - EN: *distorted* Hi, it’s me Anna.
   ES: *distorsion* Hola, soy Anna.     (x1)  [relleno_espacios]
-- EN: *distorted* I just want to go on record and say that,
-  ES: *distorsionado* Solo quiero dejar constancia y decir   (x1)  [relleno_espacios]
 - EN: *distorted* This wasn’t my idea.
   ES: *distorsion* No fue mi idea.        (x1)  [relleno_espacios]
 - EN: *distortion and choking*
   ES: *distorsión y asfixia*   (x1)  [relleno_espacios]
-- EN: *girl struggling and running*
-  ES: *niña luchando y corriendo*   (x1)  [relleno_espacios]
-- EN: *glass breaking*
-  ES: *vidrio roto*     (x1)  [relleno_espacios]
 - EN: *scream*
   ES: *grito*   (x1)  [relleno_espacios]
 - EN: *singing* I can't get over you
@@ -656,12 +496,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *cantando* Quiero tu amor ardiente sin fin            (x1)  [relleno_espacios]
 - EN: *singing* You’re everything that I see.
   ES: *cantando* Eres todo lo que veo.           (x1)  [relleno_espacios]
-- EN: *struggle intensifies and screaming*
-  ES: *la lucha se intensifica y gritos*    (x1)  [relleno_espacios]
 - EN: *try not to cry\n\n*cry alot
   ES: *no llores\n\n*llora mucho    (x1)  [relleno_espacios]
-- EN: *voice repeats with increasing distortion*
-  ES: *la voz se repite con mas distorsion*       (x1)  [relleno_espacios]
 - EN: *you're
   ES: *eres    (x1)  [relleno_espacios]
 - EN: +1 A41D GR3G
@@ -706,10 +542,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: 2 de 3 veces funciona el 100% de las veces    (x1)  [relleno_espacios]
 - EN: 20X74 12X25
   ES: 20X74 12X25  (x1)  [sin_traducir]
-- EN: 22 year old art student. Loves books and stay-\ning indoors.
-  ES: Estudiante de arte de 22 anos. Amante de libros y pasar      (x1)  [relleno_espacios]
-- EN: 23 year old marketing intern. Dreams of writing\nher own novel.
-  ES: Pasante de marketing de 23 anos. Suena con escribir su propia   (x1)  [relleno_espacios]
 - EN: 23X16 46X37
   ES: 23X16 46X37  (x1)  [sin_traducir]
 - EN: 24X22 67X63
@@ -762,8 +594,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: 3:18:00 PM  (x1)  [sin_traducir]
 - EN: 3a3a3a
   ES: 3a3a3a  (x1)  [sin_traducir]
-- EN: 4 push ups. IM OFF THE CHAINS TODAY
-  ES: 4 lagartijas. HOY ESTOY ON FIRE      (x1)  [relleno_espacios]
 - EN: 4. The Tortoise
   ES: 4. La tortuga    (x1)  [relleno_espacios]
 - EN: 4. The Tortoise
@@ -828,8 +658,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: 67X99 66X46  (x1)  [sin_traducir]
 - EN: 68X35 76X80
   ES: 68X35 76X80  (x1)  [sin_traducir]
-- EN: 75% chance that at any given time we are the most boring couple in the room
-  ES: 75% de probabilidad de que en cualquier momento seamos pareja mas aburrida   (x1)  [relleno_espacios]
 - EN: 75X63 19X50
   ES: 75X63 19X50  (x1)  [sin_traducir]
 - EN: 78X22 10X71
@@ -904,12 +732,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: @kantoiking  (x1)  [sin_traducir]
 - EN: @katekatekate
   ES: @katekatekate  (x1)  [sin_traducir]
-- EN: @keepingitcassie has always been single
-  ES: @keepingitcassie siempre ha sido         (x1)  [relleno_espacios]
-- EN: @keepingitcassie is a persona?!?!
-  ES: @keepingitcassie es persona?!?!    (x1)  [relleno_espacios]
-- EN: @keepingitcassie is close to 200000 followers
-  ES: @keepingitcassie esta cerca de 200,000         (x1)  [relleno_espacios]
 - EN: @lemonpie
   ES: @lemonpie  (x1)  [sin_traducir]
 - EN: @lillisa
@@ -940,66 +762,32 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: @williamhanson  (x1)  [sin_traducir]
 - EN: @yllas
   ES: @yllas  (x1)  [sin_traducir]
-- EN: A Dog's Purpose
-  ES: Un Proposito     (x1)  [relleno_espacios]
-- EN: A dog's purpose
-  ES: Un proposito     (x1)  [relleno_espacios]
 - EN: A kind stranger
   ES: Un desconocido   (x1)  [relleno_espacios]
 - EN: A little
   ES: Un poco   (x1)  [relleno_espacios]
-- EN: A lover of life, animals and working at [HANDLE]@faraday_safety[]
-  ES: Amante de la vida, los animales y el trabajo en [HANDLE]@faraday_  (x1)  [marcadores_distintos]
 - EN: A nice guy if you can overlook those things
   ES: Un buen tipo si puedes ignorar esas cosas    (x1)  [relleno_espacios]
-- EN: A polar feathered bear waddling above the hammer
-  ES: Un oso polar emplumado caminando sobre martillo   (x1)  [relleno_espacios]
 - EN: A polar, feathered bear
   ES: Un oso polar emplumado   (x1)  [relleno_espacios]
-- EN: A polar, feathered bear waddles above the hammer
-  ES: Un oso polar emplumado camina sobre el martillo   (x1)  [relleno_espacios]
-- EN: A polar, feathered bear waddling above the hammer
-  ES: Un oso polar emplumado caminando sobre martillo    (x1)  [relleno_espacios]
-- EN: A rich life exist both online and off
-  ES: Una vida rica existe tanto en linea    (x1)  [relleno_espacios]
-- EN: A rich life exist both online and off
-  ES: Existe una vida rica tanto en línea   (x1)  [relleno_espacios]
 - EN: A second opinion from a professional would be great
   ES: Una segunda opinion de un profesional seria genial   (x1)  [relleno_espacios]
-- EN: A truthful existance doesnt exist
-  ES: Una existencia verdadera no        (x1)  [relleno_espacios]
 - EN: A unique personality
   ES: Personalidad unica    (x1)  [relleno_espacios]
 - EN: A warehouse?
   ES: Un almacen?   (x1)  [relleno_espacios]
-- EN: ALWAYS WATCHING OVER YOU
-  ES: SIEMPRE CUIDANDOTE        (x1)  [relleno_espacios]
-- EN: AND tell you that that its YOUR responsibility too?
-  ES: ¡¡Y te dice que TU responsabilidad también?!      (x1)  [relleno_espacios]
 - EN: ANSWER ME
   ES: CONTESTA   (x1)  [relleno_espacios]
 - EN: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM
   ES: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM  (x1)  [sin_traducir]
 - EN: Abby Shin
   ES: Abby Shin  (x1)  [sin_traducir]
-- EN: About this "Greg"
-  ES: Sobre este tal     (x1)  [relleno_espacios]
 - EN: Accountant at BigFour
   ES: Contador en BigFour    (x1)  [relleno_espacios]
 - EN: Adwin Chong
   ES: Adwin Chong  (x1)  [sin_traducir]
-- EN: After coming off a shitty relationship
-  ES: Despues de salir de relacion horrible   (x1)  [relleno_espacios]
-- EN: After that, a yearly subscription fee will be charged.
-  ES: Despues, se cobrara una tarifa de suscripcion anual.    (x1)  [relleno_espacios]
-- EN: Again with this?! How bout no 😠
-  ES: Otra vez con esto?! Que tal no?     (x1)  [relleno_espacios]
 - EN: Again you turn it down
   ES: Otra vez lo rechazas    (x1)  [relleno_espacios]
-- EN: Again. Hypothetical
-  ES: Otra vez.            (x1)  [relleno_espacios]
-- EN: Age :
-  ES: Edad   (x1)  [relleno_espacios]
 - EN: Ah HA!
   ES: JA!     (x1)  [relleno_espacios]
 - EN: Ah which kind
@@ -1024,30 +812,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo que digo es que creo que hay más de Greg de lo que aparenta.         (x1)  [relleno_espacios]
 - EN: All I ask is that you trust me
   ES: Solo pido que confíes en mí   (x1)  [relleno_espacios]
-- EN: All I need is ONE f2f conversation with her
-  ES: Solo necesito UNA conversacion cara a cara   (x1)  [relleno_espacios]
-- EN: All hell broke loose.
-  ES: Se armó la gorda.     (x1)  [relleno_espacios]
-- EN: All life is precious
-  ES: Toda vida es          (x1)  [relleno_espacios]
-- EN: All of the missing people, Anna, Cassie has to share something in common. 🤔
-  ES: Todas personas desaparecidas, Anna, Cassie, deben tener algo en comun. 🤔     (x1)  [relleno_espacios]
 - EN: All of the people who dissapeared while using Spark shared something in common
   ES: Todas las personas que desaparecieron usando Spark compartían algo en común   (x1)  [relleno_espacios]
-- EN: All of this just doesn’t feel right.
-  ES: Nada de esto se siente bien.            (x1)  [relleno_espacios]
 - EN: Already talking to other guys!??!
   ES: Ya esta hablando con otros         (x1)  [relleno_espacios]
-- EN: Alright, Snoopy. Do your thing.
-  ES: Bueno, Snoopy. Haz tu cosa.      (x1)  [relleno_espacios]
-- EN: Always wanted to define the \nroad you take?
-  ES: Siempre quisiste definir camino que tomas?   (x1)  [relleno_espacios]
-- EN: Am I next?!?!?
-  ES: Am I next?!?!?  (x1)  [sin_traducir]
-- EN: Am I on a livestream or something?
-  ES: ¿Estoy en un stream o algo así?   (x1)  [relleno_espacios]
-- EN: Am I the only applicant?
-  ES: Soy unico postulante?     (x1)  [relleno_espacios]
 - EN: Amity
   ES: Amity  (x1)  [sin_traducir]
 - EN: An example would help
@@ -1058,16 +826,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Y no necesito que me juzgues ahora           (x1)  [relleno_espacios]
 - EN: And I ended up being the "other girl"
   ES: Y terminé siendo 'la otra chica'      (x1)  [relleno_espacios]
-- EN: And I know you don't like dancing like I do anyway.
-  ES: Y se que no te gusta bailar como a mi igual.         (x1)  [relleno_espacios]
 - EN: And I played all 3 versions
   ES: Y jugué las 3 versiones     (x1)  [relleno_espacios]
 - EN: And I wouldnt be talking to you right now
   ES: Y no estaría hablando contigo ahora       (x1)  [relleno_espacios]
-- EN: And SOMEHOW James knew
-  ES: Y DE ALGUN MODO James   (x1)  [relleno_espacios]
-- EN: And get back on track!
-  ES: Y volvemos al grano!    (x1)  [relleno_espacios]
 - EN: And he can do it looking me dead in the eyes.
   ES: Y puede hacerlo mirandome a los ojos.          (x1)  [relleno_espacios]
 - EN: And he is hiding it from you
@@ -1076,44 +838,26 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Y está ocultando cosas oscuras   (x1)  [relleno_espacios]
 - EN: And he told me to tell you to seriously think about this
   ES: Y me dijo que te dijera que pienses bien esto             (x1)  [relleno_espacios]
-- EN: And it has to be done through Anna's phone
-  ES: Y tiene que hacerse a traves del telefono   (x1)  [relleno_espacios]
 - EN: And its the same reason why I hated seeing you go out with Greg
   ES: Y es la misma razón por la que odiaba verte salir con Greg      (x1)  [relleno_espacios]
-- EN: And like a good bestie, I sat through the entire thing.
-  ES: Y como buena amiga, aguante todo entero.                 (x1)  [relleno_espacios]
 - EN: And more than 140 characters
   ES: Y más de 140 caracteres      (x1)  [relleno_espacios]
 - EN: And no one needs to know what happened
   ES: Y nadie necesita saber qué pasó       (x1)  [relleno_espacios]
-- EN: And sending lewd emails while technically is reportable
-  ES: Y mandar correos subidos de tono, aunque tecnicamente    (x1)  [relleno_espacios]
 - EN: And she backed it up on her home computer and the one at work
   ES: Y los respaldó en su computadora de casa y la del trabajo     (x1)  [relleno_espacios]
 - EN: And she didn't say anything about where she is?
   ES: ¿Y no dijo nada sobre dónde está?             (x1)  [relleno_espacios]
-- EN: And somehow she makes a post exactly the same time as when Greg is checking in on her?
-  ES: Y de algun modo ella publica al mismo tiempo que Greg esta revisando su estado?         (x1)  [relleno_espacios]
 - EN: And that makes you good
   ES: Y eso te hace buena      (x1)  [relleno_espacios]
-- EN: And the nonprofit takes a glammy picture of the whoever people and the CEO
-  ES: Y organizacion sin fines de lucro saca una foto glamorosa de gente y CEO    (x1)  [relleno_espacios]
 - EN: And this is the treatment I get
   ES: Y este es el trato que recibo    (x1)  [relleno_espacios]
-- EN: And u know I don like pizza Anna pls
-  ES: Y sabes que no me gusta pizza Anna    (x1)  [relleno_espacios]
 - EN: And watching TV
   ES: Y ver TV         (x1)  [relleno_espacios]
 - EN: And we are done.
   ES: Y eso es todo.    (x1)  [relleno_espacios]
 - EN: And we'll go on the town
   ES: Y saldremos a la ciudad   (x1)  [relleno_espacios]
-- EN: And we. found. her.
-  ES: Y la. encontramos.   (x1)  [relleno_espacios]
-- EN: And where is _your_ certificate of permission, eh?
-  ES: ¿Y dónde está _tu_ certificado de permiso, eh?   (x1)  [relleno_espacios]
-- EN: And who are you to make that decision huh?
-  ES: Y quien eres tu para tomar esa decision,    (x1)  [relleno_espacios]
 - EN: And you
   ES: Y tú    (x1)  [relleno_espacios]
 - EN: And you are not the first
@@ -1126,8 +870,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Y tú la metiste en este lío       (x1)  [relleno_espacios]
 - EN: And you get paid
   ES: Y te pagan        (x1)  [relleno_espacios]
-- EN: And you shouldve stuck with me
-  ES: Y tu debiste haberte quedado    (x1)  [relleno_espacios]
 - EN: And you're having her phone becaaaauuuseeee 🤔
   ES: Y tienes su teléfono porquuuueeee 🤔           (x1)  [relleno_espacios]
 - EN: And, I’m so happy.
@@ -1140,24 +882,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Anna siempre avisa cuando no va a venir.          (x1)  [relleno_espacios]
 - EN: Anna and I don’t know each other.
   ES: Anna y yo no nos conocemos.          (x1)  [relleno_espacios]
-- EN: Anna blocked my card. So immature! 😠
-  ES: Anna bloqueo mi tarjeta. Que inmadura!   (x1)  [relleno_espacios]
 - EN: Anna has gone missing
   ES: Anna ha desaparecido   (x1)  [relleno_espacios]
-- EN: Anna is some next level animal freak. I know some friends who are like that as well.
-  ES: Anna es una amante de animales de otro nivel. Conozco amigos que son asi tambien.     (x1)  [relleno_espacios]
-- EN: Anna met with James Aulner
-  ES: Anna se reunio con James    (x1)  [relleno_espacios]
 - EN: Anna posted something on Jabbr.
   ES: Anna publicó algo en Jabbr.     (x1)  [relleno_espacios]
 - EN: Anna recorded something weird
   ES: Anna grabó algo raro          (x1)  [relleno_espacios]
-- EN: Anna went missing the same way as James. They were both last seen going on a date with someone on Spark.
-  ES: Anna desaparecio igual que James. A ambos se les vio en una cita de Spark.                                (x1)  [relleno_espacios]
 - EN: Anna!
   ES: Anna!  (x1)  [sin_traducir]
-- EN: Anna's the girl on her wallpaper, right?
-  ES: Anna es chica de su fondo de pantalla,    (x1)  [relleno_espacios]
 - EN: Annabelle
   ES: Annabelle  (x1)  [sin_traducir]
 - EN: Announcement!
@@ -1170,8 +902,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Otra chica furiosa conmigo        (x1)  [relleno_espacios]
 - EN: Another random thought.
   ES: Otra idea suelta.        (x1)  [relleno_espacios]
-- EN: Another tech company scandal
-  ES: Otro escándalo de empresas   (x1)  [relleno_espacios]
 - EN: Anous
   ES: Anous  (x1)  [sin_traducir]
 - EN: Anything about Greg that we can use against him?
@@ -1180,16 +910,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo que sea     (x1)  [relleno_espacios]
 - EN: Anything can happen, you know what I mean?
   ES: Cualquier cosa puede pasar, me entiendes?   (x1)  [relleno_espacios]
-- EN: Anything else?
-  ES: ¿Algo más?    (x1)  [relleno_espacios]
 - EN: Anything for the boss. Hold back the report
   ES: Lo que sea por el jefe. Retén el reporte    (x1)  [relleno_espacios]
 - EN: Anything for you babe
   ES: Lo que sea por ti      (x1)  [relleno_espacios]
-- EN: Anything in her phonethat indicates where she might be?
-  ES: Algo en su telefono que indique donde podria estar?      (x1)  [relleno_espacios]
-- EN: Anything interesting you picked up
-  ES: Algo interesante que estes          (x1)  [relleno_espacios]
 - EN: Anything that stands out?
   ES: ¿Algo que se destaque?    (x1)  [relleno_espacios]
 - EN: Anything that tells me more about Anna?
@@ -1206,44 +930,28 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Aplique a UC pero me rechazaron    (x1)  [relleno_espacios]
 - EN: Are the best? Or you want to be the best
   ES: ¿El mejor? ¿O quieres ser el mejor?     (x1)  [relleno_espacios]
-- EN: Are we normcore?
-  ES: Somos normcore?   (x1)  [relleno_espacios]
-- EN: Are you a very careful business owner that desires all-round security?
-  ES: Es usted un dueno cuidadoso que desea seguridad total?                  (x1)  [relleno_espacios]
 - EN: Are you accusing me of something?
   ES: ¿Me estás acusando de algo?      (x1)  [relleno_espacios]
 - EN: Are you alright?
   ES: ¿Estás bien?    (x1)  [relleno_espacios]
 - EN: Are you as good as advertised?
   ES: ¿Eres tan bueno como dicen?    (x1)  [relleno_espacios]
-- EN: Are you catfishing me
-  ES: Me estas enganando?    (x1)  [relleno_espacios]
 - EN: Are you done yet?
   ES: ¿Ya terminaste?   (x1)  [relleno_espacios]
 - EN: Are you helping me or not?!
   ES: ¿Me vas a ayudar o no?!     (x1)  [relleno_espacios]
-- EN: Are you implying that I am abusing her?
-  ES: Estas insinuando que estoy abusando?     (x1)  [relleno_espacios]
 - EN: Are you jealous of him?
   ES: ¿Le tienes celos?       (x1)  [relleno_espacios]
 - EN: Are you okay, Anna?
   ES: Estas bien, Anna?    (x1)  [relleno_espacios]
-- EN: Are you one of those catfishers, who stole her phone??
-  ES: Eres de esas estafadoras que le robaron su telefono??   (x1)  [relleno_espacios]
 - EN: Are you still there?
   ES: ¿Sigues ahí?        (x1)  [relleno_espacios]
-- EN: Are you taking this seriously?
-  ES: ¿Le estás tomando en serio?   (x1)  [relleno_espacios]
 - EN: Are you the only one out there?
   ES: ¿Eres el único ahí fuera?     (x1)  [relleno_espacios]
-- EN: Are you two on to something?
-  ES: Estan dos en algo?            (x1)  [relleno_espacios]
 - EN: Arent you gonna say something?
   ES: ¿No vas a decir algo?          (x1)  [relleno_espacios]
 - EN: Arts and Craft
   ES: Manualidades    (x1)  [relleno_espacios]
-- EN: As cities begin to take over our\nworld, and our natural land disap-\npear, we begin to question the\nwisdom of forgetting our roots, along\nwith the ancient traditions that can\nteach us a thing or two.\n\nOne of the most beloved, and tragic,\nof cultural loss, are the Native Ameri-\ncans. They welcomed the westerners\nwith open arms, and received bullets,\ndisease and loss of property. Their\nculture collapsed under the hail of\ngunfire and imperialism, and now\nthey are surviving at the edges of\nmodern society, pushed aside by\nprogress and development.
-  ES: As cities begin to take over our\nworld, and our natural land disap-\npear, we begin to question the\nwisdom of forgetting our roots, along\nwith the ancient traditions that can\nteach us a thing or two.\n\nOne of the most beloved, and tragic,\nof cultural loss, are the Native Ameri-\ncans. They welcomed the westerners\nwith open arms, and received bullets,\ndisease and loss of property. Their\nculture collapsed under the hail of\ngunfire and imperialism, and now\nthey are surviving at the edges of\nmodern society, pushed aside by\nprogress and development.  (x1)  [sin_traducir]
 - EN: As long as you dont do it again
   ES: Mientras no lo hagas de nuevo    (x1)  [relleno_espacios]
 - EN: As long as you dont use Anna's pics, its fine
@@ -1260,8 +968,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pídele que haga lo que le pidas a cambio del correo de acoso     (x1)  [relleno_espacios]
 - EN: Assuming she's still alive
   ES: Asumiendo que siga viva     (x1)  [relleno_espacios]
-- EN: At a party once
-  ES: En fiesta vez    (x1)  [relleno_espacios]
 - EN: At least I dont have a criminal record
   ES: Al menos yo no tengo antecedentes       (x1)  [relleno_espacios]
 - EN: At most he wont have the keys.
@@ -1274,32 +980,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La tía Penny viene de visita pronto        (x1)  [relleno_espacios]
 - EN: Awesome possum
   ES: Genial posum    (x1)  [relleno_espacios]
-- EN: Aww Ashley.
-  ES: Aw Ashley.   (x1)  [relleno_espacios]
-- EN: Bait him?
-  ES: ¿Cebo?    (x1)  [relleno_espacios]
-- EN: Barging in here is a bad idea
-  ES: Ir de metido aqui es mala      (x1)  [relleno_espacios]
-- EN: Be who they like huh
-  ES: Ser lo que ellos      (x1)  [relleno_espacios]
 - EN: Becasue you have to pick one of those 3
   ES: Porque tienes que elegir uno de esos 3   (x1)  [relleno_espacios]
 - EN: Because I wanna be the very best
   ES: Porque quiero ser el mejor        (x1)  [relleno_espacios]
-- EN: Because you are wrong
-  ES: Porque te equivocas    (x1)  [relleno_espacios]
-- EN: Because you screwed up?
-  ES: Porque cagaste cosa?     (x1)  [relleno_espacios]
 - EN: Been trying for weeks
   ES: Llevo semanas          (x1)  [relleno_espacios]
 - EN: Been trying to get it, and I finally did.
   ES: Intente conseguirlo y por fin lo logre.    (x1)  [relleno_espacios]
-- EN: Before I do so. I need to come clean
-  ES: Antes de hacer eso, necesito ser      (x1)  [relleno_espacios]
 - EN: Being the editor in chief doesn't turn you into the queen of the world!
   ES: ¡Ser la directora editorial no te convierte en la reina del mundo!      (x1)  [relleno_espacios]
-- EN: Being verbally abusive is not far from being physical
-  ES: Ser verbalmente abusivo no esta muy lejos de ser       (x1)  [relleno_espacios]
 - EN: Bella
   ES: Bella  (x1)  [sin_traducir]
 - EN: Ben Cavanaugh
@@ -1314,24 +1004,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Blehhhhhh  (x1)  [sin_traducir]
 - EN: Bombarded her with calls and messages to the point where she just went..
   ES: La llenaron de llamadas y mensajes hasta que se fue..                     (x1)  [relleno_espacios]
-- EN: Boots? Loafers? Leathers
-  ES: Boots? Loafers? Leathers  (x1)  [sin_traducir]
 - EN: Both of them should be saved
   ES: Los dos deben ser salvados    (x1)  [relleno_espacios]
 - EN: Both of them should be saved
   ES: Ambos deberían salvarse      (x1)  [relleno_espacios]
 - EN: Both of you are going down
   ES: Los dos van a caer          (x1)  [relleno_espacios]
-- EN: Both of you have good points
-  ES: Los dos tienen buenas         (x1)  [relleno_espacios]
 - EN: Brandon K
   ES: Brandon K  (x1)  [sin_traducir]
 - EN: Bruce
   ES: Bruce  (x1)  [sin_traducir]
-- EN: Buddy! Pal! Friend!
-  ES: Amigo! Compa!        (x1)  [relleno_espacios]
-- EN: But HR will text her phone to verify
-  ES: Pero RH le escribira a su telefono    (x1)  [relleno_espacios]
 - EN: But I am leaving it to you
   ES: Pero te lo dejo a ti        (x1)  [relleno_espacios]
 - EN: But I am still her boyfriend
@@ -1342,42 +1024,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pero no tengo ganas de salir.     (x1)  [relleno_espacios]
 - EN: But I really think that guy is a nutjob
   ES: Pero creo que ese tipo es un demente     (x1)  [relleno_espacios]
-- EN: But I totally understand where you are coming from
-  ES: Pero entiendo completamente tu punto de vista       (x1)  [relleno_espacios]
-- EN: But I wish we did
-  ES: Pero ojala         (x1)  [relleno_espacios]
-- EN: But I would never harm another person!
-  ES: Pero yo jamas le haria dano a nadie!    (x1)  [relleno_espacios]
-- EN: But Ive been thinking
-  ES: Pero he estado         (x1)  [relleno_espacios]
 - EN: But dont you bring that asshat into this
   ES: Pero no metas a ese imbécil en esto      (x1)  [relleno_espacios]
-- EN: But finding Anna is a priority, so I will help
-  ES: Solo te agregue aqui para que seas testigo,     (x1)  [relleno_espacios]
-- EN: But getting blocked is a strong word
-  ES: Pero que bloqueen es palabra fuerte   (x1)  [relleno_espacios]
-- EN: But he is still himself
-  ES: Pero seguia siendo       (x1)  [relleno_espacios]
 - EN: But he somehow manage to text me at EXACTLY the right time 😧
   ES: Pero de algun modo lograba escribirme a hora correcta 😧       (x1)  [relleno_espacios]
 - EN: But he would never do something like that to me
   ES: Pero él nunca haría algo así conmigo          (x1)  [relleno_espacios]
-- EN: But if you want, you still can let the report go through
-  ES: Forzar la mano del Sr. Faraday solo lo va a molestar      (x1)  [relleno_espacios]
-- EN: But let me figue this one out
-  ES: Pero déjame resolver este     (x1)  [relleno_espacios]
 - EN: But like you seemed kind of upset about it.
   ES: Pero como que te molestó un poco.           (x1)  [relleno_espacios]
 - EN: But not at the expense of your security
   ES: Pero no a costa de tu seguridad          (x1)  [relleno_espacios]
 - EN: But plenty of things dont add up
   ES: Pero bastantes cosas no cuadran   (x1)  [relleno_espacios]
-- EN: But putting an honest foot forward goes a long way
-  ES: Poner un pie honesto adelante recorre un largo      (x1)  [relleno_espacios]
 - EN: But since I dont know you
   ES: Pero como no te conozco    (x1)  [relleno_espacios]
-- EN: But someone who really likes animals
-  ES: No hasta que vea los mensajes         (x1)  [relleno_espacios]
 - EN: But somethings wrong.
   ES: Pero algo está mal.   (x1)  [relleno_espacios]
 - EN: But that kinda changed 🤔
@@ -1388,14 +1048,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pero logramos mucho juntos   (x1)  [relleno_espacios]
 - EN: But you need to tone it down
   ES: Pero baja el tono             (x1)  [relleno_espacios]
-- EN: But.. you’re still here.
-  ES: Pero... sigues aqui.        (x1)  [relleno_espacios]
 - EN: By myself!
   ES: ¡¡Solo!   (x1)  [relleno_espacios]
 - EN: By that I mean one
   ES: O sea, uno          (x1)  [relleno_espacios]
-- EN: CALL NOW\n1880-FARISKANE
-  ES: LLAMA AHORA              (x1)  [relleno_espacios]
 - EN: Call him out
   ES: Exponlo       (x1)  [relleno_espacios]
 - EN: Call it intuition
@@ -1406,64 +1062,26 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Llámame si cambias de opinión.       (x1)  [relleno_espacios]
 - EN: Call us if you wish to report a burglary.
   ES: Llámenos si desea denunciar un robo.      (x1)  [relleno_espacios]
-- EN: Calling Phresh Ideas is a great plan
-  ES: Llamar a Phresh Ideas es un gran      (x1)  [relleno_espacios]
 - EN: Calm down
   ES: Cálmate   (x1)  [relleno_espacios]
-- EN: Calm down Greg
-  ES: Tranquilo,      (x1)  [relleno_espacios]
-- EN: Can I ask more than one question?
-  ES: Puedo hacer mas de una pregunta?   (x1)  [relleno_espacios]
 - EN: Can I ask the questions instead?
   ES: ¿Puedo hacer las preguntas yo?   (x1)  [relleno_espacios]
 - EN: Can I ask you something?
   ES: Puedo preguntarte algo?   (x1)  [relleno_espacios]
-- EN: Can someone hand him the best boyfriend of the year award?
-  ES: Alguien le puede entregar premio al mejor novio del ano?    (x1)  [relleno_espacios]
-- EN: Can we PLEASE get back to it?
-  ES: Podemos pls volver a ello??    (x1)  [relleno_espacios]
 - EN: Can we hangout again tonight?
   ES: Podemos vernos otra vez hoy?   (x1)  [relleno_espacios]
-- EN: Can we please work together to find my missing girlfriend
-  ES: Podemos trabajar juntos para hallar a mi novia             (x1)  [relleno_espacios]
-- EN: Can we talk? 😣
-  ES: Podemos hablar?    (x1)  [relleno_espacios]
 - EN: Can we think about this a little more?
   ES: ¿Podemos pensarlo un poco más?        (x1)  [relleno_espacios]
 - EN: Can you be anymore insecure?
   ES: ¿Puedes ser más inseguro?   (x1)  [relleno_espacios]
-- EN: Can you confirm if this is true?
-  ES: Puede confirmar si es cierto?     (x1)  [relleno_espacios]
 - EN: Can you help me out with something?
   ES: ¿Puedes ayudarme con algo?          (x1)  [relleno_espacios]
-- EN: Can you relax? I hear only noise
-  ES: Puedes relajarte? Solo escucho    (x1)  [relleno_espacios]
-- EN: Can you take a peek at it? See where she went?
-  ES: Puedes echarle un vistazo? Ver a donde fue?     (x1)  [relleno_espacios]
-- EN: Can't a mother bring her daughter some food
-  ES: No puede madre llevarle comida a su hija?    (x1)  [relleno_espacios]
-- EN: Can't be as good as mine
-  ES: No puede ser tan bueno    (x1)  [relleno_espacios]
-- EN: Can't even swipe correctly lol
-  ES: Ni siquiera puedo deslizar      (x1)  [relleno_espacios]
-- EN: Can't fool me. No sir.
-  ES: No me puedes enganar.   (x1)  [relleno_espacios]
-- EN: Can't tell if he regretted almost knocking me up me or cheating on her
-  ES: No se si se arrepintio casi dejarme embarazada o de haberle sido        (x1)  [relleno_espacios]
-- EN: Cant believe my card won't work anymore
-  ES: No puedo creer que mi tarjeta ya no      (x1)  [relleno_espacios]
-- EN: Cant say the same for her
-  ES: No puedo decir lo mismo    (x1)  [relleno_espacios]
-- EN: Card number not found.
-  ES: Numero de tarjeta no    (x1)  [relleno_espacios]
 - EN: Cassandra
   ES: Cassandra  (x1)  [sin_traducir]
 - EN: Cassie,
   ES: Cassie,  (x1)  [sin_traducir]
 - EN: Casual
   ES: Casual  (x1)  [sin_traducir]
-- EN: Cat 😺
-  ES: Gato      (x1)  [relleno_espacios]
 - EN: Catherine Pace
   ES: Catalina Pace   (x1)  [relleno_espacios]
 - EN: Chandra Nala
@@ -1480,8 +1098,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mira mis reseñas     (x1)  [relleno_espacios]
 - EN: Check out my updates
   ES: Mira mis novedades    (x1)  [relleno_espacios]
-- EN: Chillin is always better with company 😊
-  ES: Relajarse siempre es mejor con compania     (x1)  [relleno_espacios]
 - EN: Chloe Rice
   ES: Chloe Rice  (x1)  [sin_traducir]
 - EN: Chris
@@ -1492,112 +1108,60 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Vamos, yo te conté algo de mí        (x1)  [relleno_espacios]
 - EN: Come on, Anna. You don't have to test me like that.
   ES: Vamos, Anna. No tienes que ponerme a prueba así.    (x1)  [relleno_espacios]
-- EN: Come on, what if she needs our help?
-  ES: Vamos, y si necesita nuestra ayuda?   (x1)  [relleno_espacios]
-- EN: Come on, you gotta give me something?
-  ES: Vamos, ¿algo más?                    (x1)  [relleno_espacios]
 - EN: Come on. What do you really know about him?
   ES: Vamos. ¿Qué sabes realmente de él?        (x1)  [relleno_espacios]
 - EN: Come on… it’s gonna be fine!
   ES: ¡Vamos... todo irá bien!        (x1)  [relleno_espacios]
 - EN: Complete your task.
   ES: Completa tu tarea.   (x1)  [relleno_espacios]
-- EN: Conclusion? I have no freakin clue. Is there a\nserial killer on the loose? Were they kidnapped\nand experimented on by the [web_bold]Serpent Society?[]\n[web_red](more on this next week)[] Aliens abducting us to\ntry and understand our new mating rituals?\n\nNothing is off the table until “THE LAW” decides\nto take these “small” cases seriously. While we\nneed to be careful ALWAYS when we go out\nwith strangers, the people deserve to know\nthat there are bigger forces at play here. Stay\nvigilant and you can count on me to show you\nthe alternative truths.\n\nI end today with the truth that I hear screaming\nin my head:\n\nTRUST NO ONE,\nTHERE IS ONLY US AGAINST THEM,\nDONT TRUST THE WATER IN YOUR PIPES,\nDOUBT YOUR EYERIS.
-  ES: Conclusion? I have no freakin clue. Is there a\nserial killer on the loose? Were they kidnapped\nand experimented on by the [web_bold]Serpent Society?[]\n[web_red](more on this next week)[] Aliens abducting us to\ntry and understand our new mating rituals?\n\nNothing is off the table until “THE LAW” decides\nto take these “small” cases seriously. While we\nneed to be careful ALWAYS when we go out\nwith strangers, the people deserve to know\nthat there are bigger forces at play here. Stay\nvigilant and you can count on me to show you\nthe alternative truths.\n\nI end today with the truth that I hear screaming\nin my head:\n\nTRUST NO ONE,\nTHERE IS ONLY US AGAINST THEM,\nDONT TRUST THE WATER IN YOUR PIPES,\nDOUBT YOUR EYERIS.  (x1)  [sin_traducir]
 - EN: Congratulations! You’ve figured out the secret number!
   ES: ¡Felicidades! ¡Has descubierto el número secreto!      (x1)  [relleno_espacios]
-- EN: Cool name 😄
-  ES: Nombre genial   (x1)  [relleno_espacios]
 - EN: Could you just hear me out for one minute? One?
   ES: ¿Podrías escucharme por un minuto? ¿Uno?      (x1)  [relleno_espacios]
 - EN: Count your friends.
   ES: Cuenta tus amigos.   (x1)  [relleno_espacios]
-- EN: Couples fight all the time
-  ES: Las parejas pelean todo     (x1)  [relleno_espacios]
-- EN: Cross my heart
-  ES: Cruzado         (x1)  [relleno_espacios]
 - EN: Crowd is insane today
   ES: Hoy hay mucha gente    (x1)  [relleno_espacios]
-- EN: DEVELOPING. James A
-  ES: EN DESARROLLO.       (x1)  [relleno_espacios]
 - EN: DO AS I SAY
   ES: OBEDECEME    (x1)  [relleno_espacios]
-- EN: DO IT NOW >
-  ES: HACELO       (x1)  [relleno_espacios]
-- EN: DO NOT BElieVVVEEE iT
-  ES: ¡¡NO LE CREEEES!!    (x1)  [relleno_espacios]
-- EN: DO NOT BElieVVVEEE iT
-  ES: NO LO CREASVVVEEE      (x1)  [relleno_espacios]
 - EN: DOES HE EVER SLEEP
   ES: ACASO DUERME        (x1)  [relleno_espacios]
 - EN: DONT GO YET, give me some time first
   ES: NO VAYAS AUN, dame tiempo primero     (x1)  [relleno_espacios]
-- EN: Damn phones
-  ES: Malditos     (x1)  [relleno_espacios]
 - EN: Danny
   ES: Danny  (x1)  [sin_traducir]
-- EN: Dating apps have been linked to more than\n500 crimes in and almost a third are sex \noffences, figures show.
-  ES: Las apps de citas han estado vinculadas a mas de 500 crimenes y casi un tercio son delitos sexuales,         (x1)  [relleno_espacios]
 - EN: Dave C
   ES: David   (x1)  [relleno_espacios]
 - EN: David Teegan
   ES: David Teegan  (x1)  [sin_traducir]
 - EN: Ddnt mean to sound weird but you get my drift
   ES: No quise sonar raro pero me entiendes          (x1)  [relleno_espacios]
-- EN: DeePENDs oN YOu
-  ES: DEPEND DE TI     (x1)  [relleno_espacios]
-- EN: Designer at Phresh Ideas
-  ES: Disena en Phresh Ideas    (x1)  [relleno_espacios]
 - EN: Desiree
   ES: Desiree  (x1)  [sin_traducir]
 - EN: Det. Murilo
   ES: Det. Murilo  (x1)  [sin_traducir]
 - EN: Dice Roll Insurance
   ES: Seguro de dados      (x1)  [relleno_espacios]
-- EN: Did Anna mention a Toby?
-  ES: Anna menciono un Toby?    (x1)  [relleno_espacios]
-- EN: Did Anna send you her phone?
-  ES: Anna te mando su telefono?    (x1)  [relleno_espacios]
 - EN: Did Greg check her house or something?
   ES: ¿Greg revisó su casa o algo?          (x1)  [relleno_espacios]
-- EN: Did Greg put you up to this?
-  ES: ¿Greg te puso en esto?       (x1)  [relleno_espacios]
-- EN: Did Greg sent this to you?
-  ES: ¿Greg te mandó esto?      (x1)  [relleno_espacios]
-- EN: Did I get my settings wrong? 🤔
-  ES: Me equivoque de configuracion?     (x1)  [relleno_espacios]
 - EN: Did anyone ever tought you not to trust everything people say?
   ES: ¿Alguien te enseñó a no creer todo lo que la gente dice?     (x1)  [relleno_espacios]
-- EN: Did he kill someone?!?!
-  ES: Mato a alguien?!?!       (x1)  [relleno_espacios]
-- EN: Did he screw up?
-  ES: Metio pata?       (x1)  [relleno_espacios]
-- EN: Did she kiss and tell? 😍
-  ES: ¿Me contó todo? 😍       (x1)  [relleno_espacios]
 - EN: Did she leave the water running?
   ES: ¿Dejó el agua corriendo?        (x1)  [relleno_espacios]
-- EN: Did she put you up to this?
-  ES: Ella te puso a hacer esto?   (x1)  [relleno_espacios]
 - EN: Did she say where she was all along?
   ES: Dijo donde estuvo todo este tiempo?   (x1)  [relleno_espacios]
 - EN: Did something happen to Anna? 😱
   ES: ¿Le pasó algo a Anna? 😱        (x1)  [relleno_espacios]
 - EN: Did the blackmailing work?
   ES: ¿Funcionó el chantaje?    (x1)  [relleno_espacios]
-- EN: Did you call her a freak?
-  ES: ¿¿La llamaste freak??    (x1)  [relleno_espacios]
 - EN: Did you do something?
   ES: ¿Hiciste algo?        (x1)  [relleno_espacios]
 - EN: Did you forget it or something?
   ES: ¿Se te olvidó o algo?          (x1)  [relleno_espacios]
 - EN: Did you manage to check her emails?
   ES: ¿Pudiste revisar sus correos?       (x1)  [relleno_espacios]
-- EN: Didn't you diss those tests?
-  ES: No despreciaste esos tests?   (x1)  [relleno_espacios]
 - EN: Didnt you mention that she she matched with some people on SPARK?
   ES: ¿No mencionaste que hizo match con gente en SPARK?                (x1)  [relleno_espacios]
-- EN: Didnt you watch those TV shows?
-  ES: No viste esos programas de TV?   (x1)  [relleno_espacios]
 - EN: Different reasons
   ES: Razones            (x1)  [relleno_espacios]
 - EN: Disgusting
@@ -1612,14 +1176,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Aceptas Anna al gato Tobías como tu legítimo marido?           (x1)  [relleno_espacios]
 - EN: Do you have an example?
   ES: ¿Tienes un ejemplo?     (x1)  [relleno_espacios]
-- EN: Do you know how hard it is to find a job? 😵
-  ES: Sabes lo dificil que es hallar trabajo? 😵    (x1)  [relleno_espacios]
-- EN: Do you know how stupid that sounds?
-  ES: Sabes que estupido suena eso??       (x1)  [relleno_espacios]
 - EN: Do you want me to check my place?
   ES: ¿Quieres que revise mi lugar?     (x1)  [relleno_espacios]
-- EN: Do you want me to leak your dirty emails?
-  ES: Quieres que publique tus correos sucios?   (x1)  [relleno_espacios]
 - EN: DoONt YOu RReCogNIzE ME?
   ES: ¿¡NO ME RECONOCES?!     (x1)  [relleno_espacios]
 - EN: DoONt YOu RReCogNIzE ME?
@@ -1710,10 +1268,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eve Farrell  (x1)  [sin_traducir]
 - EN: Even I am still figuring it out
   ES: Ni yo lo tengo claro del todo    (x1)  [relleno_espacios]
-- EN: Even hd to watch her get messd up by that fukin Greg
-  ES: Incluso tuve que verla desmoronarse por ese puto      (x1)  [relleno_espacios]
-- EN: Ever wanted to Ask Me Anything (AMA)? Stand a chance to talk to me in my upcoming Jabbr contest
-  ES: Quieres preguntarme algo (AMA)? Habla conmigo en mi proximo concurso de Jabbr                    (x1)  [relleno_espacios]
 - EN: Every wrong answer will drop the timer by 10seconds! 😱
   ES: Cada respuesta incorrecta baja temporizador 10 segundos!   (x1)  [relleno_espacios]
 - EN: Everyone has their own taste and types
@@ -1732,8 +1286,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Perdon?     (x1)  [relleno_espacios]
 - EN: Exotic name. 😍
   ES: Nombre exotico.    (x1)  [relleno_espacios]
-- EN: Explain her Spark meeting then
-  ES: Entonces explica su encuentro   (x1)  [relleno_espacios]
 - EN: Eyeris
   ES: Eyeris  (x1)  [sin_traducir]
 - EN: FUCK I WARNED YOU ABOUT THIS
@@ -1754,10 +1306,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Farah Ramsey  (x1)  [sin_traducir]
 - EN: Faris & Kane
   ES: Faris & Kane  (x1)  [sin_traducir]
-- EN: Feeling unlucky in love?\nCome visit our famous SPARK IRL events!
-  ES: Sin suerte en amor? Ven a nuestros famosos eventos SPARK IRL!     (x1)  [relleno_espacios]
-- EN: Feels like I am walking in a trap or something
-  ES: Siento que estoy cayendo en trampa o algo asi   (x1)  [relleno_espacios]
 - EN: Figure out where she could be
   ES: Averiguar donde podria estar   (x1)  [relleno_espacios]
 - EN: Finally we are agreeing on something
@@ -1766,14 +1314,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Buscala y revisa fechas. Deberia estar correcta    (x1)  [relleno_espacios]
 - EN: Finding girls is the whole point of Spark
   ES: Encontrar chicas es el punto de Spark      (x1)  [relleno_espacios]
-- EN: Fine. Lets find Anna
-  ES: Esta bien.            (x1)  [relleno_espacios]
 - EN: Fine. You win
   ES: Esta bien.     (x1)  [relleno_espacios]
-- EN: First of all, I want to ‘commend’ the [web_link]local news\ncoverage[] on escalating this horrible trend to a\nwhole new level. Just when I thought they\ncouldn’t sink any lower, they did. Downplaying\nthe seriousness of this issue and treating all\nthe victims as just another statistic to be forgot-\nten. Blaming these crimes on trivial things such\nas “the rise of internet” and the “degradation of\nour youth”. This has to be STOPPED! There is\nmore to this story. And the people deserve to\nknow the truth. I do not want you, my readers\nto continue being brainwashed by the main\nstream fake media.
-  ES: First of all, I want to ‘commend’ the [web_link]local news\ncoverage[] on escalating this horrible trend to a\nwhole new level. Just when I thought they\ncouldn’t sink any lower, they did. Downplaying\nthe seriousness of this issue and treating all\nthe victims as just another statistic to be forgot-\nten. Blaming these crimes on trivial things such\nas “the rise of internet” and the “degradation of\nour youth”. This has to be STOPPED! There is\nmore to this story. And the people deserve to\nknow the truth. I do not want you, my readers\nto continue being brainwashed by the main\nstream fake media.  (x1)  [sin_traducir]
-- EN: First of all. Not all of these “crimes” are fully\nrepresented. There are violent crimes and\nsexual crimes but somehow the Media fails to\nmention the “missing” crimes. Why didn't they\nuse words like “kidnapping” or “MIA”? It's a safe\nassumption right? Well that's where they’ve\nscrewed it up. Some of these missing crimes\nare not reported because they didn't treat\nthem as crimes at all, but “statistical anomaly”.\nWhat the hell?!!?! Don’t their families deserve\nsome closure? Don’t our children deserve\nsafety? Why are these “anomalies” ignored out-\nright?
-  ES: First of all. Not all of these “crimes” are fully\nrepresented. There are violent crimes and\nsexual crimes but somehow the Media fails to\nmention the “missing” crimes. Why didn't they\nuse words like “kidnapping” or “MIA”? It's a safe\nassumption right? Well that's where they’ve\nscrewed it up. Some of these missing crimes\nare not reported because they didn't treat\nthem as crimes at all, but “statistical anomaly”.\nWhat the hell?!!?! Don’t their families deserve\nsome closure? Don’t our children deserve\nsafety? Why are these “anomalies” ignored out-\nright?  (x1)  [sin_traducir]
 - EN: First one. Tracy P.
   ES: Primero. Tracy P.    (x1)  [relleno_espacios]
 - EN: First vlog (hopefully not the last)
@@ -1792,8 +1334,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La justicia es más importante. Envía el reporte     (x1)  [relleno_espacios]
 - EN: Found out today that charm still exists :D:D:D
   ES: Hoy descubrí que ese encanto todavía existe   (x1)  [relleno_espacios]
-- EN: Founded on the principles of sincerity \nand adventure, we welcome you to try out Spark\nin your journey to happy ever after.
-  ES: Fundada en principios de sinceridad y aventura, te damos bienvenida a probar Spark en tu viaje hacia felices para siempre.   (x1)  [relleno_espacios]
 - EN: Fred
   ES: Fred  (x1)  [sin_traducir]
 - EN: Fred Tanner
@@ -1804,28 +1344,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Free Willy  (x1)  [sin_traducir]
 - EN: From Phresh Ideas
   ES: De Phresh Ideas    (x1)  [relleno_espacios]
-- EN: From Yolanda right?
-  ES: De Yolanda verdad?   (x1)  [relleno_espacios]
 - EN: From the Office of Admissions,
   ES: De la Oficina de Admisiones,    (x1)  [relleno_espacios]
 - EN: From your previous guy, whatever happened
   ES: De tu ex, lo que sea que pasó             (x1)  [relleno_espacios]
-- EN: Fuck Anna
-  ES: A mierda   (x1)  [relleno_espacios]
 - EN: Fuck I am recording this
   ES: Mierda, estoy grabando    (x1)  [relleno_espacios]
 - EN: Fuck it. But I get it.
   ES: Joder. Pero entiendo.   (x1)  [relleno_espacios]
-- EN: Fuck other guys im the only one who treat her right
-  ES: A mierda con otros chicos, yo soy unico que trata    (x1)  [relleno_espacios]
 - EN: Fucking basic common sense shit
   ES: Mierda basica de sentido comun   (x1)  [relleno_espacios]
 - EN: Funny, you dont seem like the techie
   ES: Jaja, no pareces ser de tecnología   (x1)  [relleno_espacios]
 - EN: Futa Baker
   ES: Futa Baker  (x1)  [sin_traducir]
-- EN: Fuuuuuuuuckkk
-  ES: Fuuuuuuuuckkk  (x1)  [sin_traducir]
 - EN: GO THEN dont blame if things go bad
   ES: VE ENTONCES, no me culpes si cosas   (x1)  [relleno_espacios]
 - EN: Game over fuckface
@@ -1862,10 +1394,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ve por el respaldo de su trabajo a tu manera   (x1)  [relleno_espacios]
 - EN: God fucking damn it
   ES: Maldita sea concha   (x1)  [relleno_espacios]
-- EN: God, Anna
-  ES: Dios,      (x1)  [relleno_espacios]
-- EN: Going to jail is NOT an option for me
-  ES: Ir a carcel NO es opcion para mi!!     (x1)  [relleno_espacios]
 - EN: Gonna try Spark (finally)
   ES: Probare Spark (por fin)    (x1)  [relleno_espacios]
 - EN: Good for you!
@@ -1892,8 +1420,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: He tenido matches súper raros          (x1)  [relleno_espacios]
 - EN: Got the reset
   ES: Consegui       (x1)  [relleno_espacios]
-- EN: Got your number! 😄
-  ES: Consegui tu numero!    (x1)  [relleno_espacios]
 - EN: Great! Give it a shot
   ES: ¡Genial! Inténtalo   (x1)  [relleno_espacios]
 - EN: Great! He's hiding something I can feel it.
@@ -1916,12 +1442,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Greg la está buscando   (x1)  [relleno_espacios]
 - EN: Greg is very defensive
   ES: Greg es muy defensivo   (x1)  [relleno_espacios]
-- EN: Greg's idea is the best
-  ES: La idea de Greg es       (x1)  [relleno_espacios]
 - EN: Greg, I need to ask you something.
   ES: Greg, necesito hacerte pregunta.    (x1)  [relleno_espacios]
-- EN: Greg? Who's Greg?
-  ES: Greg? Who's Greg?  (x1)  [sin_traducir]
 - EN: HER ACTUAL REAL LIFE FRIEND
   ES: SU AMIGA DE VERDAD           (x1)  [relleno_espacios]
 - EN: Had to clear up some backlog
@@ -1952,18 +1474,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Llamaste a su trabajo?            (x1)  [relleno_espacios]
 - EN: Have you considered that he just might be innocent
   ES: ¿Has considerado que podría ser inocente          (x1)  [relleno_espacios]
-- EN: Have you considered that the things you say might come of as creepy?
-  ES: Has pensado que lo que dices puede sonar raro?                        (x1)  [relleno_espacios]
 - EN: Have you ever considered that whats his face from Spark is just dicking you around?
   ES: ¿Alguna vez consideraste que ese tipo de Spark solo te está tomando el pelo?       (x1)  [relleno_espacios]
-- EN: Have you read the past Spark messages?
-  ES: Leiste mensajes anteriores de Spark?    (x1)  [relleno_espacios]
 - EN: Have you talked to Aunt Penny yet?
   ES: ¿Has hablado con la tía Penny?    (x1)  [relleno_espacios]
 - EN: Have you thought about your dress size ?
   ES: ¿Has pensado en tu talla de vestido?     (x1)  [relleno_espacios]
-- EN: Have you tried tapping on "forgot password"
-  ES: Intentaste tocar "olvide mi contrasena"?     (x1)  [relleno_espacios]
 - EN: He added me on Jabbr!
   ES: Me agrego en Jabbr!!   (x1)  [relleno_espacios]
 - EN: He broke off with his girlfriend and of course he was upset
@@ -1998,8 +1514,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Me dio perspectiva y muchos buenos consejos            (x1)  [relleno_espacios]
 - EN: He gets along with people well and generally likable
   ES: Se lleva bien con gente y es generalmente agradable   (x1)  [relleno_espacios]
-- EN: He grew distant
-  ES: Se volvio        (x1)  [relleno_espacios]
 - EN: He has two girlfriends?
   ES: ¿Tiene dos novias?      (x1)  [relleno_espacios]
 - EN: He is a key witness in a dissapearance
@@ -2028,18 +1542,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Me quería y respetaba mi trabajo     (x1)  [relleno_espacios]
 - EN: He makes alot of lewd jokes
   ES: Hace muchos chistes verdes   (x1)  [relleno_espacios]
-- EN: He met @keepingitcassie before Anna
-  ES: Se reunio con @keepingitcassie       (x1)  [relleno_espacios]
 - EN: He still cares about her.
   ES: Él todavía la quiere.    (x1)  [relleno_espacios]
 - EN: He told me it wasnt a big deal
   ES: Me dijo que no era para tanto   (x1)  [relleno_espacios]
 - EN: He went into the bathroom for quite some time
   ES: Fue al baño por bastante tiempo               (x1)  [relleno_espacios]
-- EN: He works at a design firm called Phresh Ideas
-  ES: El trabaja en una empresa de diseno llamada    (x1)  [relleno_espacios]
-- EN: He's been calling me for a few days. I've not been responding.
-  ES: Me ha llamado varios dias. No le contesto.                      (x1)  [relleno_espacios]
 - EN: He's been showing up late
   ES: Empezó a llegar tarde     (x1)  [relleno_espacios]
 - EN: Hear me out!
@@ -2068,16 +1576,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Su jefe parece un tipo duro      (x1)  [relleno_espacios]
 - EN: Her boyfriend
   ES: Su novio       (x1)  [relleno_espacios]
-- EN: Her clothes are still here.
-  ES: Su ropa todavia esta aqui.   (x1)  [relleno_espacios]
 - EN: Her husband
   ES: Su esposo    (x1)  [relleno_espacios]
-- EN: Her real name is Cassandra
-  ES: Su verdadero nombre es      (x1)  [relleno_espacios]
-- EN: Here I am a mess
-  ES: Aqui estoy,       (x1)  [relleno_espacios]
-- EN: Here I am busting my balls to find her and YOU are acusing ME?
-  ES: Aqui yo partiendome lomo para encontrarla y TU ME ACUSAS??      (x1)  [relleno_espacios]
 - EN: Here I am thinking she is talking to another dude
   ES: Aquí yo pensando que ella habla con otro tipo     (x1)  [relleno_espacios]
 - EN: Here goes
@@ -2114,12 +1614,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Santa mierda      (x1)  [relleno_espacios]
 - EN: Holy shit its Anna!
   ES: Mierda, es Anna!     (x1)  [relleno_espacios]
-- EN: How about Anna?
-  ES: ¿Y Anna?        (x1)  [relleno_espacios]
-- EN: How are you feeling?
-  ES: Como te sientes?      (x1)  [relleno_espacios]
-- EN: How bout a private show where I slide it on for you?
-  ES: Que tal un show privado donde me lo pongo para ti?    (x1)  [relleno_espacios]
 - EN: How can I compete with an ex? 😩
   ES: Como puedo competir con un ex?      (x1)  [relleno_espacios]
 - EN: How can I do anything if I havent even met her yet?!
@@ -2186,14 +1680,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ya inicié el proceso.          (x1)  [relleno_espacios]
 - EN: I always believe that you want something you gotta grab it
   ES: Siempre creo que si quieres algo tienes que agarrarlo       (x1)  [relleno_espacios]
-- EN: I always felt you look the most smashing in the office
-  ES: Siempre senti que te ves mas espectacular en oficina    (x1)  [relleno_espacios]
-- EN: I am Anna
-  ES: Yo soy     (x1)  [relleno_espacios]
 - EN: I am NOT getting involved with him again
   ES: NO voy a involucrarme con otra vez!!      (x1)  [relleno_espacios]
-- EN: I am NOT talking to you anymore
-  ES: NO voy a hablar contigo mas!!    (x1)  [relleno_espacios]
 - EN: I am a cop
   ES: Soy         (x1)  [relleno_espacios]
 - EN: I am all in for some casual fun
@@ -2202,8 +1690,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Soy mejor que tú     (x1)  [relleno_espacios]
 - EN: I am caught up with something
   ES: Estoy ocupado con algo         (x1)  [relleno_espacios]
-- EN: I am fime. Just got caught up with work. That s all. Going to take a short break. Dont worry about me
-  ES: Estoy bien. Me acabo de poner al día con el trabajo. Eso es todo. Voy a tomar un breve descanso. No   (x1)  [relleno_espacios]
 - EN: I am getting the fuck out of there
   ES: Me largaré de ahí                 (x1)  [relleno_espacios]
 - EN: I am going anyways
@@ -2238,8 +1724,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No voy a entretener más preguntas sobre mi vida             (x1)  [relleno_espacios]
 - EN: I am not going to question it
   ES: No voy a cuestionarlo          (x1)  [relleno_espacios]
-- EN: I am not here for an interview
-  ES: No estoy aqui para entrevista   (x1)  [relleno_espacios]
 - EN: I am not letting this go
   ES: No voy a dejar esto ir    (x1)  [relleno_espacios]
 - EN: I am not playing charades to get something that important
@@ -2294,8 +1778,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Puedo escuchar a alguien   (x1)  [relleno_espacios]
 - EN: I can only imagine what he'll do with that picture behind closed doors
   ES: Solo puedo imaginar qué hará con esa foto a puerta cerrada            (x1)  [relleno_espacios]
-- EN: I can prove that I didnt meet Anna
-  ES: Puedo demostrar que no me reuni     (x1)  [relleno_espacios]
 - EN: I can take care of myself
   ES: Puedo cuidarme solo        (x1)  [relleno_espacios]
 - EN: I can tell
@@ -2304,8 +1786,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No puedo entender lo que dices       (x1)  [relleno_espacios]
 - EN: I can't promise you that
   ES: No puedo prometerte eso   (x1)  [relleno_espacios]
-- EN: I can't remember its birthday though..
-  ES: Pero no puedo acordar su cumpleanos..   (x1)  [relleno_espacios]
 - EN: I can't remember where I put it
   ES: No puedo acordar donde lo puse   (x1)  [relleno_espacios]
 - EN: I can't see shit
@@ -2322,14 +1802,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No lo encuentro 😅         (x1)  [relleno_espacios]
 - EN: I can’t breathe, I can’t see
   ES: No puedo respirar, no puedo ver   (x1)  [relleno_espacios]
-- EN: I change my mind. Tell me more
-  ES: Cambie de opinion. Cuentame     (x1)  [relleno_espacios]
 - EN: I chuckled a little
   ES: Me reí un poquito   (x1)  [relleno_espacios]
 - EN: I confronted him and he told me he "guessed it"
   ES: Lo confronté y me dijo que lo 'adivinó'        (x1)  [relleno_espacios]
-- EN: I could just ask ashley
-  ES: Podria simplemente       (x1)  [relleno_espacios]
 - EN: I couldn't do it anymore
   ES: Ya no podía más         (x1)  [relleno_espacios]
 - EN: I did all the work
@@ -2412,8 +1888,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No tengo tiempo       (x1)  [relleno_espacios]
 - EN: I dont know if you are a boy or a girl
   ES: No sé si eres chico o chica            (x1)  [relleno_espacios]
-- EN: I dont know that person
-  ES: No conozco a esa         (x1)  [relleno_espacios]
 - EN: I dont know what it is
   ES: No sé cuál es         (x1)  [relleno_espacios]
 - EN: I dont know what to do
@@ -2430,8 +1904,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No creo que lo haya     (x1)  [relleno_espacios]
 - EN: I dont think its even human
   ES: No creo que sea ni humano    (x1)  [relleno_espacios]
-- EN: I dont think the cops can help
-  ES: No creo que policia pueda       (x1)  [relleno_espacios]
 - EN: I dont think you wanna know
   ES: No creo que quieras saber    (x1)  [relleno_espacios]
 - EN: I dont understand.
@@ -2478,40 +1950,26 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Te di tanto         (x1)  [relleno_espacios]
 - EN: I got a bad feeling about this
   ES: Tengo un mal presentimiento     (x1)  [relleno_espacios]
-- EN: I got a confession to make
-  ES: Tengo confesion que hacer   (x1)  [relleno_espacios]
-- EN: I got a new batch of phone stuff to look at
-  ES: Tengo un nuevo lote de cosas del telefono    (x1)  [relleno_espacios]
 - EN: I got a romantic proposition for you
   ES: Tengo propuesta romantica para ti     (x1)  [relleno_espacios]
-- EN: I got her latest update
-  ES: Obtuve su ultima         (x1)  [relleno_espacios]
 - EN: I got some bad news
   ES: Tengo malas          (x1)  [relleno_espacios]
 - EN: I got some good news and bad news
   ES: Tengo buenas noticias y malas      (x1)  [relleno_espacios]
 - EN: I guess maybe I'll hang out with Ashley
   ES: Supongo que tal vez saldré con Ashley   (x1)  [relleno_espacios]
-- EN: I guess my theory about Greg making Anna dissapear is too far fetched
-  ES: Supongo que mi teoria de que Greg hizo desaparecer a Anna es           (x1)  [relleno_espacios]
 - EN: I guess sometimes you can never tell
   ES: Supongo que a veces no puedes saber   (x1)  [relleno_espacios]
 - EN: I guess that comes with the double life
   ES: Creo que eso viene con la doble vida     (x1)  [relleno_espacios]
 - EN: I guess this is goodbye then
   ES: Supongo que esto es adios     (x1)  [relleno_espacios]
-- EN: I had to be sure
-  ES: Tenia que estar   (x1)  [relleno_espacios]
-- EN: I hated my previous name
-  ES: Odiaba mi nombre          (x1)  [relleno_espacios]
 - EN: I have a girlfriend… and I wanna make things work with her.
   ES: Tengo novia... y quiero que las cosas funcionen con ella.      (x1)  [relleno_espacios]
 - EN: I have a grand night of a date planned out for him/her/it.
   ES: Tengo noche de cita grandiosa planeada para el/ella/ello.   (x1)  [relleno_espacios]
 - EN: I have learned stuff which might bring unique value
   ES: He aprendido cosas que pueden aportar un valor       (x1)  [relleno_espacios]
-- EN: I have no other choice!
-  ES: No tengo otra opcion!!   (x1)  [relleno_espacios]
 - EN: I have no time to deal with your feelings right now
   ES: No tengo tiempo para tus sentimientos ahora          (x1)  [relleno_espacios]
 - EN: I have these cookies I need to pass to you
@@ -2552,8 +2010,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Acabo de hablar con ella        (x1)  [relleno_espacios]
 - EN: I just read my text.
   ES: Lei mi mensaje.       (x1)  [relleno_espacios]
-- EN: I just think he is hiding something thats all
-  ES: Solo creo que esta ocultando algo, eso es      (x1)  [relleno_espacios]
 - EN: I just think that I should be the one who saves Ana
   ES: Solo creo que debería ser yo quien salve a Anna     (x1)  [relleno_espacios]
 - EN: I just took a guess
@@ -2582,8 +2038,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sé que suena raro pero ella lo explicó todo 😅          (x1)  [relleno_espacios]
 - EN: I know it sounds weird
   ES: Sé que suena raro      (x1)  [relleno_espacios]
-- EN: I know it's hard to believe
-  ES: Se que es dificil de creer   (x1)  [relleno_espacios]
 - EN: I know the article looks.
   ES: Se como se ve articulo.    (x1)  [relleno_espacios]
 - EN: I know the month
@@ -2594,18 +2048,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sé que a veces tenemos diferencias      (x1)  [relleno_espacios]
 - EN: I know where she works
   ES: Se donde ella trabaja   (x1)  [relleno_espacios]
-- EN: I know you're mad but some subtlety might go a long way
-  ES: Se que estas molesto pero un poco de sutileza no         (x1)  [relleno_espacios]
 - EN: I know you’re there.
   ES: Sé que estás ahí.    (x1)  [relleno_espacios]
 - EN: I know you’re worried, but I’m okay.
   ES: Se que te preocupas, pero estoy bien.     (x1)  [relleno_espacios]
 - EN: I like it
   ES: Me gusta   (x1)  [relleno_espacios]
-- EN: I like your energy kid
-  ES: Me gusta tu energia,    (x1)  [relleno_espacios]
-- EN: I look forward to your callback
-  ES: Espero tu llamada                (x1)  [relleno_espacios]
 - EN: I looked at her
   ES: La miré         (x1)  [relleno_espacios]
 - EN: I love you
@@ -2618,12 +2066,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quiero decir un juego    (x1)  [relleno_espacios]
 - EN: I mean the re-release
   ES: Quiero decir           (x1)  [relleno_espacios]
-- EN: I mean what is the worst that could happen
-  ES: O sea, que es lo peor que podria pasar?     (x1)  [relleno_espacios]
 - EN: I mean yeah
   ES: O sea, sí   (x1)  [relleno_espacios]
-- EN: I mean. She told me about it
-  ES: O sea, ella me contó         (x1)  [relleno_espacios]
 - EN: I might have exaggerated it a little
   ES: Quizás lo exageré un poco           (x1)  [relleno_espacios]
 - EN: I might have filled in the wrong name
@@ -2632,8 +2076,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Yo le habré contado de ti       (x1)  [relleno_espacios]
 - EN: I must have missed something
   ES: Debo haberme perdido algo     (x1)  [relleno_espacios]
-- EN: I need Anna's Favorite Movie
-  ES: Necesito Pelicula Favorita    (x1)  [relleno_espacios]
 - EN: I need a favor first
   ES: Necesito un favor     (x1)  [relleno_espacios]
 - EN: I need his full name
@@ -2676,12 +2118,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Yo digo que simplemente entro y lo hago yo mismo           (x1)  [relleno_espacios]
 - EN: I see him in a new light
   ES: Lo veo bajo nueva luz     (x1)  [relleno_espacios]
-- EN: I see it too! 😱😱😱
-  ES: Yo tambien veo!             (x1)  [relleno_espacios]
 - EN: I seriously doubt that.
   ES: Serio lo dudo mucho.     (x1)  [relleno_espacios]
-- EN: I spent some time to reflect on the way here
-  ES: Pase un tiempo reflexionando en camino aqui   (x1)  [relleno_espacios]
 - EN: I spoke to her abit and she cleared things up
   ES: Hablé con ella un poco y aclaró las cosas    (x1)  [relleno_espacios]
 - EN: I suggest browsing our website first before making the call
@@ -2694,8 +2132,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Juro por Dios...   (x1)  [relleno_espacios]
 - EN: I think Anna would like that
   ES: Creo que a Anna le gustaria   (x1)  [relleno_espacios]
-- EN: I think I am in way over my head thinking I can do this on my own
-  ES: Creo que me meti en algo mas grande de lo que puedo manejar        (x1)  [relleno_espacios]
 - EN: I think I blew that chance
   ES: Creo que desperdicie esa    (x1)  [relleno_espacios]
 - EN: I think I can help myself now
@@ -2730,16 +2166,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Creo que eso es basicamente   (x1)  [relleno_espacios]
 - EN: I think there is something bigger at works here 😣
   ES: Creo que hay algo más grande trabajando aquí 😣   (x1)  [relleno_espacios]
-- EN: I think theres a reason why I cld never get along with guys
-  ES: Creo que hay razon por que nunca me lleve bien con chicos    (x1)  [relleno_espacios]
 - EN: I think we got some great leads
   ES: Creo que tenemos buenas pistas   (x1)  [relleno_espacios]
 - EN: I think we should stop seeing each other?
   ES: ¿Creo que deberíamos dejar de vernos?    (x1)  [relleno_espacios]
 - EN: I think you are making this a little too dramatic
   ES: Creo que lo estás haciendo demasiado dramático   (x1)  [relleno_espacios]
-- EN: I think you are on to something 🤔
-  ES: Creo que estás en algo 🤔          (x1)  [relleno_espacios]
 - EN: I think you need track this Cassie person down
   ES: Creo que necesitas rastrear a esta Cassie       (x1)  [relleno_espacios]
 - EN: I think you should call her and ask if she knows anything about Greg
@@ -2756,14 +2188,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Le conté todo         (x1)  [relleno_espacios]
 - EN: I told you I didnt do anything!
   ES: ¡¡Te dije que no hice nada!!   (x1)  [relleno_espacios]
-- EN: I too enjoy games with plenty of physical contact
-  ES: Yo tambien disfruto juegos con bastante contacto   (x1)  [relleno_espacios]
 - EN: I tracked down Cassie
   ES: Rastreé a Cassie      (x1)  [relleno_espacios]
 - EN: I tried to give her space.
   ES: Intenté darle espacio.     (x1)  [relleno_espacios]
-- EN: I trust you are going to keep my chats with Anna a secret?
-  ES: Confio en que mantendras mis chats con Anna en secreto?     (x1)  [relleno_espacios]
 - EN: I trusted you!!!
   ES: Confie en ti!!!   (x1)  [relleno_espacios]
 - EN: I understand
@@ -2838,12 +2266,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Por que di tantas oportunidades         (x1)  [relleno_espacios]
 - EN: I wont be surprised if he had some kind of criminal record
   ES: No me sorprenderia si tuviera algun tipo de antecedentes    (x1)  [relleno_espacios]
-- EN: I worked my ass off to keep my relationship a secret for the sake of @keepingitcassie
-  ES: Me esforce mucho para mantener mi relacion en secreto por bien de @keepingitcassie     (x1)  [relleno_espacios]
 - EN: I worked so hard for the fake account
   ES: Trabajé tan duro en la cuenta falsa   (x1)  [relleno_espacios]
-- EN: I would be careful when I use the word "tell people what to do"
-  ES: Yo tendria cuidado con palabra 'decirle a gente que hacer'       (x1)  [relleno_espacios]
 - EN: I would like to know your best selections
   ES: Me gustaria conocer tus mejores            (x1)  [relleno_espacios]
 - EN: I would never do anything remotely illegal
@@ -2868,20 +2292,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Te daré otra oportunidad     (x1)  [relleno_espacios]
 - EN: I'll just save Anna myself
   ES: Solo salvare a Anna yo      (x1)  [relleno_espacios]
-- EN: I'll just walk over to your desk and just give me your password
-  ES: Iré a tu escritorio y solo dame tu contraseña                  (x1)  [relleno_espacios]
 - EN: I'll leave it up to you.
   ES: Lo dejo en tus manos.     (x1)  [relleno_espacios]
-- EN: I'll let her be the judge
-  ES: Dejame que ella sea juez   (x1)  [relleno_espacios]
 - EN: I'll make it quick
   ES: Lo haré rápido    (x1)  [relleno_espacios]
 - EN: I'll remember that 😑
   ES: Lo recordaré 😑       (x1)  [relleno_espacios]
 - EN: I'll see you soon 😊
   ES: Nos vemos pronto 😊   (x1)  [relleno_espacios]
-- EN: I'll take a peek after work
-  ES: Echare un vistazo despues    (x1)  [relleno_espacios]
 - EN: I'll take normal over anything at this point 😊
   ES: Prefiero lo normal a esto 😊                     (x1)  [relleno_espacios]
 - EN: I'll think about it 😊
@@ -2908,8 +2326,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo estoy siendo resourceful    (x1)  [relleno_espacios]
 - EN: I'm just keeping my head low
   ES: Solo estoy manteniendo        (x1)  [relleno_espacios]
-- EN: I'm just proposing alternatives
-  ES: Solo estoy proponiendo           (x1)  [relleno_espacios]
 - EN: I'm just puling your leg
   ES: Solo estoy bromeando      (x1)  [relleno_espacios]
 - EN: I'm just trying my luck
@@ -2978,8 +2394,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si Candy Crush no es un juego de verdad,     (x1)  [relleno_espacios]
 - EN: If I can close the next client
   ES: Si puedo cerrar al proximo      (x1)  [relleno_espacios]
-- EN: If I knew he had a girlfriend
-  ES: Si hubiera sabido que tenia    (x1)  [relleno_espacios]
 - EN: If I mess up
   ES: Si regreso    (x1)  [relleno_espacios]
 - EN: If I met her
@@ -3004,8 +2418,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si no te dice dónde está Anna      (x1)  [relleno_espacios]
 - EN: If it is me you wish to see
   ES: Si a mí me deseas ver       (x1)  [relleno_espacios]
-- EN: If it works it works
-  ES: If it works it works  (x1)  [sin_traducir]
 - EN: If its gonna help someone else, I will tell you everything
   ES: Si va a ayudar a alguien más, te contaré todo             (x1)  [relleno_espacios]
 - EN: If its not right for you, just walk away
@@ -3054,8 +2466,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si no crees el artículo.         (x1)  [relleno_espacios]
 - EN: If you find anything at all, I wanna hear it.
   ES: Si encuentras algo, quiero saberlo.            (x1)  [relleno_espacios]
-- EN: If you have any information on his whereabouts, please contact me on this number.
-  ES: Si sabe de su paradero, contacteme a este numero.                                  (x1)  [relleno_espacios]
 - EN: If you have something to say
   ES: Si tienes algo que decir      (x1)  [relleno_espacios]
 - EN: If you insist.
@@ -3118,8 +2528,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No estoy inspirando a nadie   (x1)  [relleno_espacios]
 - EN: Im not kidding Anna
   ES: No bromeo, Anna      (x1)  [relleno_espacios]
-- EN: Im not looking for shoes
-  ES: No estoy buscando         (x1)  [relleno_espacios]
 - EN: Im not sugar coating anything for you
   ES: No te voy a endulzar nada              (x1)  [relleno_espacios]
 - EN: Im sorry but we dont sell sportswear
@@ -3132,8 +2540,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estoy pensando lo mismo que tú   (x1)  [relleno_espacios]
 - EN: In Real Life
   ES: Vida real     (x1)  [relleno_espacios]
-- EN: In case you are unaware, we are dating! 😠
-  ES: En caso de que no lo sepas, estamos           (x1)  [relleno_espacios]
 - EN: In sickness and in health.
   ES: En salud y enfermedad.      (x1)  [relleno_espacios]
 - EN: Intern at Media Prime
@@ -3144,18 +2550,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Iris Chat  (x1)  [sin_traducir]
 - EN: Is Greg giving you any ideas?
   ES: ¿Greg te está dando ideas?   (x1)  [relleno_espacios]
-- EN: Is anyone looking for her?
-  ES: Alguien esta buscando?      (x1)  [relleno_espacios]
 - EN: Is everything alright?
   ES: ¿Está todo bien?      (x1)  [relleno_espacios]
-- EN: Is everything ok?
-  ES: Esta todo bien?    (x1)  [relleno_espacios]
 - EN: Is he a criminal?
   ES: ¿Es criminal?     (x1)  [relleno_espacios]
-- EN: Is he on Jabbr?
-  ES: Esta en Jabbr?   (x1)  [relleno_espacios]
-- EN: Is he with you?
-  ES: Esta contigo?    (x1)  [relleno_espacios]
 - EN: Is it though?
   ES: ¿Lo es?       (x1)  [relleno_espacios]
 - EN: Is it working? hehe
@@ -3170,18 +2568,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Esta pasando algo    (x1)  [relleno_espacios]
 - EN: Is that how you've been feeling?
   ES: ¿Es así como te has sentido?    (x1)  [relleno_espacios]
-- EN: Is that legal?
-  ES: Es legal eso?   (x1)  [relleno_espacios]
-- EN: Is that so difficult for you?
-  ES: Es eso tan dificil para ti?    (x1)  [relleno_espacios]
 - EN: Is that your question?
   ES: ¿Esa es tu pregunta?   (x1)  [relleno_espacios]
 - EN: Is there a misunderstanding?
   ES: ¿Hay un malentendido?        (x1)  [relleno_espacios]
 - EN: Is there any other kind?
   ES: ¿Hay algún otro tipo?   (x1)  [relleno_espacios]
-- EN: Is there anything I can do
-  ES: Hay algo que pueda hacer?   (x1)  [relleno_espacios]
 - EN: Is there smthing wrong wit me?
   ES: ¿Hay algo mal conmigo?         (x1)  [relleno_espacios]
 - EN: Is there something you are not telling me?
@@ -3194,8 +2586,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Esto es lo que Anna pasó?     (x1)  [relleno_espacios]
 - EN: Is this your first time using Spark?
   ES: ¿Es tu primera vez usando Spark?     (x1)  [relleno_espacios]
-- EN: Isnt company policy to get to know your colleages better as well?
-  ES: No es politica conocer mejor a los companeros?                     (x1)  [relleno_espacios]
 - EN: Isn’t that like an invasion of privacy?
   ES: ¿¿No eso es invasión de privacidad??    (x1)  [relleno_espacios]
 - EN: It brings people together
@@ -3230,10 +2620,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Me miró.         (x1)  [relleno_espacios]
 - EN: It looks like her, but it’s something else.
   ES: Se parece a ella, pero es otra cosa.           (x1)  [relleno_espacios]
-- EN: It made me realize something
-  ES: Me estas acusando de algo?    (x1)  [relleno_espacios]
-- EN: It might still be in the Gallery 🤔
-  ES: Todavia podria estar en Galeria 🤔   (x1)  [relleno_espacios]
 - EN: It restored itself automatically
   ES: Se restauró automáticamente     (x1)  [relleno_espacios]
 - EN: It says here that you are making an official sexual harrassment report againt Murv
@@ -3246,8 +2632,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Empezó bien, era UN VERDADERO encantador   (x1)  [relleno_espacios]
 - EN: It stopped
   ES: Se detuvo   (x1)  [relleno_espacios]
-- EN: It was a defence mechanism for something
-  ES: Era un mecanismo de defensa para algo     (x1)  [relleno_espacios]
 - EN: It was all a misunderstanding
   ES: Todo fue un malentendido       (x1)  [relleno_espacios]
 - EN: It was sent to me for some reason.
@@ -3268,14 +2652,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Es medio           (x1)  [relleno_espacios]
 - EN: It's like we are strangers now
   ES: Es como si fueramos extranos    (x1)  [relleno_espacios]
-- EN: It's only a box of them
-  ES: Es solo una caja         (x1)  [relleno_espacios]
 - EN: It's really me Ashley lol
   ES: Soy yo de verdad Ashley    (x1)  [relleno_espacios]
-- EN: It't first come fist serve, so let me finish up with the earlier winners
-  ES: Es por orden de llegada, asi que dejame terminar con ganadores            (x1)  [relleno_espacios]
-- EN: Its Jabbr. She definately posted something from here.
-  ES: Es Jabbr. Ella publico algo desde aqui.                (x1)  [relleno_espacios]
 - EN: Its Taylor Perrera
   ES: Es Taylor Perrera   (x1)  [relleno_espacios]
 - EN: Its a long story
@@ -3312,8 +2690,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Son fantasmas. fantasmas       (x1)  [relleno_espacios]
 - EN: Its gonna be easy
   ES: Va a ser fácil    (x1)  [relleno_espacios]
-- EN: Its hard to hold this job in this economy as it is
-  ES: Es dificil mantener este trabajo en esta economia   (x1)  [relleno_espacios]
 - EN: Its her cat
   ES: Es su gato   (x1)  [relleno_espacios]
 - EN: Its her cat.
@@ -3332,12 +2708,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No es eso     (x1)  [relleno_espacios]
 - EN: Its not your fault
   ES: No es tu culpa      (x1)  [relleno_espacios]
-- EN: Its right after I told you about Yolanda isnt it
-  ES: Es justo despues de que te conte sobre Yolanda,   (x1)  [relleno_espacios]
 - EN: Its still breaking and entering
   ES: Aún así es allanamiento        (x1)  [relleno_espacios]
-- EN: Its the 4th glass talking so dont listen to it
-  ES: Es cuarto vaso hablando asi que no le hagas     (x1)  [relleno_espacios]
 - EN: Its the meetings again right?
   ES: Son reuniones de nuevo,        (x1)  [relleno_espacios]
 - EN: Its this old cartoon rabbit from the 80s
@@ -3350,8 +2722,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Es demasiado coincidencia para discutir            (x1)  [relleno_espacios]
 - EN: Its true
   ES: Es        (x1)  [relleno_espacios]
-- EN: Its wrong to share personal info
-  ES: Esta mal compartir informacion    (x1)  [relleno_espacios]
 - EN: Its your turn
   ES: Te toca a ti   (x1)  [relleno_espacios]
 - EN: Its your turn to AMA
@@ -3412,8 +2782,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: James tambien desaparecio   (x1)  [relleno_espacios]
 - EN: James' phone was found by someone else
   ES: El telefono de James fue encontrado     (x1)  [relleno_espacios]
-- EN: James?
-  ES: James?  (x1)  [sin_traducir]
 - EN: Jay Tyler
   ES: Jay Tyler  (x1)  [sin_traducir]
 - EN: Jayson Olsen
@@ -3428,8 +2796,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Jimmy  (x1)  [sin_traducir]
 - EN: Josh Chen
   ES: Josh Chen  (x1)  [sin_traducir]
-- EN: Just a boring old phone
-  ES: Solo un telefono         (x1)  [relleno_espacios]
 - EN: Just answer the question.
   ES: Solo responde pregunta.    (x1)  [relleno_espacios]
 - EN: Just call one of her work friends
@@ -3440,8 +2806,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo no seas raro   (x1)  [relleno_espacios]
 - EN: Just enjoy yourself
   ES: Solo diviértete     (x1)  [relleno_espacios]
-- EN: Just get the hell out of my life before I call the cops
-  ES: Solo largate de mi vida antes de que llame a policia     (x1)  [relleno_espacios]
 - EN: Just give it a shot
   ES: Solo inténtalo      (x1)  [relleno_espacios]
 - EN: Just give me a few days and I will sort things out
@@ -3484,8 +2848,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo alejate de esto antes de que sea         (x1)  [relleno_espacios]
 - EN: Just want to say
   ES: Solo queria       (x1)  [relleno_espacios]
-- EN: Just who the hell are you?
-  ES: Quien demonios eres tu?     (x1)  [relleno_espacios]
 - EN: Justin Woodman
   ES: Justin Woodman  (x1)  [sin_traducir]
 - EN: Kad Deidre
@@ -3508,20 +2870,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La llave no        (x1)  [relleno_espacios]
 - EN: Kinda misleading isnt it?
   ES: Bastante engañoso ¿no?   (x1)  [relleno_espacios]
-- EN: Kinda sucks the fun outta dating isnt it
-  ES: Medio le quita gracia a citas no?         (x1)  [relleno_espacios]
 - EN: King
   ES: Rey   (x1)  [relleno_espacios]
 - EN: Kyle Deeley
   ES: Kyle Deeley  (x1)  [sin_traducir]
 - EN: LETS DO THIS
   ES: HAGAMOSLO     (x1)  [relleno_espacios]
-- EN: Last night you didn't really want to dance.
-  ES: Anoche no querías bailar.                   (x1)  [relleno_espacios]
 - EN: Last question
   ES: Ultima         (x1)  [relleno_espacios]
-- EN: Lay it on me buddy
-  ES: Cuéntamelo, compa  (x1)  [contenido_faltante]
 - EN: Leave me the fuck alone greg
   ES: Déjame en paz, Greg          (x1)  [relleno_espacios]
 - EN: Lee Everee
@@ -3530,6 +2886,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Dejame       (x1)  [relleno_espacios]
 - EN: Lester
   ES: Lester  (x1)  [sin_traducir]
+- EN: Let me clear it up
+  ES: Déjame explicarlo.  (x1)  [contenido_faltante]
 - EN: Let me just check something real quick
   ES: Déjame verificar algo rápido          (x1)  [relleno_espacios]
 - EN: Let me talk to "Anna" first
@@ -3556,28 +2914,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Intercambiemos   (x1)  [relleno_espacios]
 - EN: Let’s get practical, Taylor.
   ES: Seamos prácticos, Taylor.      (x1)  [relleno_espacios]
-- EN: Liar
-  ES: Liar  (x1)  [sin_traducir]
 - EN: Liar, you are just as panicked as me
   ES: Mentiroso, estas igual de asustado    (x1)  [relleno_espacios]
 - EN: Like a second opinion
   ES: Como segunda opinion   (x1)  [relleno_espacios]
-- EN: Like he went crazy?
-  ES: Como que se volvio   (x1)  [relleno_espacios]
 - EN: Like how you killed James?
   ES: ¿Como mataste a James?     (x1)  [relleno_espacios]
 - EN: Like how you killed James?
   ES: ¿Cómo mataste a James?    (x1)  [relleno_espacios]
-- EN: Like the one with the dots ?
-  ES: ¿Como el de los puntos?      (x1)  [relleno_espacios]
 - EN: Like we talked about just get on Spark
   ES: Como hablamos, solo únete a Spark      (x1)  [relleno_espacios]
 - EN: Like you did with your previous guy
   ES: Como hiciste con tu ex               (x1)  [relleno_espacios]
-- EN: Like you wouldn't do the same?
-  ES: Como que no harias lo mismo?    (x1)  [relleno_espacios]
-- EN: Like you?
-  ES: Como tu?   (x1)  [relleno_espacios]
 - EN: Like your pic 😊
   ES: Me gusta tu foto    (x1)  [relleno_espacios]
 - EN: Like, what if you want to return something?
@@ -3588,20 +2936,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Escuchalo tu mismo   (x1)  [relleno_espacios]
 - EN: Listen wisecrack, you dont know her
   ES: Escucha listillo, no la conoces      (x1)  [relleno_espacios]
-- EN: Lol not you. Ron. You be you ;)
-  ES: Jajaja no tu. Ron. Tu se tu ;)   (x1)  [relleno_espacios]
 - EN: Long day huh
   ES: Dia largo,    (x1)  [relleno_espacios]
 - EN: Look at himmmmmmmmmmmm
   ES: Míralommmmmmmmmmmm     (x1)  [relleno_espacios]
 - EN: Look at this crap.
   ES: Mira esta mierda.   (x1)  [relleno_espacios]
-- EN: Look at this graph that was hacked from an in-\nternal law enforcement report regarding these\ncrimes.
-  ES: Mira este grafico que fue hackeado de un informe interno de fuerzas del orden sobre estos crimenes.   (x1)  [relleno_espacios]
 - EN: Look man
   ES: Mira,     (x1)  [relleno_espacios]
-- EN: Look, if youre looking for dirt on Greg
-  ES: Mira, si estas buscando informacion      (x1)  [relleno_espacios]
 - EN: Looks for\nwomen
   ES: busca\nmujeres    (x1)  [relleno_espacios]
 - EN: Looks for\nwomen
@@ -3618,8 +2960,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Amor es, ser.. Pertenecer.   (x1)  [relleno_espacios]
 - EN: Love you.
   ES: Te amo.    (x1)  [relleno_espacios]
-- EN: Lucky for you readers. I have the scoop. I was\nworking with a local detective (a very trusted\nfriend who I cant reveal his name to keep him\nsafe) to see if there is any connections to the\ncrimes and oh boy was the rabbit hole deeper\nthan Bill Gates’s wallet! But why am I doing\nthis? Because there is something strange going\non with [web_link]Spark[]. These big tech corporations are\nslowly taking over the world, selling our info to\nthe governments to spy on us, and now? Paying\noff the media and law enforcement to SILENCE\nour voices and to further pacify us into submis-\nsion. So what is it this time?
-  ES: Lucky for you readers. I have the scoop. I was\nworking with a local detective (a very trusted\nfriend who I cant reveal his name to keep him\nsafe) to see if there is any connections to the\ncrimes and oh boy was the rabbit hole deeper\nthan Bill Gates’s wallet! But why am I doing\nthis? Because there is something strange going\non with [web_link]Spark[]. These big tech corporations are\nslowly taking over the world, selling our info to\nthe governments to spy on us, and now? Paying\noff the media and law enforcement to SILENCE\nour voices and to further pacify us into submis-\nsion. So what is it this time?  (x1)  [sin_traducir]
 - EN: Luis Sutcliffe
   ES: Luis Sutcliffe  (x1)  [sin_traducir]
 - EN: MOved to town together
@@ -3638,8 +2978,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Haz tu punto     (x1)  [relleno_espacios]
 - EN: Man, you have no chill.
   ES: Vaya, no tienes calma.   (x1)  [relleno_espacios]
-- EN: Managed to dig depper into her phone?
-  ES: Lograste excavar mas en su telefono?   (x1)  [relleno_espacios]
 - EN: Mark
   ES: Mark  (x1)  [sin_traducir]
 - EN: Mark Waters
@@ -3654,22 +2992,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quizás se le escape y te cuente algo que no sabemos       (x1)  [relleno_espacios]
 - EN: Maybe if you listen to me
   ES: Quizás si me escucharas   (x1)  [relleno_espacios]
-- EN: Maybe its time you listen to me for once and let it go
-  ES: Quizas es hora que me escuches por vez y lo dejes ir    (x1)  [relleno_espacios]
-- EN: Maybe she is running from an abuser
-  ES: Quizas esta huyendo de un abusador   (x1)  [relleno_espacios]
-- EN: Maybe she went for a trip?
-  ES: Quizás se fue de viaje?    (x1)  [relleno_espacios]
 - EN: Maybe she's running from you
   ES: Quizás está huyendo de ti   (x1)  [relleno_espacios]
-- EN: Maybe she’s still there
-  ES: Quizas todavia esta alla   (x1)  [relleno_espacios]
 - EN: Maybe sometime later
   ES: Quizás más tarde    (x1)  [relleno_espacios]
 - EN: Maybe they have something on this James person 🤔
   ES: Quizás tengan algo sobre este James 🤔            (x1)  [relleno_espacios]
-- EN: Maybe they have the same taste in movies?
-  ES: Quizas tienen mismo gusto en peliculas?    (x1)  [relleno_espacios]
 - EN: Maybe we can somehow call her office?
   ES: Quizas podemos llamar a su oficina?    (x1)  [relleno_espacios]
 - EN: Maybe you can measure it with your bare hands
@@ -3680,10 +3008,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quizás tu ex novio chismoseó   (x1)  [relleno_espacios]
 - EN: Me
   ES: Me  (x1)  [sin_traducir]
-- EN: Me an a few people are searching
-  ES: Yo y un par de personas estamos   (x1)  [relleno_espacios]
-- EN: Me delete what?
-  ES: Yo borrar que?   (x1)  [relleno_espacios]
 - EN: Me? please.
   ES: Yo? pls.     (x1)  [relleno_espacios]
 - EN: Meet someone from SPARK! 😱😱
@@ -3698,8 +3022,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mensaje de Greg    (x1)  [relleno_espacios]
 - EN: Message from Taylor
   ES: Mensaje de Taylor    (x1)  [relleno_espacios]
-- EN: Might be different in my case tho
-  ES: Podria ser diferente en mi caso    (x1)  [relleno_espacios]
 - EN: Mom
   ES: Mom  (x1)  [sin_traducir]
 - EN: Morgan Nason
@@ -3708,30 +3030,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Murv  (x1)  [sin_traducir]
 - EN: Must be a boyfriend
   ES: Debe ser el novio    (x1)  [relleno_espacios]
-- EN: My card number is 66EA3521113
-  ES: Mi numero de tarjeta es        (x1)  [relleno_espacios]
-- EN: My eyes might be deceiving me
-  ES: Mis ojos me podrian estar      (x1)  [relleno_espacios]
 - EN: My memory might be hazy
   ES: Mi memoria puede estar   (x1)  [relleno_espacios]
-- EN: My name is CLEARLY stated in Anna's phone 😠😠😠😠
-  ES: Mi nombre esta CLARAMENTE en telefono de Anna               (x1)  [relleno_espacios]
 - EN: My name is Yolanda and I will be your shopper today
   ES: Mi nombre es Yolanda y seré tu compradora hoy       (x1)  [relleno_espacios]
-- EN: My real name is Cassandra
-  ES: Mi verdadero nombre es     (x1)  [relleno_espacios]
-- EN: My sister told me its pretty much 50% lame jokes and 30% unsolicited dic pic
-  ES: Mi hermana dice que es basicamente 50% chistes malos y 30% fotos de pene no   (x1)  [relleno_espacios]
 - EN: NAILED IT 👍
   ES: DEJATE DE ESO   (x1)  [relleno_espacios]
 - EN: NEVER MISS ANYTHING
   ES: NO TE PIERDAS NADA   (x1)  [relleno_espacios]
-- EN: NO ITS NOT
-  ES: NO ES ASI   (x1)  [relleno_espacios]
 - EN: Nah I'm just going through some stuff right now
   ES: No, solo estoy pasando por unas cosas ahora      (x1)  [relleno_espacios]
-- EN: Name : Taylor Perrera\nAge : 22\nLocation : Springwood
-  ES: Nombre: Taylor Perrera Edad: 22 Ubicacion:            (x1)  [relleno_espacios]
 - EN: Naw nothing like that!
   ES: ¡No, nada de eso!      (x1)  [relleno_espacios]
 - EN: Naya Scott
@@ -3770,8 +3078,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No.  (x1)  [sin_traducir]
 - EN: Nobody else is talking here
   ES: Nadie mas esta hablando      (x1)  [relleno_espacios]
-- EN: Nobody will lie about who they are
-  ES: Nadie va a mentir sobre quién es   (x1)  [relleno_espacios]
 - EN: None. Zero
   ES: Ninguna.    (x1)  [relleno_espacios]
 - EN: Nono! not at all
@@ -3828,8 +3134,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Nada raro en eso         (x1)  [relleno_espacios]
 - EN: Nothing.. just asking..
   ES: Nada.. solo pregunto..   (x1)  [relleno_espacios]
-- EN: Notice something? A big yellow line labelled\n“missing” and no one seems to bother men-\ntioning this. Sure it's only a small number, so\nthey just lump it up with the rest of the crimes?\nLazy Pigs. Now, I already know what you’re\nthinking. This is just a graph, this could be fabri-\ncated, there is nothing much to go on from\nthis. But that's where I went an extra mile, did\nsome investigating on my own. I managed to\ntrack down and spoke to some of the friends\nand family of the victims. Nothing is more\nwarm and truthful when it comes straight from\nthe horse's mouth. Names are partially hidden\nto protect privacy.
-  ES: Notice something? A big yellow line labelled\n“missing” and no one seems to bother men-\ntioning this. Sure it's only a small number, so\nthey just lump it up with the rest of the crimes?\nLazy Pigs. Now, I already know what you’re\nthinking. This is just a graph, this could be fabri-\ncated, there is nothing much to go on from\nthis. But that's where I went an extra mile, did\nsome investigating on my own. I managed to\ntrack down and spoke to some of the friends\nand family of the victims. Nothing is more\nwarm and truthful when it comes straight from\nthe horse's mouth. Names are partially hidden\nto protect privacy.  (x1)  [sin_traducir]
 - EN: Now everyone thinks Im a bad person
   ES: Ahora todos piensan que soy mala     (x1)  [relleno_espacios]
 - EN: Now everyone’s happy.
@@ -3846,8 +3150,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ahora que ya esta a vista     (x1)  [relleno_espacios]
 - EN: Now that sounds more like you
   ES: Eso suena más a ti            (x1)  [relleno_espacios]
-- EN: Now why would I ever do that?
-  ES: Por que haria algo asi??       (x1)  [relleno_espacios]
 - EN: OCCAM** 😣
   ES: OCAM** 😣   (x1)  [relleno_espacios]
 - EN: ON iTTTttt
@@ -3862,8 +3164,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: claro.      (x1)  [relleno_espacios]
 - EN: Of couse I am!
   ES: Claro que si!   (x1)  [relleno_espacios]
-- EN: Oh Anna 😄😄😄
-  ES: Oh Anna 😄😄😄  (x1)  [sin_traducir]
 - EN: Oh Ashley (and greg)
   ES: Oh Ashley (y Greg)    (x1)  [relleno_espacios]
 - EN: Oh I am fine baby
@@ -3880,8 +3180,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Oh Dios no puedo estar    (x1)  [relleno_espacios]
 - EN: Oh god no
   ES: Oh Dios    (x1)  [relleno_espacios]
-- EN: Oh he's definately pissed 😱
-  ES: Oh esta furioso 😱            (x1)  [relleno_espacios]
 - EN: Oh its one of a kind
   ES: Oh es de sola clase   (x1)  [relleno_espacios]
 - EN: Oh my
@@ -3890,8 +3188,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Dios, y si no lo hice.          (x1)  [relleno_espacios]
 - EN: Oh really?
   ES: ¿Ah sí?   (x1)  [relleno_espacios]
-- EN: Oh shit!
-  ES: Mierda!   (x1)  [relleno_espacios]
 - EN: Oh that.. I almost forgotten about it
   ES: Ah eso.. casi lo olvido                (x1)  [relleno_espacios]
 - EN: Oh wait
@@ -3954,12 +3250,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: De lo contrario   (x1)  [relleno_espacios]
 - EN: Otherwise it will be a soap opera
   ES: De lo contrario seria telenovela   (x1)  [relleno_espacios]
-- EN: Otherwise why would he want to delete the phone's data?
-  ES: Si no por que querria borrar datos del telefono?         (x1)  [relleno_espacios]
 - EN: Our company can't afford to get into a scandal right now
   ES: Nuestra empresa no puede permitirse un escándalo ahora   (x1)  [relleno_espacios]
-- EN: Our material life is not meaningless
-  ES: Nuestra vida material no es           (x1)  [relleno_espacios]
 - EN: Pat
   ES: Pat  (x1)  [sin_traducir]
 - EN: Patricia
@@ -4002,8 +3294,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mucho tiempo para charlar     (x1)  [relleno_espacios]
 - EN: Plenty of where that came from
   ES: Hay bastantes de donde eso      (x1)  [relleno_espacios]
-- EN: Plus our big project coming up. We dont really need it right now
-  ES: Ademas tenemos un proyecto grande en camino. No lo necesitamos    (x1)  [relleno_espacios]
 - EN: Position :
   ES: Posición   (x1)  [relleno_espacios]
 - EN: Position not available
@@ -4014,8 +3304,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pulse 1 para tunas y capas.    (x1)  [relleno_espacios]
 - EN: Press 1 to request for a shopper.
   ES: Pulse 1 para pedir un comprador.   (x1)  [relleno_espacios]
-- EN: Pretend what?
-  ES: Fingir que?    (x1)  [relleno_espacios]
 - EN: Pretty normal actually... 😑
   ES: Bastante normal en verdad...    (x1)  [relleno_espacios]
 - EN: Promise me one thing
@@ -4028,8 +3316,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La Providencia ha       (x1)  [relleno_espacios]
 - EN: Punch in all the names of her Spark matches. See what you can find.
   ES: Pon todos nombres de sus matches de Spark. Averigua lo que puedas.   (x1)  [relleno_espacios]
-- EN: Put it all behind and he might approve that study leave you've been meaning to get
-  ES: Pero si quieres, aún puedes dejar que el reporte pase                              (x1)  [relleno_espacios]
 - EN: Qahar Said
   ES: Qahar Said  (x1)  [sin_traducir]
 - EN: Quinton Lewis
@@ -4048,26 +3334,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Grabar mi renuncia no tanto         (x1)  [relleno_espacios]
 - EN: Recovered
   ES: Recovered  (x1)  [sin_traducir]
-- EN: Register your company under your\naccount.
-  ES: Registre su empresa bajo su\ncuenta.        (x1)  [relleno_espacios]
-- EN: Register your company under your\naccount.
-  ES: Registra tu empresa bajo tu cuenta.        (x1)  [relleno_espacios]
-- EN: Register your friend or colleague\nunder your account.
-  ES: Registre a su amigo o colega\nbajo su cuenta.           (x1)  [relleno_espacios]
-- EN: Register your friend or colleague\nunder your account.
-  ES: Registra a tu amigo o colega bajo tu cuenta.           (x1)  [relleno_espacios]
-- EN: Register your immediate relative\nunder your account.
-  ES: Registra a tu familiar inmediato\nbajo su cuenta.      (x1)  [relleno_espacios]
-- EN: Register your immediate relative\nunder your account.
-  ES: Registra a tu familiar directo bajo tu cuenta.        (x1)  [relleno_espacios]
 - EN: Rei Norman
   ES: Rei Norman  (x1)  [sin_traducir]
 - EN: Rejection (it sucks)
   ES: Rechazo (apesta)      (x1)  [relleno_espacios]
 - EN: Remember to get your facts straight and ask him about his actions and behaviour
   ES: Recuerda tener hechos claros y preguntale sobre sus acciones y comportamiento    (x1)  [relleno_espacios]
-- EN: Remember what you're here for
-  ES: Recuerda para que estas aqui   (x1)  [relleno_espacios]
 - EN: Remember, we are always watching over you
   ES: Recuerda, siempre estamos vigilándote     (x1)  [relleno_espacios]
 - EN: Remember, we are always watching over you
@@ -4082,16 +3354,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Richard Garf  (x1)  [sin_traducir]
 - EN: Ridr
   ES: Ridr  (x1)  [sin_traducir]
-- EN: Ridr Inc. disclaims any liability for any damages arising from the use of\nits service, including but not limited to loss of life or limb, destruction of\nproperty, sexual assaults or any wrongful conducts from any of its drivers.\nBy using this service, you accept full responsibility of your own well being\nand agree to not make public disclosures of any kind of any such\nmisfortunes that may occur to you from the use of this service.
-  ES: Ridr Inc. disclaims any liability for any damages arising from the use of\nits service, including but not limited to loss of life or limb, destruction of\nproperty, sexual assaults or any wrongful conducts from any of its drivers.\nBy using this service, you accept full responsibility of your own well being\nand agree to not make public disclosures of any kind of any such\nmisfortunes that may occur to you from the use of this service.  (x1)  [sin_traducir]
 - EN: Ronnie
   ES: Ronnie  (x1)  [sin_traducir]
 - EN: Rosita
   ES: Rosita  (x1)  [sin_traducir]
 - EN: Ryu Jiggens
   ES: Ryu Jiggens  (x1)  [sin_traducir]
-- EN: SPARK IRL is our invitation-only\nsignature singles events for\nthose who want something\na little more than swiping.
-  ES: SPARK IRL es nuestro evento exclusivo\nde solteros por invitación para\nquienes buscan algo\nmás que deslizar.       (x1)  [relleno_espacios]
 - EN: STopPP DoInG thAAAt!!
   ES: PARA DE HACER ESO!!    (x1)  [relleno_espacios]
 - EN: Sabah Shaz
@@ -4130,8 +3398,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ejecutivo    (x1)  [relleno_espacios]
 - EN: Seriously where is your head at??? 😠😠😠
   ES: En serio donde esta tu cabeza??? 😠😠😠    (x1)  [relleno_espacios]
-- EN: Seriously, Anna?
-  ES: En serio, Anna?   (x1)  [relleno_espacios]
 - EN: Seriously?! You want to get into an argument now?
   ES: En serio?! Quieres meterte en discusion ahora?     (x1)  [relleno_espacios]
 - EN: Set up a meeting
@@ -4156,8 +3422,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ella es muy cercana con sus fans.     (x1)  [relleno_espacios]
 - EN: She is really into contests and games with her fans.
   ES: Ella es muy de concursos y juegos con sus fans.       (x1)  [relleno_espacios]
-- EN: She literally just made a new post
-  ES: Acaba de hacer nueva publicacion    (x1)  [relleno_espacios]
 - EN: She look like she is in trouble
   ES: Parece que tiene problemas       (x1)  [relleno_espacios]
 - EN: She looked at me
@@ -4192,8 +3456,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estaba histérica.     (x1)  [relleno_espacios]
 - EN: She will want it back at some point
   ES: Lo va a querer de vuelta en algun    (x1)  [relleno_espacios]
-- EN: She wont make it easy thats for sure
-  ES: No lo va a poner facil, eso es        (x1)  [relleno_espacios]
 - EN: She's gone?
   ES: ¿Se fue?    (x1)  [relleno_espacios]
 - EN: She's kinda cute
@@ -4208,14 +3470,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ella es          (x1)  [relleno_espacios]
 - EN: She’s always, i don’t know self conscious about it.
   ES: Ella siempre es, no sé, consciente de ello.             (x1)  [relleno_espacios]
-- EN: Shiiit 😧😧😧
-  ES: Shiiit 😧😧😧  (x1)  [sin_traducir]
 - EN: Shit something came up
   ES: Mierda, surgió algo    (x1)  [relleno_espacios]
 - EN: Shit why arent you talking?!
   ES: Mierda, por que no hablas?!   (x1)  [relleno_espacios]
-- EN: Shit.
-  ES: Mrd.   (x1)  [relleno_espacios]
 - EN: Shit.. I remember... He was standing on the roof...
   ES: Mierda.. recuerdo... Estaba parado en la azotea...   (x1)  [relleno_espacios]
 - EN: Shouldve known. 😧
@@ -4236,38 +3494,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Entonces le voy a decir a mi jefe          (x1)  [relleno_espacios]
 - EN: So are you always into the human condition
   ES: Entonces siempre te interesa condicion      (x1)  [relleno_espacios]
-- EN: So dont TELl me youcan dcide whats best for Anna
-  ES: Asi que no me DIGAS que puedes decidir que es     (x1)  [relleno_espacios]
 - EN: So he is
   ES: Así es   (x1)  [relleno_espacios]
 - EN: So he is either some next level stalker
   ES: Entonces o es un acosador de nivel       (x1)  [relleno_espacios]
-- EN: So how about you keep your opinions to yourdamnself
-  ES: Asi que porque no te guardas tus opiniones para ti   (x1)  [relleno_espacios]
 - EN: So how much of an ass is he
   ES: Entonces, que tan gran       (x1)  [relleno_espacios]
-- EN: So if there is anything I learned from using Spark
-  ES: Entonces si hay algo que he aprendido de usar       (x1)  [relleno_espacios]
-- EN: So if you want to start pointing fingers
-  ES: Asi que si quieres empezar a senalar      (x1)  [relleno_espacios]
 - EN: So is it true that the shower gives better acoustics?
   ES: ¿Es verdad que el baño tiene mejor acústica?        (x1)  [relleno_espacios]
 - EN: So its COMPLETELY fine for you to know and not me?
   ES: ¿Entonces está BIEN que tú lo sepas y yo no?     (x1)  [relleno_espacios]
-- EN: So just an allegation will get you suspended? What next, gender seperated office spaces?
-  ES: Una acusacion basta para suspenderte? Que sigue, oficinas por genero?                     (x1)  [relleno_espacios]
-- EN: So lets keep this between you and me eh?
-  ES: Asi que guardemoslo entre tu y mi, eh?    (x1)  [relleno_espacios]
 - EN: So lets say
   ES: Entonces     (x1)  [relleno_espacios]
 - EN: So lets talk
   ES: Entonces      (x1)  [relleno_espacios]
 - EN: So much is happening right now
   ES: Tantas cosas estan pasando      (x1)  [relleno_espacios]
-- EN: So no question there
-  ES: Asi que no hay duda   (x1)  [relleno_espacios]
-- EN: So pointing the finger at me was his idea all along?
-  ES: Asi que apuntarme a mi fue su idea desde principio?   (x1)  [relleno_espacios]
 - EN: So we both agree on something
   ES: Entonces estamos de acuerdo    (x1)  [relleno_espacios]
 - EN: So we gonna keep talking or what?
@@ -4288,14 +3530,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estas listo?   (x1)  [relleno_espacios]
 - EN: So you spoken to Cassie?
   ES: ¿Hablaste con Cassie?    (x1)  [relleno_espacios]
-- EN: So you're a shrink now? 😑
-  ES: Asi que eres psicologo        (x1)  [relleno_espacios]
 - EN: So your profile says you serenade upon request
   ES: Tu perfil dice que cantas bajo petición        (x1)  [relleno_espacios]
 - EN: So, I’m gonna download Spark.
   ES: Entonces, descargaré Spark.     (x1)  [relleno_espacios]
-- EN: So, he suggest you drop the report while he will have a talk with Murv
-  ES: Dejas todo atras y quizas te apruebe esa licencia de estudio que has    (x1)  [relleno_espacios]
 - EN: So. Boy problems.
   ES: Entonces.          (x1)  [relleno_espacios]
 - EN: So.. I’ll catch you soon? ‘right?
@@ -4304,16 +3542,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Entonces.. ¿funcionó o no?   (x1)  [relleno_espacios]
 - EN: Some dude came by demandin to use Anna's computer
   ES: Un tipo paso exigiendo usar computadora de Anna    (x1)  [relleno_espacios]
-- EN: Some girls would agree I can pull off some sweet moves
-  ES: Algunas chicas estarian de acuerdo en que puedo hacer   (x1)  [relleno_espacios]
 - EN: Some new data just got restored
   ES: Se acaban de restaurar algunos   (x1)  [relleno_espacios]
-- EN: Some other time please?
-  ES: Otro dia, por favor?     (x1)  [relleno_espacios]
 - EN: Some post have their locations pinned to them
   ES: Algunas publicaciones tienen sus ubicaciones   (x1)  [relleno_espacios]
-- EN: Someone name Toby
-  ES: Alguien llamado    (x1)  [relleno_espacios]
 - EN: Something bad has happened
   ES: Algo malo ha pasado         (x1)  [relleno_espacios]
 - EN: Something casual
@@ -4360,10 +3592,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Perdón, solo divago por el alcohol      (x1)  [relleno_espacios]
 - EN: Sorry for the outbursts! It’s not meant for you.
   ES: ¡Perdón por los arrebatos! No es para ti.         (x1)  [relleno_espacios]
-- EN: Sorry you go first
-  ES: Perdon, tu habla    (x1)  [relleno_espacios]
-- EN: Sorry, I know we just spoke.. and..
-  ES: Perdon, se que acabamos de hablar.   (x1)  [relleno_espacios]
 - EN: Sorry, couldn't resist.
   ES: Lo siento, no pude       (x1)  [relleno_espacios]
 - EN: Sorry, not a good time.
@@ -4406,14 +3634,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Hablamos    (x1)  [relleno_espacios]
 - EN: Springwood
   ES: Springwood  (x1)  [sin_traducir]
-- EN: Srsly Anna?
-  ES: En serio     (x1)  [relleno_espacios]
 - EN: Sry last time
   ES: Perdon,        (x1)  [relleno_espacios]
 - EN: Stephanie
   ES: Stephanie  (x1)  [sin_traducir]
-- EN: Still creeping through Anna's phone?
-  ES: Todavia espiando telefono de Anna?    (x1)  [relleno_espacios]
 - EN: Still working on it
   ES: Todavia trabajando   (x1)  [relleno_espacios]
 - EN: Stop bullshitting me.
@@ -4432,12 +3656,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estupida   (x1)  [relleno_espacios]
 - EN: Summers?
   ES: Summers?  (x1)  [sin_traducir]
-- EN: Super productive day. i only napped 2 times during work
-  ES: Dia productivo. solo dormi 2 siestas en el trabajo       (x1)  [relleno_espacios]
 - EN: Sure sure
   ES: Seguro,    (x1)  [relleno_espacios]
-- EN: Sure what is it?
-  ES: Claro, que es?    (x1)  [relleno_espacios]
 - EN: TAYLOR! Got you now you sex maniac
   ES: TAYLOR! Te atrape, maniatico        (x1)  [relleno_espacios]
 - EN: THANK YOU
@@ -4446,8 +3666,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: GRACIAS!    (x1)  [relleno_espacios]
 - EN: THAT Greg?!?!
   ES: ESO Greg?!?!   (x1)  [relleno_espacios]
-- EN: THAT is your explaination?
-  ES: ESA es tu explicacion??     (x1)  [relleno_espacios]
 - EN: THE FUCK
   ES: CARAJOS   (x1)  [relleno_espacios]
 - EN: THE POINT IS
@@ -4456,8 +3674,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ESTO NO ES      (x1)  [relleno_espacios]
 - EN: THIS. This is a step forward
   ES: ESTO. Esto es un avance       (x1)  [relleno_espacios]
-- EN: THIS. This is the problem right here
-  ES: ESTO. Aqui esta el problema           (x1)  [relleno_espacios]
 - EN: Tabitha
   ES: Tabita   (x1)  [relleno_espacios]
 - EN: Taka Ann
@@ -4476,20 +3692,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Taylor - Recuper.   (x1)  [relleno_espacios]
 - EN: Taylor Perrera
   ES: Taylor Perrera  (x1)  [sin_traducir]
-- EN: Taylor Spark Profile Update:\n\n- minor bug fixes\n- improved profile pic\n- charm increased from (3.5) to (4)\n- performance enhanced: funnier jokes\n- will serenade upon request
-  ES: Actualizacion de perfil de Taylor Perrera: - correccion de bugs menores - foto de perfil mejorada - encanto aumentado de a - rendimiento mejorado: chistes mas graciosos -     (x1)  [relleno_espacios]
 - EN: Taylor is smarter than that
   ES: Taylor es mas inteligente    (x1)  [relleno_espacios]
 - EN: Taylor is smarter than that
   ES: Taylor es más inteligente   (x1)  [relleno_espacios]
 - EN: Taylor was right
   ES: Taylor tenia      (x1)  [relleno_espacios]
-- EN: Taylor's idea is the best
-  ES: La idea de Taylor es       (x1)  [relleno_espacios]
 - EN: Tech issues again!!
   ES: Otra vez fallas!!    (x1)  [relleno_espacios]
-- EN: Tell her I'll be waiting
-  ES: Dile que estare           (x1)  [relleno_espacios]
 - EN: Tell her it’s my idea.
   ES: Dile que es mi idea.      (x1)  [relleno_espacios]
 - EN: Tell him that you are turning him in
@@ -4500,10 +3710,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Ya lo sé!       (x1)  [relleno_espacios]
 - EN: Tell me something
   ES: Cuéntame algo     (x1)  [relleno_espacios]
-- EN: Tell me what is happeneing?
-  ES: Cuentame que esta pasando?   (x1)  [relleno_espacios]
-- EN: Tell me who you are
-  ES: Dime quién eres     (x1)  [relleno_espacios]
 - EN: Tell what?!?
   ES: QUE COSA?!?   (x1)  [relleno_espacios]
 - EN: Tell you what
@@ -4512,14 +3718,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Di!    (x1)  [relleno_espacios]
 - EN: Telling me to wear my bareback dress because it looks "hot" its NOT APPROPRIATE
   ES: Decirme que use un vestido escotado por que se ve "hot" NO ES APROPIADO          (x1)  [relleno_espacios]
-- EN: Testimonials
-  ES: Testimonios   (x1)  [relleno_espacios]
-- EN: Testimonials
-  ES: Testimonials  (x1)  [sin_traducir]
 - EN: Thank GOD you changed it then 😜
   ES: Gracias a Dios que lo cambiaste     (x1)  [relleno_espacios]
-- EN: Thank god I found James' phone
-  ES: Gracias a Dios que encontre     (x1)  [relleno_espacios]
 - EN: Thank you and good day.
   ES: Gracias y buen día.     (x1)  [relleno_espacios]
 - EN: Thank you for picking Faris & Kane.
@@ -4558,8 +3758,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso no es trabajar         (x1)  [relleno_espacios]
 - EN: That is weird...
   ES: Eso es raro...    (x1)  [relleno_espacios]
-- EN: That means there might be more stuff on the phone than what you see now 😩
-  ES: Eso significa que podria haber mas datos en telefono de que ves ahora 😩    (x1)  [relleno_espacios]
 - EN: That says something
   ES: Eso dice algo        (x1)  [relleno_espacios]
 - EN: That sounds a little bit vague
@@ -4574,8 +3772,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso fue divertido    (x1)  [relleno_espacios]
 - EN: That was unexpected
   ES: Fue inesperado       (x1)  [relleno_espacios]
-- EN: That was your only crime?
-  ES: Ese fue tu unico crimen?   (x1)  [relleno_espacios]
 - EN: That would suck so much to find out
   ES: Eso sería horrible descubrir        (x1)  [relleno_espacios]
 - EN: That's creepy..
@@ -4616,14 +3812,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso es           (x1)  [relleno_espacios]
 - EN: Thats the end of the contest! I hope you guys enjoyed it as much as I do xoxoxo
   ES: Fin del concurso! Espero que lo hayan gozado tanto como yo xoxoxo                (x1)  [relleno_espacios]
-- EN: Thats the lamest excuse of not giving a number I have ever seen
-  ES: Esa es excusa mas patetica de no dar un numero que he visto      (x1)  [relleno_espacios]
 - EN: Thats the one!
   ES: ¡Ese mismo!    (x1)  [relleno_espacios]
 - EN: Thats the spirit.
   ES: Ese es espiritu.   (x1)  [relleno_espacios]
-- EN: Thats the stupidest oxymoron if I ever heard one
-  ES: Eso es oximoron mas estupido que he escuchado     (x1)  [relleno_espacios]
 - EN: Thats the thing
   ES: Esa es la cosa   (x1)  [relleno_espacios]
 - EN: Thats too reckless.
@@ -4640,30 +3832,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Para eso estoy aquí.    (x1)  [relleno_espacios]
 - EN: Thats what she said?
   ES: Eso es lo que ella    (x1)  [relleno_espacios]
-- EN: Thats when I met James
-  ES: Ahi fue cuando conoci   (x1)  [relleno_espacios]
 - EN: The A stands for Anything
   ES: La A significa Cualquier   (x1)  [relleno_espacios]
-- EN: The Canadians are at least trying to\nhonor these people, and the Austra-\nlians painfully scaling back their preju-\ndice. Americans are a long way to go,\nbut, we are at least starting to accept\ntheir identity, their way of life, and\nmost interestingly, some of their phi-\nlosophy. \n\nOne of the most enigmatic facets of\ntheir tribal society is the association\nof totem animal spirits to each\nmember of their large family. Traits\nand characteristics of the animal are\nbelieved to infuse into the connected\nperson, reflected in both physical and\nspiritual qualities. \n\nHave a look through these modern\nanimals, and see if you can spot your\ntotem animal spirits in your personal\nreflection.
-  ES: The Canadians are at least trying to\nhonor these people, and the Austra-\nlians painfully scaling back their preju-\ndice. Americans are a long way to go,\nbut, we are at least starting to accept\ntheir identity, their way of life, and\nmost interestingly, some of their phi-\nlosophy. \n\nOne of the most enigmatic facets of\ntheir tribal society is the association\nof totem animal spirits to each\nmember of their large family. Traits\nand characteristics of the animal are\nbelieved to infuse into the connected\nperson, reflected in both physical and\nspiritual qualities. \n\nHave a look through these modern\nanimals, and see if you can spot your\ntotem animal spirits in your personal\nreflection.  (x1)  [sin_traducir]
-- EN: The Chief Executive of The National Sex Felon\nWebsite (NSFW) James Sutton
-  ES: El Director Ejecutivo del Sitio Nacional de Delincuentes Sexuales James    (x1)  [relleno_espacios]
 - EN: The Click Hole
   ES: The Click Hole  (x1)  [sin_traducir]
 - EN: The Eyeris
   ES: La Eyeris   (x1)  [relleno_espacios]
 - EN: The Iris
   ES: La Iris   (x1)  [relleno_espacios]
-- EN: The National Sex Felon Website (NSFW)\nis a database that provides the public\nwith access to registered sex offenders.\n\n\nNSFW is a private entity working togeth-\ner with governments and communities to\nprovide a safe environment for our\nfriends and families.\n\n\nConcerned residents can utilize the\nsearch tool to identify information on sex\noffenders residing and working not only\nin their own neighborhoods but in other\ncommunities.
-  ES: The National Sex Felon Website (NSFW)\nis a database that provides the public\nwith access to registered sex offenders.\n\n\nNSFW is a private entity working togeth-\ner with governments and communities to\nprovide a safe environment for our\nfriends and families.\n\n\nConcerned residents can utilize the\nsearch tool to identify information on sex\noffenders residing and working not only\nin their own neighborhoods but in other\ncommunities.  (x1)  [sin_traducir]
-- EN: The OS version is correct!
-  ES: La version del OS es        (x1)  [relleno_espacios]
 - EN: The Write Thing
   ES: Lo de escribir   (x1)  [relleno_espacios]
 - EN: The crazy popular one?
   ES: ¿El súper popular?    (x1)  [relleno_espacios]
-- EN: The data is still here.. I think
-  ES: Los datos todavia estan aqui..    (x1)  [relleno_espacios]
 - EN: The evidence seems to point to that
   ES: Las pruebas parecen apuntar a eso    (x1)  [relleno_espacios]
 - EN: The extension you have requested, does not exist.
@@ -4676,18 +3856,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Internet es un recurso muy util, especialmente para hallar pervertidos      (x1)  [relleno_espacios]
 - EN: The longer we wait the harder it is to find her
   ES: Más esperamos, más difícil es encontrarla     (x1)  [relleno_espacios]
-- EN: The only reason I am trusting you is because you are holding the phone
-  ES: La unica razon por que confio en ti es porque tienes telefono           (x1)  [relleno_espacios]
-- EN: The phone crashed again
-  ES: El telefono se colgo     (x1)  [relleno_espacios]
 - EN: The registry IS real
   ES: El registro ES real   (x1)  [relleno_espacios]
 - EN: The stuff about James and her dissapearance
   ES: Lo de James y su desaparición               (x1)  [relleno_espacios]
 - EN: The whole point of Spark is to meet the girl
   ES: El punto de Spark es conocer a la chica       (x1)  [relleno_espacios]
-- EN: The world is bigger than my silly guy troubles
-  ES: El mundo es mas grande que mis problemas        (x1)  [relleno_espacios]
 - EN: Their age is usually displayed by their profile
   ES: Su edad generalmente se muestra en su perfil     (x1)  [relleno_espacios]
 - EN: Then NO DEAL
@@ -4700,14 +3874,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Entonces tendre que cargar    (x1)  [relleno_espacios]
 - EN: Then now you dont
   ES: Ahora no           (x1)  [relleno_espacios]
-- EN: Then one day he just vanished
-  ES: Y luego un dia simplemente     (x1)  [relleno_espacios]
 - EN: Then this lady, with her kid came through the door..
   ES: Luego esta senora, con su hijo, paso por puerta..     (x1)  [relleno_espacios]
 - EN: Then where the hell is she?
   ES: Entonces ¿dónde está?     (x1)  [relleno_espacios]
-- EN: Then why isnt she answering
-  ES: Entonces porque no           (x1)  [relleno_espacios]
 - EN: Then you might come closer to understanding
   ES: Entonces podrías acercarte a entender       (x1)  [relleno_espacios]
 - EN: There I said it!
@@ -4718,8 +3888,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Hay cosas por todo el piso          (x1)  [relleno_espacios]
 - EN: There are too many similarities between Anna and James for it to be a coincidence
   ES: Hay demasiadas similitudes entre Anna y James para que sea coincidencia            (x1)  [relleno_espacios]
-- EN: There are two sides to me
-  ES: Tengo dos lados            (x1)  [relleno_espacios]
 - EN: There is a chance that he is a criminal
   ES: Hay posibilidad de que sea un criminal   (x1)  [relleno_espacios]
 - EN: There is a guy who is harassing her
@@ -4754,8 +3922,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No hay más espacio para comida      (x1)  [relleno_espacios]
 - EN: There must be a hint of some sorts
   ES: Debe haber alguna pista de algun    (x1)  [relleno_espacios]
-- EN: There was a photoshoot that ended at 2am
-  ES: Habia sesion de fotos que termino a 2am   (x1)  [relleno_espacios]
 - EN: There was this voice
   ES: Había una voz        (x1)  [relleno_espacios]
 - EN: There's a reasonable explanation for this
@@ -4788,10 +3954,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Piénsalo!     (x1)  [relleno_espacios]
 - EN: This guy
   ES: El tipo   (x1)  [relleno_espacios]
-- EN: This is Detective Murilo from the Police Department.
-  ES: Habla el detective Murilo, Departamento de Policia.   (x1)  [relleno_espacios]
-- EN: This is Detective Murilo from the police department.
-  ES: Detective Murilo, departamento de policia.            (x1)  [relleno_espacios]
 - EN: This is NOT the time to be pointing fingers.
   ES: ESTE NO ES EL MOMENTO PARA SENALAR DEDOS!!    (x1)  [relleno_espacios]
 - EN: This is a normal question
@@ -4812,12 +3974,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Y esto es relevante        (x1)  [relleno_espacios]
 - EN: This is ridiculous
   ES: Esto es ridículo   (x1)  [relleno_espacios]
-- EN: This is still developing so I don’t have too much\ninfo about him. Here’s what I can dig up. He is\n25 and works as a copywriter. Although he is\ntechnically missing, he is somehow still active\non Jabbr, so no one filed a report yet. But it\ndidn't stop there. His phone was found in\nsomeone’s backyard and handed to the police\nas evidence. Now this is where it gets weird. I\nknow a guy who knows a guy who’s gone\nthrough his phone. They found a “weird video”\nof him with huge chunks of data missing. I am\nstill trying to get a hold of it.\n\nSomething strange is going on and we can't\ncount on the police the government, and the\nmedia for this. It is up to US. For the true be-\nlievers, here are my deductions; All the victims\nhave something in common:
-  ES: This is still developing so I don’t have too much\ninfo about him. Here’s what I can dig up. He is\n25 and works as a copywriter. Although he is\ntechnically missing, he is somehow still active\non Jabbr, so no one filed a report yet. But it\ndidn't stop there. His phone was found in\nsomeone’s backyard and handed to the police\nas evidence. Now this is where it gets weird. I\nknow a guy who knows a guy who’s gone\nthrough his phone. They found a “weird video”\nof him with huge chunks of data missing. I am\nstill trying to get a hold of it.\n\nSomething strange is going on and we can't\ncount on the police the government, and the\nmedia for this. It is up to US. For the true be-\nlievers, here are my deductions; All the victims\nhave something in common:  (x1)  [sin_traducir]
 - EN: This is still under investigation. I guess we will know soon
   ES: Esto sigue en investigacion. Supongo que pronto sabremos      (x1)  [relleno_espacios]
-- EN: This is the only path I haven't tried
-  ES: Este es unico camino que no he         (x1)  [relleno_espacios]
 - EN: This is too complicated
   ES: Esto es demasiado        (x1)  [relleno_espacios]
 - EN: This is too convenient
@@ -4832,8 +3990,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Esto les queda grande    (x1)  [relleno_espacios]
 - EN: This role playing thing doesn't sound like you at all.
   ES: Esta cosa de juego de roles no suena nada como tú.     (x1)  [relleno_espacios]
-- EN: This sounds SERIOUSLY EFFED UP
-  ES: Esto suena SERIAMENTE           (x1)  [relleno_espacios]
 - EN: This this how you talk?
   ES: ¿Así es como hablas?   (x1)  [relleno_espacios]
 - EN: This time round, not a word.
@@ -4868,8 +4024,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tobias  (x1)  [sin_traducir]
 - EN: Toby
   ES: Toby  (x1)  [sin_traducir]
-- EN: Toby is the only lover I need
-  ES: Toby es mi unico amor          (x1)  [relleno_espacios]
 - EN: Toby is the short name
   ES: Toby es nombre corto    (x1)  [relleno_espacios]
 - EN: Toby?
@@ -4882,16 +4036,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ya es tarde para eso   (x1)  [relleno_espacios]
 - EN: Too soon?
   ES: Pronto?    (x1)  [relleno_espacios]
-- EN: Try to match with "James"
-  ES: Intenta que te acepte      (x1)  [relleno_espacios]
 - EN: Ttime to enter the fringes of society, Ashley
   ES: Hora de entrar a los margenes, Ashley          (x1)  [relleno_espacios]
 - EN: Turns out, that skank buys stuff for other people!
   ES: Esa zorra le compra cosas a otros!                  (x1)  [relleno_espacios]
 - EN: Twister?
   ES: Twister?  (x1)  [sin_traducir]
-- EN: Two days in a row! The barista spelt my name as "Kassie"
-  ES: Dos dias seguidos! El barista escribio "Kassie"           (x1)  [relleno_espacios]
 - EN: US. Tell us
   ES: NOSOTROS.    (x1)  [relleno_espacios]
 - EN: Ughh.. This is not helping!
@@ -4906,8 +4056,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eh..       (x1)  [relleno_espacios]
 - EN: Um. There there.
   ES: Um. Ya ya.        (x1)  [relleno_espacios]
-- EN: Unlike you. I actually found something useful
-  ES: A diferencia de ti. Yo si encontre algo util   (x1)  [relleno_espacios]
 - EN: Use Anna's Spark account and edit it into a new profile
   ES: Usa cuenta de Spark de Anna y editala en un perfil       (x1)  [relleno_espacios]
 - EN: Using another employee's PC is against policy
@@ -4952,8 +4100,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Muy por delante! 😜   (x1)  [relleno_espacios]
 - EN: We GRADUATED together
   ES: Nos GRADUAMOS juntos   (x1)  [relleno_espacios]
-- EN: We also have reason to believe that you working with an accomplice named Greg Summers, conspiring to keep Anna’s disappearance a secret.
-  ES: Tambien creemos que actua con un complice, Greg Summers, para ocultar la desaparicion de Anna.                                              (x1)  [relleno_espacios]
 - EN: We are
   ES: Somos   (x1)  [relleno_espacios]
 - EN: We are DATING
@@ -4964,8 +4110,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estamos casi allí   (x1)  [relleno_espacios]
 - EN: We are already in plenty of trouble as it is
   ES: Ya estamos metidos en suficientes problemas   (x1)  [relleno_espacios]
-- EN: We are always excited what phresh faces can bring in 😄
-  ES: Siempre nos emociona lo que caras frescas pueden traer     (x1)  [relleno_espacios]
 - EN: We are far from the top
   ES: Estamos lejos de cima    (x1)  [relleno_espacios]
 - EN: We are reasonable, if you can assist us with the investigation, there will be no charges.
@@ -4994,10 +4138,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Nos vimos un par de veces      (x1)  [relleno_espacios]
 - EN: We need to lure this creep out
   ES: Necesamos sacar a este creep    (x1)  [relleno_espacios]
-- EN: We provide the very best of personal\nshoppers for your convenience, cat-\negorized by style, regional familiarity,\nand language.
-  ES: Ofrecemos lo mejor del personal.\ncompradores para su comodidad, cat-\negorizado por estilo, familiaridad regional,\ny lenguaje.    (x1)  [relleno_espacios]
-- EN: We provide the very best of personal\nshoppers for your convenience, cat-\negorized by style, regional familiarity,\nand language.
-  ES: Proporcionamos los mejores compradores personales para tu comodidad, categorizados por estilo, familiaridad regional y idioma.   (x1)  [relleno_espacios]
 - EN: We received a report from one of your neighbours.
   ES: Recibimos un informe de uno de sus vecinos.        (x1)  [relleno_espacios]
 - EN: We regret to inform you that you have NOT been shortlisted.
@@ -5028,14 +4168,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Boletín Semanal   (x1)  [relleno_espacios]
 - EN: Weird huh
   ES: Raro no?   (x1)  [relleno_espacios]
-- EN: Welcome to Chats, your default messaging app. Powered by Iris OS
-  ES: Bienvenido a Chats, tu app de mensajeria predeterminada.          (x1)  [relleno_espacios]
 - EN: Welcome to Faris & Kane, your personal shopper directory.
   ES: Bienvenido a Faris & Kane, tu directorio de compras.       (x1)  [relleno_espacios]
 - EN: Welcome!
   ES: Hola!     (x1)  [relleno_espacios]
-- EN: Well I am in her apartment and he is not
-  ES: Bueno yo estoy en su apartamento y no     (x1)  [relleno_espacios]
 - EN: Well I am not taking any chances with him
   ES: Bueno yo no voy a tomar ninguna chance     (x1)  [relleno_espacios]
 - EN: Well duh,
@@ -5056,26 +4192,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo que hago en mi vida privada no es asunto tuyo      (x1)  [relleno_espacios]
 - EN: What Totem Animal Spirit\nAre You?
   ES: Que Animal Espiritu Totem\nEres?    (x1)  [relleno_espacios]
-- EN: What Totem Animal Spirit Are You?
-  ES: Que espiritu animal eres?          (x1)  [relleno_espacios]
 - EN: What a saint
   ES: Qué santo    (x1)  [relleno_espacios]
 - EN: What about it
   ES: Que tiene      (x1)  [relleno_espacios]
 - EN: What are you doing to her
   ES: Que le estas haciendo?     (x1)  [relleno_espacios]
-- EN: What are you looking for then?
-  ES: Que estas buscando entonces?    (x1)  [relleno_espacios]
 - EN: What are you looking for?
   ES: ¿Qué estás buscando?    (x1)  [relleno_espacios]
 - EN: What are you rambling about?
   ES: ¿De qué estás divagando?   (x1)  [relleno_espacios]
-- EN: What are you saying?
-  ES: Que estas diciendo?   (x1)  [relleno_espacios]
 - EN: What can you tell me about thim
   ES: ¿Qué me puedes decir de él?   (x1)  [relleno_espacios]
-- EN: What changed?
-  ES: Que cambio?    (x1)  [relleno_espacios]
 - EN: What did I do?
   ES: ¿Qué hice?    (x1)  [relleno_espacios]
 - EN: What did he do now?
@@ -5090,20 +4218,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Que hiciste?!?!      (x1)  [relleno_espacios]
 - EN: What do I think of climate change
   ES: Que pienso del cambio climatico    (x1)  [relleno_espacios]
-- EN: What do you doubt?
-  ES: Que dudas tienes?   (x1)  [relleno_espacios]
 - EN: What does it look like?
   ES: ¿Cómo se ve?           (x1)  [relleno_espacios]
-- EN: What does that have to do with anything.
-  ES: ¿Qué tiene que ver eso con algo?        (x1)  [relleno_espacios]
-- EN: What else can you read
-  ES: Que mas puedes leer?    (x1)  [relleno_espacios]
 - EN: What else he told you?
   ES: ¿Qué más te dijo?    (x1)  [relleno_espacios]
 - EN: What else is he capable of?!
   ES: ¡¿De qué más es capaz?!   (x1)  [relleno_espacios]
-- EN: What else you got?
-  ES: Que mas tienes?     (x1)  [relleno_espacios]
 - EN: What have I done?
   ES: ¿Qué hice?       (x1)  [relleno_espacios]
 - EN: What have I done?
@@ -5112,8 +4232,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué tienes para mí?    (x1)  [relleno_espacios]
 - EN: What if Anna is deliberately trying to get away from Greg.
   ES: Y si Anna intenta alejarse de Greg.                         (x1)  [relleno_espacios]
-- EN: What if we catch this imposter (aka "James") in the act?
-  ES: Que si pillamos al impostor (alias 'James') en acto?      (x1)  [relleno_espacios]
 - EN: What is going to happen to her
   ES: ¿Qué le va a pasar?           (x1)  [relleno_espacios]
 - EN: What is going to happen to her
@@ -5124,8 +4242,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Que es lo que quieres     (x1)  [relleno_espacios]
 - EN: What is love (it hurts)
   ES: Que es el amor (duele)   (x1)  [relleno_espacios]
-- EN: What is the worst that would happen
-  ES: Que es lo peor que podria pasar?     (x1)  [relleno_espacios]
 - EN: What is there to talk about us
   ES: Que hay de hablar de nosotros   (x1)  [relleno_espacios]
 - EN: What is your command?
@@ -5134,10 +4250,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué clase de novio eres?      (x1)  [relleno_espacios]
 - EN: What kind of shitty idea is that?
   ES: ¿Qué idea de mierda es esa?      (x1)  [relleno_espacios]
-- EN: What makes you say that?
-  ES: Que te hace decir eso?    (x1)  [relleno_espacios]
-- EN: What makes you think I want to?
-  ES: Que te hace creer que quiero?    (x1)  [relleno_espacios]
 - EN: What the heck happened?
   ES: ¿Qué diablos pasó?    (x1)  [relleno_espacios]
 - EN: What the hell did you do?
@@ -5148,22 +4260,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué diablos era esa cosa?   (x1)  [relleno_espacios]
 - EN: What the hell!??!
   ES: QUE DIABLOS!??!    (x1)  [relleno_espacios]
-- EN: What the? who is this?
-  ES: Que? quien es este?     (x1)  [relleno_espacios]
 - EN: What was it before?
   ES: ¿Cómo era antes?   (x1)  [relleno_espacios]
-- EN: What you are doing is DISGUSTING
-  ES: Lo que estas haciendo es          (x1)  [relleno_espacios]
-- EN: What you want?
-  ES: Que quieres?    (x1)  [relleno_espacios]
 - EN: What's my favourite movie?
   ES: Cual es mi pelicula         (x1)  [relleno_espacios]
-- EN: What's up with you?
-  ES: Que onda contigo?    (x1)  [relleno_espacios]
-- EN: What's with all these acusations?
-  ES: Que con todas estas acusaciones?   (x1)  [relleno_espacios]
-- EN: What's your type?
-  ES: Cual es tu tipo?   (x1)  [relleno_espacios]
 - EN: What, can’t find any matches?
   ES: ¿Qué, no encuentras matches?   (x1)  [relleno_espacios]
 - EN: What?!?!
@@ -5174,22 +4274,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo que pase, voy a escucharte          (x1)  [relleno_espacios]
 - EN: Whatever it is, im paying
   ES: Sea lo que sea, lo pago    (x1)  [relleno_espacios]
-- EN: Whatever thats happening right now is spooky af
-  ES: Lo que sea que este pasando ahora es             (x1)  [relleno_espacios]
 - EN: Whats done is done.
   ES: Lo que esta hecho,   (x1)  [relleno_espacios]
 - EN: Whats gotten into you? 🤔
   ES: ¿Qué te pasa? 🤔         (x1)  [relleno_espacios]
 - EN: Whats in it for me then?
   ES: ¿Qué gano yo con eso?   (x1)  [relleno_espacios]
-- EN: Whats taking so long?
-  ES: Por que tarda tanto?   (x1)  [relleno_espacios]
 - EN: Whats that
   ES: Que es      (x1)  [relleno_espacios]
 - EN: Whats the matter with you?
   ES: ¿Qué te pasa?             (x1)  [relleno_espacios]
-- EN: Whats up with you?
-  ES: Que onda contigo?   (x1)  [relleno_espacios]
 - EN: What’s the worse that could happen?
   ES: ¿Qué es lo peor que podría pasar?   (x1)  [relleno_espacios]
 - EN: What’s wrong with her lol
@@ -5206,8 +4300,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Cuando se tome una selfie, habrá viento en su cabello   (x1)  [relleno_espacios]
 - EN: When we were out last night it was like everyone was 20 something
   ES: Cuando salimos anoche era como si todos tuvieran veintitantos      (x1)  [relleno_espacios]
-- EN: Where did you get it?
-  ES: De donde lo sacaste?   (x1)  [relleno_espacios]
 - EN: Where did you get that idea?
   ES: ¿De dó sacaste esa idea?    (x1)  [relleno_espacios]
 - EN: Where have you been?!
@@ -5216,8 +4308,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿De dónde viene ese pesimismo?      (x1)  [relleno_espacios]
 - EN: Where the hell is Anna?
   ES: ¿Dónde está Anna?     (x1)  [relleno_espacios]
-- EN: Whhyyyyyyyyyy? 😩😩😩
-  ES: Whhyyyyyyyyyy? 😩😩😩  (x1)  [sin_traducir]
 - EN: Which is why I am looking for her
   ES: Por eso la estoy buscando          (x1)  [relleno_espacios]
 - EN: Which one you going to?
@@ -5232,14 +4322,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eh?!   (x1)  [relleno_espacios]
 - EN: Why am I being punished?
   ES: ¿Por qué me castigan?   (x1)  [relleno_espacios]
-- EN: Why are some of the best english words made up of four letters?
-  ES: Por que algunas de las mejores palabras tienen cuatro letras?    (x1)  [relleno_espacios]
 - EN: Why are you involving more and more people into this mess?!?!
   ES: ¿¿Por qué involucras a más y más gente en este lío?!?!   (x1)  [relleno_espacios]
-- EN: Why are you still talking?
-  ES: Por que sigues hablando?    (x1)  [relleno_espacios]
-- EN: Why aren't you answering your phone
-  ES: Por que no contestas tu telefono?    (x1)  [relleno_espacios]
 - EN: Why arent you picking up?
   ES: ¿Por qué no contestas?   (x1)  [relleno_espacios]
 - EN: Why arent you speaking?
@@ -5252,8 +4336,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Por qué haría algo por ti?    (x1)  [relleno_espacios]
 - EN: Why would I want to destroy anything that can find Anna?!?!
   ES: Por que querria destruir algo que pueda hallar a Anna?!?!    (x1)  [relleno_espacios]
-- EN: Why would he do that?
-  ES: Por que haria eso?     (x1)  [relleno_espacios]
 - EN: Why would you say that?
   ES: ¿Por qué dices eso?    (x1)  [relleno_espacios]
 - EN: Whytf aren't you picking up?
@@ -5330,16 +4412,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sí. Pregunta   (x1)  [relleno_espacios]
 - EN: Yes but I do need to clarify something
   ES: Sí pero necesito aclarar algo          (x1)  [relleno_espacios]
-- EN: Yes but I have to store the soaps and shampoos if I sing there
-  ES: Si pero tengo que guardar jabones y champus si canto ahi        (x1)  [relleno_espacios]
 - EN: Yes this is me
   ES: Sí, soy yo     (x1)  [relleno_espacios]
 - EN: Yes!! PLEASE
   ES: SI!! pls      (x1)  [relleno_espacios]
 - EN: Yes, online dating is happening.
   ES: Si, las citas online empezaron.   (x1)  [relleno_espacios]
-- EN: Yo yo yo
-  ES: Yo yo yo  (x1)  [sin_traducir]
 - EN: YoU LIiIIIEEE
   ES: MEEEEENTES     (x1)  [relleno_espacios]
 - EN: Yolanda?
@@ -5360,14 +4438,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estas siendo demasiado       (x1)  [relleno_espacios]
 - EN: You are enjoying this abit too much
   ES: Te está gustando demasiado esto     (x1)  [relleno_espacios]
-- EN: You are going to be the next victim!
-  ES: Tu vas a ser proxima victima!         (x1)  [relleno_espacios]
 - EN: You are going to return it right?
   ES: ¿Lo vas a devolver verdad?        (x1)  [relleno_espacios]
 - EN: You are in the phone?
   ES: Estas en telefono?     (x1)  [relleno_espacios]
-- EN: You are naively optimistic
-  ES: Eres ingenuamente           (x1)  [relleno_espacios]
 - EN: You are not Anna arent you! 😱😱
   ES: ¡¡No eres Anna verdad!! 😱😱    (x1)  [relleno_espacios]
 - EN: You are not Anna!
@@ -5376,10 +4450,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No estás teniendo sentido    (x1)  [relleno_espacios]
 - EN: You are not making any sense
   ES: No tienes ningún sentido     (x1)  [relleno_espacios]
-- EN: You are not making sense
-  ES: No estas teniendo         (x1)  [relleno_espacios]
-- EN: You are not making sense
-  ES: No tienes sentido         (x1)  [relleno_espacios]
 - EN: You are not seeing the big picture
   ES: No estas viendo panorama completo   (x1)  [relleno_espacios]
 - EN: You are not speaking clearly
@@ -5398,8 +4468,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estás intentando borrar pruebas   (x1)  [relleno_espacios]
 - EN: You better be correct
   ES: Mejor ten razón       (x1)  [relleno_espacios]
-- EN: You better not be lying
-  ES: Mejor no estes           (x1)  [relleno_espacios]
 - EN: You can ask the questions a lil later
   ES: Podrás preguntar algo más adelante   (x1)  [relleno_espacios]
 - EN: You can come over to my place tomorrow.
@@ -5418,8 +4486,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo hiciste    (x1)  [relleno_espacios]
 - EN: You did good so far
   ES: Lo has hecho bien    (x1)  [relleno_espacios]
-- EN: You didnt find anything did you?
-  ES: No encontraste nada verdad?       (x1)  [relleno_espacios]
 - EN: You didnt hit her did you?
   ES: ¿No le pegaste verdad?     (x1)  [relleno_espacios]
 - EN: You ditched us
@@ -5446,8 +4512,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tienes que creerme!!   (x1)  [relleno_espacios]
 - EN: You gotta get me out of here!!
   ES: Tienes que sacarme de aqui!!    (x1)  [relleno_espacios]
-- EN: You gotta ooze confidence all the time
-  ES: Tienes que irradiar confianza todo      (x1)  [relleno_espacios]
 - EN: You gotta press on
   ES: Tienes que seguir   (x1)  [relleno_espacios]
 - EN: You gotta protect your own dignity
@@ -5466,8 +4530,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No tienes idea    (x1)  [relleno_espacios]
 - EN: You have one
   ES: Tienes uno    (x1)  [relleno_espacios]
-- EN: You have that already so why are you so desperate to throw it away?
-  ES: Ya tienes eso entonces por que estas tan desesperada por tirarlo?    (x1)  [relleno_espacios]
 - EN: You have to PUSH HER DOWN
   ES: Tienes que EMPUJARLA       (x1)  [relleno_espacios]
 - EN: You have to believe me
@@ -5484,10 +4546,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Le sigues diciendo 'El Gato'. Tiene nombre, ¿sabes? 😺    (x1)  [relleno_espacios]
 - EN: You keep nagging me that as a couple we need more
   ES: Siempre me molestas que como pareja necesitamos    (x1)  [relleno_espacios]
-- EN: You know I have nothing to do with Anna disappearing right?
-  ES: Sabes que no tengo que ver con lo de Anna, no?               (x1)  [relleno_espacios]
-- EN: You know its ILLEGAL to impersonate a cop, right? 😠
-  ES: Sabes que es ILEGAL hacerse pasar por un policia,       (x1)  [relleno_espacios]
 - EN: You know that sounds like motive to me.
   ES: Sabes que eso suena a motivo para mí.   (x1)  [relleno_espacios]
 - EN: You know that?
@@ -5508,12 +4566,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Vives tu vida basándote en eso   (x1)  [relleno_espacios]
 - EN: You looked through my phone?!
   ES: ¿¡Revisaste mi teléfono?!   (x1)  [relleno_espacios]
-- EN: You manage to talk to any close friend of Anna's?
-  ES: Pudiste hablar con alguna amiga cercana de Anna?   (x1)  [relleno_espacios]
 - EN: You mean you dont?
   ES: ¿Acaso tú no?     (x1)  [relleno_espacios]
-- EN: You mentioned that the phone was backed up?
-  ES: Mencionaste que telefono tenia respaldo?     (x1)  [relleno_espacios]
 - EN: You might need these
   ES: Quizas necesites      (x1)  [relleno_espacios]
 - EN: You might want to sit down for this
@@ -5524,8 +4578,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Necesitas pensarlo bien         (x1)  [relleno_espacios]
 - EN: You need to work on your attitute
   ES: Necesitas trabajar en tu actitud   (x1)  [relleno_espacios]
-- EN: You never Jabbr stalked anyone before?
-  ES: Nunca has espiado a alguien en Jabbr?   (x1)  [relleno_espacios]
 - EN: You never asked me for anything before
   ES: Nunca me pediste nada antes             (x1)  [relleno_espacios]
 - EN: You picked up, why aren’t you answering.
@@ -5572,16 +4624,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Todavia quieres salir despues?   (x1)  [relleno_espacios]
 - EN: You still with them?
   ES: ¿Sigues ahí?        (x1)  [relleno_espacios]
-- EN: You still with your boyfriend?
-  ES: Sigues con tu novio?            (x1)  [relleno_espacios]
-- EN: You sure Greg didnt let anything slide?
-  ES: Seguro que Greg no se le escapo nada?    (x1)  [relleno_espacios]
 - EN: You swiped right didnt you
   ES: Hiciste swipe a derecha     (x1)  [relleno_espacios]
 - EN: You tell me its going to be good for you
   ES: Me dijiste que iba a ser bueno para ti    (x1)  [relleno_espacios]
-- EN: You think I love what I do?
-  ES: Crees que amo lo que hago?   (x1)  [relleno_espacios]
 - EN: You think that NOW
   ES: Eso crees AHORA     (x1)  [relleno_espacios]
 - EN: You think they are just gonna let you waltz through?
@@ -5596,10 +4642,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Quieres salir juntos algún día?   (x1)  [relleno_espacios]
 - EN: You want me to kill her or something?
   ES: ¿Quieres que la mate o algo así?     (x1)  [relleno_espacios]
-- EN: You want me to read?
-  ES: Quieres que lo lea?   (x1)  [relleno_espacios]
-- EN: You want me to stalk her?
-  ES: Quieres que estalkee?      (x1)  [relleno_espacios]
 - EN: You were doing a bang up job earlier
   ES: Estabas haciendo un gran trabajo      (x1)  [relleno_espacios]
 - EN: You weren't completely honest with me
@@ -5648,16 +4690,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No eres honesto conmigo               (x1)  [relleno_espacios]
 - EN: You're not going to like this..
   ES: No te va a gustar esto..         (x1)  [relleno_espacios]
-- EN: You're not some 50yr old dude or something right?
-  ES: No eres algún tipo de 50 años verdad?            (x1)  [relleno_espacios]
 - EN: You're over thinking things
   ES: Estás pensando demasiado    (x1)  [relleno_espacios]
 - EN: You're the one who drove her away in the first place 😑
   ES: Tú fuiste quien la alejó en primer lugar 😑            (x1)  [relleno_espacios]
-- EN: You're the real reason I broke off with Greg
-  ES: Tu eres verdadera razon por que deje a Greg   (x1)  [relleno_espacios]
-- EN: You're too obsessed with Greg
-  ES: Estas demasiado obsesionado    (x1)  [relleno_espacios]
 - EN: You're up! 😎
   ES: Te toca! 😎    (x1)  [relleno_espacios]
 - EN: You're weird
@@ -5678,16 +4714,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tus encantos necesitan mucho     (x1)  [relleno_espacios]
 - EN: Your device is running the latest version of IRIS
   ES: Tu dispositivo usa la ultima version de IRIS       (x1)  [relleno_espacios]
-- EN: Your flirting methods deserve to be published
-  ES: Tus metodos de coqueteo merecen ser            (x1)  [relleno_espacios]
 - EN: Your friend is going to regret doing that
   ES: Tu amigo se va a arrepentir de haber       (x1)  [relleno_espacios]
-- EN: Your info can might save a life
-  ES: Tu informacion podria salvar     (x1)  [relleno_espacios]
-- EN: Your jokes are terrible
-  ES: Tus chistes son          (x1)  [relleno_espacios]
-- EN: Your number maybe?
-  ES: Tu numero quizas?   (x1)  [relleno_espacios]
 - EN: Your secret is safe with me
   ES: Tu secreto esta a salvo      (x1)  [relleno_espacios]
 - EN: Your story is going to save lives
@@ -5704,16 +4732,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Inspiraras a toda generacion, Anna jaja     (x1)  [relleno_espacios]
 - EN: You’re not allowed to fuck clients!
   ES: No puedes acostarte con clientes!      (x1)  [relleno_espacios]
-- EN: You’re not letting things go, are you?
-  ES: No estas dejando ir cosas, verdad?        (x1)  [relleno_espacios]
 - EN: You’re right, I don’t wanna hear about that.
   ES: Tienes razón, no quiero escuchar eso.            (x1)  [relleno_espacios]
 - EN: You’ve got the wrong person.
   ES: Te equivocaste de persona.      (x1)  [relleno_espacios]
 - EN: Yr being way to sensetive
   ES: Eres demasiado sensible    (x1)  [relleno_espacios]
-- EN: Yr making a big deal outta this
-  ES: Estas exagerando todo            (x1)  [relleno_espacios]
 - EN: Yup soml
   ES: Si,       (x1)  [relleno_espacios]
 - EN: Yup thats the one
@@ -5798,8 +4822,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: a3_stat_saved_none, __LINK78  (x1)  [sin_traducir]
 - EN: a3_stat_saved_taylor, __LINK167
   ES: a3_stat_saved_taylor, __LINK167  (x1)  [sin_traducir]
-- EN: and eventually dry out in the sun, leaving nothing but a stain.
-  ES: y eventualmente secarse al sol, sin dejar nada mas que mancha.   (x1)  [relleno_espacios]
 - EN: and feeling guilty about being so upset.
   ES: o culpable por alterarme tanto.           (x1)  [relleno_espacios]
 - EN: and he has the nerve to accuse me of invading his privacy
@@ -5834,14 +4856,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: bailando         (x1)  [relleno_espacios]
 - EN: did EVERything togther
   ES: hicimos TODO juntos     (x1)  [relleno_espacios]
-- EN: exept that damn Jabbr post
-  ES: excepto esa maldita         (x1)  [relleno_espacios]
 - EN: fInD iTTTT
   ES: ENCUENTRA   (x1)  [relleno_espacios]
 - EN: feathered bear
   ES: oso emplumado   (x1)  [relleno_espacios]
-- EN: for what?
-  ES: por que?   (x1)  [relleno_espacios]
 - EN: hEr SuRviVal
   ES: SU SUPERTEN   (x1)  [relleno_espacios]
 - EN: hOolding ON
@@ -5856,8 +4874,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿cómo se supone que crea lo que estás diciendo?    (x1)  [relleno_espacios]
 - EN: hurts to think about it
   ES: duele pensar en eso      (x1)  [relleno_espacios]
-- EN: i am hotter than your cultural commentary
-  ES: soy mas caliente que tu comentario         (x1)  [relleno_espacios]
 - EN: i dont know
   ES: no sé       (x1)  [relleno_espacios]
 - EN: i dont want to know
@@ -5902,12 +4918,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: haya loll    (x1)  [relleno_espacios]
 - EN: loool bich
   ES: jajaja      (x1)  [relleno_espacios]
-- EN: n trust you with anything
-  ES: y confiar en ti con todo   (x1)  [relleno_espacios]
 - EN: nav_restricted, __LINK1, __LINK2
   ES: nav_restricted, __LINK1, __LINK2  (x1)  [sin_traducir]
-- EN: not Animal LOVER (if you know what I mean)
-  ES: no AMANTE de animales                       (x1)  [relleno_espacios]
 - EN: now she says she is at home and she looks fine to me
   ES: ahora dice que está en casa y se ve bien para mí    (x1)  [relleno_espacios]
 - EN: oh you doogggggg
@@ -5928,18 +4940,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: nos vemos hoy        (x1)  [relleno_espacios]
 - EN: should I come over?
   ES: deberia ir?          (x1)  [relleno_espacios]
-- EN: shut up [HANDLE]@lemonpie[]
-  ES: cállate [MANGO]@lemonpie[]  (x1)  [marcadores_distintos]
-- EN: shut up shut up
-  ES: shut up shut up  (x1)  [sin_traducir]
 - EN: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna
   ES: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna  (x1)  [sin_traducir]
 - EN: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66
   ES: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66  (x1)  [sin_traducir]
 - EN: tO thIS
   ES: ESTO     (x1)  [relleno_espacios]
-- EN: thanks Ashley
-  ES: gracias        (x1)  [relleno_espacios]
 - EN: the silver tag one
   ES: de pulsera          (x1)  [relleno_espacios]
 - EN: this close finding out!
@@ -5948,24 +4954,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: hablamos   (x1)  [relleno_espacios]
 - EN: we're not looking for your husband
   ES: no estamos buscando tu esposo       (x1)  [relleno_espacios]
-- EN: whatever it takes to be completely sure you know?
-  ES: lo que sea para estar segura, sabes?               (x1)  [relleno_espacios]
 - EN: whats the deal?
   ES: ¿qué onda?     (x1)  [relleno_espacios]
 - EN: when you went through my property!
   ES: cuando revisaste mis cosas!         (x1)  [relleno_espacios]
 - EN: wht am i doing talking to you
   ES: que estoy haciendo hablando    (x1)  [relleno_espacios]
-- EN: why are you asking this?
-  ES: por que preguntas esto?   (x1)  [relleno_espacios]
 - EN: why won't you hang out with me tomorrow?
   ES: ¿por qué no saldrás conmigo mañana?   (x1)  [relleno_espacios]
 - EN: with decent insulation
   ES: con aislamiento         (x1)  [relleno_espacios]
 - EN: yes greg told me about teaming up with you
   ES: sí greg me contó sobre unirse contigo     (x1)  [relleno_espacios]
-- EN: you better FUCKING TELL ME
-  ES: MEJOR DÍMELO AHORA         (x1)  [relleno_espacios]
 - EN: you can let the whole thing go now.
   ES: puedes dejar todo eso ir ahora.      (x1)  [relleno_espacios]
 - EN: you know that happened to me once?
@@ -5976,20 +4976,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: deberías ver su cara     (x1)  [relleno_espacios]
 - EN: you wanted to say smtg?
   ES: ¿querías decir algo?   (x1)  [relleno_espacios]
-- EN: you're not going back to Greg, so what's the harm?
-  ES: no vas a volver con Greg, entonces cual es dano?    (x1)  [relleno_espacios]
-- EN: ‘Gared and I are head over heels. \nNever felt better. \nThanks Spark!’ - Elaine
-  ES: “Gared y yo estamos perdidamente enamorados. \nNunca me sentí mejor. \n¡Gracias   (x1)  [relleno_espacios]
-- EN: ‘Gared and I are head over heels. \nNever felt better. \nThanks Spark!’ - Elaine
-  ES: 'Gared y yo estamos enamorados. Nunca me sentí mejor. ¡Gracias Spark!' - Elaine   (x1)  [relleno_espacios]
-- EN: ‘It was love at first click.\nThis is the future.’ - Jyn
-  ES: “Fue amor al primer clic.\nEste es el futuro.' - Jyn        (x1)  [relleno_espacios]
-- EN: ‘It was love at first click.\nThis is the future.’ - Jyn
-  ES: 'Fue amor al primer clic. Este es el futuro.' - Jyn          (x1)  [relleno_espacios]
-- EN: ‘Spark was the only way \nI could have met Lisa. \nLong live the internet.’ - Thom
-  ES: 'Spark era unica forma en que podria haber conocido a Lisa. Viva internet!' - Thom    (x1)  [relleno_espacios]
-- EN: “Several arrests were made linking the crimes\nthey’ve committed to the popular dating app.”
-  ES: "Se realizaron varias detenciones vinculando crimenes cometidos con popular app de citas."         (x1)  [relleno_espacios]
 - EN: Hey
   ES: Oye  (x12)
 - EN: Hey!
@@ -5998,14 +4984,24 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Música  (x7)
 - EN: Sign In
   ES: Iniciar  (x7)
+- EN: What?
+  ES: ¿Qué?  (x7)
 - EN: Food
   ES: Comida  (x6)
 - EN: Search
   ES: Buscar  (x6)
+- EN: (National Sex Felon Website)
+  ES: (Sitio Nacional de Delincuentes Sexuales)  (x5)
 - EN: An individual who believes that they are not required\nto have their information posted on the NSFW Site, or\nwho believes the information on the Web site contains\nerrors, may challenge their status by contacting us.
-  ES: Un individuo que crea que no esta obligado\na que su informacion aparezca en el sitio NSFW, o\nque crea que la informacion del sitio contiene\nerrores, puede impugnar su estatus contactandonos.  (x5)
+  ES: Un individuo que crea que no esta obligado\na que su información aparezca en el sitio NSFW, o\nque crea que la información del sitio contiene\nerrores, puede impugnar su estatus contactandonos.  (x5)
+- EN: Any person who uses information in this registry to\ninjure, harass, or commit a criminal offense against\nany person included in the registry or any other\nperson is subject to criminal prosecution.\n\n\nWe have not considered or assessed the specific risk\nof re-offense with regard to any individual prior to his\nor her inclusion within this registry and has made no\ndetermination that any individual included in the reg-\nistry is currently dangerous. The main purpose of pro-\nviding this data on the internet is to make information\nmore easily available and accessible, not to warn\nabout any specific individual.
+  ES: Toda persona que use la información de este registro para\nlastimar, acosar o cometer un delito contra\nalguien incluido en él o contra cualquier otra\npersona puede enfrentar acciones penales.\n\n\nNo hemos considerado ni evaluado el riesgo específico\nde reincidencia de ninguna persona antes de su\ninclusión en el registro, ni hemos determinado\nque alguna de las personas aquí registradas\nsea actualmente peligrosa. El objetivo principal de\npublicar estos datos en internet es facilitar el acceso\na la información, no advertir\nsobre una persona en particular.  (x5)
 - EN: Discrepancies
   ES: Discrepancias  (x5)
+- EN: Division of State Police
+  ES: División de la Policía Estatal  (x5)
+- EN: This information is made available for the purpose of\ncomplying with 89382 section 33221, which requires\nthe Department of Public Safety to establish and\nmaintain a registry of persons who are required to reg-\nister as sex offenders and to post electronically infor-\nmation on sex offenders. The registry is based on the\nlegislature's decision to facilitate access to publicly\navailable information about persons convicted of\nsexual offenses.
+  ES: Esta información se publica con el fin de\ncumplir con el artículo 33221 de la ley 89382, que obliga\nal Departamento de Seguridad Pública a crear\ny mantener un registro de personas obligadas a\ninscribirse como delincuentes sexuales, y publicar\ninformación sobre ellas en internet. Este registro\nresponde a la decisión legislativa de facilitar\nel acceso público a información sobre personas\ncondenadas por delitos sexuales.  (x5)
 - EN: Who is this?
   ES: ¿Quién es?  (x5)
 - EN: You
@@ -6016,6 +5012,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mierda  (x4)
 - EN: Gaming
   ES: Videojuegos  (x4)
+- EN: I want to save Anna, let Taylor die
+  ES: Quiero salvar a Anna y dejar morir a Taylor.  (x4)
+- EN: I want to save Taylor, let Anna die
+  ES: Quiero salvar a Taylor y dejar morir a Anna.  (x4)
 - EN: I'm stuck
   ES: Estoy atascado  (x4)
 - EN: Movies
@@ -6026,6 +5026,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mascotas y Animales  (x4)
 - EN: Whoa
   ES: Vaya  (x4)
+- EN: Your problems, our solutions
+  ES: Tus problemas, nuestras soluciones  (x4)
 - EN: Animals
   ES: Animales  (x3)
 - EN: Books
@@ -6060,6 +5062,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Teatro  (x3)
 - EN: Wait
   ES: Espera  (x3)
+- EN: Wait, what?
+  ES: Espera, ¿qué?  (x3)
 - EN: Yeah
   ES: Sí  (x3)
 - EN: Youre not who now?
@@ -6069,63 +5073,107 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: "Finally, trust your instincts – if it doesn’t feel\nquite right don’t be afraid to block or report\nthe person, or leave the date before the\nend."
   ES: "Por último, confía en tus instintos: si no te parece\nMuy bien, no tengas miedo de bloquear o denunciar.\nla persona, o dejar la fecha antes de la\nfin  (x2)
 - EN: "If you do organise to meet someone\nface-to-face for the first time, make sure you\narrange your date for a public place and\nensure a friend or family member knows\nwhere you are and is at the end of the phone\nif things go badly."
-  ES: "Si organizas conocer a alguien\ncara a cara por primera vez, asegurate de\nacordar la cita en un lugar publico y\nprocura que un amigo o familiar sepa\ndonde estas y este al telefono\npor si las cosas salen mal."  (x2)
+  ES: "Si organizas conocer a alguien\ncara a cara por primera vez, asegurate de\nacordar la cita en un lugar publico y\nprocura que un amigo o familiar sepa\ndonde estas y este al teléfono\npor si las cosas salen mal."  (x2)
 - EN: "It is concerning to see this rise in the\nnumber of crimes involving dating apps, and\nparticularly worrying to hear of the number\nof young people falling victim to sexual \noffences."
-  ES: "Es preocupante ver este aumento en el\nnumero de delitos relacionados con apps de citas, y\nes especialmente inquietante oir la cantidad\nde jovenes que son victimas de delitos\nsexuales."  (x2)
+  ES: "Es preocupante ver este aumento en el\nnúmero de delitos relacionados con apps de citas, y\nes especialmente inquietante oir la cantidad\nde jovenes que son víctimas de delitos\nsexuales."  (x2)
 - EN: "Similarly, it doesn’t hurt to do some \ninvestigation of your own before you decide\nto meet up – see if the person you’re \ninterested in is on sites like Jabbr. In extreme\ncases, there is no harm running through their\nnames in our registry. "
-  ES: "Del mismo modo, no esta de mas investigar\nun poco por tu cuenta antes de decidir\nencontrarte con alguien: mira si la persona que te\ninteresa esta en sitios como Jabbr. En casos extremos,\nno hace dano buscar sus nombres\nen nuestro registro. "  (x2)
+  ES: "Del mismo modo, no esta de más investigar\nun poco por tu cuenta antes de decidir\nencontrarte con alguien: mira si la persona que te\ninteresa esta en sitios como Jabbr. En casos extremos,\nno hace dano buscar sus nombres\nen nuestro registro. "  (x2)
 - EN: 2. The Cat
   ES: 2. El gato  (x2)
+- EN: 22 year old art student. Loves books and stay-\ning indoors.
+  ES: Estudiante de arte de 22 años. Le encantan los libros\ny quedarse en casa.  (x2)
+- EN: 23 year old marketing intern. Dreams of writing\nher own novel.
+  ES: Pasante de marketing de 23 años. Sueña con escribir\nsu propia novela.  (x2)
+- EN: 24 year old waiter. Studying for a law program\non the side.
+  ES: Mesero de 24 años. Estudia Derecho\nen sus ratos libres.  (x2)
 - EN: A Dog’s Purpose? Agaaainnn??
   ES: ¿Un Propósito Divino? ¿Otra vez?  (x2)
 - EN: A cool loner if there ever was one, the\ncat’s independence allows it to ven-\nture far outside its comfort zone,\nseeking new prey and exciting experi-\nences. Its trust needs to be earned.
   ES: Un solitario genial como pocos, la\nindependencia del gato le permite aven-\nturarse muy lejos de su zona de confort,\nbuscar nuevas presas y experiencias\nemocionantes. Su confianza hay que ganarsela.  (x2)
 - EN: A new standard in quality, IRIS once again\npushes the boundaries on making your mobile\nexperience as seamless as ever. It now blurs\nthe line between using your phone and keep-\ning track of your daily life by using intelligent\nsoftware.
-  ES: Un nuevo estandar de calidad, IRIS una vez mas\nempuja los limites para hacer tu experiencia\nmovil mas fluida que nunca. Ahora difumina\nla linea entre usar tu telefono y llevar\nel control de tu vida diaria mediante software\ninteligente.  (x2)
+  ES: Un nuevo estandar de calidad, IRIS una vez más\nempuja los limites para hacer tu experiencia\nmovil más fluida que nunca. Ahora difumina\nla linea entre usar tu teléfono y llevar\nel control de tu vida diaria mediante software\ninteligente.  (x2)
 - EN: A perfect project is a marriage between the\nright technology and a fully supportive design.\nWe find the right tools for your needs, not\nout-of-the-box solutions.
-  ES: Un proyecto perfecto es el matrimonio entre la\ntecnologia adecuada y un diseno que apoye del\ntodo. Buscamos las herramientas que necesitas, no\nsoluciones genericas.  (x2)
+  ES: Un proyecto perfecto es el matrimonio entre la\ntecnología adecuada y un diseño que apoye del\ntodo. Buscamos las herramientas que necesitas, no\nsoluciones genericas.  (x2)
+- EN: A rich life exist both online and off
+  ES: Se puede tener una vida plena tanto en internet como fuera de él.  (x2)
+- EN: A truthful existance doesnt exist
+  ES: No existe una vida completamente auténtica.  (x2)
 - EN: About
   ES: Acerca de  (x2)
 - EN: According to her best friend, after ending a\nlong time relationship with her highschool\nsweetheart, she went on Spark trying to fill the\nvoid. 3 days after that, she went missing. The\nlast time she was seen? Right before meeting\nsomeone. Her friend can't recall the name, but\nshe is pretty sure it starts with an “S”
-  ES: Segun su mejor amiga, despues de terminar una\nrelacion larga con su novio de la\nprepa, se metio a Spark tratando de llenar el\nvacio. 3 dias despues de eso, desaparecio. La\nultima vez que la vieron? Justo antes de conocer\na alguien. Su amiga no recuerda el nombre, pero\nesta bastante segura de que empieza con una “S”  (x2)
+  ES: Segun su mejor amiga, después de terminar una\nrelación larga con su novio de la\nprepa, se metio a Spark tratando de llenar el\nvacio. 3 días después de eso, desapareció. La\nultima vez que la vieron? Justo antes de conocer\na alguien. Su amiga no recuerda el nombre, pero\nesta bastante segura de que empieza con una “S”  (x2)
 - EN: Actually, I'm not Anna.
   ES: en verdad, no soy Anna.  (x2)
+- EN: After that, a yearly subscription fee will be charged.
+  ES: Después se cobrará una cuota de suscripción anual.  (x2)
+- EN: Age :
+  ES: Edad:  (x2)
+- EN: All life is precious
+  ES: Toda vida es valiosa.  (x2)
+- EN: Always wanted to define the \nroad you take?
+  ES: ¿Siempre has querido elegir\ntu propio camino?  (x2)
 - EN: And put my favourite movie on.
   ES: Y poner mi película favorita.  (x2)
 - EN: Anyways
   ES: En fin  (x2)
 - EN: As a Patron of Faris & Kane, you have\naccess to special consumer deals\nwith selected retail flagships, and an\nintegrated system of payment via\nfive renowned banks.
   ES: Como Cliente de Faris & Kane, tienes\nacceso a ofertas especiales\nen tiendas selectas, y a un\nsistema integrado de pago a traves de\ncinco bancos reconocidos.  (x2)
+- EN: As cities begin to take over our\nworld, and our natural land disap-\npear, we begin to question the\nwisdom of forgetting our roots, along\nwith the ancient traditions that can\nteach us a thing or two.\n\nOne of the most beloved, and tragic,\nof cultural loss, are the Native Ameri-\ncans. They welcomed the westerners\nwith open arms, and received bullets,\ndisease and loss of property. Their\nculture collapsed under the hail of\ngunfire and imperialism, and now\nthey are surviving at the edges of\nmodern society, pushed aside by\nprogress and development.
+  ES: A medida que las ciudades ocupan\nnuestro mundo y desaparecen\nlos espacios naturales, empezamos\na cuestionar si fue sensato olvidar\nnuestras raíces y las tradiciones\nancestrales que tanto pueden enseñarnos.\n\nUna de las pérdidas culturales más\ntrágicas es la de los pueblos\nindígenas de América. Recibieron\na los colonizadores con los brazos\nabiertos y recibieron a cambio balas,\nenfermedades y despojos. Su cultura\nsufrió bajo las armas y el imperialismo,\ny hoy sobrevive en los márgenes\nde la sociedad moderna, desplazada\npor el progreso y el desarrollo.  (x2)
 - EN: As part of our commitment to drive\nprosperity forward in our\nneighborhoods, Ridr is opening\na window of opportunity for all\npassengers and drivers for the\nnext three weeks.
-  ES: Como parte de nuestro compromiso de impulsar\nla prosperidad en nuestros\nbarrios, Ridr abre\nuna ventana de oportunidad para todos\nlos pasajeros y conductores durante las\nproximas tres semanas.  (x2)
+  ES: Como parte de nuestro compromiso de impulsar\nla prosperidad en nuestros\nbarrios, Ridr abre\nuna ventana de oportunidad para todos\nlos pasajeros y conductores durante las\npróximas tres semanas.  (x2)
 - EN: At least they are not dead
   ES: Al menos no están muertos  (x2)
 - EN: Awesome!
   ES: ¡Genial!  (x2)
 - EN: Be that way
-  ES: Que sea asi  (x2)
+  ES: Pues sigue así.  (x2)
+- EN: Because you are wrong
+  ES: Porque te equivocas.  (x2)
+- EN: By delete, you mean kill right?
+  ES: Cuando dices «eliminar», te refieres a matar, ¿verdad?  (x2)
+- EN: CALL NOW\n1880-FARISKANE
+  ES: LLAMA AHORA\n1880-FARISKANE  (x2)
 - EN: Camera Photo
   ES: Foto de cámara  (x2)
 - EN: Can I save both?
   ES: ¿Puedo salvar a los dos?  (x2)
 - EN: Can you restore my phone data from my PC?
   ES: ¿Puedes restaurar los datos de mi teléfono desde mi PC?  (x2)
+- EN: Caught red handed.
+  ES: Lo atraparon con las manos en la masa.  (x2)
 - EN: Choose your region, and let us help\nyou connect to a community of\nRidrs with drive and direction.\nHelp us help you, so that you\ncan help others in kind.
   ES: Elige tu region y dejanos ayudarte\na conectarte con una comunidad de\nRidrs con impulso y direccion.\nAyudanos a ayudarte, para que tu\npuedas ayudar a otros de igual forma.  (x2)
+- EN: Conclusion? I have no freakin clue. Is there a\nserial killer on the loose? Were they kidnapped\nand experimented on by the [web_bold]Serpent Society?[]\n[web_red](more on this next week)[] Aliens abducting us to\ntry and understand our new mating rituals?\n\nNothing is off the table until “THE LAW” decides\nto take these “small” cases seriously. While we\nneed to be careful ALWAYS when we go out\nwith strangers, the people deserve to know\nthat there are bigger forces at play here. Stay\nvigilant and you can count on me to show you\nthe alternative truths.\n\nI end today with the truth that I hear screaming\nin my head:\n\nTRUST NO ONE,\nTHERE IS ONLY US AGAINST THEM,\nDONT TRUST THE WATER IN YOUR PIPES,\nDOUBT YOUR EYERIS.
+  ES: ¿Conclusión? No tengo ni idea. ¿Hay un\nasesino serial suelto? ¿Los secuestraron\npara experimentar con ellos en la [web_bold]Serpent Society?[]\n[web_red](más sobre eso la próxima semana)[] ¿Nos abducen extraterrestres\npara estudiar nuestros nuevos rituales de apareamiento?\n\nNada queda descartado hasta que «LA LEY» decida\ntomar en serio estos casos «menores». Aunque\nSIEMPRE debemos tener cuidado al salir\ncon desconocidos, la gente merece saber\nque hay fuerzas más poderosas detrás de todo esto. Manténganse\nalerta: pueden contar conmigo para mostrarles\nlas verdades alternativas.\n\nTermino hoy con una verdad que escucho gritar\nen mi cabeza:\n\nNO CONFÍES EN NADIE,\nSOMOS NOSOTROS CONTRA ELLOS,\nNO CONFÍES EN EL AGUA DE LAS TUBERÍAS,\nDESCONFÍA DE TU EYERIS.  (x2)
+- EN: DEVELOPING. James A
+  ES: ÚLTIMA HORA: James A.  (x2)
+- EN: DO IT NOW >
+  ES: HAZLO AHORA >  (x2)
+- EN: DO NOT BElieVVVEEE iT
+  ES: ¡¡NO LO CREAAAAAS!!  (x2)
 - EN: Damn it
   ES: Maldita  (x2)
 - EN: Dancing
   ES: Baile  (x2)
+- EN: Dating apps have been linked to more than\n500 crimes in and almost a third are sex \noffences, figures show.
+  ES: Las aplicaciones de citas se han relacionado con más de\n500 delitos, y casi un tercio son\ndelitos sexuales, según las cifras.  (x2)
+- EN: DeePENDs oN YOu
+  ES: DePeNdE dE Ti  (x2)
+- EN: Do I really have to?
+  ES: ¿De verdad tengo que hacerlo?  (x2)
 - EN: Dont worry about it
   ES: No te preocupes por eso  (x2)
 - EN: Dreams of making a living out of playing with animals. You might find me in small and quirky bookstores if I'm not stuck in my dead-end job.\n\nA good joke and warm coffee is all I need for a good time. So don't work too hard ok ;) Oh and being charming as hell works too. A girl could use more of that!\n\nAnything less than a rebound or a hookup please look elsewere. I'm looking for the real thing
-  ES: Suena con ganarse la vida jugando con animales. Puede que me encuentres en librerias pequenas y raras si no estoy atrapada en mi trabajo sin futuro.\n\nUn buen chiste y un cafe caliente es todo lo que necesito para pasarla bien. Asi que no trabajes demasiado, ok ;) Ah, y ser encantador como el demonio tambien sirve. A una chica le vendria bien mas de eso!\n\nCualquier cosa menor que un rebote o una aventura, por favor busca en otro lado. Yo busco lo real  (x2)
+  ES: Suena con ganarse la vida jugando con animales. Puede que me encuentres en librerias pequenas y raras si no estoy atrapada en mi trabajo sin futuro.\n\nUn buen chiste y un cafe caliente es todo lo que necesito para pasarla bien. Así que no trabajes demasiado, ok ;) Ah, y ser encantador como el demonio también sirve. A una chica le vendria bien más de eso!\n\nCualquier cosa menor que un rebote o una aventura, por favor busca en otro lado. Yo busco lo real  (x2)
+- EN: Drinks and finger food will be available\nthroughout the event. No catch!
+  ES: Habrá bebidas y bocadillos disponibles\ndurante todo el evento. ¡Sin condiciones!  (x2)
 - EN: Drive for prosperity.\nDrive for community.
   ES: Conduce hacia la prosperidad.\nConduce por la comunidad.  (x2)
 - EN: E-mail :
   ES: Correo :  (x2)
 - EN: Estranged relationship with her mom. It was a\nstrain on her relationship with her then boy-\nfriend and they soon called it off. Went on\nSpark dates to rebel against her mom. On the\nday she went missing, her mom overheard her\ntalking to a guy named James.
-  ES: Relacion distante con su mama. Eso fue una\ntension en su relacion con su entonces novio\ny pronto lo terminaron. Salia en\ncitas de Spark para rebelarse contra su mama. El\ndia que desaparecio, su mama la escucho\nhablando con un tipo llamado James.  (x2)
+  ES: Relación distante con su mama. Eso fue una\ntension en su relación con su entonces novio\ny pronto lo terminaron. Salia en\ncitas de Spark para rebelarse contra su mama. El\ndía que desapareció, su mama la escucho\nhablando con un tipo llamado James.  (x2)
 - EN: Ever loyal, it can sniff out danger and\nprotect at all cost. Never giving up, it\nis a force to be reckoned with when\npush comes to shove. Very comfort-\nable in small groups.
   ES: Siempre leal, puede olfatear el peligro y\nproteger a toda costa. Nunca se rinde, es\nuna fuerza a tener en cuenta cuando\nlas cosas se ponen duras. Muy como-\ndo en grupos pequenos.  (x2)
 - EN: Everytime one of you completes a\njourney and is paid, a percentage\nof proceeds from Ridr is given to a\ncharity of the passenger’s choice.\nNo amount is deducted from the\ntransaction between driver and\npassenger.
@@ -6137,13 +5185,31 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: FUCK OFF MY LIFE
   ES: FUERA DE MI VIDA  (x2)
 - EN: Faris & Kane stand by its commitment\nto style and prestige in the era of\nnew technologies. Fashion, like any\nother field of human endeavor, is en-\nhanced by the digital age.
-  ES: Faris & Kane mantiene su compromiso\ncon el estilo y el prestigio en la era de\nlas nuevas tecnologias. La moda, como cualquier\notro campo del esfuerzo humano, se mejo-\nra con la era digital.  (x2)
+  ES: Faris & Kane mantiene su compromiso\ncon el estilo y el prestigio en la era de\nlas nuevas tecnologías. La moda, como cualquier\notro campo del esfuerzo humano, se mejo-\nra con la era digital.  (x2)
+- EN: Feeling unlucky in love?\nCome visit our famous SPARK IRL events!
+  ES: ¿Sin suerte en el amor?\n¡Ven a nuestros famosos eventos SPARK IRL!  (x2)
+- EN: Find out about our dating \nevents.
+  ES: Conoce nuestros eventos\npara encontrar pareja.  (x2)
+- EN: Find out about our next\nSpark IRL announcement\nin our app!
+  ES: Descubre nuestro próximo\nanuncio de Spark IRL\nen la app!  (x2)
 - EN: Finding Love
   ES: Encontrando el amor  (x2)
+- EN: First of all, I want to ‘commend’ the [web_link]local news\ncoverage[] on escalating this horrible trend to a\nwhole new level. Just when I thought they\ncouldn’t sink any lower, they did. Downplaying\nthe seriousness of this issue and treating all\nthe victims as just another statistic to be forgot-\nten. Blaming these crimes on trivial things such\nas “the rise of internet” and the “degradation of\nour youth”. This has to be STOPPED! There is\nmore to this story. And the people deserve to\nknow the truth. I do not want you, my readers\nto continue being brainwashed by the main\nstream fake media.
+  ES: Antes que nada, quiero «felicitar» a la [web_link]prensa\nlocal[] por llevar esta terrible tendencia\na otro nivel. Justo cuando creí que\nno podían caer más bajo, lo hicieron. Minimizaron\nla gravedad del asunto y trataron a\ntodas las víctimas como una estadística más\ndestinada al olvido. Culpan a cosas tan triviales\ncomo «el auge de internet» y la «decadencia\nde nuestra juventud». ¡ESTO DEBE PARAR!\nHay mucho más detrás de esta historia. Y la gente merece conocer la verdad.\nNo quiero que ustedes, mis lectores,\nsigan dejándose manipular por los falsos medios\ntradicionales.  (x2)
+- EN: First of all. Not all of these “crimes” are fully\nrepresented. There are violent crimes and\nsexual crimes but somehow the Media fails to\nmention the “missing” crimes. Why didn't they\nuse words like “kidnapping” or “MIA”? It's a safe\nassumption right? Well that's where they’ve\nscrewed it up. Some of these missing crimes\nare not reported because they didn't treat\nthem as crimes at all, but “statistical anomaly”.\nWhat the hell?!!?! Don’t their families deserve\nsome closure? Don’t our children deserve\nsafety? Why are these “anomalies” ignored out-\nright?
+  ES: Primero, no todos estos «delitos» están\nrepresentados. Se habla de delitos violentos\ny sexuales, pero los medios no se molestan en\nmencionar las «desapariciones». ¿Por qué no\nusan términos como «secuestro» o «desaparecido»?\n¿Sería lo lógico, no? Pues ahí es donde\nse equivocan. Algunas desapariciones\nni siquiera se denuncian porque no se\nconsideran delitos, sino «anomalías estadísticas».\n¡¿Qué demonios?! ¿Sus familias no merecen\nrespuestas? ¿Nuestros hijos no merecen\nseguridad? ¿Por qué estas «anomalías»\nse ignoran por completo?  (x2)
+- EN: First-time users get 1 free online shopping \nproduct rebate inclusive of free shipping, \nto another Spark user.
+  ES: Los nuevos usuarios reciben el reembolso de 1 compra en línea,\ncon el envío incluido,\npara otro usuario de Spark.  (x2)
+- EN: Founded on the principles of sincerity \nand adventure, we welcome you to try out Spark\nin your journey to happy ever after.
+  ES: Basada en los principios de la sinceridad\ny la aventura, Spark te invita a probar suerte\nen el camino hacia tu final feliz.  (x2)
+- EN: Free shipping on orders above $150. Use code FANK
+  ES: Envío gratis en pedidos superiores a $150. Usa el código FANK.  (x2)
 - EN: Geez
   ES: Caramba  (x2)
 - EN: Go on?
   ES: Sigue?  (x2)
+- EN: God dammit
+  ES: ¡Maldita sea!  (x2)
 - EN: Good enough for me
   ES: Bueno, suficiente para mí  (x2)
 - EN: Good luck then!
@@ -6159,7 +5225,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Haha.
   ES: Jaja.  (x2)
 - EN: He added: "There are, a number of ways to\nvet a potential date before you decide to\nmeet them face to face, which could protect\nyou from a risky situation. Firstly, pick a \nusername that doesn’t reveal who you are.\nAlso take things slowly when it comes to\nsharing personal information or content with\nsomeone new online, remember that they\nare still a stranger who you know little about.
-  ES: Agrego: "Hay varias formas de\nverificar a una posible cita antes de decidir\nverla cara a cara, lo que podria protegerte\nde una situacion de riesgo. Primero, elige un\nnombre de usuario que no revele quien eres.\nTambien tomate las cosas con calma al\ncompartir informacion personal o contenido con\nalguien nuevo en linea; recuerda que esa persona\nsigue siendo un desconocido del que sabes poco.  (x2)
+  ES: Agrego: "Hay varias formas de\nverificar a una posible cita antes de decidir\nverla cara a cara, lo que podría protegerte\nde una situacion de riesgo. Primero, elige un\nnombre de usuario que no revele quien eres.\nTambién tomate las cosas con calma al\ncompartir información personal o contenido con\nalguien nuevo en linea; recuerda que esa persona\nsigue siendo un desconocido del que sabes poco.  (x2)
 - EN: He just broke into Anna's apartment
   ES: Acaba de entrar por la fuerza al departamento de Anna  (x2)
 - EN: He kidnapped Anna
@@ -6171,15 +5237,25 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Hi #state:boot.name#!
   ES: Ey #state:boot.name#!  (x2)
 - EN: His roommate told me that he recently called\noff his long distance relationship and wanted to\ntry Spark to meet new people. A couple of days\nlater, he didn't come home. The last time he\nwas seen going out to meet a girl named Amy.\nHe was never seen again since.
-  ES: Su companero de cuarto me dijo que hace poco corto\nsu relacion a distancia y queria\nprobar Spark para conocer gente nueva. Un par de dias\ndespues, no llego a casa. La ultima vez que lo\nvieron salir fue para conocer a una chica llamada Amy.\nDesde entonces no lo han vuelto a ver.  (x2)
+  ES: Su compañero de cuarto me dijo que hace poco corto\nsu relación a distancia y quería\nprobar Spark para conocer gente nueva. Un par de días\ndespués, no llego a casa. La ultima vez que lo\nvieron salir fue para conocer a una chica llamada Amy.\nDesde entonces no lo han vuelto a ver.  (x2)
+- EN: Hooooly hell that cheating son on a gun
+  ES: ¡Carajo, ese desgraciado infiel!  (x2)
+- EN: How about Anna?
+  ES: ¿Y qué hay de Anna?  (x2)
 - EN: How your customers see you and how you see\nyourself should be one and the same. We are\nexperts when it comes to aligning and advanc-\ning these visions.
   ES: Como te ven tus clientes y como te ves\ntu mismo deberian ser lo mismo. Somos\nexpertos en alinear y hacer avanzar\nesas visiones.  (x2)
 - EN: I Am LoOsInG
   ES: ESTOY PERDIENDO  (x2)
+- EN: I am Anna
+  ES: Soy Anna.  (x2)
 - EN: I am getting closer
   ES: Me estoy acercando  (x2)
 - EN: I am her as she is me
   ES: Yo soy ella como ella  (x2)
+- EN: I am hitting dead ends everywhere
+  ES: No hago más que encontrar callejones sin salida.  (x2)
+- EN: I am trying my best here
+  ES: Estoy haciendo todo lo posible.  (x2)
 - EN: I cANOtt
   ES: NO PUEDO  (x2)
 - EN: I cant guarantee
@@ -6190,22 +5266,36 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ya sé, ya sé  (x2)
 - EN: I made a mistake
   ES: Cometí un error  (x2)
+- EN: I mean its sound really bad
+  ES: O sea, suena muy mal.  (x2)
 - EN: I met.. James?
   ES: Conocí.. a James?  (x2)
 - EN: I need you to get a phone backup from my PC
   ES: Necesito que obtengas un respaldo del teléfono desde mi PC  (x2)
 - EN: I will prove you wrong
   ES: Te demostraré que estás equivocado  (x2)
+- EN: INDECENT EXPOSURE AND PUBLIC\nSEXUAL INDECENCY.
+  ES: EXHIBICIONISMO E INDECENCIA\nSEXUAL EN PÚBLICO.  (x2)
+- EN: IS nOt EaAsy
+  ES: No Es FáCiL  (x2)
 - EN: If you say so
   ES: Si tú lo dices  (x2)
 - EN: Impressive websites and apps are derived from\nelegant designs that embodies a clear vision\nand backed up by the latest technologies.
-  ES: Sitios web y apps impresionantes provienen de disenos elegantes que encarnan una vision clara y respaldados por ultimas tecnologias.  (x2)
+  ES: Los mejores sitios web y aplicaciones nacen de\ndiseños elegantes que reflejan una visión clara\ny aprovechan las tecnologías más recientes.  (x2)
 - EN: Indoors
   ES: Interiores  (x2)
 - EN: Introducing Memos™, a smart task tracker that\nautomatically records your phone activity. It\ncondenses information from your chats, email,\nand other apps into bite sized notes as\nreminders.
-  ES: Te presentamos Memos™, un rastreador de tareas inteligente que\nregistra automaticamente la actividad de tu telefono.\nCondensa informacion de tus chats, correo\ny otras apps en notas cortas como\nrecordatorios.  (x2)
+  ES: Te presentamos Memos™, un rastreador de tareas inteligente que\nregistra automaticamente la actividad de tu teléfono.\nCondensa información de tus chats, correo\ny otras apps en notas cortas como\nrecordatorios.  (x2)
 - EN: Invites to Spark IRL is by invitation only.\nand we will only prioritize those who\nneed it the most. Any party crashers\nwill be charged with traspassing.
-  ES: Las invitaciones a Spark IRL son solo por invitacion\ny daremos prioridad unicamente a quienes\nmas lo necesitan. Cualquier colado en la fiesta\nsera acusado de intrusion.  (x2)
+  ES: Las invitaciones a Spark IRL son solo por invitacion\ny daremos prioridad unicamente a quienes\nmás lo necesitan. Cualquier colado en la fiesta\nsera acusado de intrusion.  (x2)
+- EN: Is he ok?
+  ES: ¿Está bien?  (x2)
+- EN: Is he.. dead?
+  ES: ¿Está... muerto?  (x2)
+- EN: Is there anything I can do
+  ES: ¿Hay algo que pueda hacer?  (x2)
+- EN: It must be someone else's phone then
+  ES: Entonces es el teléfono de otro  (x2)
 - EN: ItS ImAgE
   ES: SU IMAGEN  (x2)
 - EN: Its dark.. I can't tell
@@ -6224,28 +5314,44 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Suelta a Anna!  (x2)
 - EN: Link :
   ES: Enlace  (x2)
+- EN: Look at this graph that was hacked from an in-\nternal law enforcement report regarding these\ncrimes.
+  ES: Mira esta gráfica, filtrada de un informe\ninterno de las autoridades sobre estos\ndelitos.  (x2)
+- EN: Lucky for you readers. I have the scoop. I was\nworking with a local detective (a very trusted\nfriend who I cant reveal his name to keep him\nsafe) to see if there is any connections to the\ncrimes and oh boy was the rabbit hole deeper\nthan Bill Gates’s wallet! But why am I doing\nthis? Because there is something strange going\non with [web_link]Spark[]. These big tech corporations are\nslowly taking over the world, selling our info to\nthe governments to spy on us, and now? Paying\noff the media and law enforcement to SILENCE\nour voices and to further pacify us into submis-\nsion. So what is it this time?
+  ES: Por suerte para ustedes, lectores, tengo la exclusiva. Estuve\ntrabajando con un detective local (un amigo\nde mucha confianza cuyo nombre no revelaré\npor su seguridad) para buscar conexiones entre\nlos delitos. ¡Y vaya si encontramos cosas!\n¡El asunto es más profundo que el bolsillo de Bill Gates!\n¿Y por qué hago esto? Porque algo extraño\nestá pasando con [web_link]Spark[]. Estas grandes tecnológicas\nse están apoderando del mundo: venden nuestra información\na los gobiernos para espiarnos y, ahora, ¿qué?\nSobornan a los medios y a la policía para SILENCIAR\nnuestras voces y volvernos cada vez más sumisos.\n¿Y qué será esta vez?  (x2)
 - EN: Meet the people behind the profiles in our\nSpeed Dating activities. Cut the hassle\nas we automatically assign you to meet\nwith the most compatable profiles.
-  ES: Conoce a la gente detras de los perfiles en nuestras\nactividades de Citas Rapidas. Olvidate de la molestia\nporque te asignamos automaticamente para que conozcas\nlos perfiles mas compatibles.  (x2)
+  ES: Conoce a la gente detrás de los perfiles en nuestras\nactividades de Citas Rapidas. Olvidate de la molestia\nporque te asignamos automaticamente para que conozcas\nlos perfiles más compatibles.  (x2)
 - EN: Message for Greg
   ES: Mensaje para Greg  (x2)
 - EN: Messy breakup > Fight > Things got a little violent? > Who knows?
   ES: Ruptura desastrosa > Pelea > ¿Las cosas se pusieron un poco violentas? > Quién sabe?  (x2)
+- EN: More information required.
+  ES: Se necesita más información.  (x2)
 - EN: More than 500 people have been the alleged\nvictims of crimes ranging from murder and\nrape to child abuse as a result of using \npopular dating apps, data reveals.
-  ES: Mas de 500 personas han sido presuntas\nvictimas de delitos que van desde asesinato y\nviolacion hasta abuso infantil como resultado de usar\npopulares apps de citas, segun revelan los datos.  (x2)
+  ES: Más de 500 personas han sido presuntas\nvíctimas de delitos que van desde asesinato y\nviolacion hasta abuso infantil como resultado de usar\npopulares apps de citas, segun revelan los datos.  (x2)
 - EN: NO WAY
   ES: ¡NO PUEDE SER!  (x2)
 - EN: Name :
   ES: Nombre  (x2)
+- EN: Name : Taylor Perrera\nAge : 22\nLocation : Springwood
+  ES: Nombre: Taylor Perrera\nEdad: 22\nUbicación: Springwood  (x2)
 - EN: National Sex Felon Website
   ES: Sitio Nacional de Delincuentes Sexuales  (x2)
 - EN: Next time! Pinky promise
   ES: ¡La próxima! Promesa de dedito  (x2)
+- EN: Next. Simon B.
+  ES: Siguiente: Simon B.  (x2)
 - EN: No no no
   ES: No, no, no  (x2)
 - EN: No way!
   ES: ¡De ninguna manera!  (x2)
+- EN: No worries it happens all the time
+  ES: No te preocupes, pasa todo el tiempo.  (x2)
+- EN: Notice something? A big yellow line labelled\n“missing” and no one seems to bother men-\ntioning this. Sure it's only a small number, so\nthey just lump it up with the rest of the crimes?\nLazy Pigs. Now, I already know what you’re\nthinking. This is just a graph, this could be fabri-\ncated, there is nothing much to go on from\nthis. But that's where I went an extra mile, did\nsome investigating on my own. I managed to\ntrack down and spoke to some of the friends\nand family of the victims. Nothing is more\nwarm and truthful when it comes straight from\nthe horse's mouth. Names are partially hidden\nto protect privacy.
+  ES: ¿Notan algo? Una gran línea amarilla marcada\ncomo «desaparecidos» que nadie se molesta en\nmencionar. Claro, es una cifra pequeña, ¿así que\nla meten junto con los demás delitos?\nPolicías flojos. Ya sé lo que están\npensando: es solo una gráfica, podría estar\nfalsificada y no tenemos mucho en qué\nbasarnos. Pero decidí ir más allá e\ninvestigar por mi cuenta. Logré localizar\ny hablar con amigos y familiares de\nlas víctimas. Nada resulta más sincero\nque escuchar sus testimonios de primera mano.\nLos nombres están parcialmente ocultos\npara proteger su privacidad.  (x2)
 - EN: Now domesticated, but among the\npets, it carries the wildest spirit, being\nso recently tamed. The outside world\ncalls to it constantly, and its fast agile\nfeet brings it to new places safely.
-  ES: Ahora domesticado, pero entre las\nmascotas, lleva el espiritu mas salvaje, al\nhaber sido domado hace tan poco. El mundo\nexterior lo llama sin parar, y sus pies\nrapidos y agiles lo llevan a lugares nuevos a salvo.  (x2)
+  ES: Ahora domesticado, pero entre las\nmascotas, lleva el espiritu más salvaje, al\nhaber sido domado hace tan poco. El mundo\nexterior lo llama sin parar, y sus pies\nrapidos y agiles lo llevan a lugares nuevos a salvo.  (x2)
+- EN: OPEN AND GROSS LEWDNESS AND\nLASCIVIOUS BEHAVIOR.
+  ES: EXHIBICIONISMO GRAVE Y\nCONDUCTA LASCIVA.  (x2)
 - EN: Oh Ash, you're just being silly.
   ES: Oh Ash, solo estas siendo tonta.  (x2)
 - EN: Oh dear
@@ -6256,22 +5362,46 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Vale.  (x2)
 - EN: Or red fingered, becasue its in text
   ES: O con las manos en la masa, porque está por escrito  (x2)
+- EN: Our material life is not meaningless
+  ES: Nuestra vida material no carece de sentido.  (x2)
 - EN: Our website uses a number of cookies to improve your ex-\nperience when using the website. We also use analytics\ncookies to monitor how people use the website, their loca-\ntion, surf history and credit card information.
-  ES: Nuestro sitio usa varias cookies para mejorar tu ex-\nperiencia al usar la web. Tambien usamos cookies de\nanalitica para monitorear como la gente usa el sitio, su ubi-\ncacion, historial de navegacion e informacion de tarjetas.  (x2)
+  ES: Nuestro sitio usa varias cookies para mejorar tu ex-\nperiencia al usar la web. También usamos cookies de\nanalitica para monitorear como la gente usa el sitio, su ubi-\ncacion, historial de navegacion e información de tarjetas.  (x2)
+- EN: Patron Associate
+  ES: Asociado de Patron  (x2)
+- EN: Patron Family
+  ES: Familia Patron  (x2)
+- EN: Patron Organization
+  ES: Organización Patron  (x2)
 - EN: Perhaps you keyed in the wrong extension?
   ES: ¿Quizás marcaste la extensión incorrecta?  (x2)
 - EN: Pets
   ES: Mascotas  (x2)
 - EN: Please make sure you have registered\nyour identity in this device.
-  ES: Por favor asegúrese de haber registrado su identidad en este dispositivo.  (x2)
+  ES: Asegúrate de haber registrado\ntu identidad en este dispositivo.  (x2)
+- EN: Please you gotta help me
+  ES: Por favor, ayúdame  (x2)
 - EN: Powered by TOUCHME
   ES: Potenciado por TOUCHME  (x2)
+- EN: Register your company under your\naccount.
+  ES: Registra tu empresa\nen tu cuenta.  (x2)
+- EN: Register your friend or colleague\nunder your account.
+  ES: Registra a un amigo o colega\nen tu cuenta.  (x2)
+- EN: Register your immediate relative\nunder your account.
+  ES: Registra a un familiar cercano\nen tu cuenta.  (x2)
 - EN: Remembered as the ultimate winner\nin the race against the hare, this calm\ncreature believes in the long game,\nseeking a steady consistent means of\nachieving purpose.
-  ES: Recordada como la ganadora definitiva\nen la carrera contra la liebre, esta cal-\nmada criatura cree en el juego largo,\nbusca un medio constante y firme de\nalcanzar su proposito.  (x2)
+  ES: Recordada como la ganadora definitiva\nen la carrera contra la liebre, esta cal-\nmada criatura cree en el juego largo,\nbusca un medio constante y firme de\nalcanzar su propósito.  (x2)
+- EN: Resist what?
+  ES: ¿Resistir a qué?  (x2)
+- EN: Ridr Inc. disclaims any liability for any damages arising from the use of\nits service, including but not limited to loss of life or limb, destruction of\nproperty, sexual assaults or any wrongful conducts from any of its drivers.\nBy using this service, you accept full responsibility of your own well being\nand agree to not make public disclosures of any kind of any such\nmisfortunes that may occur to you from the use of this service.
+  ES: Ridr Inc. no se hace responsable de los daños derivados del uso de\nsu servicio, incluidos, entre otros, la muerte o las lesiones graves, los daños\na la propiedad, las agresiones sexuales o cualquier conducta indebida de sus conductores.\nAl utilizar este servicio, aceptas toda responsabilidad por tu bienestar\ny te comprometes a no divulgar públicamente ningún incidente\nde este tipo que puedas sufrir como consecuencia del uso del servicio.  (x2)
 - EN: Right.
   ES: Cierto.  (x2)
 - EN: Right?
   ES: ¿Verdad?  (x2)
+- EN: SHOULDVE KNOWN YOURE GOING TO SET ME UP
+  ES: DEBÍ SABER QUE ME IBAS A TENDER UNA TRAMPA  (x2)
+- EN: SPARK IRL is our invitation-only\nsignature singles events for\nthose who want something\na little more than swiping.
+  ES: SPARK IRL es nuestra exclusiva serie\nde eventos para solteros con invitación,\npensada para quienes buscan algo\nmás que deslizar perfiles.  (x2)
 - EN: Said every guilty person ever
   ES: Lo dice todo culpable que existe  (x2)
 - EN: She is pretty pathetic.
@@ -6280,40 +5410,72 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Entonces.  (x2)
 - EN: Sorry
   ES: Perdón  (x2)
+- EN: Sorry, the position you are applying for is cur-\nrently unavailable, please come back again.
+  ES: Lo sentimos, el puesto al que te postulas\nno está disponible por ahora. Vuelve más tarde.  (x2)
+- EN: Spark related crimes soar as\nincreasing number of felons use\ndating apps to target victims.
+  ES: Crecen los crimenes ligados a Spark\npues más delincuentes usan\napps de citas para atacar.  (x2)
+- EN: Specific Ridrs will be re-\nrouted to the closest\ncollection centre for a\nsurprise thank-you gift.
+  ES: Algunos usuarios de Ridr serán enviados\nal centro de recolección más cercano\npara recibir un regalo\nsorpresa de agradecimiento.  (x2)
 - EN: Spend less time setting up and more time \nenjoying your phone. Replacing the tedious\nphone settings is the highly intuitive setup\nwizard which configures your phone just the\nway you like it based on your personal\npreference.
-  ES: Pasa menos tiempo configurando y mas tiempo\ndisfrutando tu telefono. La tediosa\nconfiguracion se reemplaza con el asistente\ntan intuitivo que configura tu telefono justo\ncomo te gusta segun tus preferencias\npersonales.  (x2)
+  ES: Pasa menos tiempo configurando y más tiempo\ndisfrutando tu teléfono. La tediosa\nconfiguracion se reemplaza con el asistente\ntan intuitivo que configura tu teléfono justo\ncomo te gusta segun tus preferencias\npersonales.  (x2)
+- EN: Stay tuned for the unveiling of\nour next OS soon.
+  ES: Pronto revelaremos\nnuestro próximo sistema operativo.  (x2)
 - EN: Stuck at the email, need your help
   ES: Atrapado en el correo, necesito tu ayuda  (x2)
 - EN: Submit
   ES: Enviar  (x2)
+- EN: Talk to our “Love Doctors” a free consultation\nto help you improve your Spark profile and get\nmore likes!
+  ES: Habla con nuestros “Love Doctors” gratis\npara mejorar tu perfil de Spark y tener\nmás likes!  (x2)
 - EN: Tell
   ES: Dime  (x2)
+- EN: Tell me who you are
+  ES: Dime quién eres.  (x2)
 - EN: Tell what
   ES: Que cosa?  (x2)
+- EN: Testimonials
+  ES: Testimonios  (x2)
 - EN: Text INVITE GUEST to authorize a guest to enter your home. Text UNBLOCK to enable blocked access cards.
   ES: Textea INVITE GUEST para autorizar a un invitado a entrar a tu casa. Textea UNBLOCK para habilitar tarjetas de acceso bloqueadas.  (x2)
+- EN: ThEE OnEE
+  ES: EL ELEGIDO  (x2)
+- EN: ThaT!
+  ES: ¡EsO!  (x2)
+- EN: Thank god I found James' phone
+  ES: Menos mal que encontré el teléfono de James.  (x2)
 - EN: Thank god you're here!!
   ES: ¡¡Gracias a Dios que estás aquí!!  (x2)
 - EN: Thats cute
   ES: Que bonito  (x2)
+- EN: The Canadians are at least trying to\nhonor these people, and the Austra-\nlians painfully scaling back their preju-\ndice. Americans are a long way to go,\nbut, we are at least starting to accept\ntheir identity, their way of life, and\nmost interestingly, some of their phi-\nlosophy. \n\nOne of the most enigmatic facets of\ntheir tribal society is the association\nof totem animal spirits to each\nmember of their large family. Traits\nand characteristics of the animal are\nbelieved to infuse into the connected\nperson, reflected in both physical and\nspiritual qualities. \n\nHave a look through these modern\nanimals, and see if you can spot your\ntotem animal spirits in your personal\nreflection.
+  ES: Al menos los canadienses están intentando\nhonrar a estos pueblos, mientras que los\naustralianos empiezan a dejar atrás, con dificultad,\nsus prejuicios. A los estadounidenses aún les\nqueda mucho camino por recorrer, pero\nal menos comenzamos a aceptar\nsu identidad, su forma de vida y,\nlo más interesante, parte de su\nfilosofía.\n\nUno de los aspectos más enigmáticos\nde sus sociedades tribales es la relación\nde cada integrante de una gran familia\ncon el espíritu de un animal tótem. Se cree\nque los rasgos y cualidades del animal\nse transmiten a la persona vinculada,\ntanto física como espiritualmente.\n\nObserva estos animales modernos\ny descubre si puedes reconocer\nel espíritu de tu animal tótem\nen tu propio reflejo.  (x2)
+- EN: The Chief Executive of The National Sex Felon\nWebsite (NSFW) James Sutton
+  ES: El director ejecutivo del Sitio Nacional de Delincuentes Sexuales\n(NSFW), James Sutton  (x2)
 - EN: The Chief Executive of The National Sex Felon\nWebsite (NSFW) James Sutton said:\n"While online platforms such as Spark are\nmaking it easier for busy people to meet\nothers, the risk of meeting someone who is\nabusive or physically violent also increases."
-  ES: El director ejecutivo del sitio National Sex Felon\n(NSFW), James Sutton, dijo:\n"Aunque plataformas en linea como Spark\nles facilitan a las personas ocupadas conocer\na otras, tambien aumenta el riesgo de conocer a alguien\nabusivo o fisicamente violento."  (x2)
+  ES: El director ejecutivo del sitio National Sex Felon\n(NSFW), James Sutton, dijo:\n"Aunque plataformas en linea como Spark\nles facilitan a las personas ocupadas conocer\na otras, también aumenta el riesgo de conocer a alguien\nabusivo o fisicamente violento."  (x2)
 - EN: The NSFW Registry is a publically available\ndatabase of registered Sex Felon’s that\nanyone can use. To feel safe about someone,\njust search using their name and a few basic\ndetails and you will find out the truth.
   ES: El Registro NSFW es una base de datos\nde acceso publico de agresores sexuales registrados que\ncualquiera puede usar. Para sentirte segura con alguien,\nsolo busca con su nombre y unos cuantos datos\nbasicos y descubriras la verdad.  (x2)
+- EN: The National Sex Felon Website (NSFW)\nis a database that provides the public\nwith access to registered sex offenders.\n\n\nNSFW is a private entity working togeth-\ner with governments and communities to\nprovide a safe environment for our\nfriends and families.\n\n\nConcerned residents can utilize the\nsearch tool to identify information on sex\noffenders residing and working not only\nin their own neighborhoods but in other\ncommunities.
+  ES: El Sitio Nacional de Delincuentes Sexuales (NSFW)\nes una base de datos que permite al público\nconsultar información sobre delincuentes sexuales registrados.\n\n\nNSFW es una entidad privada que trabaja\ncon gobiernos y comunidades para\nofrecer un entorno seguro a nuestros\namigos y familiares.\n\n\nLos residentes preocupados pueden usar\nla herramienta de búsqueda para consultar\ninformación sobre delincuentes sexuales\nque viven o trabajan tanto en sus\nbarrios como en otras comunidades.  (x2)
 - EN: The way we meet potential partners, and\ncasual dating, has seen a huge change as a\nresult of the internet, social media and\nmobile phone apps.
   ES: La forma en que conocemos posibles parejas y\nlas citas casuales han cambiado enormemente a\ncausa de internet, las redes sociales y las\napps de celular.  (x2)
 - EN: Then so be it
   ES: Entonces que así sea  (x2)
+- EN: There is a gender pattern. Girl > Guy >\nGirl > Guy and so on
+  ES: Hay un patrón de género: chica > chico >\nchica > chico, y así sucesivamente.  (x2)
 - EN: There is still hope
   ES: Todavía hay esperanza  (x2)
 - EN: These birds are full of energy, always\nwith a song on their beak. It is a\nhalf-full animal, taking whatever op-\nportunities it is given, and when con-\nditions are good, soar beyond limits.
-  ES: Estas aves estan llenas de energia, siempre\ncon una cancion en el pico. Es un\nanimal optimista, que toma cualquier opor-\ntunidad que se le da, y cuando las con-\ndiciones son buenas, se eleva sin limites.  (x2)
+  ES: Estas aves estan llenas de energía, siempre\ncon una cancion en el pico. Es un\nanimal optimista, que toma cualquier opor-\ntunidad que se le da, y cuando las con-\ndiciones son buenas, se eleva sin limites.  (x2)
+- EN: They all broke up recently with their\ngirl/boyfriends and looking for love (ex-\ncept James but I am willing to put money\nthat he did too)
+  ES: Todos rompieron hace poco con su\npareja y buscan amor (ex-\ncepto James, pero apuesto a que\ntambién)  (x2)
 - EN: They all seems to be bookworms of\nsorts. Either studying or working in relat-\ned jobs.
-  ES: Todos parecen ser ratones de biblioteca de algún tipo. Ya sea estudiando o trabajando en empleos relacionados.  (x2)
+  ES: Todos parecen muy aficionados\na los libros. Algunos estudian\no trabajan en áreas relacionadas.  (x2)
 - EN: This is better than I though
   ES: Esto es mejor de lo que pensaba  (x2)
 - EN: This is not what you told me
   ES: Esto no es lo que me dijiste  (x2)
+- EN: This is still developing so I don’t have too much\ninfo about him. Here’s what I can dig up. He is\n25 and works as a copywriter. Although he is\ntechnically missing, he is somehow still active\non Jabbr, so no one filed a report yet. But it\ndidn't stop there. His phone was found in\nsomeone’s backyard and handed to the police\nas evidence. Now this is where it gets weird. I\nknow a guy who knows a guy who’s gone\nthrough his phone. They found a “weird video”\nof him with huge chunks of data missing. I am\nstill trying to get a hold of it.\n\nSomething strange is going on and we can't\ncount on the police the government, and the\nmedia for this. It is up to US. For the true be-\nlievers, here are my deductions; All the victims\nhave something in common:
+  ES: Esta historia sigue desarrollándose, así que aún no tengo\nmucha información sobre él. Esto es lo que pude averiguar:\ntiene 25 años y trabaja como redactor publicitario. Aunque\noficialmente está desaparecido, de algún modo sigue activo\nen Jabbr, así que nadie ha presentado una denuncia todavía.\nPero ahí no termina todo. Encontraron su teléfono en\nel patio trasero de una casa y lo entregaron a la policía\ncomo prueba. Y aquí viene lo extraño:\nconozco a alguien que conoce a alguien que revisó\nsu teléfono. Hallaron un «video extraño»\ncon grandes partes de información perdidas.\nTodavía estoy intentando conseguirlo.\n\nAlgo raro está pasando y no podemos\nconfiar en la policía, el gobierno ni\nlos medios. Depende de NOSOTROS. Para quienes\ncreen en la verdad, estas son mis conclusiones:\ntodas las víctimas tienen algo en común:  (x2)
 - EN: This is too weird
   ES: Esto es demasiado  (x2)
 - EN: This kinda confirms what I found as well!
@@ -6324,54 +5486,98 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Uf  (x2)
 - EN: Unlike you
   ES: A diferencia de ti  (x2)
+- EN: Use your TOUCHME Fingerprint Login\nfor a secure connection.
+  ES: Usa el inicio de sesión por huella digital TOUCHME\npara establecer una conexión segura.  (x2)
+- EN: Victims are like in the graph aged be-\ntween 21 to 25
+  ES: Las víctimas del gráfico tienen entre\n21 y 25 años.  (x2)
+- EN: WE HAD A FUCKIN DEAL
+  ES: TENÍAMOS UN TRATO  (x2)
 - EN: WEB DESIGN
   ES: DISEÑO WEB  (x2)
+- EN: WHAT THE [web_bold_red]FAKE MASS MEDIA[] DO\nNOT WANT YOU TO SEE ABOUT THE\nRECENT DISAPPEARANCES ON\nDATING APPS!
+  ES: ¡LO QUE LOS [web_bold_red]MEDIOS MANIPULADORES[] NO\nQUIEREN QUE SEPAS SOBRE LAS\nDESAPARICIONES RECIENTES EN\nLAS APPS DE CITAS!  (x2)
 - EN: Wait!
   ES: ¡Espera!  (x2)
 - EN: Watch the sarcasm
   ES: Cuidado con el sarcasmo  (x2)
+- EN: We are constantly looking for talented individ-\nuals to join our ever-growing organization.
+  ES: Buscamos constantemente personas con talento\npara sumarse a nuestra organización en crecimiento.  (x2)
 - EN: We are proud to introduce a new service.\nPlease welcome Lisa and Hayley. They will\nform the Online Service Desk of our Faris &\nKane cohesive network. They are available\nall day, all week, for any assistance neces-\nsary in technical and financial matters.
-  ES: Estamos orgullosos de presentar un nuevo servicio.\nDale la bienvenida a Lisa y Hayley. Ellas\nformaran el Mostrador de Servicio en Linea de nuestra red\ncohesiva Faris & Kane. Estan disponibles\ntodo el dia, toda la semana, para cualquier asistencia necesa-\nria en asuntos tecnicos y financieros.  (x2)
+  ES: Estamos orgullosos de presentar un nuevo servicio.\nDale la bienvenida a Lisa y Hayley. Ellas\nformaran el Mostrador de Servicio en Linea de nuestra red\ncohesiva Faris & Kane. Estan disponibles\ntodo el día, toda la semana, para cualquier asistencia necesa-\nria en asuntos tecnicos y financieros.  (x2)
 - EN: We at Spark believe that we should use\ntechnology to improve every facet of our lives. \nWe have seen how the internet has helped \nprofessionals, friends and collaborators unite, \nwhy not romantic partners?
-  ES: En Spark creemos que deberiamos usar\nla tecnologia para mejorar cada aspecto de nuestras vidas.\nHemos visto como internet ha ayudado a\nprofesionales, amigos y colaboradores a unirse,\npor que no a las parejas romanticas?  (x2)
+  ES: En Spark creemos que deberiamos usar\nla tecnología para mejorar cada aspecto de nuestras vidas.\nHemos visto como internet ha ayudado a\nprofesionales, amigos y colaboradores a unirse,\npor que no a las parejas romanticas?  (x2)
 - EN: We have improved our contact avenues.
   ES: Hemos mejorado nuestras vías de contacto.  (x2)
+- EN: We provide the very best of personal\nshoppers for your convenience, cat-\negorized by style, regional familiarity,\nand language.
+  ES: Ofrecemos los mejores compradores\npersonales para tu comodidad,\nclasificados por estilo, región\ne idiomas.  (x2)
+- EN: We will send you an email shortly, please \nensure that your email is correct to receive our\ninvite.
+  ES: Te enviaremos un correo en breve. Asegúrate\nde que tu dirección sea correcta para recibir\nla invitación.  (x2)
+- EN: Welcome to Chats, your default messaging app. Powered by Iris OS
+  ES: Bienvenido a Chats, tu aplicación de mensajería predeterminada. Con tecnología de Iris OS.  (x2)
 - EN: Well
   ES: Bueno  (x2)
 - EN: What do you need?
   ES: ¿Qué necesitas?  (x2)
+- EN: What gives?
+  ES: ¿Qué pasa?  (x2)
+- EN: What is that smile
+  ES: ¿A qué viene esa sonrisa?  (x2)
 - EN: What to expect?
   ES: ¿Qué esperar?  (x2)
+- EN: Whats wrong?
+  ES: ¿Qué pasó?  (x2)
 - EN: What’s New?
   ES: ¿Qué hay de nuevo?  (x2)
 - EN: Where is Anna?
   ES: ¿Dónde está Anna?  (x2)
+- EN: Who gives you that right?
+  ES: ¿Quién te dio ese derecho?  (x2)
 - EN: Who is in danger?!
   ES: ¿Quién está en peligro?  (x2)
+- EN: Who is the unlucky girl?
+  ES: ¿Quién es la chica con tan mala suerte?  (x2)
 - EN: Whoops.
   ES: Ups.  (x2)
 - EN: Who’s voice?
   ES: ¿La voz de quién?  (x2)
 - EN: Why IRL?
   ES: ¿Por qué IRL?  (x2)
+- EN: Why did I trust you with Anna's phone?
+  ES: ¿Por qué te confié el teléfono de Anna?  (x2)
+- EN: Why me?
+  ES: ¿Por qué yo?  (x2)
 - EN: Work and Career
   ES: Trabajo y Carrera  (x2)
 - EN: Yes
   ES: Sí  (x2)
 - EN: Yes he died
   ES: Sí, murió  (x2)
+- EN: You are not making sense
+  ES: Lo que dices no tiene sentido.  (x2)
+- EN: You are not making this easy
+  ES: No me lo estás poniendo fácil.  (x2)
+- EN: You can find out more about the NSFW\nRegistry in the link here.
+  ES: Puedes encontrar más información sobre el Registro NSFW\nen el enlace que aparece aquí.  (x2)
+- EN: You dont know what the real world is like
+  ES: No sabes cómo es el mundo real.  (x2)
 - EN: You got me
   ES: Me tienes  (x2)
+- EN: You gotta give me more than that
+  ES: Necesito más que eso  (x2)
 - EN: You have nothing on me
   ES: No tienes nada contra mí  (x2)
 - EN: You left me no choice
   ES: No me dejaste opción  (x2)
 - EN: You really wanna know?
   ES: ¿De verdad quieres saberlo?  (x2)
+- EN: You shouldve stuck with us
+  ES: Debiste haberte quedado con nosotros.  (x2)
 - EN: You there?
   ES: Estas ahi?  (x2)
 - EN: You're lying
   ES: Estás mintiendo  (x2)
+- EN: Your system is up to date
+  ES: Tu sistema está actualizado.  (x2)
 - EN: Yup!
   ES: ¡Sip!  (x2)
 - EN: graphic://content/mail/text/irishello.png#block#\nWelcome #state:boot.name#!\n\nCongratulations! You are all set up\n\nAs a user of Iris OS, we are always one step ahead in providing you with the support you need at your upmost convenience.\n\nFor access to our other services, please login with your Iris email given below.\n\n[MAIL_BOLD]#state:boot.email#@imail.web[] \n\nShould you need any further assistance, you can contact our nearest support center at #state:boot.location# \n\nHave a good day\n\nAlways watching over you, #block#graphic://left=0.4=content/mail/text/irislogo.png#block#align://center/\n[MAIL_ITALIC]This is an automated email, please do not respond[]
@@ -6382,12 +5588,28 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿mis habilidades de persuasión superan las tuyas?  (x2)
 - EN: now the code won't work!
   ES: ¡ahora el código no funciona!  (x2)
+- EN: tIMe Is sHoRt
+  ES: El TiEmPo Se AcAbA  (x2)
+- EN: ‘Gared and I are head over heels. \nNever felt better. \nThanks Spark!’ - Elaine
+  ES: «Gared y yo estamos perdidamente enamorados.\nNunca me había sentido mejor.\n¡Gracias, Spark!» - Elaine  (x2)
+- EN: ‘It was love at first click.\nThis is the future.’ - Jyn
+  ES: «Fue amor al primer clic.\nEste es el futuro». - Jyn  (x2)
+- EN: ‘Spark was the only way \nI could have met Lisa. \nLong live the internet.’ - Thom
+  ES: «Spark fue la única manera\nde conocer a Lisa.\n¡Viva internet!» - Thom  (x2)
 - EN: “In Real Life” for short, some people\nare just not cut out for online dating.\nMaybe they are shy, maybe they fear\nthe stigma. We think that everyone\ncan be matched and sometimes\nall you need is to meet the people\nbehind the app.
-  ES: “En la Vida Real”, para abreviar, algunas\npersonas simplemente no sirven para las citas\nen linea. Quizas son timidas, quizas temen\nel estigma. Creemos que todos\npueden encontrar pareja y a veces\nlo unico que necesitas es conocer a la gente\ndetras de la app.  (x2)
+  ES: “En la Vida Real”, para abreviar, algunas\npersonas simplemente no sirven para las citas\nen linea. Quizás son timidas, quizás temen\nel estigma. Creemos que todos\npueden encontrar pareja y a veces\nlo único que necesitas es conocer a la gente\ndetrás de la app.  (x2)
+- EN: “Several arrests were made linking the crimes\nthey’ve committed to the popular dating app.”
+  ES: «Varias detenciones relacionaron los delitos\ncometidos con la popular aplicación de citas.»  (x2)
 - EN: "shaved" what is this strange word you speak off?
   ES: "afeitado" ¿cuál es esta extraña palabra que dices?  (x1)
-- EN: (National Sex Felon Website)
-  ES: (Sitio web nacional sobre agresores sexuales)  (x1)
+- EN: 'the easiest answer is most often right'
+  ES: «La respuesta más fácil suele ser la correcta»  (x1)
+- EN: 'the obvious answer is most often true'
+  ES: «La respuesta más obvia suele ser la verdadera»  (x1)
+- EN: 'the simplest answer is most often correct'
+  ES: «La respuesta más sencilla suele ser la correcta»  (x1)
+- EN: (I think she means you) 🤔
+  ES: (Creo que se refiere a ti) 🤔  (x1)
 - EN: (its what we call our new recruits)
   ES: (así llamamos a nuestros nuevos reclutas)  (x1)
 - EN: (neat huh)
@@ -6400,6 +5622,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *huesos aplastad  (x1)
 - EN: *breaking* Answer me!
   ES: *rompiéndose* ¡Contéstame!  (x1)
+- EN: *breaking* Are you ignoring me?
+  ES: *entrecortado* ¿Me estás ignorando?  (x1)
+- EN: *breaking* DAMMIT!
+  ES: *entrecortado* ¡MALDICIÓN!  (x1)
 - EN: *breaking* Explain!
   ES: *rompiéndose* ¡Explícate!  (x1)
 - EN: *breaking* Hello??
@@ -6408,12 +5634,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *rompiéndose* ¡Hoooola!  (x1)
 - EN: *breaking* I know you’re there!
   ES: *rompiéndose* ¡Sé que estás ahí!  (x1)
+- EN: *breaking* If anything happens to here, it’s not you!
+  ES: *entrecortado* Si le pasa algo, ¡no será culpa tuya!  (x1)
 - EN: *breaking* Is Anna with you right now?
   ES: *rompiéndose* ¿Anna está contigo ahora mismo?  (x1)
 - EN: *breaking* Where did you get the phone?
   ES: *rompiéndose* ¿De dónde sacaste el teléfono?  (x1)
 - EN: *breaking* Who the hell is this?
   ES: *rompiéndose* ¿Quién diablos es este?  (x1)
+- EN: *breaking* Why aren’t you speaking?
+  ES: *entrecortado* ¿Por qué no hablas?  (x1)
 - EN: *distorted* Anna told me she’s gonna be here.
   ES: *distorsionado* Anna me dijo que estará aquí.  (x1)
 - EN: *distorted* Before I do this,
@@ -6422,6 +5652,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *distorsionado* Pero... Taylor, se ha ido.  (x1)
 - EN: *distorted* Helloo.
   ES: *distorsionado* Hoooola.  (x1)
+- EN: *distorted* I just want to go on record and say that,
+  ES: *distorsionado* Solo quiero dejar constancia de que...  (x1)
 - EN: *distorted* It might be a trap.
   ES: *distorsionado* Podría ser una trampa.  (x1)
 - EN: *distorted* It might not even be her.
@@ -6450,6 +5682,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *come palomitas*  (x1)
 - EN: *elevator music*
   ES: *música de ascensor*  (x1)
+- EN: *girl struggling and running*
+  ES: *chica forcejeando y corriendo*  (x1)
+- EN: *glass breaking*
+  ES: *vidrios que se rompen*  (x1)
 - EN: *hand moving*
   ES: *mano movién  (x1)
 - EN: *hugs*
@@ -6471,9 +5707,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: *singing* I got my eyes on you.
   ES: *cantando* Te tengo en la mira.  (x1)
 - EN: *singing* You left your mark on me
-  ES: *cantando* Dejaste tu huella en mi  (x1)
+  ES: *cantando* Dejaste tu huella en mí  (x1)
 - EN: *static*
   ES: *estática*  (x1)
+- EN: *struggle intensifies and screaming*
+  ES: *los forcejeos y gritos se intensifican*  (x1)
+- EN: *voice repeats with increasing distortion*
+  ES: *la voz se repite con una distorsión cada vez mayor*  (x1)
 - EN: *white noise*
   ES: *ruido blanco  (x1)
 - EN: *wind and rising heartbeat*
@@ -6486,18 +5726,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: 2 a 1 a favor  (x1)
 - EN: 2 years.
   ES: 2 años.  (x1)
-- EN: 22 year old art student. Loves books and stay-\ning indoors.
-  ES: Estudiante de arte de 22 años. Le encantan los libros y quedarse en interiores.  (x1)
-- EN: 23 year old marketing intern. Dreams of writing\nher own novel.
-  ES: Practicante de marketing de 23 años. Sueña con escribir su propia novela.  (x1)
-- EN: 24 year old waiter. Studying for a law program\non the side.
-  ES: Mesero de 24 años. Estudiando un programa de leyes por su cuenta.  (x1)
-- EN: 24 year old waiter. Studying for a law program\non the side.
-  ES: Mesero de 24 años. Estudia un programa de derecho por su cuenta.  (x1)
+- EN: 4 push ups. IM OFF THE CHAINS TODAY
+  ES: 4 flexiones. ¡HOY ESTOY IMPARABLE!  (x1)
+- EN: 75% chance that at any given time we are the most boring couple in the room
+  ES: Hay un 75 % de probabilidades de que seamos la pareja más aburrida del lugar.  (x1)
 - EN: 80s kid eh?
   ES: ¿Niño de los 80, eh?  (x1)
 - EN: :) love you too
   ES: :) yo también te quiero  (x1)
+- EN: @keepingitcassie has always been single
+  ES: @keepingitcassie siempre ha estado soltera.  (x1)
+- EN: @keepingitcassie is a persona?!?!
+  ES: ¿¡@keepingitcassie es una identidad ficticia!?  (x1)
+- EN: @keepingitcassie is close to 200000 followers
+  ES: @keepingitcassie está cerca de los 200.000 seguidores.  (x1)
+- EN: A Dog's Purpose
+  ES: La razón de estar contigo  (x1)
 - EN: A SMOOTHER START
   ES: UN COMIENZO MÁS  (x1)
 - EN: A SMOOTHER START
@@ -6506,6 +5750,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Un compañero de trabajo  (x1)
 - EN: A deal is a deal!
   ES: ¡Un trato es un trato!  (x1)
+- EN: A dog's purpose
+  ES: La razón de estar contigo  (x1)
 - EN: A feathered bear
   ES: Un oso emplumado  (x1)
 - EN: A founder of a startup, game programmer, neuroscience researcher
@@ -6522,32 +5768,44 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Un poco ocupada, en realidad.  (x1)
 - EN: A little of myself, this is video log number 1.
   ES: Un poco de mí, este es el video log número 1.  (x1)
+- EN: A lover of life, animals and working at [HANDLE]@faraday_safety[]
+  ES: Amante de la vida, de los animales y de trabajar en [HANDLE]@faraday_safety[]  (x1)
 - EN: A movie should not be three hours long. My bladder can't handle it
   ES: Una película no debería durar tres horas. Mi vejiga no aguanta  (x1)
 - EN: A polar feathered bear
   ES: Un oso polar emplumado  (x1)
 - EN: A polar feathered bear waddles above the hammer
   ES: Un oso polar emplumado camina sobre el martillo  (x1)
+- EN: A polar feathered bear waddling above the hammer
+  ES: Un oso polar emplumado camina torpemente sobre el martillo.  (x1)
+- EN: A polar, feathered bear waddles above the hammer
+  ES: Un oso polar emplumado camina torpemente sobre el martillo.  (x1)
+- EN: A polar, feathered bear waddling above the hammer
+  ES: Un oso polar emplumado camina torpemente sobre el martillo.  (x1)
 - EN: A real catch
   ES: Gran partido  (x1)
 - EN: A robbery?
   ES: ¿Un robo?  (x1)
 - EN: A timed factory reset?
   ES: ¿Un restablecimiento de fábrica programado?  (x1)
-- EN: A truthful existance doesnt exist
-  ES: Una existencia verdadera no existe  (x1)
 - EN: A walking piece of USELESSNESS
   ES: Un pedazo andante de INUTILIDAD  (x1)
 - EN: A warehouse?
   ES: ¿Un almacén?  (x1)
 - EN: A windy convergence.
   ES: Una convergencia sinuosa.  (x1)
+- EN: ALWAYS WATCHING OVER YOU
+  ES: SIEMPRE VIGILÁNDOTE  (x1)
+- EN: AND tell you that that its YOUR responsibility too?
+  ES: ¿Y ENCIMA te dice que también es TU responsabilidad?  (x1)
 - EN: APP DEVELOPMENT
   ES: DESARROLLO DE APP  (x1)
 - EN: APP DEVELOPMENT
   ES: DESARROLLO DE APPS  (x1)
 - EN: About the same.
   ES: Más o menos igual.  (x1)
+- EN: About this "Greg"
+  ES: Sobre ese tal «Greg»  (x1)
 - EN: About time you take what you have and be happy with it
   ES: Ya es hora de que tomes lo que tienes y seas feliz con ello  (x1)
 - EN: About what not.
@@ -6557,23 +5815,25 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Actually, I’m not Anna
   ES: En realidad, no soy Anna  (x1)
 - EN: Admit it! You could've have done this without me! When you asked for Anna's favorite movie for whatever reason. I gave it to you FOR FREE. All I ask is for her picture and you couldn't even do that!
-  ES: Admitelo! No habrias podido hacer esto sin mi! Cuando pediste la pelicula favorita de Anna por la razon que fuera. Te la di GRATIS. Todo lo que pido es su foto y ni siquiera pudiste hacer eso!  (x1)
+  ES: ¡Admítelo! No habrías podido hacerlo sin mí. Cuando me pediste la película favorita de Anna, te la dije GRATIS. Solo te pedí una foto de ella y ¡ni siquiera pudiste hacer eso!  (x1)
 - EN: After all that?
   ES: ¿Después de todo eso?  (x1)
+- EN: After coming off a shitty relationship
+  ES: Después de salir de una relación horrible  (x1)
 - EN: After looking back at some post from 4 years ago, i just realised how fukin awesome i am
   ES: Después de mirar una publicación de hace 4 años, me di cuenta de lo jodidamente increíble que soy  (x1)
-- EN: After that, a yearly subscription fee will be charged.
-  ES: Después de eso, se cobrará una tarifa de suscripción anual.  (x1)
 - EN: After this
-  ES: Despues de  (x1)
+  ES: Después de esto  (x1)
 - EN: After this call, please wait for us to text you at our latest convenience.
   ES: Después de esta llamada, espere a que le enviemos un mensaje de texto a la brevedad.  (x1)
+- EN: Again with this?! How bout no 😠
+  ES: ¿Otra vez con eso? Pues no. 😠  (x1)
 - EN: Again. Help me help you.
   ES: Otra vez. Ayúdame a ayudarte.  (x1)
+- EN: Again. Hypothetical
+  ES: De nuevo, es un caso hipotético.  (x1)
 - EN: Again?
   ES: ¿Otra vez?  (x1)
-- EN: Age :
-  ES: Edad:  (x1)
 - EN: Agreed
   ES: De acuerdo  (x1)
 - EN: Ah man, what a waste
@@ -6586,20 +5846,32 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo pido que vengas a ver a tu madre de vez en cuando  (x1)
 - EN: All I can say socially
   ES: Todo lo que puedo decir en lo social  (x1)
-- EN: All life is precious
-  ES: Toda vida es preciosa  (x1)
+- EN: All I need is ONE f2f conversation with her
+  ES: Solo necesito UNA conversación cara a cara con ella.  (x1)
+- EN: All hell broke loose.
+  ES: Se armó un caos.  (x1)
+- EN: All of the missing people, Anna, Cassie has to share something in common. 🤔
+  ES: Todas las personas desaparecidas, incluidas Anna y Cassie, deben tener algo en común. 🤔  (x1)
+- EN: All of this just doesn’t feel right.
+  ES: Todo esto me da mala espina.  (x1)
 - EN: Almost there, Okay I was doing an errand and it turned into a longer thing than I thought.
   ES: Ya casi llegué. Bueno, estaba haciendo un mandado y se convirtió en algo más largo de lo que pensé.  (x1)
 - EN: Alright if you're done wasting time, you can still be of use
-  ES: Bueno, si ya terminaste de perder tiempo, todavia puedes ser  (x1)
+  ES: Bueno, si ya terminaste de perder el tiempo, todavía puedes servir de algo.  (x1)
+- EN: Alright, Snoopy. Do your thing.
+  ES: Está bien, Snoopy. Haz lo tuyo.  (x1)
 - EN: Also
   ES: También  (x1)
 - EN: Also…
   ES: Además  (x1)
-- EN: Always wanted to define the \nroad you take?
-  ES: Siempre quise definir el \ncamino que tomas?  (x1)
 - EN: Am I blind
   ES: Soy ciego?  (x1)
+- EN: Am I next?!?!?
+  ES: ¿¡Seré el siguiente!?  (x1)
+- EN: Am I on a livestream or something?
+  ES: ¿Estoy en una transmisión en vivo o qué?  (x1)
+- EN: Am I the only applicant?
+  ES: ¿Soy el único postulante?  (x1)
 - EN: Am I too picky?
   ES: ¿Soy muy exigente?  (x1)
 - EN: Am I..
@@ -6616,40 +5888,64 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Y yo me quede con ruptura por correo de medio  (x1)
 - EN: And I got to do it on my own.
   ES: Y tengo que hacerlo por mi cuenta.  (x1)
+- EN: And I know you don't like dancing like I do anyway.
+  ES: Y sé que, de todas formas, a ti no te gusta bailar tanto como a mí.  (x1)
 - EN: And I need to leave it to the professionals
   ES: Y necesito dejarlo en manos de los profesionales  (x1)
 - EN: And I think it’s time to unleash the… “Hey! My eyes up here” dress.
   ES: Y creo que es hora de desatar el vestido... "¡Oye! Mis ojos aquí arriba".  (x1)
+- EN: And SOMEHOW James knew
+  ES: Y, DE ALGÚN MODO, James lo sabía.  (x1)
 - EN: And fort your pillows.
   ES: Y esponja tus almohadas.  (x1)
+- EN: And get back on track!
+  ES: ¡Y volvamos al tema!  (x1)
 - EN: And i just want that promise fulfilled you know?
   ES: Y solo quiero que esa promesa se cumpla ¿sabes?  (x1)
 - EN: And if it breaks down, she'd still call.
   ES: Y si se descompone, aún así llamaría.  (x1)
+- EN: And it has to be done through Anna's phone
+  ES: Y tiene que hacerse desde el teléfono de Anna.  (x1)
 - EN: And its not a request.
   ES: Y no es una solicitud.  (x1)
 - EN: And it’s getting on my nerves.
   ES: Y me está sacando de quicio.  (x1)
+- EN: And like a good bestie, I sat through the entire thing.
+  ES: Y, como buena amiga, me aguanté todo.  (x1)
 - EN: And read almost all dating advice out there
   ES: Y leer casi todos los consejos de citas que existen  (x1)
+- EN: And sending lewd emails while technically is reportable
+  ES: Y enviar correos obscenos, aunque técnicamente se puede denunciar...  (x1)
 - EN: And some stranger is comforting me
   ES: Y un desconocido me está consolando  (x1)
+- EN: And somehow she makes a post exactly the same time as when Greg is checking in on her?
+  ES: ¿Y cómo es que ella publica justo cuando Greg la está buscando?  (x1)
 - EN: And thats how democracy works
   ES: Y así funciona la democracia  (x1)
+- EN: And the nonprofit takes a glammy picture of the whoever people and the CEO
+  ES: Y la organización sin fines de lucro se toma una foto elegante con esas personas y el director ejecutivo.  (x1)
 - EN: And then?
   ES: ¿Y luego?  (x1)
 - EN: And they have to take 3 months for this?
   ES: ¿Y tienen que tardar 3 meses para esto?  (x1)
 - EN: And true
   ES: Y es cierto  (x1)
+- EN: And u know I don like pizza Anna pls
+  ES: Y sabes que no me gusta la pizza, Anna. Por favor.  (x1)
 - EN: And ur blocking my calls now?
   ES: ¿Y estás bloqueando mis llamadas ahora?  (x1)
 - EN: And we can swipe.
   ES: Y podemos deslizar.  (x1)
+- EN: And we. found. her.
+  ES: Y. La. Encontramos.  (x1)
 - EN: And what makes you think you can use her computer so easily?
   ES: ¿Y por qué crees que puedes usar su computadora tan fácilmente?  (x1)
 - EN: And what the hell dyou mean wrong person?
   ES: ¿Y qué demonios quieres decir con persona equivocada?  (x1)
+- EN: And where is _your_ certificate of permission, eh?
+  ES: ¿Y dónde está _tu_ permiso, eh?  (x1)
+- EN: And who are you to make that decision huh?
+  ES: ¿Y quién eres tú para tomar esa decisión, eh?  (x1)
 - EN: And work with animals.
   ES: Y trabajar con animal.  (x1)
 - EN: And you are just a phone invader
@@ -6660,6 +5956,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Y tú pareces saber más sobre eso  (x1)
 - EN: And you should stop!
   ES: ¡Y deberías parar!  (x1)
+- EN: And you shouldve stuck with me
+  ES: Y tú deberías haberte quedado conmigo.  (x1)
 - EN: And, there’s no point wasting time, so here I go.
   ES: Y no tiene sentido perder el tiempo, así que aquí voy.  (x1)
 - EN: Animal lover
@@ -6667,11 +5965,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Animal lover huh
   ES: ¿Amante de los animales, eh?  (x1)
 - EN: Anna ?
-  ES: ¿Ana?  (x1)
+  ES: ¿Anna?  (x1)
 - EN: Anna actually came online
   ES: Anna en verdad se conecto  (x1)
 - EN: Anna and James still had activity on Jabbr, but no one has physically seen them?
   ES: ¿Anna y James todavía tenían actividad en Jabbr, pero nadie los ha visto físicamente?  (x1)
+- EN: Anna blocked my card. So immature! 😠
+  ES: Anna bloqueó mi tarjeta. ¡Qué inmadura! 😠  (x1)
 - EN: Anna came to me.
   ES: Anna vino a mí.  (x1)
 - EN: Anna finally you decide to answer.
@@ -6683,15 +5983,19 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Anna is at stake here!!!
   ES: ¡¡¡Anna está en juego aquí!!!  (x1)
 - EN: Anna is currently unavailable
-  ES: Anna no esta disponible ahora  (x1)
+  ES: Anna no está disponible en este momento.  (x1)
 - EN: Anna is important to me
   ES: Anna es importante para mi  (x1)
+- EN: Anna is some next level animal freak. I know some friends who are like that as well.
+  ES: Anna es una amante de animales de otro nivel. Conozco amigos que son así también.  (x1)
 - EN: Anna left a weird video.
   ES: Anna dejo un video raro.  (x1)
 - EN: Anna means a lot to you, huh?
   ES: Anna significa mucho para ti, ¿eh?  (x1)
 - EN: Anna met someone on Spark
-  ES: Anna conocio a alguien en  (x1)
+  ES: Anna conoció a alguien por Spark.  (x1)
+- EN: Anna met with James Aulner
+  ES: Anna se reunió con James Aulner.  (x1)
 - EN: Anna might be gone becasue of it.. 😢
   ES: Anna podría haberse ido por culpa de eso.. 😢  (x1)
 - EN: Anna needs you to be strong, ok?
@@ -6706,6 +6010,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Anna me volvió a escribir  (x1)
 - EN: Anna wanted to move on, why can't you respect that?
   ES: Anna quería seguir adelante, ¿por qué no puedes respetarlo?  (x1)
+- EN: Anna went missing the same way as James. They were both last seen going on a date with someone on Spark.
+  ES: Anna desapareció igual que James. Los vieron por última vez cuando iban a reunirse con alguien de Spark.  (x1)
 - EN: Anna where the heck are you?!?!?!
   ES: Anna, ¿dónde diablos estás?!?!  (x1)
 - EN: Anna would have called her phone by now if she is ok
@@ -6716,26 +6022,34 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Anna, tú eres la única mejor amiga que he tenido  (x1)
 - EN: Anna's notebook mentioned that she met someone
   ES: El cuaderno de Anna mencionó que conoció a alguien  (x1)
+- EN: Anna's the girl on her wallpaper, right?
+  ES: Anna es la chica del fondo de pantalla, ¿verdad?  (x1)
 - EN: Announcement!
   ES: ¡Anuncio!  (x1)
 - EN: Another girl?
   ES: ¿Otra chica?  (x1)
 - EN: Another one at her workstation. 🤔
   ES: Otro en su estacion de trabajo. 🤔  (x1)
+- EN: Another tech company scandal
+  ES: Otro escándalo de una empresa tecnológica  (x1)
 - EN: Answer me so I don't have to file a missing person's report
   ES: Respóndeme para no tener que presentar un reporte de persona desaparecida  (x1)
 - EN: Any dentist recommendation? Somewhere near my area would be great
   ES: ¿Alguna recomendación de dentista? En algún lugar cerca de mi zona estaría genial  (x1)
 - EN: Any idea on what Anna’s first choice of movies is?
   ES: ¿Alguna idea de cuál es la primera opción de películas de Anna?  (x1)
-- EN: Any person who uses information in this registry to\ninjure, harass, or commit a criminal offense against\nany person included in the registry or any other\nperson is subject to criminal prosecution.\n\n\nWe have not considered or assessed the specific risk\nof re-offense with regard to any individual prior to his\nor her inclusion within this registry and has made no\ndetermination that any individual included in the reg-\nistry is currently dangerous. The main purpose of pro-\nviding this data on the internet is to make information\nmore easily available and accessible, not to warn\nabout any specific individual.
-  ES: Cualquier persona que use la informacion de este registro para\nlesionar, acosar o cometer un delito contra\ncualquier persona incluida en el registro o cualquier otra\npersona esta sujeta a procesamiento penal.\n\n\nNo hemos considerado ni evaluado el riesgo especifico\nde reincidencia respecto a ningun individuo antes de su\ninclusion en este registro y no hemos determinado que\nningun individuo incluido en el regis-\ntro sea actualmente peligroso. El proposito principal de pro-\nporcionar estos datos en internet es hacer la informacion\nmas facilmente disponible y accesible, no advertir\nsobre ningun individuo en especifico.  (x1)
 - EN: Any preference?
   ES: ¿Alguna preferencia?  (x1)
 - EN: Anythin' can happen in 5 years
   ES: Cualquier cosa puede pasar en 5 años  (x1)
 - EN: Anything buddy
   ES: Lo que queras,  (x1)
+- EN: Anything else?
+  ES: Lo que sea, cariño.  (x1)
+- EN: Anything in her phonethat indicates where she might be?
+  ES: ¿Hay algo en su teléfono que indique dónde podría estar?  (x1)
+- EN: Anything interesting you picked up
+  ES: ¿Descubriste algo interesante?  (x1)
 - EN: Anything stands out?
   ES: ¿Algo que resalte?  (x1)
 - EN: Anything!
@@ -6746,24 +6060,38 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Somos básicos?  (x1)
 - EN: Are we boring?
   ES: ¿Somos aburridos?  (x1)
+- EN: Are we normcore?
+  ES: ¿Somos de estilo normcore?  (x1)
+- EN: Are you a very careful business owner that desires all-round security?
+  ES: ¿Eres un empresario precavido que busca protección integral?  (x1)
 - EN: Are you bored of me?
   ES: ¿Estás aburrido de mí?  (x1)
 - EN: Are you calling me a liar?
   ES: ¿Me estás llamando mentiroso?  (x1)
+- EN: Are you catfishing me
+  ES: ¿Me estás engañando con un perfil falso?  (x1)
 - EN: Are you crazy?!?!? 😱😱
   ES: ¿Estás loco?!?!? 😱😱  (x1)
 - EN: Are you doubting me?
-  ES: Estas dudando de mi?  (x1)
+  ES: ¿Estás dudando de mí?  (x1)
 - EN: Are you hiding anything?
   ES: Me estas ocultando algo?  (x1)
+- EN: Are you implying that I am abusing her?
+  ES: ¿Insinúas que la estoy maltratando?  (x1)
+- EN: Are you one of those catfishers, who stole her phone??
+  ES: ¿Eres uno de esos estafadores que le robaron el teléfono?  (x1)
 - EN: Are you sure you didnt trigger it?
-  ES: Estas seguro que no lo activaste??  (x1)
+  ES: ¿Seguro que no lo activaste tú?  (x1)
+- EN: Are you taking this seriously?
+  ES: ¿Te estás tomando esto en serio?  (x1)
 - EN: Are you the only one out there?
   ES: ¿Eres el único que está ahí?  (x1)
 - EN: Are you there?
   ES: ¿Estás ahí?  (x1)
 - EN: Are you trying to delete Anna's phone?
   ES: ¿Estás intentando borrar el teléfono de Anna?  (x1)
+- EN: Are you two on to something?
+  ES: ¿Ustedes dos descubrieron algo?  (x1)
 - EN: Are you up for some blackmail?
   ES: ¿Estás para un poco de chantaje?  (x1)
 - EN: Arent our profiles just better versions of ourselves?
@@ -6773,13 +6101,11 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Arent you scared?
   ES: ¿No tienes miedo?  (x1)
 - EN: As a patron of Faris & Kane, you have access to special consumer deals with selected retail flagships, and an integrated system of payments from top renown banks.
-  ES: Como cliente de Faris & Kane, tienes acceso a ofertas especiales en tiendas selectas y a un sistema integrado de pagos de los bancos mas reconocidos.  (x1)
-- EN: As cities begin to take over our\nworld, and our natural land disap-\npear, we begin to question the\nwisdom of forgetting our roots, along\nwith the ancient traditions that can\nteach us a thing or two.\n\nOne of the most beloved, and tragic,\nof cultural loss, are the Native Ameri-\ncans. They welcomed the westerners\nwith open arms, and received bullets,\ndisease and loss of property. Their\nculture collapsed under the hail of\ngunfire and imperialism, and now\nthey are surviving at the edges of\nmodern society, pushed aside by\nprogress and development.
-  ES: Mientras las ciudades empiezan a dominar\nnuestro mundo y nuestra tierra natural desapa-\nrece, empezamos a cuestionar la\nsabiduria de olvidar nuestras raices, junto\ncon las tradiciones antiguas que pueden\nensenarnos una que otra cosa.\n\nUna de las perdidas culturales mas\nqueridas, y tragicas, son los nativos\namericanos. Recibieron a los occidentales\ncon los brazos abiertos, y recibieron balas,\nenfermedad y perdida de sus bienes. Su\ncultura se derrumbo bajo la lluvia de\nbalas y el imperialismo, y ahora\nsobreviven en los margenes de la\nsociedad moderna, apartados por el\nprogreso y el desarrollo.  (x1)
+  ES: Como cliente de Faris & Kane, tienes acceso a ofertas especiales en tiendas selectas y a un sistema integrado de pagos de los bancos más reconocidos.  (x1)
 - EN: As for as I know at least
   ES: Hasta donde sé, al menos  (x1)
 - EN: As hard as it is for you to believe
-  ES: Aunque sea dificil de creer para ti  (x1)
+  ES: Aunque sea difícil de creer para ti  (x1)
 - EN: As in. MISSING?
   ES: ¿O sea, DESAPARECIDA?  (x1)
 - EN: As long as you do both.
@@ -6798,12 +6124,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Preguntar alrededor  (x1)
 - EN: Ask away!
   ES: Pregunta!  (x1)
+- EN: At a party once
+  ES: En una fiesta, una vez.  (x1)
 - EN: At the end of the day
-  ES: Al final del dia  (x1)
+  ES: Al final del día  (x1)
 - EN: Aunt Penny has a position in her company
   ES: La tía Penny tiene un puesto en su empresa  (x1)
 - EN: Awesome
   ES: Genial  (x1)
+- EN: Aww Ashley.
+  ES: Ay, Ashley.  (x1)
 - EN: BTW since you're home
   ES: PD: ya que estás en casa  (x1)
 - EN: BUT!!
@@ -6814,6 +6144,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Bolsa de piedras.  (x1)
 - EN: Bag of those bricks made out of poop they dry out
   ES: Bolsa de esos ladrillos hechos de caca que se secan al sol.  (x1)
+- EN: Bait him?
+  ES: ¿Usarlo como carnada?  (x1)
+- EN: Barging in here is a bad idea
+  ES: Entrar así, sin avisar, es una mala idea.  (x1)
 - EN: Bastards
   ES: Cabrones  (x1)
 - EN: Baudrillard is way ahead of his time
@@ -6825,31 +6159,45 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Be quick
   ES: Sé rápido  (x1)
 - EN: Be that way.
-  ES: Que asi sea.  (x1)
-- EN: Because you are wrong
-  ES: vo://content/vo/s14.ogg=Puedo borrar a la verdadera Anna ahora mismo si así lo deseo  (x1)
+  ES: Que así sea.  (x1)
+- EN: Be who they like huh
+  ES: Ser lo que ellos quieren, ¿eh?  (x1)
+- EN: Because you screwed up?
+  ES: ¿Porque cometiste un error?  (x1)
+- EN: Before I do so. I need to come clean
+  ES: Antes de hacerlo, tengo que decir la verdad.  (x1)
 - EN: Before I reset your password
   ES: Antes de restablecer tu contraseña  (x1)
+- EN: Being verbally abusive is not far from being physical
+  ES: El abuso verbal no está muy lejos del abuso físico.  (x1)
 - EN: Bet you get that wrong half the time.
   ES: Apuesto a que te equivocas la mitad de las veces.  (x1)
 - EN: Better
   ES: Mejor  (x1)
 - EN: Between me and Greg, that two-timing jerk of a boyfriend and ME! You just had to side with him, didn't you?! Whose idea did we use in the end? Mine! And it WORKED!
-  ES: Entre Greg, ese novio tramposo y desleal, y YO! Tenias que ponerte de su lado, no?! De quien fue la idea que usamos al final? Mia! Y FUNCIONO!  (x1)
+  ES: Entre Greg, ese novio tramposo y desleal, y YO! Tenías que ponerte de su lado, no?! De quien fue la idea que usamos al final? Mia! Y FUNCIONO!  (x1)
 - EN: Blackmail?
   ES: ¿Chantaje?  (x1)
 - EN: Blah blah blah… We thank you… blah blah blah.
   ES: Bla bla bla… Te agradecemos… bla bla bla.  (x1)
 - EN: Blehhh
   ES: Bleh  (x1)
+- EN: Boots? Loafers? Leathers
+  ES: ¿Botas? ¿Mocasines? ¿Prendas de cuero?  (x1)
+- EN: Both of you have good points
+  ES: Los dos tienen buenos argumentos.  (x1)
 - EN: Bow-chicka-wow-wow!
   ES: ¡Arco-chicka-guau-  (x1)
 - EN: Btw
   ES: Por cierto  (x1)
+- EN: Buddy! Pal! Friend!
+  ES: ¡Amigo! ¡Compañero! ¡Colega!  (x1)
 - EN: Bullshit. 😠
   ES: Mentiras. 😠  (x1)
 - EN: But
   ES: Pero  (x1)
+- EN: But HR will text her phone to verify
+  ES: Pero Recursos Humanos enviará un mensaje a su teléfono para verificarlo.  (x1)
 - EN: But I am more interested what Greg did
   ES: Pero me interesa más lo que hizo Greg  (x1)
 - EN: But I am taking this seriously
@@ -6862,28 +6210,50 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pero tengo cinturón verde en Karate  (x1)
 - EN: But I know you are
   ES: Pero sé que tú sí  (x1)
+- EN: But I totally understand where you are coming from
+  ES: Pero entiendo perfectamente tu punto de vista.  (x1)
 - EN: But I was so sure of what I saw
   ES: Pero estaba tan seguro de lo que vi  (x1)
 - EN: But I will keep this quick
   ES: Pero lo mantendré rápido  (x1)
+- EN: But I wish we did
+  ES: Pero ojalá lo hubiéramos hecho.  (x1)
+- EN: But I would never harm another person!
+  ES: ¡Pero yo jamás le haría daño a nadie!  (x1)
 - EN: But I'm not. I had a long time boyfriend, but I was dumped
   ES: Pero yo no. Tuve un novio de mucho tiempo, pero me dejaron  (x1)
+- EN: But Ive been thinking
+  ES: Pero lo he estado pensando.  (x1)
 - EN: But everything after that
   ES: Pero todo después de eso  (x1)
+- EN: But finding Anna is a priority, so I will help
+  ES: Pero encontrar a Anna es la prioridad, así que ayudaré.  (x1)
+- EN: But getting blocked is a strong word
+  ES: Pero que te bloqueen es algo bastante serio.  (x1)
 - EN: But good for me
   ES: Pero bueno para mi  (x1)
 - EN: But having a girlfriend all this time
   ES: Pero tener una novia todo este tiempo  (x1)
+- EN: But he is still himself
+  ES: Pero él sigue siendo él mismo.  (x1)
 - EN: But hear me out please?
   ES: ¿Pero escúchame, por favor?  (x1)
 - EN: But i think im confusing it with smtg else
   ES: pero creo que lo estoy confundiendo con otra cosa  (x1)
 - EN: But if you ask me
   ES: Pero si me preguntas a mi  (x1)
+- EN: But if you want, you still can let the report go through
+  ES: Pero, si quieres, todavía puedes enviar el informe.  (x1)
 - EN: But im sorry.
   ES: Pero lo siento.  (x1)
 - EN: But its been a while.
   ES: Pero ya ha pasado un tiempo.  (x1)
+- EN: But let me figue this one out
+  ES: Pero déjame resolver esto.  (x1)
+- EN: But putting an honest foot forward goes a long way
+  ES: Pero ser sincero desde el principio ayuda mucho.  (x1)
+- EN: But someone who really likes animals
+  ES: Pero alguien a quien de verdad le gustan los animales.  (x1)
 - EN: But thats not important.
   ES: Pero eso no es lo importante.  (x1)
 - EN: But we try ;)
@@ -6898,12 +6268,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pero ¿qué pasa si él la lastima o algo así y trata de encubrirlo? Y todo lo que escuchas de él es una MENTIRA.  (x1)
 - EN: But why?
   ES: ¿Pero por qué?  (x1)
+- EN: But.. you’re still here.
+  ES: Pero... sigues aquí.  (x1)
 - EN: By a ledge..
   ES: Junto a una cornisa..  (x1)
 - EN: By we, you mean me, right?
   ES: Cuando dices nosotros, te refieres a mí, ¿verdad?  (x1)
-- EN: CALL NOW\n1880-FARISKANE
-  ES: LLAMA AHORA\n1880-FARISKANE  (x1)
 - EN: CEO of BunnyHop
   ES: CEO de BunnyHop  (x1)
 - EN: Call his workplace
@@ -6914,10 +6284,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Llámame si necesitas, ¿sí?  (x1)
 - EN: Call me right now or I'll know for sure
   ES: Llámame ahora o me enteraré de seguro  (x1)
+- EN: Calling Phresh Ideas is a great plan
+  ES: Llamar a Phresh Ideas es un gran plan.  (x1)
+- EN: Calm down Greg
+  ES: Cálmate, Greg.  (x1)
 - EN: Calm down will you?
   ES: ¿Te calmas o qué?  (x1)
 - EN: Calm the fuck down
   ES: Cálmate la mierda  (x1)
+- EN: Can I ask more than one question?
+  ES: ¿Puedo hacer más de una pregunta?  (x1)
 - EN: Can I go now?
   ES: ¿Ya me puedo ir?  (x1)
 - EN: Can I run something by you first?
@@ -6926,42 +6302,74 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Puedo usar fotos de una amiga de Anna en su lugar?  (x1)
 - EN: Can luck strike twice?
   ES: ¿Puede la suerte golpear dos veces?  (x1)
+- EN: Can someone hand him the best boyfriend of the year award?
+  ES: ¿Alguien puede darle el premio al mejor novio del año?  (x1)
+- EN: Can we PLEASE get back to it?
+  ES: ¿Podemos, POR FAVOR, volver al tema?  (x1)
 - EN: Can we keep trying?
   ES: ¿Podemos seguir intentando?  (x1)
+- EN: Can we please work together to find my missing girlfriend
+  ES: ¿Podemos trabajar juntos para encontrar a mi novia desaparecida?  (x1)
+- EN: Can we talk? 😣
+  ES: ¿Podemos hablar? 😣  (x1)
 - EN: Can you be a little nicer sometimes
   ES: ¿Puedes ser un poco más amable a veces?  (x1)
 - EN: Can you check if its at your place?
-  ES: Puedes revisar si esta en tu lugar?  (x1)
+  ES: ¿Puedes comprobar si está en tu casa?  (x1)
+- EN: Can you confirm if this is true?
+  ES: ¿Puede confirmar si es cierto?  (x1)
 - EN: Can you do me a favour and just ignore.. All of it?
   ES: ¿Puedes hacerme un favor y simplemente ignorarlo..  (x1)
 - EN: Can you help me?
   ES: Puedes ayudarme?  (x1)
 - EN: Can you help me?
   ES: ¿Puedes ayudarme?  (x1)
+- EN: Can you relax? I hear only noise
+  ES: ¿Puedes tranquilizarte? Solo oigo ruido.  (x1)
 - EN: Can you see it?
   ES: ¿Puedes verlo?  (x1)
 - EN: Can you stop being so emotional right now? 😠
   ES: ¿Puedes dejar de ser tan emocional ahora? 😠  (x1)
+- EN: Can you take a peek at it? See where she went?
+  ES: ¿Puedes echar un vistazo y averiguar adónde fue?  (x1)
 - EN: Can your source even be trusted?
   ES: ¿Se puede confiar en tu fuente?  (x1)
 - EN: Can't
   ES: No puedo  (x1)
+- EN: Can't a mother bring her daughter some food
+  ES: ¿Acaso una madre no puede llevarle comida a su hija?  (x1)
+- EN: Can't be as good as mine
+  ES: No puede ser tan bueno como el mío.  (x1)
+- EN: Can't even swipe correctly lol
+  ES: Ni siquiera puedo deslizar bien, jaja.  (x1)
+- EN: Can't fool me. No sir.
+  ES: No me engañas. De ninguna manera.  (x1)
+- EN: Can't tell if he regretted almost knocking me up me or cheating on her
+  ES: No sé si se arrepintió de casi dejarme embarazada o de engañarla a ella.  (x1)
 - EN: Can't wait!
   ES: ¡No puedo esperar!  (x1)
 - EN: Can't you check it yourself?
   ES: ¿No puedes revisarlo tú mismo?  (x1)
 - EN: Cant be that bad
   ES: No puede ser tan malo  (x1)
+- EN: Cant believe my card won't work anymore
+  ES: No puedo creer que mi tarjeta haya dejado de funcionar.  (x1)
 - EN: Cant find it
   ES: No lo puedo encontrar  (x1)
+- EN: Cant say the same for her
+  ES: No puedo decir lo mismo de ella.  (x1)
 - EN: Car troubles, maybe?
   ES: Problemas con carro,  (x1)
+- EN: Card number not found.
+  ES: No se encontró el número de tarjeta.  (x1)
 - EN: Case Study: "GIVE ZERO FUCKS"
   ES: Estudio de caso: "ME VALE MADRES"  (x1)
 - EN: Cassie has a boyfriend!?!? 😱😱😱😱
   ES: Cassie tiene novio!?!? 😱😱😱😱  (x1)
 - EN: Cat person.
   ES: Amante de los gatos.  (x1)
+- EN: Cat 😺
+  ES: Gato 😺  (x1)
 - EN: Changed it?
   ES: ¿Lo cambiaste?  (x1)
 - EN: Charity
@@ -6978,6 +6386,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Salud!  (x1)
 - EN: Chill
   ES: Relájate  (x1)
+- EN: Chillin is always better with company 😊
+  ES: Relajarse siempre es mejor en compañía 😊  (x1)
 - EN: Classic! 😄
   ES: Clasico! 😄  (x1)
 - EN: College?
@@ -6986,18 +6396,24 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Vamos,  (x1)
 - EN: Come on Murv
   ES: Vamos, Murv  (x1)
+- EN: Come on, what if she needs our help?
+  ES: Vamos, ¿y si necesita nuestra ayuda?  (x1)
 - EN: Come on, you can trust me 😢
   ES: Vamos, puedes confiar en mí 😢  (x1)
+- EN: Come on, you gotta give me something?
+  ES: Vamos, tienes que darme algo más.  (x1)
 - EN: Come to think of it..
   ES: Ahora que lo pienso..  (x1)
-- EN: Conclusion? I have no freakin clue. Is there a\nserial killer on the loose? Were they kidnapped\nand experimented on by the [web_bold]Serpent Society?[]\n[web_red](more on this next week)[] Aliens abducting us to\ntry and understand our new mating rituals?\n\nNothing is off the table until “THE LAW” decides\nto take these “small” cases seriously. While we\nneed to be careful ALWAYS when we go out\nwith strangers, the people deserve to know\nthat there are bigger forces at play here. Stay\nvigilant and you can count on me to show you\nthe alternative truths.\n\nI end today with the truth that I hear screaming\nin my head:\n\nTRUST NO ONE,\nTHERE IS ONLY US AGAINST THEM,\nDONT TRUST THE WATER IN YOUR PIPES,\nDOUBT YOUR EYERIS.
-  ES: Conclusion? No tengo ni la menor idea. Hay un\nasesino serial suelto? Los secuestraron\ny experimentaron con ellos la [web_bold]Sociedad de la Serpiente?[]\n[web_red](mas sobre esto la proxima semana)[] Extraterrestres que nos abducen para\ntratar de entender nuestros nuevos rituales de apareamiento?\n\nNada queda descartado hasta que “LA LEY” decida\ntomar en serio estos casos “pequenos”. Aunque\nsiempre debemos tener cuidado cuando salimos\ncon desconocidos, la gente merece saber\nque hay fuerzas mayores en juego aqui. Mantente\nvigilante y puedes contar conmigo para mostrarte\nlas verdades alternativas.\n\nTermino hoy con la verdad que oigo gritar\nen mi cabeza:\n\nNO CONFIES EN NADIE,\nSOLO ESTAMOS NOSOTROS CONTRA ELLOS,\nNO CONFIES EN EL AGUA DE TUS TUBERIAS,\nDUDA DE TU EYERIS.  (x1)
 - EN: Cooking
   ES: Cocina  (x1)
+- EN: Cool name 😄
+  ES: ¡Qué buen nombre! 😄  (x1)
 - EN: Coolio
   ES: Genial  (x1)
 - EN: Copywriter,
   ES: sonar  (x1)
+- EN: Couples fight all the time
+  ES: Las parejas discuten todo el tiempo.  (x1)
 - EN: Crap! Sorry sorry sorry,
   ES: ¡Tonterías! Lo siento,  (x1)
 - EN: Crawling back now?
@@ -7008,14 +6424,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Suficientemente espeluznante para secuestrar a Anna quizás..  (x1)
 - EN: Creepy?
   ES: ¿Escalofriante?  (x1)
+- EN: Cross my heart
+  ES: Lo juro por mi vida.  (x1)
 - EN: Curious.
   ES: Curioso.  (x1)
 - EN: DEAL!
   ES: TRATO  (x1)
-- EN: DEVELOPING. James A
-  ES: DESARROLLO. James A  (x1)
-- EN: DO IT NOW >
-  ES: HAZLO AHORA  (x1)
 - EN: DUH!
   ES: ¡OBVIO!  (x1)
 - EN: Dad
@@ -7028,20 +6442,30 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Maldita sea. Más competencia  (x1)
 - EN: Damn it. You scared me.
   ES: Maldita sea. Me asustaste.  (x1)
+- EN: Damn phones
+  ES: Malditos teléfonos.  (x1)
 - EN: Damn piece of trash
   ES: Maldito pedazo de basura  (x1)
-- EN: Dating apps have been linked to more than\n500 crimes in and almost a third are sex \noffences, figures show.
-  ES: Las aplicaciones de citas se han vinculado a más de 500 delitos y casi un tercio son delitos sexuales, según las cifras.  (x1)
 - EN: Dave
   ES: dave  (x1)
 - EN: Debatable
   ES: Discutible  (x1)
-- EN: DeePENDs oN YOu
-  ES: DePeNdE dE tI  (x1)
 - EN: Defamation is a crime
   ES: La difamación es un delito  (x1)
+- EN: Designer at Phresh Ideas
+  ES: Diseñador en Phresh Ideas  (x1)
 - EN: Developed the skills to manage other people
   ES: Desarrolle habilidades para gestionar otras  (x1)
+- EN: Did Anna mention a Toby?
+  ES: ¿Anna mencionó a un tal Toby?  (x1)
+- EN: Did Anna send you her phone?
+  ES: ¿Anna te envió su teléfono?  (x1)
+- EN: Did Greg put you up to this?
+  ES: ¿Greg te pidió que hicieras esto?  (x1)
+- EN: Did Greg sent this to you?
+  ES: ¿Greg te envió esto?  (x1)
+- EN: Did I get my settings wrong? 🤔
+  ES: ¿Configuré algo mal? 🤔  (x1)
 - EN: Did I?
   ES: ¿Lo hice?  (x1)
 - EN: Did he act weird?
@@ -7050,16 +6474,28 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿¡¡Encontró algo!?!?  (x1)
 - EN: Did he get violent?
   ES: ¿Se puso violento?  (x1)
+- EN: Did he kill someone?!?!
+  ES: ¿¡Mató a alguien!?  (x1)
+- EN: Did he screw up?
+  ES: ¿Metió la pata?  (x1)
+- EN: Did she kiss and tell? 😍
+  ES: ¿Besó a alguien y luego lo contó? 😍  (x1)
+- EN: Did she put you up to this?
+  ES: ¿Ella te pidió que hicieras esto?  (x1)
 - EN: Did you activate the phone reset?
   ES: ¿Activaste el restablecimiento del teléfono?  (x1)
+- EN: Did you call her a freak?
+  ES: ¿La llamaste fenómeno?  (x1)
 - EN: Did you check her text messages?
-  ES: Revisaste sus mensajes de texto?  (x1)
+  ES: ¿Revisaste sus mensajes de texto?  (x1)
 - EN: Did you contact him since?
   ES: ¿Lo has contactado desde entonces?  (x1)
 - EN: Did you get it?
   ES: Lo conseguiste?  (x1)
+- EN: Did you get the backup?
+  ES: ¿Conseguiste la copia de seguridad?  (x1)
 - EN: Did you just make that up?
-  ES: Eso lo acabas de inventar?  (x1)
+  ES: ¿Eso lo acabas de inventar?  (x1)
 - EN: Did you kidnap Anna?
   ES: Secuestraste a Anna?  (x1)
 - EN: Did you manage to get the past Spark messages
@@ -7068,20 +6504,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Lo hiciste?  (x1)
 - EN: Didn't seem important.
   ES: No parecia importante.  (x1)
+- EN: Didn't you diss those tests?
+  ES: ¿No despreciabas esas pruebas?  (x1)
 - EN: Didnt have to, Anna
   ES: No tuve que hacerlo, Anna  (x1)
+- EN: Didnt you watch those TV shows?
+  ES: ¿No viste esos programas de TV?  (x1)
 - EN: Dig a little more about him
-  ES: Investiga un poco mas sobre el  (x1)
+  ES: Investiga un poco más sobre él.  (x1)
 - EN: Dismissing people, like an emperor at the colosseum.
   ES: Despedir a la gente, como un emperador en el coliseo.  (x1)
-- EN: Division of State Police
-  ES: División de la Policía  (x1)
 - EN: Do I have a say in any of this?
   ES: ¿Tengo algo que decir en algo de esto?  (x1)
 - EN: Do I have your word?
   ES: ¿Me das tu palabra?  (x1)
 - EN: Do as you please
-  ES: Hagan lo que quieran  (x1)
+  ES: Haz lo que quieras.  (x1)
 - EN: Do me a favor
   ES: Hazme un favor  (x1)
 - EN: Do not worry.
@@ -7094,12 +6532,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Acaso te importa Anna? No compartiste sus correos conmigo. Y si hay algo que se te paso? O solo estas tratando de esconderme cosas?  (x1)
 - EN: Do you have a better lead?
   ES: Tienes alguna mejor pista?  (x1)
+- EN: Do you know how hard it is to find a job? 😵
+  ES: ¿Sabes lo difícil que es encontrar trabajo? 😵  (x1)
+- EN: Do you know how stupid that sounds?
+  ES: ¿Sabes lo estúpido que suena eso?  (x1)
 - EN: Do you know its Birthday?
   ES: ¿Sabes cuándo es su cumpleaños?  (x1)
+- EN: Do you want me to leak your dirty emails?
+  ES: ¿Quieres que publique tus correos sucios?  (x1)
 - EN: Does it really take 8 weeks to review an application?
   ES: ¿De verdad se necesitan 8 semanas para revisar una solicitud?  (x1)
 - EN: Does my nurse have a name?
-  ES: Mi enfermera tiene nombre?  (x1)
+  ES: ¿Mi enfermera tiene nombre?  (x1)
 - EN: Dog?
   ES: ¿Perro?  (x1)
 - EN: Don't get caught next time alright
@@ -7132,10 +6576,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿No tienes carro pero quieres ser un\nRidr? [web_ridr_green]Contáctanos[] para más\ninformación.  (x1)
 - EN: Door's already open?
   ES: ¿La puerta ya está abierta?  (x1)
-- EN: Drinks and finger food will be available\nthroughout the event. No catch!
-  ES: Bebidas y bocadillos estaran disponibles durante todo evento. Sin catch!  (x1)
-- EN: Drinks and finger food will be available\nthroughout the event. No catch!
-  ES: Habrá bebidas y bocadillos disponibles durante todo el evento. ¡Sin trucos!  (x1)
 - EN: Drinks?
   ES: ¿Unas copas?  (x1)
 - EN: Easier said than done
@@ -7158,12 +6598,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Especialmente si es de internet?  (x1)
 - EN: Even for my taste
   ES: Incluso para mi gusto  (x1)
+- EN: Even hd to watch her get messd up by that fukin Greg
+  ES: Incluso tuve que verla sufrir por culpa de ese maldito Greg.  (x1)
 - EN: Even when shes 5 mins late.
   ES: Incluso cuando llega 5 min tarde.  (x1)
 - EN: Ever
   ES: Alguna vez  (x1)
 - EN: Ever feel like you could lie to yourself so much
   ES: ¿Alguna vez sentiste que podías mentirte tanto a ti misma  (x1)
+- EN: Ever wanted to Ask Me Anything (AMA)? Stand a chance to talk to me in my upcoming Jabbr contest
+  ES: ¿Siempre quisiste preguntarme algo? Participa en mi próximo concurso de Jabbr y tendrás la oportunidad de hablar conmigo.  (x1)
 - EN: Every notice how weird feet are? Am I high?
   ES: ¿Alguna vez has notado lo raros que son los pies? ¿Estoy drogada?  (x1)
 - EN: Everyone has a type
@@ -7180,6 +6624,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Nombre exótico.  (x1)
 - EN: Explain
   ES: Explica  (x1)
+- EN: Explain her Spark meeting then
+  ES: Entonces explica su encuentro por Spark.  (x1)
 - EN: FUCK I should have known!
   ES: ¡MIERDA, debí haberlo sabido!  (x1)
 - EN: Far from it
@@ -7190,8 +6636,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Faris & Kane mantiene su compromiso con el estilo y el prestigio en la era de las nuevas tecnologías.  (x1)
 - EN: Feel better soon..
   ES: Siéntete mejor pronto..  (x1)
-- EN: Feeling unlucky in love?\nCome visit our famous SPARK IRL events!
-  ES: ¿Te sientes desafortunado en el amor?\n¡Ven a visitar nuestros famosos eventos de SPARK IRL!  (x1)
+- EN: Feels like I am walking in a trap or something
+  ES: Siento que estoy cayendo en una trampa.  (x1)
 - EN: Fell asleep and the pizza guy was ringing the doorbell for 10mins. Awkward
   ES: Me quedé dormido y el pizzero estuvo tocando el timbre durante 10 minutos  (x1)
 - EN: Finally caved in huh.
@@ -7206,10 +6652,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Encuentra a Yolanda  (x1)
 - EN: Find milton keynes on a midsummer morning.
   ES: Encuentra Milton Keynes en una mañana de verano.  (x1)
-- EN: Find out about our dating \nevents.
-  ES: Infórmate de nuestros eventos de citas.  (x1)
-- EN: Find out about our dating \nevents.
-  ES: Descubre nuestros eventos de citas.  (x1)
 - EN: Find the source of the Jabbr post?
   ES: ¿Encontraste la fuente de la publicación de Jabbr?  (x1)
 - EN: Find the truth!
@@ -7228,18 +6670,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Está bien. Que sea así.  (x1)
 - EN: Fine. I work on my puns abit more
   ES: Bien. Trabajaré un poco más en mis chistes  (x1)
+- EN: Fine. Lets find Anna
+  ES: De acuerdo. Busquemos a Anna.  (x1)
 - EN: First
   ES: Primero  (x1)
-- EN: First of all, I want to ‘commend’ the [web_link]local news\ncoverage[] on escalating this horrible trend to a\nwhole new level. Just when I thought they\ncouldn’t sink any lower, they did. Downplaying\nthe seriousness of this issue and treating all\nthe victims as just another statistic to be forgot-\nten. Blaming these crimes on trivial things such\nas “the rise of internet” and the “degradation of\nour youth”. This has to be STOPPED! There is\nmore to this story. And the people deserve to\nknow the truth. I do not want you, my readers\nto continue being brainwashed by the main\nstream fake media.
-  ES: Antes que nada, quiero ‘felicitar’ a la [web_link]cobertura de\nnoticias locales[] por llevar esta horrible tendencia a un\nnivel totalmente nuevo. Justo cuando pensaba que no\npodian caer mas bajo, lo hicieron. Restandole\nseriedad al asunto y tratando a todas\nlas victimas como una estadistica mas que hay que olvi-\ndar. Culpando a estos crimenes de cosas triviales como\n“el auge de internet” y la “degradacion de\nnuestra juventud”. Esto tiene que PARAR! Hay\nmas en esta historia. Y la gente merece\nsaber la verdad. No quiero que ustedes, mis lectores,\nsigan siendo manipulados por los medios\nfalsos convencionales.  (x1)
-- EN: First of all. Not all of these “crimes” are fully\nrepresented. There are violent crimes and\nsexual crimes but somehow the Media fails to\nmention the “missing” crimes. Why didn't they\nuse words like “kidnapping” or “MIA”? It's a safe\nassumption right? Well that's where they’ve\nscrewed it up. Some of these missing crimes\nare not reported because they didn't treat\nthem as crimes at all, but “statistical anomaly”.\nWhat the hell?!!?! Don’t their families deserve\nsome closure? Don’t our children deserve\nsafety? Why are these “anomalies” ignored out-\nright?
-  ES: Antes que nada. No todos estos “crimenes” estan plenamente\nrepresentados. Hay crimenes violentos y\ncrimenes sexuales pero de algun modo los medios omiten\nmencionar los crimenes de “desaparecidos”. Por que no\nusaron palabras como “secuestro” o “MIA”? Es una suposicion\nsegura, no? Pues ahi es donde la\nregaron. Algunos de estos crimenes de desaparecidos\nno se reportan porque no los trataron\ncomo crimenes en absoluto, sino como “anomalias estadisticas”.\nQue demonios?!!?! Acaso sus familias no merecen\nun cierre? Acaso nuestros hijos no merecen\nseguridad? Por que se ignoran estas “anomalias” de\nplano?  (x1)
 - EN: First one. Tracy P.
   ES: El primero. Tracy P.  (x1)
-- EN: First-time users get 1 free online shopping \nproduct rebate inclusive of free shipping, \nto another Spark user.
-  ES: Los usuarios nuevos obtienen 1 compra en línea gratis\nreembolso del producto incluido el envío gratuito,\na otro usuario de Spark.  (x1)
-- EN: First-time users get 1 free online shopping \nproduct rebate inclusive of free shipping, \nto another Spark user.
-  ES: Los usuarios nuevos reciben 1 producto de compras en línea con reembolso gratis, incluyendo envío gratis, a otro usuario de Spark.  (x1)
 - EN: Focus on what matters
   ES: Enfócate en lo que importa  (x1)
 - EN: Foh sure
@@ -7266,18 +6702,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Para la GameBoy  (x1)
 - EN: For theft of any nature, press 2.
   ES: Para robo de cualquier naturaleza, presione 2.  (x1)
+- EN: For vandalism of public or private property, press 1.
+  ES: Para denunciar vandalismo contra propiedad pública o privada, presione 1.  (x1)
 - EN: For you will need every comfort in the years ahead.
   ES: Porque vas a necesitar todo el consuelo en los años venideros.  (x1)
 - EN: Found something on her computer
-  ES: Encontre algo en su computadora  (x1)
-- EN: Founded on the principles of sincerity \nand adventure, we welcome you to try out Spark\nin your journey to happy ever after.
-  ES: Fundada en los principios de la sinceridad y la aventura, te invitamos a probar Spark en tu viaje hacia el felices para siempre.  (x1)
+  ES: Encontré algo en su computadora  (x1)
 - EN: Freak as in lover.
   ES: Freak como amante.  (x1)
 - EN: Freedom to alternative facts, Power through different truths
   ES: Libertad ante hechos alternativos, Poder a través de verdad  (x1)
+- EN: From Yolanda right?
+  ES: ¿De Yolanda, verdad?  (x1)
 - EN: From the job you hate
   ES: Del trabajo que odias  (x1)
+- EN: Fuck Anna
+  ES: ¡Que se joda Anna!  (x1)
 - EN: Fuck I cant remember how to work this
   ES: Mierda no puedo acordar como funciona  (x1)
 - EN: Fuck I know I know
@@ -7288,14 +6728,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: A la mierda  (x1)
 - EN: Fuck no
   ES: Ni de broma  (x1)
+- EN: Fuck other guys im the only one who treat her right
+  ES: ¡A la mierda los demás! Soy el único que la trata bien.  (x1)
 - EN: Fuck this shit
   ES: A la mierda esto  (x1)
 - EN: Fuck this silent treatment shit.
-  ES: A la mierda esta mierda del tratamiento de silencio.  (x1)
+  ES: A la mierda con esta ley del hielo.  (x1)
 - EN: Fuck.
-  ES: Jodr.  (x1)
+  ES: Maldición.  (x1)
 - EN: Fun fact. Ice cream buffets are the leading cause of food comas
   ES: Dato curioso. Los buffets de helados son la principal causa de comas alimenticios  (x1)
+- EN: Fuuuuuuuuckkk
+  ES: ¡Mieeeerda!  (x1)
 - EN: Gateway 31
   ES: Puerta de enlace 31  (x1)
 - EN: Get back to me when you’re ready.
@@ -7305,11 +6749,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Get it?
   ES: ¿Entiendes?  (x1)
 - EN: Get someone to get to her computer or something
-  ES: Conseguir que alguien llegue a su computadora o  (x1)
+  ES: Consigue que alguien entre a su computadora o algo así.  (x1)
 - EN: Get to the point where I can tell people what to do
   ES: Llegar al punto donde pueda decirle a la gente qué hacer  (x1)
 - EN: Gideon Jung
   ES: Gedeón Jung  (x1)
+- EN: Give it up while you still have the chance.
+  ES: Ríndete mientras todavía puedas.  (x1)
 - EN: Give me a break
   ES: Dame un respiro  (x1)
 - EN: Give me a sec..
@@ -7326,6 +6772,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Dios, espero que este  (x1)
 - EN: God no.
   ES: Dios, no.  (x1)
+- EN: God, Anna
+  ES: Dios mío, Anna.  (x1)
 - EN: God, and he hasn’t stop texting me since.
   ES: Dios, y no ha dejado de escribirme desde entonces.  (x1)
 - EN: God, and my dumb colleague won’t stop texting me.
@@ -7334,6 +6782,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Maldición  (x1)
 - EN: God….
   ES: Dios...  (x1)
+- EN: Going to jail is NOT an option for me
+  ES: Ir a la cárcel NO es una opción para mí.  (x1)
 - EN: Gonna take a while to complete
   ES: Tardara un rato en completarse  (x1)
 - EN: Good
@@ -7360,6 +6810,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Entre al elevador.  (x1)
 - EN: Got it
   ES: Entendido  (x1)
+- EN: Got your number! 😄
+  ES: ¡Conseguí tu número! 😄  (x1)
 - EN: Got your password reset request
   ES: Recibí tu solicitud de restablecimiento de contraseña  (x1)
 - EN: Got your text.
@@ -7378,6 +6830,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Greg está ocultando algo sobre Anna  (x1)
 - EN: Greg wasn't feeling it.
   ES: Greg no se sintio bien.  (x1)
+- EN: Greg's idea is the best
+  ES: La idea de Greg es la mejor.  (x1)
+- EN: Greg? Who's Greg?
+  ES: ¿Greg? ¿Quién es Greg?  (x1)
 - EN: Gregory
   ES: Gregori  (x1)
 - EN: Guest code for 15 August
@@ -7402,8 +6858,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Que tenga un lindo día!  (x1)
 - EN: Have you cleared the Spark guys yet?
   ES: ¿Ya limpiaste a los tipos de Spark?  (x1)
+- EN: Have you considered that the things you say might come of as creepy?
+  ES: ¿Has pensado que lo que dices puede sonar raro?  (x1)
 - EN: Have you ever considered that there are literally millions of other lonely single men out there?
-  ES: Alguna vez has considerado que hay literalmente millones de otros hombres solteros y solos por ahi?  (x1)
+  ES: ¿Alguna vez has considerado que hay literalmente millones de otros hombres solteros y solos por ahí?  (x1)
+- EN: Have you read the past Spark messages?
+  ES: ¿Leíste los mensajes anteriores de Spark?  (x1)
+- EN: Have you tried tapping on "forgot password"
+  ES: ¿Probaste tocar «Olvidé mi contraseña»?  (x1)
 - EN: Havent seen you for a while. Where you've been?
   ES: Hace tiempo que no te veo. ¿Dónde has estado?  (x1)
 - EN: He KNEW about the beakup
@@ -7414,6 +6876,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si pero no hubo rastro de ella  (x1)
 - EN: He fooled all of us
   ES: Él nos engañó a todos  (x1)
+- EN: He grew distant
+  ES: Se volvió distante.  (x1)
 - EN: He heard a strange noise but no Anna
   ES: Escuchó un ruido extraño pero ni rastro de Anna  (x1)
 - EN: He is a first class liar and and even higher class douchebag
@@ -7434,6 +6898,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: El es..  (x1)
 - EN: He mentioned that he got blocked from her apartment
   ES: Mencionó que lo bloquearon del apartamento de ella  (x1)
+- EN: He met @keepingitcassie before Anna
+  ES: Se reunió con @keepingitcassie antes que con Anna.  (x1)
 - EN: He said you guys fired him unfairly.
   ES: Dijo que ustedes lo despidieron injustamente.  (x1)
 - EN: He seems nice to me.
@@ -7448,6 +6914,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Él te lo dijo, ¿no?  (x1)
 - EN: He was one of our best
   ES: Era uno de los mejores  (x1)
+- EN: He works at a design firm called Phresh Ideas
+  ES: Trabaja en una agencia de diseño llamada Phresh Ideas.  (x1)
+- EN: He's been calling me for a few days. I've not been responding.
+  ES: Me ha llamado varios días. No le contesto.  (x1)
 - EN: He's clean
   ES: Está limpio  (x1)
 - EN: He's just eccentric
@@ -7476,6 +6946,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Su gato también desapareció  (x1)
 - EN: Her cats name, Her company's name, Her IRIS OS version name
   ES: El nombre de su gato, El nombre de su empresa, El nombre de su version de IRIS OS  (x1)
+- EN: Her clothes are still here.
+  ES: Su ropa todavía está aquí.  (x1)
 - EN: Her fate depends on you
   ES: Su destino depende de ti  (x1)
 - EN: Her handle is @keepingitcassie
@@ -7487,11 +6959,17 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Her notebook is here too.
   ES: Su cuaderno también está aquí.  (x1)
 - EN: Her password is some dude's birthday
-  ES: Su contrasena es cumpleanos de algun  (x1)
+  ES: Su contraseña es la fecha de cumpleaños de algún tipo.  (x1)
 - EN: Her phone.
   ES: Su teléfono.  (x1)
 - EN: Her place is a mess.
   ES: Su lugar está hecho un desastre.  (x1)
+- EN: Her real name is Cassandra
+  ES: Su verdadero nombre es Cassandra.  (x1)
+- EN: Here I am a mess
+  ES: Y yo aquí, hecho un desastre.  (x1)
+- EN: Here I am busting my balls to find her and YOU are acusing ME?
+  ES: ¡Me estoy dejando la piel para encontrarla y TÚ ME ACUSAS A MÍ!  (x1)
 - EN: Here I am trying to help you out
   ES: Aquí estoy tratando de ayudarte  (x1)
 - EN: Here is the final straw
@@ -7574,8 +7052,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Espero que hayas sacado lo que necesitas  (x1)
 - EN: Hope your standards are lower than mine
   ES: Espero que tus estándares sean más bajos que los míos  (x1)
-- EN: How about Anna?
-  ES: ¿Qué tal Ana?  (x1)
 - EN: How about I drive my foot up your dick hole
   ES: ¿Qué tal si te meto el pie por el agujero de la verga?  (x1)
 - EN: How about I send your emails to HR
@@ -7584,8 +7060,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué hay de Taylor y Anna?  (x1)
 - EN: How about Taylor and Anna
   ES: ¿Qué tal Taylor y Anna?  (x1)
+- EN: How are you feeling?
+  ES: ¿Cómo te sientes?  (x1)
 - EN: How are you so sure?
   ES: ¿Cómo estás tan seguro?  (x1)
+- EN: How bout a private show where I slide it on for you?
+  ES: ¿Qué tal un show privado en el que me lo pruebe para ti?  (x1)
 - EN: How did this get out?
   ES: ¿Cómo se supo esto?  (x1)
 - EN: How do I do that?
@@ -7593,7 +7073,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: How do I find her?
   ES: ¿Cómo la encuentro?  (x1)
 - EN: How do I know you are telling the truth? You tried to dupe me into thinking that you are Anna! For all I know, that's not the only thing you lied about.
-  ES: Como se que me estas diciendo la verdad? Intentaste enganarme haciendome creer que eres Anna! Que yo sepa, eso no es lo unico sobre lo que mentiste.  (x1)
+  ES: Como se que me estas diciendo la verdad? Intentaste enganarme haciendome creer que eres Anna! Que yo sepa, eso no es lo único sobre lo que mentiste.  (x1)
 - EN: How do people do this?
   ES: ¿Cómo hace la gente para esto?  (x1)
 - EN: How do you win a war on drugs? Its hard to win a war without drugs as it is.
@@ -7611,7 +7091,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: How is this relevant?
   ES: ¿Cómo es esto relevante?  (x1)
 - EN: How is your previous copywriter?
-  ES: Como era tu anterior copywriter?  (x1)
+  ES: ¿Qué tal tu redactor anterior?  (x1)
 - EN: How late can someone be for a team meeting?!
   ES: ¿Qué tan tarde puede llegar alguien a una reunión de equipo?  (x1)
 - EN: How long was that
@@ -7643,7 +7123,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: How'd you know?
   ES: Como lo sabias?  (x1)
 - EN: How's your investigation?
-  ES: Como va tu investigacion?  (x1)
+  ES: ¿Cómo va tu investigacion?  (x1)
 - EN: However
   ES: Sin embargo  (x1)
 - EN: Huh
@@ -7672,10 +7152,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Yo nO lO SoY  (x1)
 - EN: I MEAN ANNA'S DISSAPEARANCE
   ES: QUIERO DECIR LA DESAPARICIÓN DE ANNA  (x1)
-- EN: I am Anna
-  ES: NOnnNOono  (x1)
+- EN: I always felt you look the most smashing in the office
+  ES: Siempre me ha parecido que te ves espectacular en la oficina.  (x1)
 - EN: I am NOT Anna
   ES: NO SOY ANNA!!  (x1)
+- EN: I am NOT talking to you anymore
+  ES: ¡NO voy a seguir hablando contigo!  (x1)
 - EN: I am beat
   ES: Estoy agotado  (x1)
 - EN: I am better than you
@@ -7686,8 +7168,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Voy a llamar a la policía  (x1)
 - EN: I am enjoying this abit
   ES: Me estoy divirtiendo un poco  (x1)
+- EN: I am fime. Just got caught up with work. That s all. Going to take a short break. Dont worry about me
+  ES: Estoy bien. El trabajo me ha absorbido últimamente, eso es todo. Voy a tomarme un descanso. No te preocupes por mí.  (x1)
 - EN: I am her fking boyfriend so you better stop listening to his crap and
-  ES: Soy su puto novio, así que mejor deja de escuchar su mierda y  (x1)
+  ES: Soy su maldito novio, así que deja de escuchar sus estupideces y...  (x1)
 - EN: I am here to ask about James Aulner
   ES: Estoy aquí para preguntar sobre James Aulner  (x1)
 - EN: I am looking for you actually
@@ -7698,6 +7182,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No soy un conejo de caricatura  (x1)
 - EN: I am not getting along with him
   ES: No me estoy llevando bien con él  (x1)
+- EN: I am not here for an interview
+  ES: No vine a una entrevista.  (x1)
 - EN: I am not letting this go
   ES: No voy a dejar pasar esto  (x1)
 - EN: I am not telling you any more shit
@@ -7715,7 +7201,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I am settling this once and for all
   ES: Voy a resolver esto de una vez por todas  (x1)
 - EN: I am sick of you treating me like some sort of sidekick. I played a huge part in getting you this far. And all you can do is push me aside time and time again.
-  ES: Estoy harto de que me trates como una especie de ayudante. Tuve un papel enorme para llevarte hasta aqui. Y todo lo que sabes hacer es dejarme de lado una y otra vez.  (x1)
+  ES: Estoy harto de que me trates como una especie de ayudante. Tuve un papel enorme para llevarte hasta aquí. Y todo lo que sabes hacer es dejarme de lado una y otra vez.  (x1)
 - EN: I am so… so… Sorry.
   ES: Estoy tan... tan... Lo siento.  (x1)
 - EN: I am sure she will agree
@@ -7746,12 +7232,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Puedo manejar todos los agradecimientos que voy a recibir.  (x1)
 - EN: I can only imagine what you do on you days off..
   ES: Solo puedo imaginar lo que haces en tus días libres..  (x1)
+- EN: I can prove that I didnt meet Anna
+  ES: Puedo demostrar que nunca me reuní con Anna.  (x1)
 - EN: I can work with that
   ES: Puedo trabajar con eso  (x1)
 - EN: I can't be caught.. They way things are now.
   ES: No puedo dejar que me atrapen.. Con las cosas como están ahora.  (x1)
 - EN: I can't do this anymore, I am out
   ES: No puedo hacer esto más, me retiro  (x1)
+- EN: I can't remember its birthday though..
+  ES: Pero no logro recordar su cumpleaños...  (x1)
 - EN: I can't say for sure...
   ES: No puedo estar seguro...  (x1)
 - EN: I can't trust you right now..
@@ -7770,12 +7260,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No puedo dejar de pensar en tu correo  (x1)
 - EN: I cant..
   ES: No puedo..  (x1)
+- EN: I change my mind. Tell me more
+  ES: Cambié de opinión. Cuéntame más.  (x1)
 - EN: I chat better than I look in my photos
   ES: Hablo mejor de lo que parezco en mis fotos  (x1)
 - EN: I cheated on Anna
   ES: Le fui infiel a Anna  (x1)
 - EN: I confronted him about it.
   ES: Lo confronté al respecto.  (x1)
+- EN: I could just ask ashley
+  ES: Podría preguntarle a Ashley.  (x1)
 - EN: I did it a while back
   ES: Lo hice hace un tiempo  (x1)
 - EN: I didn't know you were so close.
@@ -7787,15 +7281,19 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I don't get it
   ES: No lo entiendo  (x1)
 - EN: I don't understand whats goin on.. But youre not the only one who wants access to this computer..
-  ES: No entiendo que esta pasando.. Pero no eres el unico que quiere acceso a esta computadora..  (x1)
+  ES: No entiendo que esta pasando.. Pero no eres el único que quiere acceso a esta computadora..  (x1)
 - EN: I don't want to work at a PR firm
   ES: No quiero trabajar en una firma de relaciones públicas  (x1)
 - EN: I dont feel comfortable going on
   ES: No me siento cómodo continuando  (x1)
+- EN: I dont know that person
+  ES: No conozco a esa persona.  (x1)
 - EN: I dont like this one bit
   ES: No me gusta nada de esto  (x1)
 - EN: I dont mean to brag
   ES: No quiero presumir  (x1)
+- EN: I dont think the cops can help
+  ES: No creo que la policía pueda ayudar.  (x1)
 - EN: I dont think you can help
   ES: No creo que puedas ayudar  (x1)
 - EN: I dont trust that dude
@@ -7822,8 +7320,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo entiendo  (x1)
 - EN: I get it.
   ES: Entiendo.  (x1)
+- EN: I got a confession to make
+  ES: Tengo algo que confesar.  (x1)
+- EN: I got a new batch of phone stuff to look at
+  ES: Tengo más cosas del teléfono para revisar.  (x1)
 - EN: I got competition!
   ES: Tengo competencia!  (x1)
+- EN: I got her latest update
+  ES: Recibí su última actualización.  (x1)
 - EN: I got my reasons..
   ES: Tengo mis razones..  (x1)
 - EN: I got nothing to hide
@@ -7832,6 +7336,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No tengo nada que mostrarte ahora pero no me voy a rendir  (x1)
 - EN: I got other talents besides writing
   ES: Tengo otros talentos además de escribir  (x1)
+- EN: I got the dirt on Greg
+  ES: Conseguí información comprometedora sobre Greg.  (x1)
 - EN: I gotta do it
   ES: Tengo que hacerlo  (x1)
 - EN: I gotta get back to work now
@@ -7842,6 +7348,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Supongo que tendré que mejorar mis frases de ligue después de que ella recupere su teléfono.  (x1)
 - EN: I guess if you spoke to her
   ES: Supongo que si hablaste con ella  (x1)
+- EN: I guess my theory about Greg making Anna dissapear is too far fetched
+  ES: Supongo que mi teoría de que Greg hizo desaparecer a Anna es demasiado descabellada.  (x1)
 - EN: I guess next is to find her?
   ES: ¿Supongo que lo siguiente es encontrarla?  (x1)
 - EN: I guess she is alright? 🤔
@@ -7850,6 +7358,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Supongo que funciona?  (x1)
 - EN: I guess you like being known as a pervert
   ES: Supongo que te gusta ser conocido como un pervertido  (x1)
+- EN: I had to be sure
+  ES: Tenía que estar seguro.  (x1)
+- EN: I hated my previous name
+  ES: Odiaba mi nombre anterior.  (x1)
 - EN: I have another way to prove it
   ES: Tengo otra forma de probarlo  (x1)
 - EN: I have my reasons
@@ -7858,6 +7370,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No tengo idea de lo que acabo de escuchar.  (x1)
 - EN: I have no idea where to find Cassie
   ES: No tengo idea donde hallar a Cassie  (x1)
+- EN: I have no other choice!
+  ES: ¡No tengo otra opción!  (x1)
 - EN: I have some
   ES: Tengo algo  (x1)
 - EN: I have this fear that the person I am talking to is not who they say they are
@@ -7871,7 +7385,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I havent read it yet
   ES: Aún no lo he leído  (x1)
 - EN: I heard what happened.\n\nWhy didn't you tell me?!\n\nYou see what happened? This is what happens when you don't listen to your mother.\n\nAll I want is what is best for you.\n\nI already put you through school and now you want to do it AGAIN? And for what? Becoming a vet?!\n\nThis is the third time you got rejected from that school, maybe it's time you realise that you are not cut out for this kind of nonsense.\n\nEveryone else is moving forward and you are the only person I know that wants to move back\n\nNow that I know for sure you are not going anywhere anytime soon.\n\nI suggest you put and end to this now\n\nLove you, \nMom.
-  ES: Supe lo que paso.\n\nPor que no me lo dijiste?!\n\nVes lo que paso? Esto es lo que pasa cuando no le haces caso a tu madre.\n\nTodo lo que quiero es lo mejor para ti.\n\nYa te pague los estudios y ahora quieres hacerlo OTRA VEZ? Y para que? Para ser veterinaria?!\n\nEsta es la tercera vez que te rechazan de esa escuela, tal vez es hora de que te des cuenta de que no sirves para este tipo de tonterias.\n\nTodos los demas siguen adelante y tu eres la unica persona que conozco que quiere retroceder\n\nAhora que se con certeza que no vas a ir a ningun lado pronto.\n\nSugiero que le pongas fin a esto ahora\n\nTe quiero,\nMama.  (x1)
+  ES: Supe lo que paso.\n\nPor que no me lo dijiste?!\n\nVes lo que paso? Esto es lo que pasa cuando no le haces caso a tu madre.\n\nTodo lo que quiero es lo mejor para ti.\n\nYa te pague los estudios y ahora quieres hacerlo OTRA VEZ? Y para que? Para ser veterinaria?!\n\nEsta es la tercera vez que te rechazan de esa escuela, tal vez es hora de que te des cuenta de que no sirves para este tipo de tonterias.\n\nTodos los demas siguen adelante y tu eres la única persona que conozco que quiere retroceder\n\nAhora que se con certeza que no vas a ir a ningun lado pronto.\n\nSugiero que le pongas fin a esto ahora\n\nTe quiero,\nMama.  (x1)
 - EN: I hope you are keeping to your promise
   ES: Espero que estes cumpliendo tu promesa  (x1)
 - EN: I hope you do ;)
@@ -7885,11 +7399,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I just need to check if she is at home
   ES: Solo necesito verificar si ella está en casa  (x1)
 - EN: I just need to push her to make it stop right?
-  ES: Solo necesito empujarla para que pare, verdad?  (x1)
+  ES: ¿Solo necesito empujarla para que pare, verdad?  (x1)
 - EN: I just reset your password.
   ES: Acabo de restablecer tu contraseña.  (x1)
 - EN: I just saw Anna make a post on Jabbr.
   ES: Acabo de ver que Anna hizo una publicación en Jabbr.  (x1)
+- EN: I just think he is hiding something thats all
+  ES: Solo creo que está ocultando algo, eso es todo.  (x1)
 - EN: I just wanna try to call Anna’s phone, see if it’s working.
   ES: Sólo quiero intentar llamar al teléfono de Anna, ver si funciona.  (x1)
 - EN: I just want to make things right.
@@ -7907,7 +7423,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I keep forgetting how to spell it
   ES: Siempre se me olvida cómo se escribe  (x1)
 - EN: I keep going back and forth between being angry at him
-  ES: No dejo de debatirme entre estar enojada con él o no  (x1)
+  ES: No sé si estar enojada con él o sentir otra cosa.  (x1)
 - EN: I kept you a secret! I swear
   ES: ¡Te guardé en secreto! Te lo juro  (x1)
 - EN: I knew it
@@ -7920,8 +7436,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sabía que eras un acosador  (x1)
 - EN: I know I can date but, it feels like those apps are just objectifying anyway.
   ES: Sé que puedo tener citas, pero siento que esas aplicaciones igual sólo cosifican.  (x1)
+- EN: I know it's hard to believe
+  ES: Sé que es difícil de creer.  (x1)
 - EN: I know you told me to wait.
   ES: Sé que me dijiste que esperara.  (x1)
+- EN: I know you're mad but some subtlety might go a long way
+  ES: Sé que estás molesto, pero un poco de tacto puede ayudar mucho.  (x1)
 - EN: I know.
   ES: Lo sé.  (x1)
 - EN: I let my pride get in the way
@@ -7932,6 +7452,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Menti. Ella no me conto su pelicula favorita  (x1)
 - EN: I like my name
   ES: Me gusta mi nombre  (x1)
+- EN: I like your energy kid
+  ES: Me gusta tu energía, chico.  (x1)
+- EN: I look forward to your callback
+  ES: Espero que me devuelvas la llamada.  (x1)
 - EN: I looked through his phone (what if I didnt)
   ES: Miré a través de su teléfono (¿y si no lo hubiera hecho?)  (x1)
 - EN: I love myself.
@@ -7942,10 +7466,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: O sea, malo para Anna  (x1)
 - EN: I mean he is my competition after all
   ES: O sea, es mi competencia después de todo  (x1)
+- EN: I mean what is the worst that could happen
+  ES: O sea, ¿qué es lo peor que podría pasar?  (x1)
 - EN: I mean, if she was depressed enough
   ES: O sea, si estaba lo suficientemente  (x1)
 - EN: I mean, you'd be surprised how little can get you in trouble
-  ES: O sea, te sorprenderia lo poco que necesitas para meterte en  (x1)
+  ES: O sea, te sorprendería lo fácil que es meterse en problemas.  (x1)
+- EN: I mean. She told me about it
+  ES: O sea, ella me lo contó.  (x1)
 - EN: I might know him
   ES: Podria conocerlo  (x1)
 - EN: I might meet him
@@ -7954,6 +7482,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La extrano  (x1)
 - EN: I miss the days where opinions can only go as far as you can yell
   ES: Extraño los días en los que las opiniones solo pueden llegar hasta donde puedes gritar  (x1)
+- EN: I need Anna's Favorite Movie
+  ES: Necesito saber cuál es la película favorita de Anna.  (x1)
 - EN: I need a favor
   ES: Necesito un favor  (x1)
 - EN: I need a location
@@ -7966,6 +7496,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Necesito un poco más de tiempo  (x1)
 - EN: I need to get a password reset for her PC
   ES: Necesito restablecer la contraseña de su PC  (x1)
+- EN: I need to lay low
+  ES: Tengo que mantener un perfil bajo.  (x1)
 - EN: I need to record this so we are on the same page.
   ES: Necesito grabar esto para que estemos en la misma página.  (x1)
 - EN: I need you need to ask someone closer to her.
@@ -7976,6 +7508,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Realmente quería terminar esto contigo  (x1)
 - EN: I respectfully parted ways based on different opinions
   ES: Respetuosamente me separé por diferencias de opinión  (x1)
+- EN: I see it too! 😱😱😱
+  ES: ¡Yo también lo veo! 😱😱😱  (x1)
 - EN: I see it too. One of my friends reposted it.
   ES: Yo también la veo. Un amigo la re-publicó.  (x1)
 - EN: I see it!
@@ -7983,9 +7517,11 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I see you have pets too?
   ES: Veo que también tienes mascotas.  (x1)
 - EN: I should just focus on getting out of this dumb job.
-  ES: Deberia enfocarme en salir de este trabajo estupido.  (x1)
+  ES: Debería concentrarme en salir de este trabajo de mierda.  (x1)
 - EN: I should randomly put glasses on people's dogs, and they will go "Where is my dog?"
   ES: Deberia poner lentes a perros ajenos y diran "Donde esta mi perro?"  (x1)
+- EN: I spent some time to reflect on the way here
+  ES: Vine reflexionando sobre eso durante el camino.  (x1)
 - EN: I spoke to Yolanda
   ES: Hablé con Yolanda  (x1)
 - EN: I still need to weigh my options
@@ -8000,6 +7536,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Juro que si te estás inventando esta mierda...  (x1)
 - EN: I think I am in trouble
   ES: Creo que tengo problemas  (x1)
+- EN: I think I am in way over my head thinking I can do this on my own
+  ES: Creo que me metí en algo demasiado grande para hacerlo por mi cuenta.  (x1)
 - EN: I think I can help myself now
   ES: Creo que puedo ayudarme ahora  (x1)
 - EN: I think I can make a guess
@@ -8013,7 +7551,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I think Jabbr is our only option.
   ES: Creo que Jabbr es nuestra única opción.  (x1)
 - EN: I think he is hiding something big in the phone
-  ES: Creo que esta ocultando algo grande en telefono  (x1)
+  ES: Creo que está ocultando algo importante en ese teléfono.  (x1)
 - EN: I think his name was Greg?
   ES: ¿Creo que su nombre era Greg?  (x1)
 - EN: I think im beat
@@ -8024,16 +7562,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Creo que esta en peligro  (x1)
 - EN: I think there is something bigger at work here
   ES: Creo que hay algo más grande trabajando aquí  (x1)
+- EN: I think theres a reason why I cld never get along with guys
+  ES: Creo que hay una razón por la que nunca me llevé bien con los chicos.  (x1)
 - EN: I think we share the same principles in culture
   ES: Creo que compartimos los mismos principios en la cultura  (x1)
+- EN: I think you are on to something 🤔
+  ES: Creo que has descubierto algo. 🤔  (x1)
 - EN: I think you guys are missing the point
   ES: Creo que se les está pasando el punto  (x1)
 - EN: I think you should drop this.
   ES: Creo que deberias dejar esto.  (x1)
 - EN: I think you've got some unresolved trust issues to look into. After pouring my heart out about the truth behind my sexual assault charges, you never believed me. Not one bit.
-  ES: Creo que tienes algunos problemas de confianza sin resolver que deberias revisar. Despues de abrirte mi corazon sobre la verdad detras de mis cargos por agresion sexual, nunca me creiste. Ni un poquito.  (x1)
+  ES: Creo que tienes algunos problemas de confianza sin resolver que deberias revisar. Después de abrirte mi corazón sobre la verdad detrás de mis cargos por agresion sexual, nunca me creiste. Ni un poquito.  (x1)
 - EN: I thought I had it with me
-  ES: Pense que lo tenia conmigo  (x1)
+  ES: Creí que lo llevaba conmigo.  (x1)
 - EN: I thought my Wonder Woman joke wouldve sealed the deal
   ES: Pense que mi chiste de Mulher Maravilla sellaria trato  (x1)
 - EN: I told him to do it
@@ -8047,9 +7589,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I told you to enter my FULL name! 😠😠😠😠
   ES: Te dije que escribieras mi nombre COMPLETO! 😠😠😠😠  (x1)
 - EN: I told you your present only comes on your birthday
-  ES: Te dije que tu regalo solo llega en tu cumpleanos  (x1)
+  ES: Te dije que tu regalo solo llega en tu cumpleaños  (x1)
+- EN: I too enjoy games with plenty of physical contact
+  ES: Yo también disfruto juegos con bastante contacto  (x1)
 - EN: I trust you
   ES: Confío en ti  (x1)
+- EN: I trust you are going to keep my chats with Anna a secret?
+  ES: ¿Puedo confiar en que mantendrás en secreto mis conversaciones con Anna?  (x1)
 - EN: I trust you too, babe.
   ES: Yo también confío en ti, nena.  (x1)
 - EN: I walked up to her.
@@ -8060,10 +7606,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quiero volver a escuela primero  (x1)
 - EN: I want to know what working for you is like
   ES: Quiero saber cómo es trabajar para ustedes  (x1)
-- EN: I want to save Anna, let Taylor die
-  ES: Quiero salvar a Anna, dejar morir a  (x1)
-- EN: I want to save Taylor, let Anna die
-  ES: Quiero salvar a Taylor, dejar morir  (x1)
 - EN: I want to see it with my own eyes
   ES: Quiero verlo con mis propios ojos  (x1)
 - EN: I want to talk to you about Greg
@@ -8108,6 +7650,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo haré, si puedo encontrarla.  (x1)
 - EN: I wonder if there is a way to confirm this
   ES: Me pregunto si hay alguna forma de confirmar esto  (x1)
+- EN: I worked my ass off to keep my relationship a secret for the sake of @keepingitcassie
+  ES: Me esforcé muchísimo por mantener la relación en secreto por el bien de @keepingitcassie.  (x1)
+- EN: I would be careful when I use the word "tell people what to do"
+  ES: Yo tendría cuidado con eso de «decirles a los demás qué hacer».  (x1)
 - EN: I would imagine the culprit to have a scarier name
   ES: Imagino que el culpable tendría un nombre más temible  (x1)
 - EN: I wouldve stopped immdiately
@@ -8122,6 +7668,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Yo haré lo mío  (x1)
 - EN: I'll just assume you're busy saving the world.
   ES: Simplemente asumiré que estás ocupada salvando el mundo.  (x1)
+- EN: I'll just walk over to your desk and just give me your password
+  ES: Iré a tu escritorio para que me des tu contraseña.  (x1)
+- EN: I'll let her be the judge
+  ES: Dejaré que ella decida.  (x1)
+- EN: I'll take a peek after work
+  ES: Le echaré un vistazo después del trabajo.  (x1)
 - EN: I'll text you later.
   ES: Te escribo después.  (x1)
 - EN: I'll track Cassie first
@@ -8147,7 +7699,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I'm everything your parents wish I am and more.
   ES: Soy todo lo que tus padres desean que sea y más.  (x1)
 - EN: I'm excited to see toby
-  ES: Estoy emocionada de ver  (x1)
+  ES: Me emociona ver a Toby.  (x1)
 - EN: I'm from the Police Department.
   ES: Soy del Departamento de Policía.  (x1)
 - EN: I'm gonna call you later.
@@ -8164,6 +7716,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Voy a ir directo al grano, ¿ok?  (x1)
 - EN: I'm just gonna text that her i'll wait ok
   ES: Solo le voy a escribir que esperaré, ¿ok?  (x1)
+- EN: I'm just proposing alternatives
+  ES: Solo estoy proponiendo alternativas.  (x1)
 - EN: I'm just trying my luck
   ES: Sólo estoy probando suerte  (x1)
 - EN: I'm nobody, really.
@@ -8175,7 +7729,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: I'm not here for shoes
   ES: No estoy aquí por los zapatos  (x1)
 - EN: I'm not saying another word about it
-  ES: No voy a decir ni una palabra mas al respecto  (x1)
+  ES: No voy a decir ni una palabra más al respecto  (x1)
 - EN: I'm not so sure.
   ES: No estoy tan seguro.  (x1)
 - EN: I'm not taking this seriously enough
@@ -8202,10 +7756,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La conozco desde siempre  (x1)
 - EN: IM BATMAN
   ES: YO BATMAN  (x1)
-- EN: INDECENT EXPOSURE AND PUBLIC\nSEXUAL INDECENCY.
-  ES: OBSCENIDAD ABIERTA Y GROSERA Y COMPORTAMIENTO\nLASCIVO.  (x1)
-- EN: INDECENT EXPOSURE AND PUBLIC\nSEXUAL INDECENCY.
-  ES: EXPOSICIÓN INDECENTE E INDECENCIA SEXUAL PÚBLICA.  (x1)
 - EN: INVITE GUEST
   ES: INVITAR A INVITADO  (x1)
 - EN: ITTs A LiEEeee
@@ -8224,10 +7774,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si yo puedo hacerlo tu puedes hacerlo!  (x1)
 - EN: If I catch a kid staring at me I should lick my lips to warn them that there are bad people in the world
   ES: Si atrapo a un nino mirandome deberia lamerme los labios para advertirle que hay gente mala en el mundo  (x1)
+- EN: If I knew he had a girlfriend
+  ES: Si hubiera sabido que tenía novia...  (x1)
 - EN: If her phone is erased this is on you!
   ES: ¡Si se borra su teléfono esto es por tu culpa!  (x1)
 - EN: If it is me you wish to see
   ES: Si soy yo a quien deseas ver  (x1)
+- EN: If it works it works
+  ES: Si funciona, funciona.  (x1)
 - EN: If only he knows how to show it
   ES: Si tan solo supiera cómo demostrarlo  (x1)
 - EN: If she did end up meeting you
@@ -8242,8 +7796,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Si nos hubiéramos conocido en otras circunstancias, quizás nos habríamos llevado bien.  (x1)
 - EN: If you could overlook my looks, glaring and obvious flaws... That'd be great.
   ES: Si pudieras pasar por alto mi apariencia, mis defectos evidentes y obvios... Sería genial.  (x1)
+- EN: If you have any information on his whereabouts, please contact me on this number.
+  ES: Si tienes información sobre su paradero, comunícate conmigo a este número.  (x1)
 - EN: If you know the extension number of your favourite shopper, please press the 4 digit extension number.
-  ES: Si conoces el numero de extension de tu comprador favorito, por favor marca el numero de extension de 4 digitos.  (x1)
+  ES: Si conoces el número de extension de tu comprador favorito, por favor marca el número de extension de 4 digitos.  (x1)
 - EN: If you know where she is
   ES: Si sabes donde esta ella  (x1)
 - EN: If you sit on my face, I will eat my way to your heart
@@ -8267,11 +7823,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Im busy
   ES: Estoy ocupado  (x1)
 - EN: Im going there to have a look. It's gonna take a while so stay put
-  ES: Voy alla a echar un vistazo. Tardara un rato asi que quedate donde estas  (x1)
+  ES: Voy a ir a echar un vistazo. Tardaré un rato, así que quédate ahí.  (x1)
 - EN: Im having someone take a look
   ES: Estoy haciendo que alguien lo revise  (x1)
 - EN: Im just speakin my mind 😈
   ES: Solo digo lo que pienso 😈  (x1)
+- EN: Im not looking for shoes
+  ES: No estoy buscando zapatos.  (x1)
 - EN: Im not the crazy cat lady age yet
   ES: Todavía no tengo la edad de la vieja loca de los gatos  (x1)
 - EN: Im not!
@@ -8284,6 +7842,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Seguro que hasta tú tienes un tipo  (x1)
 - EN: Imnot a perv or anything, no sir.
   ES: No soy un pervertido ni nada, no señor.  (x1)
+- EN: In case you are unaware, we are dating! 😠
+  ES: ¡Por si no te has enterado, estamos saliendo! 😠  (x1)
 - EN: In the mean time, I will give Spark a call.
   ES: Mientras tanto, yo le dare llamada a Spark.  (x1)
 - EN: Instead of following Mr Perv like a dog
@@ -8302,12 +7862,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: se  (x1)
 - EN: Is Greg invovled?
   ES: ¿Greg está involucrado?  (x1)
+- EN: Is anyone looking for her?
+  ES: ¿Hay alguien buscándola?  (x1)
 - EN: Is anyone there?
   ES: Hay alguien ahi?  (x1)
 - EN: Is anyone there?
   ES: ¿Hay alguien ahí?  (x1)
+- EN: Is everything ok?
+  ES: ¿Está todo bien?  (x1)
 - EN: Is he involved?
   ES: ¿Él está involucrado?  (x1)
+- EN: Is he on Jabbr?
+  ES: ¿Está en Jabbr?  (x1)
+- EN: Is he with you?
+  ES: ¿Está contigo?  (x1)
 - EN: Is her email open?
   ES: ¿Su correo está abierto?  (x1)
 - EN: Is it like a million degrees out there or its just me? gonna chill at home for now.
@@ -8317,23 +7885,25 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Is she hiding ther job and family as well?
   ES: ¿También está escondiendo su trabajo y su familia?  (x1)
 - EN: Is she ok??
-  ES: Esta bien??  (x1)
+  ES: ¿Está bien?  (x1)
 - EN: Is she still alive
   ES: Esta viva todavia?  (x1)
 - EN: Is she there?
   ES: ¿Ella está ahí?  (x1)
 - EN: Is she this uptight even on her phone?!
   ES: ¿Así de intensa es incluso en su teléfono?  (x1)
+- EN: Is that legal?
+  ES: ¿Es legal eso?  (x1)
+- EN: Is that so difficult for you?
+  ES: ¿Es eso tan difícil para ti?  (x1)
 - EN: Is that whats happening?
   ES: ¿Es eso lo que está pasando?  (x1)
 - EN: Is the phone still OK?
   ES: ¿El teléfono todavía está bien?  (x1)
-- EN: Is there anything I can do
-  ES: ¿Hay algo que pueda hacer  (x1)
 - EN: Is this a imposter test?
   ES: ¿Es esto una prueba de impostor?  (x1)
 - EN: Is this about Greg?
-  ES: Esto es sobre Greg?  (x1)
+  ES: ¿Esto es sobre Greg?  (x1)
 - EN: Is this some kind of sick joke?
   ES: ¿Esto es algún tipo de broma de mal gusto?  (x1)
 - EN: Is this your plan?
@@ -8342,6 +7912,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Es esto.. #state:phreshideas.name#?  (x1)
 - EN: Is trying to obstruct justice?
   ES: ¿Está tratando de obstruir la justicia?  (x1)
+- EN: Isnt company policy to get to know your colleages better as well?
+  ES: ¿Acaso no es política de la empresa que conozcamos mejor a nuestros compañeros?  (x1)
 - EN: Isn’t it just filling up forms? Lol
   ES: ¿No es solo llenar formularios? Jaja  (x1)
 - EN: Isn’t that kinda creepy?
@@ -8368,8 +7940,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Soy yo, como yo soy. Soy yo como yo soy. Como yo soy.  (x1)
 - EN: It is talking about the recent rise in Spark related crimes.
   ES: Habla del aumento reciente de delitos relacionados con Spark.  (x1)
+- EN: It made me realize something
+  ES: Me hizo darme cuenta de algo.  (x1)
 - EN: It might be good if you go with them
-  ES: Podria ser bueno que vayas con ellos  (x1)
+  ES: Podría ser bueno que vayas con ellos  (x1)
+- EN: It might still be in the Gallery 🤔
+  ES: Quizá todavía esté en la Galería. 🤔  (x1)
 - EN: It must be packed with juicy details
   ES: Debe estar lleno de detalles jugosos  (x1)
 - EN: It should be done now.
@@ -8384,6 +7960,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡¡Sí funciona!  (x1)
 - EN: It was a birthday present
   ES: Fue un regalo de cumpleaños  (x1)
+- EN: It was a defence mechanism for something
+  ES: Era un mecanismo de defensa contra algo.  (x1)
 - EN: It was a team effort
   ES: Fue un esfuerzo de equipo  (x1)
 - EN: It was so last min and I had to rush like maniac
@@ -8394,6 +7972,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Funciona!  (x1)
 - EN: It works! In the lift now.
   ES: ¡Funciona! Ya en el elevador.  (x1)
+- EN: It's only a box of them
+  ES: Es solo una caja de esos.  (x1)
+- EN: It't first come fist serve, so let me finish up with the earlier winners
+  ES: Se atiende por orden de llegada, así que déjame terminar con los ganadores anteriores.  (x1)
+- EN: Its Jabbr. She definately posted something from here.
+  ES: Es Jabbr. Definitivamente publicó algo desde aquí.  (x1)
 - EN: Its a deal
   ES: Es un trato  (x1)
 - EN: Its a gift and a curse
@@ -8409,7 +7993,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Its all my fault
   ES: Es toda mi culpa  (x1)
 - EN: Its all there
-  ES: Todo esta ahi  (x1)
+  ES: Está todo ahí.  (x1)
 - EN: Its an accident
   ES: Fue un accidente  (x1)
 - EN: Its been a while
@@ -8424,6 +8008,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Es por la seguridad de Anna  (x1)
 - EN: Its from Anna's laptop!
   ES: ¡Es de la computadora portátil de Anna!  (x1)
+- EN: Its hard to hold this job in this economy as it is
+  ES: Ya es difícil conservar este trabajo con la situación económica actual.  (x1)
 - EN: Its incorrect
   ES: Es incorrecta  (x1)
 - EN: Its just a peek to her Jabbr and we can practically track her
@@ -8433,7 +8019,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Its like you wouldn't sht up about it
   ES: Es como si no pudieras callarte sobre eso  (x1)
 - EN: Its more than me and more than you
-  ES: Es mas que yo y mas que tu  (x1)
+  ES: Esto nos supera a los dos.  (x1)
 - EN: Its my choice
   ES: Es mi elección  (x1)
 - EN: Its my icebreaker
@@ -8450,18 +8036,24 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Es solo una corazonada  (x1)
 - EN: Its pretty harmless fun
   ES: Es diversion inofensiva  (x1)
+- EN: Its right after I told you about Yolanda isnt it
+  ES: Esto pasó justo después de que te conté lo de Yolanda, ¿verdad?  (x1)
 - EN: Its settled. You have nothing to worrry about anymore
   ES: Está decidido. No tienes nada de qué preocuparte ya  (x1)
 - EN: Its starting now..
   ES: Está empezando ahora..  (x1)
 - EN: Its straight to jail for me
   ES: Me van directo a la cárcel  (x1)
+- EN: Its the 4th glass talking so dont listen to it
+  ES: Es mi cuarta copa hablando, así que no le hagas caso.  (x1)
 - EN: Its the same software she got for me
   ES: Es el mismo software que ella me consiguió  (x1)
 - EN: Its too late for you man
   ES: Es demasiado tarde para ti, amigo  (x1)
 - EN: Its way easier to prove that you met someone than you havent met someone
-  ES: Es mucho mas facil probar que conociste a alguien que probar que no lo conociste  (x1)
+  ES: Es mucho más fácil probar que conociste a alguien que probar que no lo conociste  (x1)
+- EN: Its wrong to share personal info
+  ES: Está mal compartir información personal.  (x1)
 - EN: It’s just… lying to you and myself for so long..
   ES: Es simplemente... mentirte a ti y a mí durante tanto tiempo...  (x1)
 - EN: It’s not like her atall.
@@ -8498,12 +8090,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: James desapareció hace un par de meses mientras iba a  (x1)
 - EN: James' phone was found by someone else
   ES: El teléfono de James fue encontrado por otra persona  (x1)
+- EN: James?
+  ES: ¿James?  (x1)
 - EN: Join Spark and light up your love life.
   ES: Únete a Spark e ilumina tu vida amorosa.  (x1)
 - EN: Join Spark and light up your love life.
   ES: Únete a Spark y enciende tu vida amorosa.  (x1)
 - EN: Just a bit under the weather.
   ES: Solo un poco mal del estómago.  (x1)
+- EN: Just a boring old phone
+  ES: Un teléfono viejo y aburrido.  (x1)
 - EN: Just a bunch of spam
   ES: Solo un montón de spam  (x1)
 - EN: Just a few
@@ -8511,19 +8107,21 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Just a random thought.
   ES: Sólo un pensamiento al azar.  (x1)
 - EN: Just as we are about to get closer to the truth. You have the nerve to walk out?!! What if I didn't pull you back in? All of our efforts could be wasted!!
-  ES: Justo cuando estamos por acercarnos a la verdad. Tienes el descaro de irte?!! Y si no te hubiera traido de vuelta? Todos nuestros esfuerzos podrian desperdiciarse!!  (x1)
+  ES: Justo cuando estamos por acercarnos a la verdad. Tienes el descaro de irte?!! Y si no te hubiera traido de vuelta? Todos nuestros esfuerzos podrían desperdiciarse!!  (x1)
 - EN: Just askin
   ES: Preguntaba  (x1)
 - EN: Just be as smooth as you are ;)
-  ES: Solo sé tan suave como eres ;)  (x1)
+  ES: Solo sé encantador, como siempre. ;)  (x1)
 - EN: Just because you have her phone, doesn't mean that you have the right to boss me around and be a jerk. A little bit of respect would go far you know
-  ES: Solo porque tienes su telefono, no significa que tengas derecho a mandarme y a portarte como un idiota. Un poco de respeto llegaria lejos, sabes  (x1)
+  ES: Solo porque tienes su teléfono, no significa que tengas derecho a mandarme y a portarte como un idiota. Un poco de respeto llegaria lejos, sabes  (x1)
 - EN: Just dissapointed
   ES: Solo decepcionado  (x1)
 - EN: Just do it ok?
   ES: Solo hazlo, ¿ok?  (x1)
 - EN: Just get back to me soon ok?
   ES: Solo vuelve a mí pronto, ¿ok?  (x1)
+- EN: Just get the hell out of my life before I call the cops
+  ES: Lárgate de mi vida antes de que llame a la policía.  (x1)
 - EN: Just get this over and done with ok?
   ES: Solo termina esto, ¿ok?  (x1)
 - EN: Just gimmie a second
@@ -8556,18 +8154,28 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo quiero saber que mis amigas me conocen.  (x1)
 - EN: Just want to make sure you are human by tappin the email button
   ES: Solo quiero asegurarme de que seas humano tocando el botón de correo  (x1)
+- EN: Just who the hell are you?
+  ES: ¿Quién demonios eres tú?  (x1)
 - EN: Just.. Do what you can ok?
   ES: Solo.. Haz lo que puedas, ¿ok?  (x1)
+- EN: Justice is more important. Send the report
+  ES: La justicia es más importante. Envía el informe.  (x1)
 - EN: Keep an eye on my upcoming posts! Find the hidden phone number! If you figured it out, just call me for your AMA with me ;)
   ES: ¡Estate atento a mis próximas publicaciones! ¡Encuentra el número de teléfono oculto! Si lo descubriste, llámame para tu AMA conmigo ;)  (x1)
 - EN: Keep my online name @keepingitcassie out of this
-  ES: Manten mi nombre en linea @keepingitcassie fuera  (x1)
+  ES: No involucres a mi identidad en internet, @keepingitcassie, en esto.  (x1)
+- EN: Kinda sucks the fun outta dating isnt it
+  ES: Eso le quita un poco la gracia a las citas, ¿no?  (x1)
 - EN: LOl you did not
   ES: Jaja no dijiste  (x1)
+- EN: Last night you didn't really want to dance.
+  ES: Anoche no tenías muchas ganas de bailar.  (x1)
 - EN: Last one!
   ES: ¡La última!  (x1)
 - EN: Lawyers were involved and I was charged
   ES: Abogados se involucraron y me imputaron  (x1)
+- EN: Lay it on me buddy
+  ES: Cuéntamelo todo, amigo.  (x1)
 - EN: Leave me and Anna alone!
   ES: ¡Déjame en paz a mí y a Anna!  (x1)
 - EN: Leave my shit jokes alone.
@@ -8591,25 +8199,35 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Lets keep finding clues.
   ES: Sigamos encontrando pistas.  (x1)
 - EN: Lets make a deal?
-  ES: Hacemos un trato?  (x1)
+  ES: ¿Hacemos un trato?  (x1)
 - EN: Lets take a step back for a bit
   ES: Demos un paso atrás un momento  (x1)
 - EN: Lets talk about Anna's place
   ES: Hablemos del departamento de Anna  (x1)
 - EN: Lets walk right in!
   ES: ¡Vamos a entrar directamente!  (x1)
+- EN: Liar
+  ES: Mentiroso.  (x1)
 - EN: Like PCs or consoles
   ES: Como de PC o consolas  (x1)
 - EN: Like a backup?
-  ES: ¿Como un respaldo?  (x1)
+  ES: ¿Como una copia de seguridad?  (x1)
 - EN: Like factory reset?
-  ES: ¿Como restablecer de fábrica?  (x1)
+  ES: ¿Como restablecerlo de fábrica?  (x1)
+- EN: Like he went crazy?
+  ES: ¿Como si se hubiera vuelto loco?  (x1)
 - EN: Like immediately?
-  ES: ¿Como inmediatamente?  (x1)
+  ES: ¿Así, de inmediato?  (x1)
 - EN: Like the mobile game?
-  ES: ¿Como juego movil?  (x1)
+  ES: ¿Como el juego de celular?  (x1)
+- EN: Like the one with the dots ?
+  ES: ¿Como el que tiene puntos?  (x1)
 - EN: Like we just mainly go out, chill, chill + Toby.
   ES: Como que simplemente salimos, chillamos, + Toby.  (x1)
+- EN: Like you wouldn't do the same?
+  ES: ¿Como si tú no hicieras lo mismo?  (x1)
+- EN: Like you?
+  ES: ¿Como tú?  (x1)
 - EN: Like, internet rude!
   ES: Grosero de internet!  (x1)
 - EN: Lil Lisa
@@ -8620,14 +8238,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ubicación  (x1)
 - EN: Login
   ES: Iniciar sesión  (x1)
+- EN: Lol not you. Ron. You be you ;)
+  ES: Jajaja, no tú. Ron. Tú sé tú mismo. ;)  (x1)
 - EN: Lol shut up
   ES: Jaja, cállate  (x1)
 - EN: Look
   ES: Mira  (x1)
-- EN: Look at this graph that was hacked from an in-\nternal law enforcement report regarding these\ncrimes.
-  ES: Mire este gráfico que fue pirateado de un informe interno de las fuerzas del orden sobre estos crímenes.  (x1)
 - EN: Look what I found
   ES: Mira lo que encontré  (x1)
+- EN: Look, if youre looking for dirt on Greg
+  ES: Mira, si buscas información comprometedora sobre Greg...  (x1)
 - EN: Look. I'm not sure what you heard but
   ES: Mira. No estoy seguro de qué escuchaste pero  (x1)
 - EN: Looks like she is chilling at home
@@ -8646,8 +8266,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Yo también te quiero, mamá  (x1)
 - EN: Loves memes
   ES: Me encantan  (x1)
-- EN: Lucky for you readers. I have the scoop. I was\nworking with a local detective (a very trusted\nfriend who I cant reveal his name to keep him\nsafe) to see if there is any connections to the\ncrimes and oh boy was the rabbit hole deeper\nthan Bill Gates’s wallet! But why am I doing\nthis? Because there is something strange going\non with [web_link]Spark[]. These big tech corporations are\nslowly taking over the world, selling our info to\nthe governments to spy on us, and now? Paying\noff the media and law enforcement to SILENCE\nour voices and to further pacify us into submis-\nsion. So what is it this time?
-  ES: Suerte para ustedes, lectores. Tengo la primicia. Estuve\ntrabajando con un detective local (un amigo de mucha\nconfianza cuyo nombre no puedo revelar para mantenerlo\na salvo) para ver si hay alguna conexion con los\ncrimenes y, vaya, la madriguera era mas profunda\nque la billetera de Bill Gates! Pero por que hago\nesto? Porque pasa algo extrano\ncon [web_link]Spark[]. Estas grandes corporaciones tecnologicas estan\ntomando lentamente el mundo, vendiendo nuestra info a\nlos gobiernos para espiarnos, y ahora? Sobornando\na los medios y a la policia para SILENCIAR\nnuestras voces y pacificarnos aun mas hacia la sumi-\nsion. Entonces, que es esta vez?  (x1)
 - EN: MY CAREER IS FUCKED!
   ES: ¡MI CARRERA ESTÁ JODIDA!  (x1)
 - EN: MY DENTIST ASKED HIS ASSISTANT TO SUCK THE WATER OUT OF MY MOUTH. THINKING HE WAS TALKING TO ME SO I SUCKED HIS FINGER. IM TERRIFIED
@@ -8666,6 +8284,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Asegúrate de que tu perfil sea similar al de ellos  (x1)
 - EN: Man that girl got issues
   ES: Vaya, esa chica tiene problemas  (x1)
+- EN: Managed to dig depper into her phone?
+  ES: ¿Lograste investigar más a fondo su teléfono?  (x1)
 - EN: Max points to all of them
   ES: Puntos maximos para todos  (x1)
 - EN: Maybe
@@ -8684,6 +8304,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quizas fue bueno contigo  (x1)
 - EN: Maybe he...
   ES: Quizás él...  (x1)
+- EN: Maybe its time you listen to me for once and let it go
+  ES: Tal vez sea hora de que me escuches por una vez y dejes esto atrás.  (x1)
 - EN: Maybe she can share what she knows about him
   ES: Quizás podría compartir lo que sabe de él  (x1)
 - EN: Maybe she dealt with it.
@@ -8692,20 +8314,32 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quizás tiene amigos con los que podamos engañar para llegar a su computadora  (x1)
 - EN: Maybe she is keeping him away
   ES: Quizás ella lo está manteniendo alejado  (x1)
+- EN: Maybe she is running from an abuser
+  ES: Quizá esté huyendo de alguien que la maltrata.  (x1)
 - EN: Maybe she just wANNA be left alone
   ES: Quizás solo quiero que me dejen en paz  (x1)
+- EN: Maybe she went for a trip?
+  ES: ¿Quizás se fue de viaje?  (x1)
+- EN: Maybe she’s still there
+  ES: Quizá siga ahí.  (x1)
 - EN: Maybe someone there can tell us what's up with him
   ES: Quizás alguien de ahí pueda decirnos qué onda con él  (x1)
 - EN: Maybe thats not my real name?
   ES: ¿Quizás ese no es mi nombre real?  (x1)
+- EN: Maybe they have the same taste in movies?
+  ES: ¿Quizá tengan gustos parecidos en películas?  (x1)
 - EN: Maybe we jumped into conclusions
   ES: Quizás sacamos conclusiones muy apresuradas  (x1)
 - EN: Maybe you are somehow involved
-  ES: Quizas tu estas involucrado de alguna forma  (x1)
+  ES: Tal vez estés involucrado de algún modo.  (x1)
 - EN: Maybe you can follow her posts, find out what she is up to
-  ES: Quizas puedas seguir sus publicaciones, averiguar que esta  (x1)
+  ES: Tal vez puedas seguir sus publicaciones y averiguar qué está haciendo.  (x1)
 - EN: Maybe you need to talk to someone.
   ES: Quizás necesitas hablar con alguien.  (x1)
+- EN: Me an a few people are searching
+  ES: Unas cuantas personas y yo estamos buscando.  (x1)
+- EN: Me delete what?
+  ES: ¿Que yo borre qué?  (x1)
 - EN: Me every Wednesday
   ES: Yo todos los miércoles  (x1)
 - EN: Me too!
@@ -8714,6 +8348,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Encuéntrame  (x1)
 - EN: Might I recommend you our best selections of dress shoes?
   ES: ¿Puedo recomendarte nuestra mejor selección de zapatos de vestir?  (x1)
+- EN: Might be different in my case tho
+  ES: Podría ser diferente en mi caso  (x1)
 - EN: Minimal
   ES: Mínimo  (x1)
 - EN: Mom
@@ -8725,7 +8361,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: More clues?
   ES: Mas pistas?  (x1)
 - EN: More like a sidegirl bootycall
-  ES: Mas bien una amiga con derecho  (x1)
+  ES: Más bien una aventura a la que llama cuando quiere acostarse.  (x1)
 - EN: More reason to meet her right?
   ES: Más razón para conocerla, ¿verdad?  (x1)
 - EN: More spying?
@@ -8740,24 +8376,36 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mi  (x1)
 - EN: My Spark messages.
   ES: Mis mensajes de Spark.  (x1)
+- EN: My card number is 66EA3521113
+  ES: Mi número de tarjeta es 66EA3521113.  (x1)
+- EN: My eyes might be deceiving me
+  ES: Quizá mis ojos me estén engañando.  (x1)
 - EN: My eyes! My eyes, are they still mine?
   ES: ¡Mis ojos! Mis ojos, ¿siguen siendo míos?  (x1)
 - EN: My head is soooo deep in the game now
   ES: Mis pilas están súper puestas ahora  (x1)
+- EN: My name is CLEARLY stated in Anna's phone 😠😠😠😠
+  ES: ¡Mi nombre aparece CLARAMENTE en el teléfono de Anna! 😠😠😠😠  (x1)
 - EN: My parents
   ES: Mis padres  (x1)
 - EN: My personal affairs has nothing to do with you!
   ES: ¡Mis asuntos personales no tienen nada que ver contigo!  (x1)
+- EN: My real name is Cassandra
+  ES: Mi verdadero nombre es Cassandra.  (x1)
 - EN: My rules
   ES: Mis reglas  (x1)
 - EN: My second condition is that we keep this between us ok?
   ES: Mi segunda condición es que guardemos esto entre nosotros, ¿ok?  (x1)
 - EN: My seperate lives can be quite a strain
   ES: Mis vidas separadas pueden ser bastante  (x1)
+- EN: My sister told me its pretty much 50% lame jokes and 30% unsolicited dic pic
+  ES: Mi hermana dice que es un 50 % de chistes malos y un 30 % de fotos de penes que nadie pidió.  (x1)
 - EN: Mystery girl. I like it
   ES: Chica misteriosa. Me gusta  (x1)
 - EN: NEVER MISS ANYTHING
   ES: NO TE PIERDAS NADA  (x1)
+- EN: NO ITS NOT
+  ES: NO ES ASÍ  (x1)
 - EN: NO Its wrong!
   ES: ¡NO, está mal!  (x1)
 - EN: NO NO
@@ -8768,8 +8416,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: NADA está bien  (x1)
 - EN: Nailed it
   ES: ¡Lo clavaste!  (x1)
-- EN: Name : Taylor Perrera\nAge : 22\nLocation : Springwood
-  ES: Nombre : Taylor Perrera\nEdad: 22\nUbicación: Springw  (x1)
 - EN: National Sex Fellon Website
   ES: Sitio web nacional de delincuentes sexuales  (x1)
 - EN: National Sex Felon Website
@@ -8805,7 +8451,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Nice!
   ES: ¡Qué bien!  (x1)
 - EN: Nifty!
-  ES: ¡Qué chido!  (x1)
+  ES: ¡Qué bueno!  (x1)
 - EN: Night.
   ES: Buenas noches.  (x1)
 - EN: Nite
@@ -8853,15 +8499,17 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: No.. This is not right..
   ES: No.. Esto no esta bien..  (x1)
 - EN: No.. this cant wait any longer
-  ES: No.. esto no puede esperar mas  (x1)
+  ES: No... esto no puede esperar más.  (x1)
 - EN: Nobody else is talking here
   ES: Nadie más está hablando a  (x1)
+- EN: Nobody will lie about who they are
+  ES: Nadie mentirá sobre quién es.  (x1)
 - EN: Nobody’s gonna see this, so.
   ES: Nadie va a ver esto, entonces.  (x1)
 - EN: Noice!
-  ES: ¡Chido!  (x1)
+  ES: ¡Buenísimo!  (x1)
 - EN: None of my business then
-  ES: Asi que no es asunto mio  (x1)
+  ES: Así que no es asunto mio  (x1)
 - EN: Noononoon
   ES: Nono no no  (x1)
 - EN: Nope, its switched off.
@@ -8875,7 +8523,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Not fast enough
   ES: No lo suficientemente rápido  (x1)
 - EN: Not how this works bud
-  ES: No funciona asi, compa  (x1)
+  ES: No funciona así, compa  (x1)
 - EN: Not interested
   ES: No me interesa  (x1)
 - EN: Not really...
@@ -8900,10 +8548,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Nada es razonable hasta ahora  (x1)
 - EN: Nothing!
   ES: ¡Nada!  (x1)
-- EN: Notice something? A big yellow line labelled\n“missing” and no one seems to bother men-\ntioning this. Sure it's only a small number, so\nthey just lump it up with the rest of the crimes?\nLazy Pigs. Now, I already know what you’re\nthinking. This is just a graph, this could be fabri-\ncated, there is nothing much to go on from\nthis. But that's where I went an extra mile, did\nsome investigating on my own. I managed to\ntrack down and spoke to some of the friends\nand family of the victims. Nothing is more\nwarm and truthful when it comes straight from\nthe horse's mouth. Names are partially hidden\nto protect privacy.
-  ES: Notas algo? Una gran linea amarilla etiquetada\n“desaparecidos” y nadie parece molestarse en men-\ncionarlo. Claro, es solo un numero pequeno, asi que\nsimplemente lo meten con el resto de los crimenes?\nCerdos perezosos. Ahora, ya se lo que estan\npensando. Esto es solo un grafico, podria ser fabri-\ncado, no hay mucho en que basarse\ncon esto. Pero ahi es donde fui un paso mas alla, hice\nalguna investigacion por mi cuenta. Logre\nrastrear y hablar con algunos de los amigos\ny familiares de las victimas. Nada es mas\ncalido y verdadero que oirlo directo\nde la fuente. Los nombres estan parcialmente ocultos\npara proteger la privacidad.  (x1)
 - EN: Now that you made it so clear
   ES: Ahora que lo dejaste tan claro  (x1)
+- EN: Now why would I ever do that?
+  ES: ¿Y por qué haría yo algo así?  (x1)
 - EN: Now you forget I exist?
   ES: ¿Ahora olvidas que existo?  (x1)
 - EN: OH FUCK
@@ -8914,14 +8562,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ESTÁ BIEN  (x1)
 - EN: OK if we keep talking I'm gonna miss work
   ES: Ok, si seguimos hablando voy a llegar  (x1)
+- EN: OMFG HOW DID SHE KNOW 😱😱
+  ES: ¡¿CÓMO DEMONIOS LO SUPO?! 😱😱  (x1)
 - EN: OMG I WANT ONE NOW
   ES: Dios mío, quiero uno ya  (x1)
 - EN: ON iTTTttt
   ES: ¿Cómo la  (x1)
-- EN: OPEN AND GROSS LEWDNESS AND\nLASCIVIOUS BEHAVIOR.
-  ES: EXPOSICIÓN INDECENTE E INDECENCIA\nSEXUAL PÚBLICA.  (x1)
-- EN: OPEN AND GROSS LEWDNESS AND\nLASCIVIOUS BEHAVIOR.
-  ES: ABIERTA Y BRUTA LASCIBIA Y COMPORTAMIENTO LASCIBO.  (x1)
 - EN: Occasionally
   ES: Ocasionalmente  (x1)
 - EN: Occum's Razor
@@ -8936,6 +8582,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Por supuesto que sí!  (x1)
 - EN: Ofclus
   ES: Obvio  (x1)
+- EN: Oh Anna 😄😄😄
+  ES: Ay, Anna 😄😄😄  (x1)
 - EN: Oh God I couldve been kidnapped?!?
   ES: ¡¡Oh Dios, casi me secuestran?!?  (x1)
 - EN: Oh I did?
@@ -8954,6 +8602,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Oh, Dios...  (x1)
 - EN: Oh god...
   ES: Oh Dios..  (x1)
+- EN: Oh he's definately pissed 😱
+  ES: Uy, sin duda está furioso. 😱  (x1)
 - EN: Oh here we go...
   ES: Oh aqui vamos...  (x1)
 - EN: Oh it sure does
@@ -8968,6 +8618,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Oh, no...  (x1)
 - EN: Oh she told me to thank you for holding on to her phone
   ES: Ah, ella me dijo que te diera las gracias por guardar su teléfono  (x1)
+- EN: Oh shit!
+  ES: ¡Mierda!  (x1)
 - EN: Oh so you're close!
   ES: Oh, así que estás cerca  (x1)
 - EN: Oh wait.
@@ -9021,7 +8673,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Ok seriously
   ES: Ok, en serio  (x1)
 - EN: Ok so I was at a mall and I had like a huge glass of iced tea right before and I gotta pee
-  ES: Ok, estaba en un centro comercial y me había tomado un vaso  (x1)
+  ES: Bueno, estaba en un centro comercial y justo antes me tomé un vaso enorme de té helado. ¡Ahora me muero de ganas de ir al baño!  (x1)
 - EN: Ok tell me
   ES: Ok, dime  (x1)
 - EN: Ok that sounded weird now that I typed it out
@@ -9063,13 +8715,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Okay??
   ES: Bueno?  (x1)
 - EN: Okey dokey?
-  ES: De acuerdo?  (x1)
+  ES: ¿De acuerdo?  (x1)
 - EN: One here..
   ES: Uno aqui..  (x1)
 - EN: One is a handful already
   ES: Uno ya es bastante  (x1)
 - EN: One of your colleagues reported that someone is attempting an unauthorized access to your work computer to retrieve some sensitive information.
-  ES: Uno de tus colegas reporto que alguien esta intentando un acceso no autorizado a tu computadora de trabajo para obtener informacion confidencial.  (x1)
+  ES: Uno de tus compañeros informó que alguien está intentando acceder a tu computadora de trabajo sin autorización para obtener información confidencial.  (x1)
 - EN: Only because you ask so nicely
   ES: Solo porque lo pides tan amablemente  (x1)
 - EN: Only one I hope 😜
@@ -9084,10 +8736,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: O con nadie más.  (x1)
 - EN: Or the state of social media shaping consumerism?
   ES: ¿O del estado de las redes sociales moldeando el consumismo?  (x1)
-- EN: Our material life is not meaningless
-  ES: Nuestra vida material no carece de sentido  (x1)
-- EN: Patron Organization
-  ES: Organización Patron  (x1)
+- EN: Otherwise why would he want to delete the phone's data?
+  ES: Si no, ¿por qué querría borrar los datos del teléfono?  (x1)
+- EN: Our job woule be done
+  ES: Nuestro trabajo estaría terminado.  (x1)
 - EN: People can grow and improve
   ES: La gente puede crecer y mejorar  (x1)
 - EN: People use this to request temporary access for house guests
@@ -9116,6 +8768,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Por favor ingresa el número de tarjeta que deseas desbloquear.  (x1)
 - EN: Please hold
   ES: Por favor, espera  (x1)
+- EN: Please hold while we transfer you to one of our operators.
+  ES: Espere mientras transferimos su llamada a uno de nuestros operadores.  (x1)
 - EN: Please hold.
   ES: Por favor espere.  (x1)
 - EN: Please make sure you have entered the correct card number.
@@ -9130,6 +8784,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Por favor, aquí está en juego la vida de una mujer.  (x1)
 - EN: Please…
   ES: Por favor  (x1)
+- EN: Plus our big project coming up. We dont really need it right now
+  ES: Además, pronto empieza nuestro gran proyecto. Por ahora no lo necesitamos.  (x1)
 - EN: Politics
   ES: Política  (x1)
 - EN: Porn stash?
@@ -9150,6 +8806,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pulse 4 para zapatos y calzado.  (x1)
 - EN: Press 5 for gowns.
   ES: Presione 5 para batas.  (x1)
+- EN: Pretend what?
+  ES: ¿Fingir qué?  (x1)
 - EN: Pretty sure shell find a way to call the office
   ES: Seguro encontrará la forma de llamar a la oficina  (x1)
 - EN: Professional help
@@ -9164,6 +8822,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pon a Anna al teléfono  (x1)
 - EN: Put a good name for me if she comes back?
   ES: Pon buena palabra por mí si vuelve, ¿ok?  (x1)
+- EN: Put it all behind and he might approve that study leave you've been meaning to get
+  ES: Deja todo eso atrás y quizá apruebe la licencia de estudios que llevas tiempo pidiendo.  (x1)
 - EN: Questionable
   ES: Cuestionable  (x1)
 - EN: RIGHT NOW??
@@ -9173,7 +8833,9 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Really?
   ES: ¿En serio?  (x1)
 - EN: Remember I told you about my watch?
-  ES: Recuerdas que te hable de mi reloj?  (x1)
+  ES: ¿Recuerdas que te hable de mi reloj?  (x1)
+- EN: Remember what you're here for
+  ES: Recuerda para qué estás aquí.  (x1)
 - EN: Remember, if you need any help, im here.
   ES: Recuerda, si necesitas ayuda, estoy aquí.  (x1)
 - EN: Remember, the secret is in the tags
@@ -9188,8 +8850,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Reiniciar?  (x1)
 - EN: Reveal yourself!
   ES: ¡Revela tu verdadero yo!  (x1)
-- EN: Ridr Inc. disclaims any liability for any damages arising from the use of\nits service, including but not limited to loss of life or limb, destruction of\nproperty, sexual assaults or any wrongful conducts from any of its drivers.\nBy using this service, you accept full responsibility of your own well being\nand agree to not make public disclosures of any kind of any such\nmisfortunes that may occur to you from the use of this service.
-  ES: Ridr Inc. rechaza toda responsabilidad por cualquier dano derivado del uso de\nsu servicio, incluidos, entre otros, perdida de vida o miembros, destruccion de\npropiedad, agresiones sexuales o cualquier conducta indebida de cualquiera de sus conductores.\nAl usar este servicio, aceptas total responsabilidad por tu propio bienestar\ny aceptas no hacer publica ninguna divulgacion de tales\ndesgracias que puedan ocurrirte por el uso de este servicio.  (x1)
 - EN: Right
   ES: Cierto  (x1)
 - EN: Right!
@@ -9210,8 +8870,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: MIERDA, MIERDA  (x1)
 - EN: SO WHAT?
   ES: ¿Y QUÉ?  (x1)
-- EN: SPARK IRL is our invitation-only\nsignature singles events for\nthose who want something\na little more than swiping.
-  ES: SPARK IRL son nuestros eventos exclusivos para solteros, sólo por invitación, para quienes quieren algo un poco más que deslizar.  (x1)
 - EN: STATEMENT: The sexual assault allegations against our Tech Director are unfounded due to lack of hard evidence
   ES: DECLARACIÓN: Las acusaciones de agresión sexual contra nuestro Director Técnico son infundadas por falta de pruebas contundentes  (x1)
 - EN: STATEMENT: We are temporarily suspending our Tech Director due to sexual assault allegations. There will be an investigation.
@@ -9225,7 +8883,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: SaFE?
   ES: salvo?  (x1)
 - EN: Saw your Jabbr post, and looks like youre home
-  ES: Vi tu publicacion de Jabbr, y parece que estas  (x1)
+  ES: Vi tu publicación en Jabbr y parece que estás en casa.  (x1)
 - EN: Scout's honor 👍
   ES: Palabra de scout 👍  (x1)
 - EN: See? You gotta be chill and watch your temper
@@ -9234,10 +8892,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Parecia decirme todas cosas correctas  (x1)
 - EN: Seriously
   ES: En serio  (x1)
+- EN: Seriously, Anna?
+  ES: ¿En serio, Anna?  (x1)
 - EN: Seriously?
   ES: ¿En serio?  (x1)
 - EN: Sex not guaranteed
-  ES: Sexo no garantizad  (x1)
+  ES: Sexo no garantizado  (x1)
 - EN: She blocked me.
   ES: Ella me bloqueó.  (x1)
 - EN: She came to me.
@@ -9251,7 +8911,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: She got rejected from vet school
   ES: La rechazaron de la escuela de veterinaria  (x1)
 - EN: She has Spark installed on her phone.
-  ES: Tiene Spark instalado en su telefono.  (x1)
+  ES: Tiene Spark instalado en su teléfono.  (x1)
 - EN: She has gone missing
   ES: Ella ha desaparecido  (x1)
 - EN: She has no work friends
@@ -9276,6 +8936,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ella está..  (x1)
 - EN: She left her phone for some rando stranger?
   ES: ¿Dejó su teléfono para que un completo desconocido lo tomara?  (x1)
+- EN: She literally just made a new post
+  ES: Acaba de publicar algo nuevo.  (x1)
 - EN: She looks..
   ES: Ella se ve..  (x1)
 - EN: She lost her phone
@@ -9308,20 +8970,26 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ella era la clienta que necesitaba para la cuota del mes pasado  (x1)
 - EN: She was the last close I needed!
   ES: ¡Ella era el último cierre que necesitaba!  (x1)
+- EN: She wont make it easy thats for sure
+  ES: Seguro que ella no nos lo pondrá fácil.  (x1)
 - EN: She works at a SECURITY company
   ES: Ella trabaja en una empresa de SEGURIDAD  (x1)
 - EN: She would be better with literally anyone else but you
   ES: Estaría mejor con literalmente cualquiera menos tú  (x1)
 - EN: She's cool but she is like some big social media person or something
-  ES: Es cool pero es como una persona famosa de redes sociales o  (x1)
+  ES: Es buena onda, pero es como una celebridad de las redes sociales.  (x1)
 - EN: She's missing right?
   ES: Está desaparecida, ¿verdad?  (x1)
 - EN: She’s dead. She-
   ES: Ella está muerta.  (x1)
 - EN: She’s not at her phone right now.
   ES: Ella no está con su teléfono ahora.  (x1)
+- EN: Shiiit 😧😧😧
+  ES: ¡Mieeerda! 😧😧😧  (x1)
 - EN: Shit
   ES: Mierda  (x1)
+- EN: Shit.
+  ES: Mierda.  (x1)
 - EN: Shit.. I remember... He was standing on the roof...
   ES: Mierda.. Lo recuerdo... Estaba parado en el techo..  (x1)
 - EN: Shopping is pretty straight forward, why would anyone complicate things?
@@ -9329,7 +8997,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Should I be?
   ES: ¿Debería estarlo?  (x1)
 - EN: Should we discuss this?
-  ES: ¿Deberíamos discutir esto?  (x1)
+  ES: ¿Deberíamos hablarlo?  (x1)
 - EN: Show me
   ES: Muestra  (x1)
 - EN: Shut it
@@ -9366,6 +9034,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Así que eres de animales, eh?  (x1)
 - EN: So are we done?
   ES: ¿Entonces ya terminamos?  (x1)
+- EN: So dont TELl me youcan dcide whats best for Anna
+  ES: Así que no ME DIGAS que puedes decidir qué es lo mejor para Anna.  (x1)
 - EN: So dont you back out now.
   ES: Así que no te eches atrás ahora.  (x1)
 - EN: So grand it just might even have room for you.
@@ -9373,25 +9043,41 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: So he is a two timing bastard
   ES: Entonces es un bastardo infiel  (x1)
 - EN: So he ruined your life too?
-  ES: El tambien arruino tu vida?  (x1)
+  ES: ¿Así que también te arruinó la vida?  (x1)
 - EN: So he's just gone?
   ES: ¿Entonces simplemente desapareció?  (x1)
+- EN: So how about you keep your opinions to yourdamnself
+  ES: ¿Por qué no te guardas tus opiniones para ti?  (x1)
 - EN: So if there is a slight chance we can find Anna
   ES: Entonces si hay la más mínima posibilidad de que encontremos a Anna  (x1)
+- EN: So if there is anything I learned from using Spark
+  ES: Así que, si algo aprendí usando Spark...  (x1)
 - EN: So if you ever thought of putting on power suits and writing for big brands...
   ES: Entonces si alguna vez pensaste en ponerte trajes de poder y escribir para grandes marcas...  (x1)
+- EN: So if you want to start pointing fingers
+  ES: Así que, si vas a empezar a buscar culpables...  (x1)
 - EN: So it was an accident?
   ES: ¿Entonces fue un accidente?  (x1)
+- EN: So just an allegation will get you suspended? What next, gender seperated office spaces?
+  ES: ¿Basta una acusación para suspenderte? ¿Qué sigue, oficinas separadas por género?  (x1)
+- EN: So lets keep this between you and me eh?
+  ES: Que esto quede entre tú y yo, ¿sí?  (x1)
 - EN: So lets keep this under wraps
   ES: Así que mantengamos esto en secreto  (x1)
 - EN: So naturally, I haven't met any of her friends.
   ES: Así que naturalmente, no he conocido a ninguna de sus amigas.  (x1)
+- EN: So no question there
+  ES: Así que no hay duda  (x1)
 - EN: So please be patient, as I will contact you on my next availability.
   ES: Así que tenga paciencia, ya que me comunicaré con usted en mi próxima disponibilidad.  (x1)
+- EN: So pointing the finger at me was his idea all along?
+  ES: ¿Así que su plan siempre fue echarme la culpa a mí?  (x1)
 - EN: So she's at home?!?!
   ES: ¿¿Entonces ella está en casa??  (x1)
 - EN: So stop painting me as some kind of bad guy
-  ES: Asi que deja de pintarme como algun tipo de malo  (x1)
+  ES: Deja de pintarme como si fuera el malo de la historia.  (x1)
+- EN: So talk to me
+  ES: Así que habla conmigo.  (x1)
 - EN: So that just happened
   ES: Entonces eso acaba de pasar  (x1)
 - EN: So that rules it out
@@ -9434,10 +9120,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Así que viste sus buenas partes  (x1)
 - EN: So you two dated?
   ES: ¿Entonces ustedes dos salieron?  (x1)
+- EN: So you're a shrink now? 😑
+  ES: ¿Ahora eres psicólogo? 😑  (x1)
 - EN: So you’ve been talking to this guy all this time?
   ES: ¿Así que has estado hablando con este tipo todo este tiempo?  (x1)
 - EN: So!
   ES: ¡Y bien!  (x1)
+- EN: So, he suggest you drop the report while he will have a talk with Murv
+  ES: Entonces, él propone que retires el informe mientras habla con Murv.  (x1)
 - EN: So.. Greg is not the violent type I assume?
   ES: Entonces.. Greg no es el tipo violento, supongo?  (x1)
 - EN: So.. Now that the scare is over..
@@ -9449,19 +9139,25 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: So? What is it?
   ES: ¿Entonces? ¿Cuál es?  (x1)
 - EN: So?????? What did you find in the past Spark messages
-  ES: Entonces?????? Que encontraste en mensajes anteriores  (x1)
+  ES: Entonces, ¿qué encontraste en los mensajes antiguos de Spark?  (x1)
 - EN: Sokay
   ES: Está bien  (x1)
 - EN: Some dude?
   ES: ¿Algún tipo?  (x1)
+- EN: Some girls would agree I can pull off some sweet moves
+  ES: Algunas chicas dirían que tengo mucho encanto.  (x1)
 - EN: Some of these restore apps needs some additional manual solving.
   ES: Algunas de estas apps de restauración requieren resolución manual adicional.  (x1)
+- EN: Some other time please?
+  ES: ¿Otro día, por favor?  (x1)
 - EN: Some say they still see him on Jabbr, some female friends even saw him on Spark
   ES: Algunos dicen que todavía lo ven en Jabbr, algunas amigas incluso lo vieron en Spark  (x1)
 - EN: Someone caught me with my pants down in a public place.
   ES: Alguien me pilló con los pantalones abajo en un lugar público.  (x1)
 - EN: Someone close to her
   ES: Alguien cercano a ella  (x1)
+- EN: Someone name Toby
+  ES: Alguien llamado Toby.  (x1)
 - EN: Someone walked by me on the sidewalk and said "hello"\n\nFreak..
   ES: Alguien pasó a mi lado en la acera y me dijo "hola"\n\nRaro..  (x1)
 - EN: Someone?
@@ -9471,7 +9167,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Sometimes you come off as lewd
   ES: A veces suenas como un pervertido  (x1)
 - EN: Sorry I am new this thing
-  ES: Perdon, soy nuevo en esto  (x1)
+  ES: Perdón, soy nuevo en esto.  (x1)
 - EN: Sorry I didn't know
   ES: Lo siento, no lo sabía  (x1)
 - EN: Sorry bud
@@ -9481,13 +9177,17 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Sorry creep. You're done for
   ES: Lo siento, acosador. Estás acabado  (x1)
 - EN: Sorry sorry, no need to respond.
-  ES: Perdon, no hace falta responder.  (x1)
+  ES: Perdón, no hace falta responder.  (x1)
+- EN: Sorry you go first
+  ES: Perdón, habla tú primero.  (x1)
 - EN: Sorry!
   ES: Perdon  (x1)
 - EN: Sorry! Was caught up with work
   ES: ¡Perdón! Estaba ocupada con el trabajo  (x1)
 - EN: Sorry!!
   ES: Perdon!  (x1)
+- EN: Sorry, I know we just spoke.. and..
+  ES: Perdón, se que acabamos de hablar.  (x1)
 - EN: Sorry, I’m at work, just want to drown everything out for a bit.
   ES: Lo siento, estoy en el trabajo, sólo quiero ahogar todo por un momento.  (x1)
 - EN: Sorry, all of our operators are currently busy.
@@ -9495,15 +9195,11 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Sorry, it seems you are not eligible for membership yet.
   ES: Lo sentimos, parece que todavía no eres elegible para la membresía.  (x1)
 - EN: Sorry, its nothing
-  ES: Perdon, no es nada  (x1)
+  ES: Perdón, no es nada  (x1)
 - EN: Sorry, last one real quick.
   ES: Lo siento, el último, rapidito.  (x1)
 - EN: Sorry, lets start
   ES: Perdon, empecemos  (x1)
-- EN: Sorry, the position you are applying for is cur-\nrently unavailable, please come back again.
-  ES: Lo sentimos, el puesto que está solicitando no está disponible en este momento, por favor vuelva más tarde.  (x1)
-- EN: Sorry, the position you are applying for is cur-\nrently unavailable, please come back again.
-  ES: Lo sentimos, la posición que está solicitando no está disponible actualmente, por favor vuelva más tarde.  (x1)
 - EN: Sorry. I will keep this quiet
   ES: Perdón. Me quedaré callado  (x1)
 - EN: Sounds creepy to me
@@ -9524,16 +9220,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Habla inglés correctamente  (x1)
 - EN: Spill it
   ES: Sueltalo  (x1)
+- EN: Srsly Anna?
+  ES: ¿En serio, Anna?  (x1)
 - EN: Stalker much?
   ES: ¿Muy acosador?  (x1)
 - EN: Stay on the line.
   ES: Quedate en linea.  (x1)
-- EN: Stay tuned for the unveiling of\nour next OS soon.
-  ES: Estén atentos a la presentación de\nnuestro próximo sistema operativo pronto.  (x1)
-- EN: Stay tuned for the unveiling of\nour next OS soon.
-  ES: Mantente al tanto del próximo lanzamiento de nuestro nuevo sistema operativo.  (x1)
 - EN: Still clear on your task?
   ES: ¿Todavía tienes clara tu tarea?  (x1)
+- EN: Still creeping through Anna's phone?
+  ES: ¿Sigues husmeando en el teléfono de Anna?  (x1)
 - EN: Stoked to see you sharing our vision!
   ES: ¡Nos emociona que compartas nuestra visión!  (x1)
 - EN: Stop blaming others
@@ -9554,6 +9250,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estudios  (x1)
 - EN: Sucks the fun out of shopping.
   ES: Le quita la diversión a las compras.  (x1)
+- EN: Super productive day. i only napped 2 times during work
+  ES: Día superproductivo. Solo me dormí dos veces en el trabajo.  (x1)
 - EN: Supportive?
   ES: ¿Comprensiva?  (x1)
 - EN: Sure
@@ -9561,19 +9259,25 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Sure I will give it a shot 😄
   ES: Seguro, le dare una oportunidad  (x1)
 - EN: Sure there isnt anyone else?
-  ES: Seguro que no hay nadie mas?  (x1)
+  ES: ¿Seguro que no hay nadie más?  (x1)
+- EN: Sure what is it?
+  ES: Claro, ¿qué pasa?  (x1)
 - EN: Sure.
   ES: Claro  (x1)
 - EN: Surveillance tech
   ES: Tecnología de vigilancia  (x1)
 - EN: Sweet!
-  ES: ¡Qué padre!  (x1)
+  ES: ¡Excelente!  (x1)
 - EN: THANK YOU!
   ES: ¡GRACIAS!  (x1)
+- EN: THAT is your explaination?
+  ES: ¿ESA es tu explicación?  (x1)
 - EN: THAT lying shit?
   ES: ¿ESA mierda de mentiras?  (x1)
 - EN: THE WRITE THING FEATURED ARTICLE
   ES: LO ESCRIBE EL ARTÍCULO DESTACAD  (x1)
+- EN: THIS. This is the problem right here
+  ES: ESTO. Este es el problema.  (x1)
 - EN: THe MAnY
   ES: LOS MUCHOS  (x1)
 - EN: THe MAnY
@@ -9588,18 +9292,26 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Hablamos después.  (x1)
 - EN: Taylor
   ES: taylor  (x1)
+- EN: Taylor Spark Profile Update:\n\n- minor bug fixes\n- improved profile pic\n- charm increased from (3.5) to (4)\n- performance enhanced: funnier jokes\n- will serenade upon request
+  ES: Actualización del perfil de Taylor en Spark:\n\n- Se corrigieron errores menores\n- Foto de perfil mejorada\n- Encanto aumentado de 3,5 a 4\n- Chistes más graciosos\n- Cantará una serenata si se lo piden  (x1)
+- EN: Taylor's idea is the best
+  ES: La idea de Taylor es la mejor.  (x1)
+- EN: Tell her I'll be waiting
+  ES: Dile que lo estaré esperando.  (x1)
 - EN: Tell me Anna. What are you Monday priorities? Movies? Yoga? Happy hour-ing?
   ES: Dime, Anna. ¿Cuáles son tus prioridades del lunes? ¿Películas? ¿Yoga? ¿Happy hour?  (x1)
 - EN: Tell me about the first Spark girl
-  ES: Cuentame de primera chica de Spark  (x1)
+  ES: Cuéntame de la primera chica que conociste en Spark.  (x1)
 - EN: Tell me about your work
   ES: Cuéntame de tu trabajo  (x1)
 - EN: Tell me more about James Aulner
   ES: Cuentame mas sobre James Aulner  (x1)
+- EN: Tell me what is happeneing?
+  ES: ¿Me dices qué está pasando?  (x1)
 - EN: Tell me what you see
   ES: Cuéntame lo que ves  (x1)
 - EN: Tell me what's in her phone and maybe we can figure things out together.
-  ES: Cuentame que tiene en su telefono y quizas podemos resolver esto juntos.  (x1)
+  ES: Cuéntame que tiene en su teléfono y quizás podemos resolver esto juntos.  (x1)
 - EN: Tell me why do you need info on him?
   ES: Dime por qué necesitas información sobre él.  (x1)
 - EN: Tell me, I won't judge.
@@ -9608,8 +9320,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Escríbele a titentech de nuevo y desbloquea mi tarjeta  (x1)
 - EN: Texting her
   ES: Escribiendo  (x1)
-- EN: Thank god I found James' phone
-  ES: Gracias a Dios encontré el telefono de James  (x1)
 - EN: Thank god!
   ES: ¡Gracias a Dios!  (x1)
 - EN: Thank god.
@@ -9654,6 +9364,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso es nuevo para mi  (x1)
 - EN: That is textbook creep move.
   ES: Eso es de manual de acosador.  (x1)
+- EN: That means there might be more stuff on the phone than what you see now 😩
+  ES: Eso significa que puede haber más cosas en el teléfono de las que ves ahora. 😩  (x1)
 - EN: That someone is you, Anna
   ES: Ese alguien eres tu, Anna  (x1)
 - EN: That sounds rosy.
@@ -9664,6 +9376,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso fue emocionante  (x1)
 - EN: That was the last time anyone saw him in person
   ES: Esa fue la última vez que alguien lo vio en persona  (x1)
+- EN: That was your only crime?
+  ES: ¿Ese fue tu único crimen?  (x1)
 - EN: That what you will be called for the rest of your life is forever branded by our parents.
   ES: El nombre con el que te llamaran el resto de tu vida queda marcado para siempre por nuestros padres.  (x1)
 - EN: Thats all I am saying
@@ -9692,20 +9406,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso es duro  (x1)
 - EN: Thats the kind of forward thinking we are looking for
   ES: Eso es el tipo de pensamiento progresivo que buscamos  (x1)
+- EN: Thats the lamest excuse of not giving a number I have ever seen
+  ES: Es la excusa más patética que he oído para no dar tu número.  (x1)
 - EN: Thats the last time I heard from him
   ES: Esa fue la última vez que supe de él  (x1)
+- EN: Thats the stupidest oxymoron if I ever heard one
+  ES: Es el oxímoron más absurdo que he escuchado.  (x1)
 - EN: Thats what my gut is telling me!
   ES: ¡Eso es lo que me dice mi instinto!  (x1)
+- EN: Thats when I met James
+  ES: Fue entonces cuando conocí a James.  (x1)
 - EN: Thats why you meet them
   ES: Por eso te reúnes con ellos  (x1)
 - EN: That’s just rude.
   ES: Eso es simplemente grosero.  (x1)
-- EN: The Canadians are at least trying to\nhonor these people, and the Austra-\nlians painfully scaling back their preju-\ndice. Americans are a long way to go,\nbut, we are at least starting to accept\ntheir identity, their way of life, and\nmost interestingly, some of their phi-\nlosophy. \n\nOne of the most enigmatic facets of\ntheir tribal society is the association\nof totem animal spirits to each\nmember of their large family. Traits\nand characteristics of the animal are\nbelieved to infuse into the connected\nperson, reflected in both physical and\nspiritual qualities. \n\nHave a look through these modern\nanimals, and see if you can spot your\ntotem animal spirits in your personal\nreflection.
-  ES: Los canadienses al menos intentan\nhonrar a esta gente, y los austra-\nlianos reducen con dolor sus prejui-\ncios. A los estadounidenses les falta\nmucho, pero al menos empezamos a aceptar\nsu identidad, su forma de vida y,\nlo mas interesante, parte de su filo-\nsofia.\n\nUna de las facetas mas enigmaticas de\nsu sociedad tribal es la asociacion\nde los espiritus animales totemicos con cada\nmiembro de su gran familia. Se cree\nque los rasgos y caracteristicas del animal\nse infunden en la persona conectada,\nreflejados tanto en cualidades fisicas como\nespirituales.\n\nEcha un vistazo a estos animales\nmodernos, y ve si puedes encontrar tu\nespiritu animal totemico en tu reflejo\npersonal.  (x1)
-- EN: The Chief Executive of The National Sex Felon\nWebsite (NSFW) James Sutton
-  ES: El director ejecutivo del National Sex Felon\nSitio web (NSFW) James Sutto  (x1)
-- EN: The National Sex Felon Website (NSFW)\nis a database that provides the public\nwith access to registered sex offenders.\n\n\nNSFW is a private entity working togeth-\ner with governments and communities to\nprovide a safe environment for our\nfriends and families.\n\n\nConcerned residents can utilize the\nsearch tool to identify information on sex\noffenders residing and working not only\nin their own neighborhoods but in other\ncommunities.
-  ES: El sitio National Sex Felon (NSFW)\nes una base de datos que le da al publico\nacceso a agresores sexuales registrados.\n\n\nNSFW es una entidad privada que trabaja jun-\nto con gobiernos y comunidades para\nproveer un entorno seguro para nuestros\namigos y familias.\n\n\nLos residentes preocupados pueden usar la\nherramienta de busqueda para encontrar informacion sobre agresores\nsexuales que residen y trabajan no solo\nen sus propios barrios sino en otras\ncomunidades.  (x1)
+- EN: The OS version is correct!
+  ES: ¡La versión del sistema operativo es correcta!  (x1)
 - EN: The University of Cunningham.
   ES: La Universidad de Cunningham.  (x1)
 - EN: The answer will be pretty obvious
@@ -9716,10 +9432,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La policía ya está involucrada  (x1)
 - EN: The damage is done.
   ES: El daño ya está hecho  (x1)
+- EN: The data is still here.. I think
+  ES: Creo que los datos todavía están aquí...  (x1)
 - EN: The deal is to help with the backup
   ES: El trato era ayudar con el respaldo  (x1)
 - EN: The girl he cheated on with?
-  ES: La chica con que fue infiel?  (x1)
+  ES: ¿La chica con la que le fue infiel?  (x1)
 - EN: The guy you dumped
   ES: El tipo que dejaste  (x1)
 - EN: The hardest part is getting the glitter OFF
@@ -9729,15 +9447,19 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: The last security question for Jabbr
   ES: La última pregunta de seguridad de Jabbr  (x1)
 - EN: The only evil here is YOU
-  ES: El unico mal aqui eres TU  (x1)
+  ES: ¡El único malvado aquí eres TÚ!  (x1)
 - EN: The only one screwing around is you
   ES: El único que está cagando eres tú  (x1)
+- EN: The only reason I am trusting you is because you are holding the phone
+  ES: La única razón por la que confío en ti es que tienes el teléfono.  (x1)
 - EN: The only ride hailing service.
   ES: El único servicio de transporte con conductor.  (x1)
+- EN: The phone crashed again
+  ES: El teléfono volvió a bloquearse.  (x1)
 - EN: The phone didnt reset!
   ES: ¡El teléfono no se reinició!  (x1)
 - EN: The phone is going to reset itself
-  ES: El telefono se va a reiniciar solo  (x1)
+  ES: El teléfono se va a reiniciar solo  (x1)
 - EN: The phone was left on my doorstep
   ES: El teléfono fue dejado en mi puerta  (x1)
 - EN: The phone's data was almost deleted when he checked her laptop
@@ -9752,6 +9474,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La situación sigue en desarrollo  (x1)
 - EN: The wait is killing me!
   ES: ¡La espera me está matando!  (x1)
+- EN: The world is bigger than my silly guy troubles
+  ES: El mundo es más grande que mis tontos problemas amorosos.  (x1)
 - EN: Then I heard a strange noise coming from it.
   ES: Luego escuché un ruido extraño saliendo de él.  (x1)
 - EN: Then bust him from there
@@ -9760,26 +9484,32 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Entonces vete al diablo  (x1)
 - EN: Then let me come over
   ES: Entonces déjame ir a verte  (x1)
+- EN: Then one day he just vanished
+  ES: Y un día simplemente desapareció.  (x1)
 - EN: Then why are you avoiding me
   ES: Entonces por qué me estás evitando  (x1)
 - EN: Then why can't you finish it
   ES: Entonces porque no terminas?  (x1)
+- EN: Then why isnt she answering
+  ES: Entonces, ¿por qué no responde?  (x1)
 - EN: Then why would he?
   ES: Entonces ¿por qué lo haría?  (x1)
 - EN: There are 3
   ES: Hay 3  (x1)
+- EN: There are so many posts
+  ES: Hay muchísimas publicaciones.  (x1)
 - EN: There are some phone data backed up.
   ES: Hay datos del teléfono respaldados.  (x1)
-- EN: There is a gender pattern. Girl > Guy >\nGirl > Guy and so on
-  ES: Hay un patron de genero. Chica > Chico > Chica > Chico y asi  (x1)
-- EN: There is a gender pattern. Girl > Guy >\nGirl > Guy and so on
-  ES: Hay un patrón de género. Chica > Chico >\nChica > Chico y a  (x1)
+- EN: There are two sides to me
+  ES: Tengo dos facetas.  (x1)
 - EN: There is a smarter way to do this
   ES: Hay una forma más inteligente de hacer esto  (x1)
 - EN: There is this guy ok?
   ES: Hay este chico, ¿ok?  (x1)
+- EN: There was a photoshoot that ended at 2am
+  ES: Hubo una sesión de fotos que terminó a las dos de la madrugada.  (x1)
 - EN: There were plenty of episodes where he will dress up like a girl to lure his enemies into traps
-  ES: Habia un monton de episodios donde se vestia de chica para atraer a sus enemigos a trampas  (x1)
+  ES: Había un monton de episodios donde se vestia de chica para atraer a sus enemigos a trampas  (x1)
 - EN: There's this personality test...
   ES: Hay este test de personalidad...  (x1)
 - EN: They also know about your break in
@@ -9802,12 +9532,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Esto confirma mi teoria!  (x1)
 - EN: This entire email is in the subject line, and it’s all in caps!
   ES: ¡Todo este correo electrónico está en la línea de asunto y está todo en mayúsculas!  (x1)
-- EN: This information is made available for the purpose of\ncomplying with 89382 section 33221, which requires\nthe Department of Public Safety to establish and\nmaintain a registry of persons who are required to reg-\nister as sex offenders and to post electronically infor-\nmation on sex offenders. The registry is based on the\nlegislature's decision to facilitate access to publicly\navailable information about persons convicted of\nsexual offenses.
-  ES: Esta informacion se pone a disposicion con el proposito de\ncumplir con 89382 seccion 33221, que exige\nque el Departamento de Seguridad Publica establezca y\nmantenga un registro de las personas que deben regis-\ntrarse como agresores sexuales y publicar electronicamente infor-\nmacion sobre agresores sexuales. El registro se basa en la\ndecision de la legislatura de facilitar el acceso a informacion\nde dominio publico sobre personas condenadas por\ndelitos sexuales.  (x1)
 - EN: This is @keepingitcassie.
   ES: Este es @keepingitcassie.  (x1)
+- EN: This is Detective Murilo from the Police Department.
+  ES: Habla el detective Murilo, Departamento de Policía.  (x1)
 - EN: This is Detective Murilo from the police department, again.
   ES: Este es el detective Murilo del departamento de policía, de nuevo.  (x1)
+- EN: This is Detective Murilo from the police department.
+  ES: Detective Murilo, departamento de policía.  (x1)
 - EN: This is a case of corporate espionage and we have reason to believe that a man named Greg Summers is behind it.
   ES: Este es un caso de espionaje corporativo y tenemos razones para creer que un hombre llamado Greg Summers está detrás de esto.  (x1)
 - EN: This is a clear invasion of privacy
@@ -9827,7 +9559,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: This is good
   ES: Esto es bueno  (x1)
 - EN: This is just an informal chat so just losen up and save it for the big interview later eh?
-  ES: Esto es solo charla informal asi que relajate y guardalo para entrevista mas adelante, eh?  (x1)
+  ES: Es solo una charla informal, así que relájate y guarda los nervios para la entrevista importante de más tarde, ¿sí?  (x1)
 - EN: This is necessary
   ES: Esto es necesario  (x1)
 - EN: This is news becasue?
@@ -9850,10 +9582,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Esto es serio, ok.  (x1)
 - EN: This is so wrong..
   ES: Esto está muy mal..  (x1)
-- EN: This is still developing so I don’t have too much\ninfo about him. Here’s what I can dig up. He is\n25 and works as a copywriter. Although he is\ntechnically missing, he is somehow still active\non Jabbr, so no one filed a report yet. But it\ndidn't stop there. His phone was found in\nsomeone’s backyard and handed to the police\nas evidence. Now this is where it gets weird. I\nknow a guy who knows a guy who’s gone\nthrough his phone. They found a “weird video”\nof him with huge chunks of data missing. I am\nstill trying to get a hold of it.\n\nSomething strange is going on and we can't\ncount on the police the government, and the\nmedia for this. It is up to US. For the true be-\nlievers, here are my deductions; All the victims\nhave something in common:
-  ES: Esto sigue en desarrollo, asi que no tengo mucha\ninfo sobre el. Esto es lo que pude averiguar. Tiene\n25 anos y trabaja como redactor. Aunque esta\ntecnicamente desaparecido, de algun modo sigue activo\nen Jabbr, asi que nadie ha presentado un reporte todavia. Pero no\nse detuvo ahi. Su telefono aparecio en\nel patio de alguien y se lo entregaron a la policia\ncomo evidencia. Y aqui es donde se pone raro.\nConozco a un tipo que conoce a un tipo que\nreviso su telefono. Encontraron un “video raro”\nsuyo con enormes trozos de datos faltantes. Todavia\nestoy tratando de conseguirlo.\n\nAlgo extrano esta pasando y no podemos\nconfiar en la policia, el gobierno ni los\nmedios para esto. Depende de NOSOTROS. Para los verda-\nderos creyentes, estas son mis deducciones; Todas las victimas\ntienen algo en comun:  (x1)
 - EN: This is supposed to be therapeutic.
   ES: Se supone que esto es terapéutico.  (x1)
+- EN: This is the only path I haven't tried
+  ES: Este es el único camino que no he intentado.  (x1)
 - EN: This is the second time I lost my shit this week
   ES: Esta es la segunda vez que pierdo los estribos esta semana  (x1)
 - EN: This is the security company you have to text
@@ -9871,13 +9603,15 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: This isn't like you.
   ES: Esto no es como tú.  (x1)
 - EN: This must be an elaborate prank or something.
-  ES: Esto debe ser una broma elaborada o algo asi.  (x1)
+  ES: Esto debe ser una broma elaborada o algo así.  (x1)
 - EN: This service is complimentary for 1 year from this date.
   ES: Este servicio es gratuito por 1 año a partir de esta fecha  (x1)
 - EN: This service is complimentary for 1 year from this date.
   ES: Este servicio es gratuito durante 1 año a partir de esta fecha.  (x1)
 - EN: This shit is punishing enough for me so I don't need your crap as well
   ES: Esta mierda ya me está castigando bastante, así que no necesito también tu mierda  (x1)
+- EN: This sounds SERIOUSLY EFFED UP
+  ES: Esto suena TERRIBLEMENTE MAL.  (x1)
 - EN: This video you claim to see, You sure that's Anna?
   ES: Este video que dices que ves, ¿estás seguro de que es Anna?  (x1)
 - EN: This world is not run by silly mantras or your "sense of purpose"
@@ -9896,12 +9630,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Para superarlo  (x1)
 - EN: To turn it off I need to answer some security questions
   ES: Para desactivarlo necesito responder algunas preguntas de seguridad  (x1)
+- EN: Toby is the only lover I need
+  ES: Toby es mi único amor  (x1)
 - EN: Toby's face after I decide to go for fresh fish
   ES: La cara de Toby después de que decido ir por pescado fresco  (x1)
 - EN: Toby. Must be someone special.
   ES: Toby. Debe ser alguien especial.  (x1)
 - EN: Today is gonna be a good day\n\n*spills coffee on dress\n*changes into better looking outfit\n\nToday is gonna be a good day
-  ES: Hoy va a ser un buen dia\n\n*derrama cafe en el vestido\n*se cambia a un atuendo mas lindo\n\nHoy va a ser un buen dia  (x1)
+  ES: Hoy va a ser un buen día\n\n*derrama cafe en el vestido\n*se cambia a un atuendo más lindo\n\nHoy va a ser un buen día  (x1)
 - EN: Tone down the creep factor
   ES: Baja el factor de acosador  (x1)
 - EN: Too bad they're not nudes
@@ -9928,8 +9664,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Prueba  (x1)
 - EN: Try to get some rest ok?
   ES: Intenta descansar un poco, ¿sí?  (x1)
+- EN: Try to match with "James"
+  ES: Intenta conseguir una coincidencia con «James».  (x1)
 - EN: Trying to destroy evidence?
   ES: ¿Intentando destruir pruebas?  (x1)
+- EN: Two days in a row! The barista spelt my name as "Kassie"
+  ES: ¡Dos días seguidos! El barista escribió mi nombre como «Kassie».  (x1)
 - EN: Two wrong make a right man
   ES: Dos errores no hacen un acierto  (x1)
 - EN: Typical
@@ -9961,11 +9701,13 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Um.. debatable
   ES: Um.. debatible  (x1)
 - EN: Under the weather??
-  ES: Se siente mal?  (x1)
+  ES: ¿Se siente mal?  (x1)
 - EN: Ungrateful
   ES: Desagradecido  (x1)
+- EN: Unlike you. I actually found something useful
+  ES: A diferencia de ti, yo sí encontré algo útil.  (x1)
 - EN: Unrelated trivia. Do you know that the most expensive pokemon card is the Charizard? Which is evolved from a Charmander
-  ES: Dato curioso sin relacion. Sabias que la carta de pokemon mas cara es el Charizard? Que evoluciona de un Charmander  (x1)
+  ES: Dato curioso sin relación. Sabias que la carta de pokemon más cara es el Charizard? Que evoluciona de un Charmander  (x1)
 - EN: Until death do us apart.
   ES: Hasta que la muerte nos separe.  (x1)
 - EN: Until he got Spark
@@ -9976,10 +9718,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Usa mi verdadero  (x1)
 - EN: Use that email against him
   ES: Usa ese correo en su contra  (x1)
-- EN: Use your TOUCHME Fingerprint Login\nfor a secure connection.
-  ES: Utilice su inicio de sesión con huella digital TOUCHME para una conexión segura.  (x1)
-- EN: Use your TOUCHME Fingerprint Login\nfor a secure connection.
-  ES: Usa tu INICIO DE SESIÓN POR HUELLA DIGITAL TOUCHME para una conexión segura.  (x1)
 - EN: Useless
   ES: Inútil  (x1)
 - EN: Vet 😺
@@ -10006,10 +9744,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Muy por delante de ti, amigo.  (x1)
 - EN: We agreed to keep it casual right ? I hope you’re not mad or anything..
   ES: Acordamos mantenerlo informal, ¿verdad? Espero que no estés enojado ni nada..  (x1)
-- EN: We are constantly looking for talented individ-\nuals to join our ever-growing organization.
-  ES: Buscamos constantemente personas con talento para unirse a nuestra organización en constante crecimiento.  (x1)
-- EN: We are constantly looking for talented individ-\nuals to join our ever-growing organization.
-  ES: Constantemente buscamos individuos talentosos para unirse a nuestra organización en crecimiento.  (x1)
+- EN: We also have reason to believe that you working with an accomplice named Greg Summers, conspiring to keep Anna’s disappearance a secret.
+  ES: También tenemos motivos para creer que trabajas con un cómplice llamado Greg Summers para encubrir la desaparición de Anna.  (x1)
+- EN: We are always excited what phresh faces can bring in 😄
+  ES: Siempre nos entusiasma ver qué aportan las caras nuevas a Phresh Ideas. 😄  (x1)
 - EN: We are so close!
   ES: ¡Estamos tan cerca!  (x1)
 - EN: We are wasting time here
@@ -10055,9 +9793,9 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: We have to let our previous one go quite suddenly
   ES: Tuvimos que dejar ir al anterior bastante de repente  (x1)
 - EN: We need as much info to find Anna
-  ES: Necesitamos toda la informacion posible para encontrar a Anna  (x1)
+  ES: Necesitamos toda la información posible para encontrar a Anna  (x1)
 - EN: We need to know who is Anna close with at work
-  ES: Necesitamos saber con quien Anna es cercana en  (x1)
+  ES: Tenemos que averiguar con quién se lleva Anna en el trabajo.  (x1)
 - EN: We need to let this go
   ES: Necesitamos dejar esto  (x1)
 - EN: We need to stand up against injustice like this. I am glad that action has been taken
@@ -10076,10 +9814,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estábamos todos en punto hasta que llegó el meollo-de-mierda  (x1)
 - EN: We were on the phone for hours and I only said like two words.
   ES: Estuvimos hablando por teléfono durante horas y sólo dije como dos palabras.  (x1)
-- EN: We will send you an email shortly, please \nensure that your email is correct to receive our\ninvite.
-  ES: Te enviaremos un correo pronto, por favor\nasegúrate de que tu correo sea correcto para recibir nuestra\ninvitación.  (x1)
-- EN: We will send you an email shortly, please \nensure that your email is correct to receive our\ninvite.
-  ES: Le enviaremos un correo electrónico en breve, por favor asegúrese de que su correo electrónico sea correcto para recibir nuestra invitación.  (x1)
 - EN: We wont have much leverage.. 🤔
   ES: No tenemos mucho que usar... 🤔  (x1)
 - EN: We work with what we have. Im restoring from her laptop first
@@ -10104,8 +9838,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Raro, ¿por qué haría eso?  (x1)
 - EN: Weirder than usual
   ES: Más raro de lo habitual  (x1)
-- EN: Welcome to Chats, your default messaging app. Powered by Iris OS
-  ES: Bienvenido a Chats, tu aplicación de mensajería predeterminada  (x1)
+- EN: Well I am in her apartment and he is not
+  ES: Bueno, yo estoy en su apartamento y él no.  (x1)
 - EN: Well mine was a birthday suit
   ES: Bueno, el mío fue un traje de cumpleaños  (x1)
 - EN: Well not at first
@@ -10132,6 +9866,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Qué  (x1)
 - EN: What Totem Animal Spirit\nAre You?
   ES: ¿Qué espíritu animal totémico\neres?  (x1)
+- EN: What Totem Animal Spirit Are You?
+  ES: ¿Cuál es tu espíritu animal tótem?  (x1)
 - EN: What a playa! She's like a Jabbr celeb!
   ES: Que galan! Es como celebridad de Jabbr!  (x1)
 - EN: What about Anna's place?
@@ -10150,20 +9886,34 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué haces despierto tan temprano?  (x1)
 - EN: What are you hiding...
   ES: Qué estás escondiendo...  (x1)
+- EN: What are you looking for then?
+  ES: Entonces, ¿qué estás buscando?  (x1)
+- EN: What are you saying?
+  ES: ¿Qué estás diciendo?  (x1)
 - EN: What are you talking about
   ES: ¿De qué estás hablando?  (x1)
 - EN: What can I do for you officer?
   ES: ¿Qué puedo hacer por usted, oficial?  (x1)
+- EN: What changed?
+  ES: ¿Qué cambió?  (x1)
 - EN: What did you hear?
   ES: ¿Qué escuchaste?  (x1)
 - EN: What did you make me do??
   ES: ¿¡Qué me hiciste hacer!?  (x1)
 - EN: What do you do
   ES: ¿A qué te dedicas?  (x1)
+- EN: What do you doubt?
+  ES: ¿De qué dudas?  (x1)
 - EN: What do you mean?
   ES: ¿Qué quieres decir?  (x1)
+- EN: What does that have to do with anything.
+  ES: ¿Y eso qué tiene que ver?  (x1)
 - EN: What does that mean?
   ES: ¿Qué significa eso?  (x1)
+- EN: What else can you read
+  ES: ¿Qué más puedes leer?  (x1)
+- EN: What else you got?
+  ES: ¿Qué más tienes?  (x1)
 - EN: What happens now?
   ES: ¿Qué pasa ahora?  (x1)
 - EN: What if Greg killed Anna.
@@ -10171,39 +9921,61 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: What if I just went on, living a lie.
   ES: ¿Qué pasaría si siguiera viviendo una mentira?  (x1)
 - EN: What if I post your emails all over Jabbr?
-  ES: Que si publico tus correos por todo Jabbr?  (x1)
+  ES: ¿Y si publico tus correos por todo Jabbr?  (x1)
+- EN: What if we catch this imposter (aka "James") in the act?
+  ES: ¿Y si atrapamos al impostor (el supuesto «James») con las manos en la masa?  (x1)
 - EN: What is Anna's favorite movie?
   ES: ¿Cuál es la película favorita de Anna?  (x1)
 - EN: What is she doing?
-  ES: Que esta haciendo?  (x1)
+  ES: ¿Qué esta haciendo?  (x1)
+- EN: What is the worst that would happen
+  ES: ¿Qué sería lo peor que podría pasar?  (x1)
 - EN: What kind of deal?
-  ES: Que tipo de trato?  (x1)
+  ES: ¿Qué tipo de trato?  (x1)
 - EN: What kind of nutcase will joke about someone going missing?
-  ES: Que clase de loco bromea con alguien que esta desaparecido?  (x1)
+  ES: ¿Qué clase de loco bromea con alguien que esta desaparecido?  (x1)
 - EN: What kind of person Greg is?
   ES: ¿Qué clase de persona es Greg?  (x1)
 - EN: What luck!
   ES: ¡Qué suerte!  (x1)
+- EN: What makes you say that?
+  ES: ¿Qué te hace decir eso?  (x1)
+- EN: What makes you think I want to?
+  ES: ¿Qué te hace pensar que quiero?  (x1)
 - EN: What other emails did ya find?
-  ES: Que otros correos encontraste?  (x1)
+  ES: ¿Qué otros correos encontraste?  (x1)
 - EN: What the hell
   ES: Qué demonios  (x1)
 - EN: What the hell did you do to Anna?
   ES: ¿Qué diablos le hiciste a Anna?  (x1)
+- EN: What the? who is this?
+  ES: ¿Qué...? ¿Quién es?  (x1)
 - EN: What we need
   ES: Lo que necesitamos  (x1)
+- EN: What you are doing is DISGUSTING
+  ES: Lo que estás haciendo es REPUGNANTE.  (x1)
+- EN: What you want?
+  ES: ¿Qué quieres?  (x1)
 - EN: What's happening?!
   ES: Que esta pasando?!  (x1)
 - EN: What's happening?!
   ES: ¡¿Qué está pasando?!  (x1)
 - EN: What's on your mind, babe?
   ES: ¿Qué estás pensando, nena?  (x1)
+- EN: What's up with you?
+  ES: ¿Qué onda contigo?  (x1)
+- EN: What's with all these acusations?
+  ES: ¿A qué vienen tantas acusaciones?  (x1)
+- EN: What's your type?
+  ES: ¿Cuál es tu tipo?  (x1)
 - EN: What, and you can?
   ES: ¿Qué, y tú sí puedes?  (x1)
 - EN: What?! 😱😱😱😱
   ES: Que?! 😱😱😱😱  (x1)
 - EN: Whatever happened to that kid. I think he needs help
   ES: Lo que sea que le pasó a ese chico. Creo que necesita ayuda  (x1)
+- EN: Whatever thats happening right now is spooky af
+  ES: Todo lo que está pasando es aterrador de narices.  (x1)
 - EN: Whatever this is
   ES: Lo que sea que esto sea  (x1)
 - EN: Whatever you say, Greg.
@@ -10212,6 +9984,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Lo que tú digas..  (x1)
 - EN: Whats is weirder is that after he dissapeared we found his phone on his desk
   ES: Lo más raro es que después de desaparecer encontramos su teléfono en su escritorio  (x1)
+- EN: Whats taking so long?
+  ES: ¿Por qué se demora tanto?  (x1)
+- EN: Whats up with you?
+  ES: ¿Qué onda contigo?  (x1)
 - EN: When people say everything is fine
   ES: Cuando la gente dice que todo está bien  (x1)
 - EN: When she finally remembered her password she logged back in
@@ -10226,6 +10002,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Dónde estás ahora?  (x1)
 - EN: Where can I find Anna?
   ES: ¿Dónde puedo encontrar a Anna?  (x1)
+- EN: Where did you get it?
+  ES: ¿De dónde lo sacaste?  (x1)
 - EN: Where did you get your charming personality?
   ES: ¿De dónde sacaste tu encantadora personalidad?  (x1)
 - EN: Where did you last put it?
@@ -10234,6 +10012,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿De dónde salió eso?  (x1)
 - EN: Where?
   ES: Donde?  (x1)
+- EN: Whhyyyyyyyyyy? 😩😩😩
+  ES: ¿¡Por quéeeeeee!? 😩😩😩  (x1)
 - EN: While I'm waiting for the reset..
   ES: Mientras espero el reinicio..  (x1)
 - EN: Whitebread?
@@ -10274,16 +10054,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Quienquiera que seas. Necesito tu ayuda.  (x1)
 - EN: Wht else is new
   ES: Qué más hay de nuevo  (x1)
+- EN: Why are some of the best english words made up of four letters?
+  ES: ¿Por qué algunas de las mejores palabras en inglés tienen cuatro letras?  (x1)
 - EN: Why are u holding her phone then?
   ES: ¿Entonces por qué tienes su teléfono?  (x1)
 - EN: Why are you being a buzzkill?
   ES: ¿por qué estás siendo tan aguafiestas?  (x1)
 - EN: Why are you bringing this up?
-  ES: Por que sacas esto a relucir?  (x1)
+  ES: ¿Por qué sacas esto a relucir?  (x1)
 - EN: Why are you so defensive?
   ES: ¿por qué estás tan a la defensiva?  (x1)
 - EN: Why are you so intrusive?
   ES: ¿por qué eres tan intruso?  (x1)
+- EN: Why are you still talking?
+  ES: ¿Por qué sigues hablando?  (x1)
+- EN: Why aren't you answering your phone
+  ES: ¿Por qué no contestas tu teléfono?  (x1)
 - EN: Why cant you do it yourself?
   ES: ¿por qué no puedes hacerlo tú mismo?  (x1)
 - EN: Why did she block you from her apartment
@@ -10315,7 +10101,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Why should I listen to you
   ES: porque deberia escucharte?  (x1)
 - EN: Why stick around?
-  ES: porque te quedas?  (x1)
+  ES: ¿Y por qué te quedas?  (x1)
 - EN: Why the change of heart?
   ES: ¿por qué el cambio de opinión?  (x1)
 - EN: Why the change of heart?
@@ -10328,8 +10114,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿por qué el repentino interés en mí?  (x1)
 - EN: Why waste my time
   ES: ¿por qué gastar mi tiempo?  (x1)
+- EN: Why would he do that?
+  ES: ¿Por qué haría eso?  (x1)
 - EN: Why would she date someone like him?
-  ES: Por que saldria con alguien como el?  (x1)
+  ES: ¿Por qué saldría con alguien como él?  (x1)
 - EN: Why'd you leave?
   ES: ¿por qué te fuiste?  (x1)
 - EN: Will be texting you soon!
@@ -10409,7 +10197,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Yeah fuck I slipped up
   ES: Sí, mierda, la regué  (x1)
 - EN: Yeah it slipped my mind
-  ES: Sí, se me olvidó  (x1)
+  ES: Sí, se me pasó por completo.  (x1)
 - EN: Yeah yeah get the phone backup right?
   ES: Sí sí, ¿conseguir el respaldo del teléfono, verdad?  (x1)
 - EN: Yeah you made one for me
@@ -10418,6 +10206,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sí. Él lo hizo  (x1)
 - EN: Yeah.. somewhat..
   ES: Sí.. algo así..  (x1)
+- EN: Yes but I have to store the soaps and shampoos if I sing there
+  ES: Sí, pero si canto ahí tendré que guardar los jabones y el champú.  (x1)
 - EN: Yes i did
   ES: Sí, lo hice  (x1)
 - EN: Yes it is
@@ -10430,6 +10220,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sí. No te tengo nada de lástima.  (x1)
 - EN: Yikes
   ES: Uy  (x1)
+- EN: Yo yo yo
+  ES: Ey, ey, ey  (x1)
 - EN: YoU LIiIIIEEE
   ES: Tu liiiiiiiii  (x1)
 - EN: Yolanda just called me!
@@ -10458,18 +10250,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tú también eres un desconocido  (x1)
 - EN: You are always busy
   ES: Siempre estás ocupado  (x1)
+- EN: You are going to be the next victim!
+  ES: ¡Tú serás la próxima víctima!  (x1)
 - EN: You are hopeless
   ES: No tienes remedio  (x1)
 - EN: You are in the phone?
   ES: ¿Estás en el teléfono?  (x1)
 - EN: You are my best shot at this
   ES: Tu eres mi mejor oportunidad  (x1)
+- EN: You are naively optimistic
+  ES: Eres ingenuamente optimista.  (x1)
 - EN: You are not Anna!
   ES: ¡Tú no eres Anna!  (x1)
-- EN: You are not making this easy
-  ES: No estas haciendo esto facil  (x1)
-- EN: You are not making this easy
-  ES: Tienes que darme más que es  (x1)
 - EN: You are right
   ES: Tienes razón  (x1)
 - EN: You are right.
@@ -10482,30 +10274,32 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eres verbalmente abusivo  (x1)
 - EN: You are?!
   ES: ¿Lo estás?  (x1)
+- EN: You better not be lying
+  ES: Más te vale no estar mintiendo.  (x1)
 - EN: You better not be lying!!
   ES: ¡¡Mejor no estés mintiendo!!  (x1)
 - EN: You can always lie about it
   ES: Siempre puedes mentir al respecto  (x1)
-- EN: You can find out more about the NSFW\nRegistry in the link here.
-  ES: Puede obtener más información sobre el Registro NSFW en el enlace aquí.  (x1)
-- EN: You can find out more about the NSFW\nRegistry in the link here.
-  ES: Puedes hallar más información sobre el Registro NSFW en el enlace de aquí.  (x1)
 - EN: You can put it in any order but we only got 3 strikes
   ES: Puedes ponerlas en cualquier orden pero solo tenemos 3 intentos  (x1)
 - EN: You can technically call me a "criminal"
   ES: Técnicamente puedes llamarme 'criminal'  (x1)
 - EN: You can't ignore me forever Anna
-  ES: No puedes ignorarme para siempre  (x1)
+  ES: No puedes ignorarme para siempre, Anna.  (x1)
 - EN: You can’t tell anyone that I told u!
   ES: No le puedes decir a nadie que te lo conté.  (x1)
 - EN: You caused quite a scene
   ES: Causaste bastante escándalo  (x1)
+- EN: You could've asked me first
+  ES: Podrías habérmelo preguntado primero.  (x1)
 - EN: You could've fucking told me.
   ES: Podrías haberme dicho, puta.  (x1)
 - EN: You did it buddy!
   ES: Lo lograste, amigo.  (x1)
 - EN: You did.
   ES: Lo hiciste.  (x1)
+- EN: You didnt find anything did you?
+  ES: No encontraste nada, ¿verdad?  (x1)
 - EN: You disagree?
   ES: ¿No estás de acuerdo?  (x1)
 - EN: You do?
@@ -10530,6 +10324,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Llegaste hasta aquí!  (x1)
 - EN: You gotta get me out of here!!
   ES: ¡¡Tienes que sacarme de aquí!!  (x1)
+- EN: You gotta ooze confidence all the time
+  ES: Siempre tienes que transmitir seguridad.  (x1)
 - EN: You guys done fighting?
   ES: ¿Ya terminaron de pelear?  (x1)
 - EN: You had her phone
@@ -10546,6 +10342,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tienes jodidos problemas de confianza  (x1)
 - EN: You have much to witness.
   ES: Tienes mucho que presenciar.  (x1)
+- EN: You have that already so why are you so desperate to throw it away?
+  ES: Ya tienes eso. ¿Por qué tienes tantas ganas de deshacerte de ello?  (x1)
 - EN: You have to contact HQ for that matter
   ES: Tienes que contactar a oficina central  (x1)
 - EN: You have your dirt now
@@ -10563,11 +10361,15 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: You know I can get get sued for sharing company secrets right?
   ES: ¿Sabes que me pueden demandar por compartir secretos de la empresa, verdad?  (x1)
 - EN: You know I do this becasue I love you right?
-  ES: Sabes que hago esto porque te quiero verdad?  (x1)
+  ES: Sabes que hago esto porque te quiero, ¿verdad?  (x1)
+- EN: You know I have nothing to do with Anna disappearing right?
+  ES: Sabes que no tuve nada que ver con la desaparición de Anna, ¿verdad?  (x1)
 - EN: You know anyone name Toby?
   ES: ¿Conoces a alguien llamado Toby?  (x1)
 - EN: You know i read somewhere that psycopaths try their best to fit in?
   ES: Sabes, leí en algún lado que los psicópatas intentan encajar lo más posible  (x1)
+- EN: You know its ILLEGAL to impersonate a cop, right? 😠
+  ES: Sabes que hacerse pasar por policía es ILEGAL, ¿verdad? 😠  (x1)
 - EN: You know the report you handed to me last week?
   ES: ¿Recuerdas el reporte que me entregaste la semana pasada?  (x1)
 - EN: You know what i mean?
@@ -10579,13 +10381,17 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: You know you're old when you relate to the parents in kids movies
   ES: Sabes que eres viejo cuando te identificas con los padres en las películas infantiles  (x1)
 - EN: You know, like in TV, where guys pretend to be children online to catch pedos?
-  ES: Sabes, como en la TV, donde los chicos se hacen pasar por niños en línea para atrapar pedófilos?  (x1)
+  ES: ¿Sabes, como en la TV, donde los chicos se hacen pasar por niños en línea para atrapar pedófilos?  (x1)
 - EN: You let me drive your car
   ES: Me dejas manejar tu carro  (x1)
 - EN: You like to travel right? Your name should be WANDER Woman.
   ES: Te gusta viajar, ¿verdad? Tu nombre debería ser WANDER Woman.  (x1)
+- EN: You manage to talk to any close friend of Anna's?
+  ES: ¿Pudiste hablar con alguna amiga cercana de Anna?  (x1)
 - EN: You mentioned Greg heard a weird noise too right?
   ES: Mencionaste que Greg también escuchó un ruido, ¿verdad?  (x1)
+- EN: You mentioned that the phone was backed up?
+  ES: ¿Mencionaste que había una copia de seguridad del teléfono?  (x1)
 - EN: You missed out
   ES: Te lo perdiste  (x1)
 - EN: You monster
@@ -10596,6 +10402,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Necesito que me hagas un favor  (x1)
 - EN: You need to explain it NOW
   ES: Necesitas explicarlo AHORA  (x1)
+- EN: You never Jabbr stalked anyone before?
+  ES: ¿Nunca has investigado a alguien en Jabbr?  (x1)
 - EN: You play games?
   ES: ¿Juegas videojuegos?  (x1)
 - EN: You remember him right?
@@ -10615,31 +10423,41 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: You stalking me?
   ES: ¿Me estás acosando?  (x1)
 - EN: You still see me as a criminal don't you? Despite all my efforts of finding her, you accused me of having something to do with her disappearance. Is that all I am to you? A criminal?!
-  ES: Todavia me ves como un criminal, no? A pesar de todos mis esfuerzos por encontrarla, me acusaste de tener algo que ver con su desaparicion. Eso es todo lo que soy para ti? Un criminal?!  (x1)
+  ES: Todavía me ves como un criminal, no? A pesar de todos mis esfuerzos por encontrarla, me acusaste de tener algo que ver con su desaparicion. Eso es todo lo que soy para ti? Un criminal?!  (x1)
+- EN: You still with your boyfriend?
+  ES: ¿Sigues con tu novio?  (x1)
+- EN: You sure Greg didnt let anything slide?
+  ES: ¿Seguro que Greg no dejó escapar ninguna pista?  (x1)
 - EN: You sure I can use this?
   ES: ¿Seguro que puedo usar esto?  (x1)
 - EN: You sure can give a girl some perspective
   ES: Seguro que puedes darle perspectiva a una chica  (x1)
 - EN: You swing both ways?
-  ES: Vas por ambos lados?  (x1)
+  ES: ¿Te gustan tanto los hombres como las mujeres?  (x1)
+- EN: You think I love what I do?
+  ES: ¿Crees que amo lo que hago?  (x1)
 - EN: You think I should just quit?
   ES: ¿Crees que debería simplemente renunciar?  (x1)
 - EN: You think anyone loves what they do?
   ES: ¿Crees que alguien ama lo que hace?  (x1)
 - EN: You think it'll work?
-  ES: Crees que funcionara?  (x1)
+  ES: ¿Crees que funcionara?  (x1)
 - EN: You think maybe she has moved on?
-  ES: Crees que quizas supero relacion?  (x1)
+  ES: ¿Crees que quizá ya lo superó?  (x1)
 - EN: You told me that she is missing and you have her phone
   ES: Me dijiste que está desaparecida y que tienes su teléfono  (x1)
 - EN: You tried calling?
   ES: Intentaste llamar?  (x1)
 - EN: You want dirt on him or something?
-  ES: ¿Quieres información sucia de él o algo?  (x1)
+  ES: ¿Buscas algo comprometedor sobre él o qué?  (x1)
+- EN: You want me to read?
+  ES: ¿Quieres que lo lea?  (x1)
+- EN: You want me to stalk her?
+  ES: ¿Quieres que la espíe?  (x1)
 - EN: You want to do this right now!??@
   ES: ¿¿Quieres hacer esto ahora?!?!@  (x1)
 - EN: You what?!
-  ES: ¿Que tú qué?!  (x1)
+  ES: ¿Qué tú qué?!  (x1)
 - EN: You will regret this day.
   ES: Te vas a arrepentir de este día.  (x1)
 - EN: You wont know it till you tried it
@@ -10666,6 +10484,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estás enojada  (x1)
 - EN: You're not her new fling or anything are you?
   ES: No eres su nuevo ligue ni nada, ¿verdad?  (x1)
+- EN: You're not some 50yr old dude or something right?
+  ES: No eres un tipo de 50 años ni nada por el estilo, ¿verdad?  (x1)
 - EN: You're not the only girl here you know?
   ES: No eres la única chica aquí, ¿sabes?  (x1)
 - EN: You're right
@@ -10674,6 +10494,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tienes razon 😄  (x1)
 - EN: You're right. Im sorry
   ES: Tienes razón. Lo siento  (x1)
+- EN: You're the real reason I broke off with Greg
+  ES: Tú eres la verdadera razón por la que terminé con Greg.  (x1)
+- EN: You're too obsessed with Greg
+  ES: Estás demasiado obsesionado con Greg.  (x1)
 - EN: You've been in the news lately?
   ES: ¿Has salido en las noticias últimamente?  (x1)
 - EN: You've been sounding real strange lately
@@ -10684,10 +10508,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Nunca lo adivinarás  (x1)
 - EN: Your Spark date.
   ES: Tu cita de Spark.  (x1)
+- EN: Your flirting methods deserve to be published
+  ES: Tus técnicas de coqueteo merecen publicarse.  (x1)
+- EN: Your info can might save a life
+  ES: Tu información podría salvar una vida.  (x1)
 - EN: Your job. You hate it right?
   ES: Tu trabajo. Lo odias verdad?  (x1)
+- EN: Your jokes are terrible
+  ES: Tus chistes son terribles.  (x1)
 - EN: Your name kind of sucks
   ES: Tu nombre es una mierda  (x1)
+- EN: Your number maybe?
+  ES: ¿Tu número quizás?  (x1)
 - EN: Your order has been shipped! (#19913-21-121-3181)
   ES: ¡Tu pedido ha sido enviado! (#19913-21-121-3181)  (x1)
 - EN: Your path, is coming to an end.
@@ -10713,21 +10545,29 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: You’re a funny guy, Taylor.
   ES: Eres un tipo gracioso, Taylor.  (x1)
 - EN: You’re kidding me Anna.
-  ES: Me estás vacilando Anna.  (x1)
+  ES: No me digas, Anna.  (x1)
+- EN: You’re not letting things go, are you?
+  ES: No puedes dejarlo pasar, ¿verdad?  (x1)
 - EN: You… you wanna go home? Or you wanna get coffee first?
   ES: ¿Tú… quieres ir a casa? ¿O quieres tomar un café primero?  (x1)
 - EN: Yr gonna love what I have in mind for you 😍
   ES: Te va a encantar lo que tengo pensado para ti!  (x1)
+- EN: Yr making a big deal outta this
+  ES: Estás haciendo un drama por esto.  (x1)
 - EN: Yup.
   ES: Sip.  (x1)
 - EN: Yup. Only with makeup running down her face.
   ES: Sí. Sólo que con maquillaje corriendo por su cara.  (x1)
 - EN: [HANDLE]@jacccc[] me right now
   ES: [HANDLE]@jacccc[] yo ahora mismo  (x1)
+- EN: [HANDLE]@unclecharles[] IKR
+  ES: [HANDLE]@unclecharles[] Ya sé, ¿verdad?  (x1)
 - EN: [sees girl reading To Kill a Mocking Bird]\n"Great book. Who knew that those darn birds are so hard to kill"
   ES: [ve a una niña leyendo Matar a un ruiseñor]\n"Gran libro. ¿Quién diría que esos malditos pájaros son tan difíciles de matar"  (x1)
 - EN: a message came in
   ES: llegó un mensaje  (x1)
+- EN: and eventually dry out in the sun, leaving nothing but a stain.
+  ES: hasta secarse bajo el sol y dejar solo una mancha.  (x1)
 - EN: and stabilize a small rural economy.
   ES: y estabilizar una pequeña economía rural.  (x1)
 - EN: answer meeeee
@@ -10741,11 +10581,11 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: but I saw Yolanda at my building
   ES: pero vi a Yolanda en mi edificio  (x1)
 - EN: but it was just there
-  ES: pero estaba justo ahi  (x1)
+  ES: pero estaba justo ahí  (x1)
 - EN: but they need an authorization code
   ES: pero necesitan un código de autorización  (x1)
 - EN: but who cares?
-  ES: pero a quién le importa?  (x1)
+  ES: ¿pero a quién le importa?  (x1)
 - EN: by Paralense
   ES: por Paralense  (x1)
 - EN: by Paralense
@@ -10758,10 +10598,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: descargaste Spark?  (x1)
 - EN: did you get it?
   ES: lo conseguiste?  (x1)
+- EN: exept that damn Jabbr post
+  ES: excepto esa maldita publicación de Jabbr.  (x1)
 - EN: fInD iTTTT
   ES: ENCUENTREA  (x1)
 - EN: feeling real healthy. just bought a bunch of fruits and vegetables. here's to two weeks from now when i throw it all away cause its rotten.
   ES: sintiendome muy saludable. acabo de comprar un monton de frutas y verduras. brindo por dentro de dos semanas cuando lo tire todo porque se pudrio.  (x1)
+- EN: for what?
+  ES: ¿Para qué?  (x1)
 - EN: found anything interesting yet?
   ES: ¿Encontraste algo interesante?  (x1)
 - EN: graphic://center=0.7=content/mail/text/writething.png#block#\n[MAIL_BOLD]Students Unable To Feed Themselves[]\n\nThe developed nations spend nights brooding over the issues of military defense, public health, and ailing economies. But there is a greater danger at large here, and more dangerous because it is ignored for being relatively harmless. It is the student debt. \n\nEach year, hundreds of graduates leave their campuses, entering the workforce with certifications. Their earnings are nominal at best, keeping them fed and clothed with a place to stay. Life is at a minimal, and savings paltry, or nonexistent. \n\nThat is, unless they are paying back their education debt. \n#block#graphic://content/mail/student-debt1.png#block#\nThe growing ranks of middle income families spark more doom than cheer. While human rights supporters sing praises for improvements in raising prosperity of the poor and homeless, including the educating of children to break out of the poverty cycle, they do not consider the increased commitments of entering a middle income lifestyle.\n\nStudent debts are by far the lowest interest rate available in banks, but for young people barely making basic wage, it is a punishing uphill battle of mathematics. With parents saddled in their own student debt and mortgage, progressive generations of teenagers are beginning to feel the effects of taking a loan to attain their dream jobs through tertiary education. A more alarming trend is the rise of dropouts, not because of failing grades, but from failing finances.\n\nWe are merely moving the oppressive cycle from poverty to student debt, leaving families vulnerable to disruption in jobs, market forces and currency injuries. Parents are moving their children into homeschool initiatives, while others follow the age-old tradition of apprenticeship. Slowly and surely, people are taking matters into their own hands of educating their young and not becoming enslaved to the debt engine. The collapse of the economy from property debt has only been too clear a warning sign for us all.\n\nThanks for subscribing to The Write Thing
@@ -10792,6 +10636,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: sosteniendo una bolsa de calzado de Faris and Kane  (x1)
 - EN: hugs from me ok?
   ES: abrazos de mi parte, ¿ok?  (x1)
+- EN: i am hotter than your cultural commentary
+  ES: Estoy más buena que tus comentarios culturales.  (x1)
 - EN: i ate an entire pizza by myself in 5 mins
   ES: Me comí una pizza entera yo solo en 5 minutos  (x1)
 - EN: i cant find her anywhere
@@ -10812,10 +10658,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: en comunidades desérticas en desarrollo.  (x1)
 - EN: its wrong
   ES: está mal  (x1)
+- EN: just deal with it
+  ES: Lidia con eso.  (x1)
 - EN: just like
   ES: solo como  (x1)
 - EN: laugh?
-  ES: lástima?  (x1)
+  ES: ¿Reírse?  (x1)
 - EN: lets go bruh
   ES: vamos, bro  (x1)
 - EN: lol since when you call people babe?
@@ -10826,8 +10674,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: aunque odie llamar a ese hijo de perra  (x1)
 - EN: must be that nosy granny next door
   ES: debe ser esa viejita chismosa de al lado  (x1)
+- EN: n trust you with anything
+  ES: y confiarte cualquier cosa  (x1)
 - EN: no worriers.
   ES: sin problema.  (x1)
+- EN: not Animal LOVER (if you know what I mean)
+  ES: no AMANTE de animales (si me entiendes)  (x1)
 - EN: oh baby
   ES: oh bebe  (x1)
 - EN: oh great!
@@ -10835,7 +10687,7 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: on,
   ES: ¿ni  (x1)
 - EN: or is it promoting the CEO and their self-interest somehow?
-  ES: o esta promoviendo al CEO y sus intereses de alguna manera?  (x1)
+  ES: ¿o esta promoviendo al CEO y sus intereses de alguna manera?  (x1)
 - EN: people died tho 🤔
   ES: aunque murió gente 🤔  (x1)
 - EN: phone stealer
@@ -10860,36 +10712,50 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ELLA SE  (x1)
 - EN: shes really gone
   ES: ella se fue de verdad  (x1)
+- EN: shut up [HANDLE]@lemonpie[]
+  ES: cállate [HANDLE]@lemonpie[]  (x1)
+- EN: shut up shut up
+  ES: cállate, cállate  (x1)
 - EN: so what did he say he is gonna do about it?
-  ES: entonces qué dijo que va a hacer al respecto?  (x1)
+  ES: ¿entonces qué dijo que va a hacer al respecto?  (x1)
 - EN: sorry sorry!!
   ES: perdon perdon!!  (x1)
 - EN: tO thIS
   ES: a EsTo  (x1)
 - EN: text her, but do it as Anna
-  ES: Escribele, pero hazte pasar  (x1)
+  ES: Escríbele, pero hazte pasar por Anna.  (x1)
+- EN: thanks Ashley
+  ES: gracias, Ashley  (x1)
 - EN: visual stimulus
   ES: estimulo visual  (x1)
 - EN: was hogging her Spark account
   ES: estaba acaparando su cuenta de Spark  (x1)
 - EN: what do you mean?
   ES: ¿a qué te refieres?  (x1)
+- EN: whatever it takes to be completely sure you know?
+  ES: Haría lo que fuera para estar completamente segura, ¿sabes?  (x1)
 - EN: when is your birthday again? 😜
   ES: ¿cuándo es tu cumpleaños? 😜  (x1)
 - EN: which will get rained on.
   ES: que se van a mojar con la lluvia.  (x1)
+- EN: why are you asking this?
+  ES: ¿por qué preguntas esto?  (x1)
 - EN: words to live by
   ES: palabras para vivir  (x1)
 - EN: wow this is huge
-  ES: Guau, esto es  (x1)
+  ES: Vaya, esto es enorme.  (x1)
 - EN: yOu LieEE
   ES: MEEEENTES  (x1)
 - EN: yOu LieEE
   ES: MientesEE  (x1)
+- EN: you better FUCKING TELL ME
+  ES: ¡MÁS TE VALE QUE ME LO DIGAS, CARAJO!  (x1)
 - EN: you end up lying to others?
-  ES: que terminas mintiéndole a los demás?  (x1)
+  ES: ¿qué terminas mintiéndole a los demás?  (x1)
 - EN: you work at a surveillance company
   ES: tú trabajas en una empresa de vigilancia  (x1)
+- EN: you're not going back to Greg, so what's the harm?
+  ES: No vas a volver con Greg, así que ¿qué tiene de malo?  (x1)
 - EN: your obsessed with me. I get it
   ES: Estás obsesionado conmigo. Lo entiendo  (x1)
 - EN: youve seen my watch a million times.
@@ -10900,9 +10766,5 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: © 2017 Phresh Ideas Group.\nTodos los derechos reservados.  (x1)
 - EN: © IRIS SYSTEMS INC.
   ES: © IRIS SISTEMAS INC.  (x1)
-- EN: ‘Spark was the only way \nI could have met Lisa. \nLong live the internet.’ - Thom
-  ES: 'Spark era la única manera \nPodría haber conocido a Lisa. \nLarga vida a internet.' - Jyn  (x1)
-- EN: “Several arrests were made linking the crimes\nthey’ve committed to the popular dating app.”
-  ES: “Se realizaron varias detenciones vinculando los crímenes\nse han comprometido con la popular a  (x1)
 - EN: 😑. Tell me you're kidding.
   ES: 😑. Dime que estás bromeando.  (x1)
