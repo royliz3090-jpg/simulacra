@@ -1,38 +1,38 @@
 # Indice de recursos con texto revisable
 
-Recursos: 188   Cadenas: 6226
+Recursos: 188   Cadenas: 6032
 
 | recurso | cadenas |
 |---|---|
 | content/chats/greg.DialogueTreeDescriptor | 874 |
 | content/chats/busted.DialogueTreeDescriptor | 843 |
 | content/spark/taylor.DialogueTreeDescriptor | 573 |
-| content/chats/ashley.DialogueTreeDescriptor | 513 |
-| content/spark/demon | 285 |
+| content/chats/ashley.DialogueTreeDescriptor | 512 |
+| content/spark/demon | 192 |
 | content/spark/demon.DialogueTreeDescriptor | 185 |
 | content/jabbr/config | 185 |
 | content/chats/murv.DialogueTreeDescriptor | 160 |
 | content/chats/yolanda.DialogueTreeDescriptor | 151 |
 | content/chats/phill.DialogueTreeDescriptor | 149 |
-| content/spark/jamesrc.DialogueTreeDescriptor | 142 |
+| content/spark/jamesrc.DialogueTreeDescriptor | 141 |
 | content/chats/cassie.DialogueTreeDescriptor | 135 |
-| content/calls/config | 134 |
 | content/spark/config | 122 |
 | content/chats/gregrc1.DialogueTreeDescriptor | 112 |
 | content/chats/ashleyrc1.DialogueTreeDescriptor | 106 |
-| content/chats/jamesh | 92 |
 | content/chats/mom.DialogueTreeDescriptor | 90 |
 | content/spark/fillermale1.DialogueTreeDescriptor | 83 |
-| content/chats/jamesh.DialogueTreeDescriptor | 67 |
+| content/calls/config | 74 |
+| content/chats/jamesh.DialogueTreeDescriptor | 65 |
+| content/chats/jamesh | 64 |
 | content/spark/fillerfemale1.DialogueTreeDescriptor | 62 |
 | content/chats/elizabeth.DialogueTreeDescriptor | 54 |
 | content/spark/edwinbyrd.DialogueTreeDescriptor | 33 |
 | content/spark/alex.DialogueTreeDescriptor | 33 |
 | content/chats/chaosstar.DialogueTreeDescriptor | 33 |
 | content/spark/taylorrc1.DialogueTreeDescriptor | 30 |
-| content/webpages/cbb.web/news/5895833 | 25 |
 | content/mail/config | 24 |
 | content/webpages/educatethyself.web/article/665 | 24 |
+| content/webpages/cbb.web/news/5895833 | 23 |
 | content/weblayouts/educatethyself.web/article/665 | 23 |
 | content/webpages/fariskane.web | 22 |
 | content/weblayouts/cbb.web/news/5895833 | 22 |
@@ -42,23 +42,23 @@ Recursos: 188   Cadenas: 6226
 | content/chats/techtitan.DialogueTreeDescriptor | 17 |
 | content/webpages/phreshideas.web | 16 |
 | content/webpages/kappafeed.web/animal-sprit | 16 |
-| content/webpages/spark.web | 16 |
 | content/weblayouts/phreshideas.web | 16 |
-| content/webpages/iris.os | 15 |
+| content/webpages/spark.web | 14 |
 | content/weblayouts/kappafeed.web/animal-sprit | 14 |
-| content/webpages/nsfw.gov.web | 14 |
 | content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera | 13 |
 | content/subtitles/content/recordings/ashley/gossip.ogg | 13 |
-| content/webpages/ridr.web | 13 |
+| content/webpages/iris.os | 13 |
 | content/weblayouts/nsfw.gov.web/norecords | 13 |
 | content/weblayouts/spark.web | 13 |
 | content/weblayouts/nsfw.gov.web | 13 |
-| content/weblayouts/iris.os | 13 |
+| content/webpages/nsfw.gov.web | 13 |
 | content/weblayouts/spark.web/irl | 12 |
 | content/subtitles/content/videos/vlog4.mp4.ogg | 12 |
 | content/webpages/spark.web/irl | 12 |
 | content/subtitles/content/videos/vlog6.mp4.ogg | 12 |
+| content/webpages/ridr.web | 12 |
 | content/weblayouts/nsfw.gov.web/?r=15213 | 12 |
+| content/weblayouts/iris.os | 12 |
 | content/weblayouts/ridr.web | 11 |
 | content/spark/newconfig | 11 |
 | content/subtitles/content/recordings/greg/yolandabreakup.ogg | 11 |

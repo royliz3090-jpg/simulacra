@@ -22,10 +22,30 @@ REVIEW_CATS = {"narrativo", "ui"}
 # Marcadores que NUNCA deben traducirse ni perderse.
 KEEP_TOKENS = re.compile(r"#[\w.:]+#|__[A-Z]+\d*|\[[A-Z_]+\]|\[\]|\{\w+\}")
 _WORD = re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,}")
+_TERM = ".?!…\"'»”’)]"
 
 
 def reviewable(rec):
-    return rec["category"] in REVIEW_CATS and rec["en"].strip() != ""
+    if rec["category"] not in REVIEW_CATS or rec["en"].strip() == "":
+        return False
+    # excluir cadenas que, quitando marcadores, no tienen prosa real
+    stripped = KEEP_TOKENS.sub(" ", rec["en"])
+    words = _WORD.findall(stripped)
+    return len(words) >= 1
+
+
+def _truncated(en, es):
+    """Heuristica de truncamiento: la ES parece cortada a mitad de frase."""
+    e, s = en.strip(), es.strip()
+    if not s:
+        return False
+    # EN termina en puntuacion fuerte y ES (sin relleno) no
+    if e and e[-1] in ".?!…" and s[-1] not in _TERM:
+        return True
+    # ES termina en palabra incompleta (letra) sin puntuacion y EN tiene mas
+    if s[-1].isalpha() and e and e[-1] in ".?!…":
+        return True
+    return False
 
 
 def issues(rec):
@@ -36,8 +56,8 @@ def issues(rec):
         return ["sin_es"]
     if es == en:
         out.append("sin_traducir")
-    if es != es.rstrip() and es.strip():
-        out.append("relleno_espacios")
+    if _truncated(en, es):
+        out.append("posible_truncado")
     # marcadores presentes en EN pero ausentes en ES (o viceversa)
     me = Counter(KEEP_TOKENS.findall(en))
     ms = Counter(KEEP_TOKENS.findall(es))
@@ -46,10 +66,8 @@ def issues(rec):
     # contenido probablemente perdido: muchas menos palabras en ES que en EN
     enw = len(_WORD.findall(en))
     esw = len(_WORD.findall(es))
-    if enw >= 4 and esw <= 0.4 * enw:
+    if enw >= 5 and esw <= 0.34 * enw:
         out.append("contenido_faltante")
-    elif en.strip() and len(es.strip()) < 0.4 * len(en.strip()) and len(en.strip()) >= 16:
-        out.append("posible_recorte")
     return out
 
 
@@ -147,6 +165,30 @@ def main():
     print("->", idx)
     print("->", ujsonl)
     print("->", umd)
+
+    # LOTE2: solo lo que sigue marcado con problemas (para la siguiente pasada)
+    flagged_rows = [u for u in uniq_rows if u["problemas"]]
+    l2j = os.path.join(args.out, "LOTE2.jsonl")
+    with open(l2j, "w", encoding="utf-8") as fh:
+        for u in flagged_rows:
+            fh.write(json.dumps({
+                "en": u["en"], "es": u["es"], "categoria": u["category"],
+                "repeticiones": u["count"], "problemas": sorted(u["problemas"]),
+                "recursos": sorted(u["owners"]),
+            }, ensure_ascii=False) + "\n")
+    l2m = os.path.join(args.out, "LOTE2.md")
+    with open(l2m, "w", encoding="utf-8") as fh:
+        fh.write("# SIMULACRA - LOTE 2: solo cadenas con incidencias\n\n")
+        fh.write(f"Pares con incidencia: {len(flagged_rows)}\n\n")
+        fh.write("Traduce/corrige cada `ES` para que corresponda a su `EN`.\n\n")
+        for u in flagged_rows:
+            tag = ",".join(sorted(u["problemas"]))
+            en = u["en"].replace("\n", "\\n")
+            es = (u["es"] or "").replace("\n", "\\n")
+            fh.write(f"- EN: {en}\n  ES: {es}  [{tag}]  (x{u['count']})\n")
+    print(f"lote2 (con incidencias): {len(flagged_rows)}")
+    print("->", l2j)
+    print("->", l2m)
 
 
 if __name__ == "__main__":

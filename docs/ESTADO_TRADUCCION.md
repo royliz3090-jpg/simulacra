@@ -1489,3 +1489,62 @@ idioma), senal de que sesiones previas parchearon clases Java.
 3. Reconstruir con `tools/rebuild_es.sh` y verificar con `tools/validate_export.py`
    (que las cadenas corregidas ya no esten en EN) y `tools/verify_build.py`.
 4. Prueba visual en Wine de las pantallas afectadas.
+
+---
+
+## 26. Sesion 26 - Aplicadas las correcciones de ChatGPT (primera pasada)
+
+### 26.1 Entrada
+
+- `fixes.json`: 672 pares `{en, es}` devueltos por ChatGPT (666 con cambio real).
+- `INFORME_REVISION_SIMULACRA.md`: informe de la revision (851 apariciones).
+
+### 26.2 Validacion previa (`tools/validate_fixes.py`)
+
+- 666/666 correcciones aplicables; **0 errores**.
+- 0 marcadores protegidos distintos, 0 URIs perdidas, 0 cambios en el numero de
+  saltos de linea, 0 claves inventadas.
+
+### 26.3 Aplicacion (`tools/apply_chatgpt_fixes.py`)
+
+El `en` de cada fix identifica la CADENA INGLESA (no el espanol, que puede estar
+truncado). El script:
+
+1. localiza cada `en` en `en-us.fs` (ingles pristino);
+2. obtiene la posicion de la cadena espanola alineada (mismo objeto + ordinal);
+3. sustituye esa cadena por el `es` propuesto, reescribiendo el objeto
+   (funciona con objetos planos y comprimidos, recalcula offsets).
+
+Resultado: **835 sustituciones** en 835 objetos, **0 claves sin aplicar**.
+
+### 26.4 Verificaciones
+
+- `dist/es-latam.fs`: 838/838 ocurrencias de los fixes correctas (0 incorrectas).
+- Integridad: 30877/30877 cadenas, 0 objetos con nº de cadenas distinto.
+- `dist/core.assets` -> `en-us.fs` **identico byte a byte** (md5 sin cambios):
+  el ingles NO se altera (idioma independiente).
+- `tools/verify_build.py` -> TODO VALIDADO.
+- `tools/verify_es_latam_coverage.py` -> TODO VALIDADO.
+
+### 26.5 Mejora medible (incidencias en pares unicos)
+
+| incidencia | antes | despues |
+|---|---|---|
+| sin_traducir | 425 | 400 |
+| relleno_espacios | 2564 | 2085 |
+| contenido_faltante | 35 | 18 |
+| marcadores_distintos | 3 | 0 |
+
+### 26.6 Commit respaldado
+
+`fix(es-latam): aplica 666 correcciones de la revision ChatGPT (835 sustituciones)`
+en `origin/audit/export-dialogos-es-latam-v2` (commit `e652340`).
+
+### 26.7 Proxima tarea concreta
+
+1. Segunda pasada de ChatGPT sobre el paquete regenerado
+   (`exports/revision_chatgpt/UNICOS.md`) para las ~2085 con relleno de espacios
+   y 400 sin traducir (ver `exports/revision_chatgpt/LOTE2.md`).
+2. Repetir el ciclo: `export_auditoria.py` -> `export_revision.py` -> ChatGPT ->
+   `validate_fixes.py` -> `apply_chatgpt_fixes.py` -> `rebuild_es.sh` -> verificar.
+3. Prueba visual en Wine de las pantallas afectadas.
