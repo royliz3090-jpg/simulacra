@@ -1548,3 +1548,66 @@ en `origin/audit/export-dialogos-es-latam-v2` (commit `e652340`).
 2. Repetir el ciclo: `export_auditoria.py` -> `export_revision.py` -> ChatGPT ->
    `validate_fixes.py` -> `apply_chatgpt_fixes.py` -> `rebuild_es.sh` -> verificar.
 3. Prueba visual en Wine de las pantallas afectadas.
+
+---
+
+## 27. Sesion 27 - Aplicado el lote 2 de ChatGPT
+
+### 27.1 Entrada
+
+- `fixes_lote2.json`: 62 correcciones nuevas `{en, es}`.
+- `fixes_acumulados_lotes1y2.json`: 734 pares (lote 1 + lote 2, sin duplicados).
+- `INFORME_LOTE2_SIMULACRA.md`: informe (321 analizados, 62 cambios, 259 sin cambio).
+
+Verificado: `acumulado == lote1 U lote2`, **0 divergencias** por clave EN.
+
+### 27.2 Validacion
+
+`tools/validate_fixes.py` -> lote 2: 62/62 OK; acumulado: 728/728 OK; 0 errores
+(0 marcadores distintos, 0 URIs perdidas, 0 cambios de saltos de linea).
+
+### 27.3 Aplicacion
+
+`tools/apply_chatgpt_fixes.py` con el ACUMULADO: **66 sustituciones nuevas**
+(lote 1 ya aplicado -> 666 omitidas sin efecto, idempotente).
+
+### 27.4 Verificaciones
+
+- `dist/es-latam.fs`: 908/908 ocurrencias del acumulado correctas, 0 incorrectas.
+- Integridad: 30877/30877 cadenas, 0 objetos con nº distinto.
+- `dist/core.assets` -> `en-us.fs` **identico byte a byte** (ingles intacto).
+- `verify_build.py` y `verify_es_latam_coverage.py` -> TODO VALIDADO.
+
+### 27.5 Mejora y clasificacion de lo pendiente
+
+| incidencia | lote1 | lote2 | ahora |
+|---|---|---|---|
+| sin_traducir | 425 | 260 | 193 |
+| relleno/truncado | 2564 | 59 | 1 |
+| contenido_faltante | 35 | 2 | 1 |
+| marcadores_distintos | 3 | 0 | 0 |
+
+`export_revision.py` ahora NO marca como incidencia las **claves internas
+protegidas** (`tools/keys_protegidas.txt`: `Camera`, `Chat Images`, `Voicemail`,
+`Recovered`, `Me`, `Spark`, ...) ni fechas/colores hex/handles. Los 193
+`sin_traducir` restantes son **nombres propios** (`Greg`, `Taylor`, `Anna`, ...),
+hashtags, rutas y codigos que NO deben traducirse (los cambio el lote 2 solo en
+3 risas: `Haha`->`Jaja`). Los 2 casos de truncamiento son **falsos positivos**
+confirmados por ChatGPT (`I am just going to look for her.` -> `Voy a buscarla.`;
+`This service is complimentary...` -> contenido completo sin punto final).
+
+### 27.6 Commit respaldado
+
+`fix(es-latam): aplica lote 2 de ChatGPT (62 correcciones, 66 sustituciones)`
+en `origin/audit/export-dialogos-es-latam-v2` (commit `37c93cf`).
+
+### 27.7 Proxima tarea concreta
+
+1. Prueba visual en Wine de las pantallas corregidas (galeria, chat Ashley,
+   boot-iris, respuestas de llamada). No ejecutable en este sandbox.
+2. Revisar los 12 casos tecnicos marcados en el informe del lote 2 (albumes
+   `Camera`/`Chat Images`/..., `Iris Chat`, `Me`, `Mom`, `Recovered`,
+   `Voicemail`, `Wallpapers`, `Applesauce`): decidir si alguno tiene uso visible
+   ademas del interno. Ver seccion 15 (claves protegidas) antes de traducir.
+3. Si se desea traduccion de nombres de UI (p.ej. `Me`->`Yo`), comprobar primero
+   que no sea clave interna; usar `tools/keys_protegidas.txt` como filtro.
