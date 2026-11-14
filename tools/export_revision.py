@@ -38,11 +38,15 @@ def _load_keys():
     if _KEYS is not None:
         return _KEYS
     import os
-    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "keys_protegidas.txt")
-    try:
-        _KEYS = {l.rstrip("\n") for l in open(p, encoding="utf-8") if l.strip()}
-    except OSError:
-        _KEYS = set()
+    here = os.path.dirname(os.path.abspath(__file__))
+    _KEYS = set()
+    for name in ("keys_protegidas.txt", "confirmados_no_traducibles.txt"):
+        try:
+            with open(os.path.join(here, name), encoding="utf-8") as fh:
+                _KEYS |= {l.rstrip("\n") for l in fh
+                          if l.strip() and not l.startswith("#")}
+        except OSError:
+            pass
     return _KEYS
 
 

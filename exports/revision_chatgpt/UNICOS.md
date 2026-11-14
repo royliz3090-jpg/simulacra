@@ -1,411 +1,29 @@
 # SIMULACRA - textos UNICOS para revision (EN -> es-LATAM)
 
-Pares unicos: 5235  (de 6032 ocurrencias)
+Pares unicos: 5234  (de 6032 ocurrencias)
 
 Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece y problemas detectados.
 
 - EN: Greg
-  ES: Greg  (x78)  [sin_traducir]
+  ES: Greg  (x78)
 - EN: Taylor
-  ES: Taylor  (x69)  [sin_traducir]
-- EN: No
-  ES: No  (x8)  [sin_traducir]
-- EN: Anna
-  ES: Anna  (x6)  [sin_traducir]
-- EN: Oh
-  ES: Oh  (x5)  [sin_traducir]
-- EN: Ok
-  ES: Ok  (x4)  [sin_traducir]
-- EN: Greg Summers
-  ES: Greg Summers  (x3)  [sin_traducir]
-- EN: I R I S. OS
-  ES: I R I S. OS  (x3)  [sin_traducir]
-- EN: Yolanda
-  ES: Yolanda  (x3)  [sin_traducir]
-- EN: Ashley?!?!
-  ES: Ashley?!?!  (x2)  [sin_traducir]
-- EN: Cassie
-  ES: Cassie  (x2)  [sin_traducir]
-- EN: Faraday Safety
-  ES: Faraday Safety  (x2)  [sin_traducir]
-- EN: Greg?
-  ES: Greg?  (x2)  [sin_traducir]
-- EN: Greg?!?!
-  ES: Greg?!?!  (x2)  [sin_traducir]
-- EN: James?!
-  ES: James?!  (x2)  [sin_traducir]
-- EN: Okok
-  ES: Okok  (x2)  [sin_traducir]
-- EN: Robert
-  ES: Robert  (x2)  [sin_traducir]
-- EN: nsfw.gov.web/?r=15213
-  ES: nsfw.gov.web/?r=15213  (x2)  [sin_traducir]
-- EN: nsfw.gov.web/lookup?q=taylorperrera
-  ES: nsfw.gov.web/lookup?q=taylorperrera  (x2)  [sin_traducir]
-- EN: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
-  ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8  (x2)  [sin_traducir]
-- EN: © IRIS SYSTEMS INC.
-  ES: © IRIS SYSTEMS INC.  (x2)  [sin_traducir]
-- EN: *Yolanda*
-  ES: *Yolanda*  (x1)  [sin_traducir]
-- EN: +1 A41D GR3G
-  ES: +1 A41D GR3G  (x1)  [sin_traducir]
-- EN: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1
-  ES: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1  (x1)  [sin_traducir]
-- EN: 1-800-MURILO
-  ES: 1-800-MURILO  (x1)  [sin_traducir]
-- EN: 66EA3521113
-  ES: 66EA3521113  (x1)  [sin_traducir]
-- EN: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM
-  ES: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM  (x1)  [sin_traducir]
-- EN: Abby Shin
-  ES: Abby Shin  (x1)  [sin_traducir]
-- EN: Adwin Chong
-  ES: Adwin Chong  (x1)  [sin_traducir]
-- EN: Albert
-  ES: Albert  (x1)  [sin_traducir]
-- EN: Alex
-  ES: Alex  (x1)  [sin_traducir]
-- EN: Alex Freeman
-  ES: Alex Freeman  (x1)  [sin_traducir]
-- EN: Alex Grant
-  ES: Alex Grant  (x1)  [sin_traducir]
-- EN: Alexis Worth
-  ES: Alexis Worth  (x1)  [sin_traducir]
-- EN: Alfred Perlo
-  ES: Alfred Perlo  (x1)  [sin_traducir]
-- EN: Anna!
-  ES: Anna!  (x1)  [sin_traducir]
-- EN: Annabelle
-  ES: Annabelle  (x1)  [sin_traducir]
-- EN: Annun
-  ES: Annun  (x1)  [sin_traducir]
-- EN: Anous
-  ES: Anous  (x1)  [sin_traducir]
-- EN: Applesauce
-  ES: Applesauce  (x1)  [sin_traducir]
-- EN: Aulner
-  ES: Aulner  (x1)  [sin_traducir]
-- EN: Bella
-  ES: Bella  (x1)  [sin_traducir]
-- EN: Ben Cavanaugh
-  ES: Ben Cavanaugh  (x1)  [sin_traducir]
-- EN: Bill
-  ES: Bill  (x1)  [sin_traducir]
-- EN: Bill Harper
-  ES: Bill Harper  (x1)  [sin_traducir]
-- EN: Black Beauty
-  ES: Black Beauty  (x1)  [sin_traducir]
-- EN: Blehhhhhh
-  ES: Blehhhhhh  (x1)  [sin_traducir]
-- EN: Brandon K
-  ES: Brandon K  (x1)  [sin_traducir]
-- EN: Bruce
-  ES: Bruce  (x1)  [sin_traducir]
-- EN: Cassandra
-  ES: Cassandra  (x1)  [sin_traducir]
-- EN: Cassie,
-  ES: Cassie,  (x1)  [sin_traducir]
-- EN: Casual
-  ES: Casual  (x1)  [sin_traducir]
-- EN: Chandra Nala
-  ES: Chandra Nala  (x1)  [sin_traducir]
-- EN: Chloe Rice
-  ES: Chloe Rice  (x1)  [sin_traducir]
-- EN: Danny
-  ES: Danny  (x1)  [sin_traducir]
-- EN: David Teegan
-  ES: David Teegan  (x1)  [sin_traducir]
-- EN: Desiree
-  ES: Desiree  (x1)  [sin_traducir]
-- EN: Det. Murilo
-  ES: Det. Murilo  (x1)  [sin_traducir]
-- EN: Ed
-  ES: Ed  (x1)  [sin_traducir]
-- EN: Edwin
-  ES: Edwin  (x1)  [sin_traducir]
-- EN: Edwin Byrd
-  ES: Edwin Byrd  (x1)  [sin_traducir]
-- EN: Eh
-  ES: Eh  (x1)  [sin_traducir]
-- EN: Ehhhhhhhh
-  ES: Ehhhhhhhh  (x1)  [sin_traducir]
-- EN: Erin Mabel
-  ES: Erin Mabel  (x1)  [sin_traducir]
-- EN: Eve Farrell
-  ES: Eve Farrell  (x1)  [sin_traducir]
-- EN: Eyeris
-  ES: Eyeris  (x1)  [sin_traducir]
-- EN: Faraday
-  ES: Faraday  (x1)  [sin_traducir]
-- EN: Faraday Securities
-  ES: Faraday Securities  (x1)  [sin_traducir]
-- EN: Farah Ramsey
-  ES: Farah Ramsey  (x1)  [sin_traducir]
-- EN: Faris & Kane
-  ES: Faris & Kane  (x1)  [sin_traducir]
-- EN: Fred
-  ES: Fred  (x1)  [sin_traducir]
-- EN: Fred Tanner
-  ES: Fred Tanner  (x1)  [sin_traducir]
-- EN: Fred Watson
-  ES: Fred Watson  (x1)  [sin_traducir]
-- EN: Free Willy
-  ES: Free Willy  (x1)  [sin_traducir]
-- EN: Futa Baker
-  ES: Futa Baker  (x1)  [sin_traducir]
-- EN: Gillan Tan
-  ES: Gillan Tan  (x1)  [sin_traducir]
-- EN: Gordon Akram
-  ES: Gordon Akram  (x1)  [sin_traducir]
-- EN: Haru Oakey
-  ES: Haru Oakey  (x1)  [sin_traducir]
-- EN: Hmmmmm
-  ES: Hmmmmm  (x1)  [sin_traducir]
-- EN: I am just going to look for her.
-  ES: Voy a buscarla.                   (x1)  [contenido_faltante]
-- EN: Iain Gorman
-  ES: Iain Gorman  (x1)  [sin_traducir]
-- EN: Ideas
-  ES: Ideas  (x1)  [sin_traducir]
-- EN: Iris
-  ES: Iris  (x1)  [sin_traducir]
-- EN: Iris Chat
-  ES: Iris Chat  (x1)  [sin_traducir]
-- EN: Jackie C
-  ES: Jackie C  (x1)  [sin_traducir]
-- EN: Jacob Rex
-  ES: Jacob Rex  (x1)  [sin_traducir]
-- EN: James Aulner
-  ES: James Aulner  (x1)  [sin_traducir]
-- EN: Jay Tyler
-  ES: Jay Tyler  (x1)  [sin_traducir]
-- EN: Jayson Olsen
-  ES: Jayson Olsen  (x1)  [sin_traducir]
-- EN: Jeniffer
-  ES: Jeniffer  (x1)  [sin_traducir]
-- EN: Jesse Shell
-  ES: Jesse Shell  (x1)  [sin_traducir]
-- EN: Jessica
-  ES: Jessica  (x1)  [sin_traducir]
-- EN: Jimmy
-  ES: Jimmy  (x1)  [sin_traducir]
-- EN: Josh Chen
-  ES: Josh Chen  (x1)  [sin_traducir]
-- EN: Justin Woodman
-  ES: Justin Woodman  (x1)  [sin_traducir]
-- EN: Kad Deidre
-  ES: Kad Deidre  (x1)  [sin_traducir]
-- EN: Kappafeed
-  ES: Kappafeed  (x1)  [sin_traducir]
-- EN: Kate
-  ES: Kate  (x1)  [sin_traducir]
-- EN: Ken Nagel
-  ES: Ken Nagel  (x1)  [sin_traducir]
-- EN: Kesh O Mara
-  ES: Kesh O Mara  (x1)  [sin_traducir]
-- EN: Kevin Baxter
-  ES: Kevin Baxter  (x1)  [sin_traducir]
-- EN: Kyle Deeley
-  ES: Kyle Deeley  (x1)  [sin_traducir]
-- EN: Lee Everee
-  ES: Lee Everee  (x1)  [sin_traducir]
-- EN: Lester
-  ES: Lester  (x1)  [sin_traducir]
-- EN: Lilli Vesely
-  ES: Lilli Vesely  (x1)  [sin_traducir]
-- EN: Luis Sutcliffe
-  ES: Luis Sutcliffe  (x1)  [sin_traducir]
-- EN: Madison Mike
-  ES: Madison Mike  (x1)  [sin_traducir]
-- EN: Mark
-  ES: Mark  (x1)  [sin_traducir]
-- EN: Mark Waters
-  ES: Mark Waters  (x1)  [sin_traducir]
-- EN: Marko Nixon
-  ES: Marko Nixon  (x1)  [sin_traducir]
-- EN: Matt Wilson
-  ES: Matt Wilson  (x1)  [sin_traducir]
-- EN: Max Clauf
-  ES: Max Clauf  (x1)  [sin_traducir]
-- EN: Melanie Fox
-  ES: Melanie Fox  (x1)  [sin_traducir]
-- EN: Mom
-  ES: Mom  (x1)  [sin_traducir]
-- EN: Morgan Nason
-  ES: Morgan Nason  (x1)  [sin_traducir]
-- EN: Murv
-  ES: Murv  (x1)  [sin_traducir]
-- EN: Naya Scott
-  ES: Naya Scott  (x1)  [sin_traducir]
-- EN: Nissa Renner
-  ES: Nissa Renner  (x1)  [sin_traducir]
-- EN: No.
-  ES: No.  (x1)  [sin_traducir]
-- EN: Nononono
-  ES: Nononono  (x1)  [sin_traducir]
-- EN: Noooooooooo
-  ES: Noooooooooo  (x1)  [sin_traducir]
-- EN: Odric Marshel
-  ES: Odric Marshel  (x1)  [sin_traducir]
-- EN: Ohh
-  ES: Ohh  (x1)  [sin_traducir]
-- EN: Oh~~
-  ES: Oh~~  (x1)  [sin_traducir]
-- EN: Oliver Peters
-  ES: Oliver Peters  (x1)  [sin_traducir]
-- EN: Ooohh
-  ES: Ooohh  (x1)  [sin_traducir]
-- EN: Pat
-  ES: Pat  (x1)  [sin_traducir]
-- EN: Patricia
-  ES: Patricia  (x1)  [sin_traducir]
-- EN: Patrick Liman
-  ES: Patrick Liman  (x1)  [sin_traducir]
-- EN: Patrick Matthews
-  ES: Patrick Matthews  (x1)  [sin_traducir]
-- EN: Paul Chin
-  ES: Paul Chin  (x1)  [sin_traducir]
-- EN: Paul Chong
-  ES: Paul Chong  (x1)  [sin_traducir]
-- EN: Phill
-  ES: Phill  (x1)  [sin_traducir]
-- EN: Phresh
-  ES: Phresh  (x1)  [sin_traducir]
-- EN: Qahar Said
-  ES: Qahar Said  (x1)  [sin_traducir]
-- EN: Quinton Lewis
-  ES: Quinton Lewis  (x1)  [sin_traducir]
-- EN: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT
-  ES: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT  (x1)  [sin_traducir]
-- EN: Ralph Conners
-  ES: Ralph Conners  (x1)  [sin_traducir]
-- EN: Rei Norman
-  ES: Rei Norman  (x1)  [sin_traducir]
-- EN: Richard Garf
-  ES: Richard Garf  (x1)  [sin_traducir]
-- EN: Ridr
-  ES: Ridr  (x1)  [sin_traducir]
-- EN: Ronnie
-  ES: Ronnie  (x1)  [sin_traducir]
-- EN: Rosita
-  ES: Rosita  (x1)  [sin_traducir]
-- EN: Ryu Jiggens
-  ES: Ryu Jiggens  (x1)  [sin_traducir]
-- EN: Sabah Shaz
-  ES: Sabah Shaz  (x1)  [sin_traducir]
-- EN: Sally
-  ES: Sally  (x1)  [sin_traducir]
-- EN: Sam Hasnul
-  ES: Sam Hasnul  (x1)  [sin_traducir]
-- EN: Sam Mutt
-  ES: Sam Mutt  (x1)  [sin_traducir]
-- EN: Sam Parlow
-  ES: Sam Parlow  (x1)  [sin_traducir]
-- EN: Shawn Beckman
-  ES: Shawn Beckman  (x1)  [sin_traducir]
-- EN: Sherman Chong
-  ES: Sherman Chong  (x1)  [sin_traducir]
-- EN: Stephanie
-  ES: Stephanie  (x1)  [sin_traducir]
-- EN: Summers?
-  ES: Summers?  (x1)  [sin_traducir]
-- EN: Taka Ann
-  ES: Taka Ann  (x1)  [sin_traducir]
-- EN: Tammy
-  ES: Tammy  (x1)  [sin_traducir]
-- EN: Taylor Perrera
-  ES: Taylor Perrera  (x1)  [sin_traducir]
-- EN: The Click Hole
-  ES: The Click Hole  (x1)  [sin_traducir]
-- EN: This service is complimentary for 1 year from this date.
-  ES: Este servicio es gratuito por 1 año a partir de esta fecha  (x1)  [posible_truncado]
-- EN: Tim Faraday
-  ES: Tim Faraday  (x1)  [sin_traducir]
-- EN: Titanic
-  ES: Titanic  (x1)  [sin_traducir]
-- EN: Tobias
-  ES: Tobias  (x1)  [sin_traducir]
-- EN: Toby
-  ES: Toby  (x1)  [sin_traducir]
-- EN: Toby?
-  ES: Toby?  (x1)  [sin_traducir]
-- EN: Twister?
-  ES: Twister?  (x1)  [sin_traducir]
-- EN: Valerie Smith
-  ES: Valerie Smith  (x1)  [sin_traducir]
-- EN: Walter Whitelaw
-  ES: Walter Whitelaw  (x1)  [sin_traducir]
-- EN: Woodsboro
-  ES: Woodsboro  (x1)  [sin_traducir]
-- EN: Yolanda?
-  ES: Yolanda?  (x1)  [sin_traducir]
-- EN: Yusof Kitt
-  ES: Yusof Kitt  (x1)  [sin_traducir]
-- EN: __LINK151, spark.demon.nav_to_demon
-  ES: __LINK151, spark.demon.nav_to_demon  (x1)  [sin_traducir]
-- EN: a3_impersonating_ashley, __LINK122
-  ES: a3_impersonating_ashley, __LINK122  (x1)  [sin_traducir]
-- EN: a3_impersonating_ashley, __LINK2
-  ES: a3_impersonating_ashley, __LINK2  (x1)  [sin_traducir]
-- EN: a3_impersonating_generic, __LINK1
-  ES: a3_impersonating_generic, __LINK1  (x1)  [sin_traducir]
-- EN: a3_saving_anna, __LINK121
-  ES: a3_saving_anna, __LINK121  (x1)  [sin_traducir]
-- EN: a3_saving_anna, __LINK125
-  ES: a3_saving_anna, __LINK125  (x1)  [sin_traducir]
-- EN: a3_saving_anna, __LINK132
-  ES: a3_saving_anna, __LINK132  (x1)  [sin_traducir]
-- EN: a3_saving_anna, __LINK133
-  ES: a3_saving_anna, __LINK133  (x1)  [sin_traducir]
-- EN: a3_saving_both, __LINK121
-  ES: a3_saving_both, __LINK121  (x1)  [sin_traducir]
-- EN: a3_saving_both, __LINK149
-  ES: a3_saving_both, __LINK149  (x1)  [sin_traducir]
-- EN: a3_saving_neither, __LINK132
-  ES: a3_saving_neither, __LINK132  (x1)  [sin_traducir]
-- EN: a3_saving_neither, __LINK135
-  ES: a3_saving_neither, __LINK135  (x1)  [sin_traducir]
-- EN: a3_saving_taylor, __LINK121
-  ES: a3_saving_taylor, __LINK121  (x1)  [sin_traducir]
-- EN: a3_saving_taylor, __LINK125
-  ES: a3_saving_taylor, __LINK125  (x1)  [sin_traducir]
-- EN: a3_saving_taylor, __LINK132
-  ES: a3_saving_taylor, __LINK132  (x1)  [sin_traducir]
-- EN: a3_saving_taylor, __LINK134
-  ES: a3_saving_taylor, __LINK134  (x1)  [sin_traducir]
-- EN: a3_stat_saved_anna, __LINK152
-  ES: a3_stat_saved_anna, __LINK152  (x1)  [sin_traducir]
-- EN: a3_stat_saved_both, __LINK184
-  ES: a3_stat_saved_both, __LINK184  (x1)  [sin_traducir]
-- EN: a3_stat_saved_none, __LINK67
-  ES: a3_stat_saved_none, __LINK67  (x1)  [sin_traducir]
-- EN: a3_stat_saved_none, __LINK78
-  ES: a3_stat_saved_none, __LINK78  (x1)  [sin_traducir]
-- EN: a3_stat_saved_taylor, __LINK167
-  ES: a3_stat_saved_taylor, __LINK167  (x1)  [sin_traducir]
-- EN: chats.busted.a3_demon_lures, __LINK65
-  ES: chats.busted.a3_demon_lures, __LINK65  (x1)  [sin_traducir]
-- EN: chats.busted.a3_tricked_ashley, __LINK150
-  ES: chats.busted.a3_tricked_ashley, __LINK150  (x1)  [sin_traducir]
-- EN: nav_restricted, __LINK1, __LINK2
-  ES: nav_restricted, __LINK1, __LINK2  (x1)  [sin_traducir]
-- EN: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna
-  ES: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna  (x1)  [sin_traducir]
-- EN: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66
-  ES: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66  (x1)  [sin_traducir]
+  ES: Taylor  (x69)
 - EN: Message from Aulner
   ES: Mensaje de Aulner    (x13)
 - EN: Hey
   ES: Oye  (x12)
 - EN: Hey!
   ES: Oye!  (x8)
+- EN: No
+  ES: No  (x8)
 - EN: Music
   ES: Música  (x7)
 - EN: Sign In
   ES: Iniciar  (x7)
 - EN: What?
   ES: ¿Qué?  (x7)
+- EN: Anna
+  ES: Anna  (x6)
 - EN: Food
   ES: Comida  (x6)
 - EN: Hello?
@@ -428,6 +46,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Discrepancias  (x5)
 - EN: Division of State Police
   ES: División de la Policía Estatal  (x5)
+- EN: Oh
+  ES: Oh  (x5)
 - EN: This information is made available for the purpose of\ncomplying with 89382 section 33221, which requires\nthe Department of Public Safety to establish and\nmaintain a registry of persons who are required to reg-\nister as sex offenders and to post electronically infor-\nmation on sex offenders. The registry is based on the\nlegislature's decision to facilitate access to publicly\navailable information about persons convicted of\nsexual offenses.
   ES: Esta información se publica con el fin de\ncumplir con el artículo 33221 de la ley 89382, que obliga\nal Departamento de Seguridad Pública a crear\ny mantener un registro de personas obligadas a\ninscribirse como delincuentes sexuales, y publicar\ninformación sobre ellas en internet. Este registro\nresponde a la decisión legislativa de facilitar\nel acceso público a información sobre personas\ncondenadas por delitos sexuales.  (x5)
 - EN: Who is this?
@@ -452,6 +72,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mensaje de James    (x4)
 - EN: Movies
   ES: Películas  (x4)
+- EN: Ok
+  ES: Ok  (x4)
 - EN: Outdoors
   ES: Aire libre  (x4)
 - EN: Pets and Animals
@@ -478,6 +100,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Bien  (x3)
 - EN: First Name :
   ES: Nombre :      (x3)
+- EN: Greg Summers
+  ES: Greg Summers  (x3)
 - EN: Haha
   ES: Jaja  (x3)
 - EN: Havent heard that name in awhile
@@ -486,6 +110,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Oye.  (x3)
 - EN: Huh?
   ES: ¿Eh?  (x3)
+- EN: I R I S. OS
+  ES: I R I S. OS  (x3)
 - EN: I am starting to understand
   ES: Estoy empezando a entender   (x3)
 - EN: I couldnt convince him
@@ -540,6 +166,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sí  (x3)
 - EN: Yeah
   ES: Sí   (x3)
+- EN: Yolanda
+  ES: Yolanda  (x3)
 - EN: You know
   ES: Sabes     (x3)
 - EN: Youre not who now?
@@ -620,6 +248,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mientras viva      (x2)
 - EN: As part of our commitment to drive\nprosperity forward in our\nneighborhoods, Ridr is opening\na window of opportunity for all\npassengers and drivers for the\nnext three weeks.
   ES: Como parte de nuestro compromiso de impulsar\nla prosperidad en nuestros\nbarrios, Ridr abre\nuna ventana de oportunidad para todos\nlos pasajeros y conductores durante las\npróximas tres semanas.  (x2)
+- EN: Ashley?!?!
+  ES: Ashley?!?!  (x2)
 - EN: At least they are not dead
   ES: Al menos no están muertos  (x2)
 - EN: Awesome!
@@ -638,6 +268,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Puedo salvar a los dos?  (x2)
 - EN: Can you restore my phone data from my PC?
   ES: ¿Puedes restaurar los datos de mi teléfono desde mi PC?  (x2)
+- EN: Cassie
+  ES: Cassie  (x2)
 - EN: Caught red handed.
   ES: Lo atraparon con las manos en la masa.  (x2)
 - EN: Chat Images
@@ -696,6 +328,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: POR MUCHO  (x2)
 - EN: FUCK OFF MY LIFE
   ES: FUERA DE MI VIDA  (x2)
+- EN: Faraday Safety
+  ES: Faraday Safety  (x2)
 - EN: Faris & Kane stand by its commitment\nto style and prestige in the era of\nnew technologies. Fashion, like any\nother field of human endeavor, is en-\nhanced by the digital age.
   ES: Faris & Kane mantiene su compromiso\ncon el estilo y el prestigio en la era de\nlas nuevas tecnologías. La moda, como cualquier\notro campo del esfuerzo humano, se mejo-\nra con la era digital.  (x2)
 - EN: Feeling unlucky in love?\nCome visit our famous SPARK IRL events!
@@ -730,6 +364,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Buena suerte entonces!  (x2)
 - EN: Goodbye
   ES: Adiós  (x2)
+- EN: Greg?
+  ES: Greg?  (x2)
+- EN: Greg?!?!
+  ES: Greg?!?!  (x2)
 - EN: HAH!
   ES: JA!   (x2)
 - EN: HOLD up
@@ -884,6 +522,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No está bien  (x2)
 - EN: Its password protected
   ES: Está protegido con contraseña  (x2)
+- EN: James?!
+  ES: James?!  (x2)
 - EN: Jesus
   ES: Jesús  (x2)
 - EN: Leave Taylor out of this!
@@ -954,6 +594,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Oh      (x2)
 - EN: Oh god!
   ES: ¡Oh, Dios!  (x2)
+- EN: Okok
+  ES: Okok  (x2)
 - EN: Or red fingered, becasue its in text
   ES: O con las manos en la masa, porque está por escrito  (x2)
 - EN: Our material life is not meaningless
@@ -1004,6 +646,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Cierto.  (x2)
 - EN: Right?
   ES: ¿Verdad?  (x2)
+- EN: Robert
+  ES: Robert  (x2)
 - EN: SHOULDVE KNOWN YOURE GOING TO SET ME UP
   ES: DEBÍ SABER QUE ME IBAS A TENDER UNA TRAMPA  (x2)
 - EN: SPARK IRL is our invitation-only\nsignature singles events for\nthose who want something\na little more than swiping.
@@ -1126,6 +770,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Esto es demasiado  (x2)
 - EN: This kinda confirms what I found as well!
   ES: ¡Esto casi confirma lo que yo también encontré!  (x2)
+- EN: This service is complimentary for 1 year from this date.
+  ES: Este servicio es gratuito durante un año a partir de esta fecha.  (x2)
 - EN: This website uses cookies.
   ES: Este sitio usa cookies.     (x2)
 - EN: Time out
@@ -1292,12 +938,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿mis habilidades de persuasión superan las tuyas?  (x2)
 - EN: now the code won't work!
   ES: ¡ahora el código no funciona!  (x2)
+- EN: nsfw.gov.web/?r=15213
+  ES: nsfw.gov.web/?r=15213  (x2)
+- EN: nsfw.gov.web/lookup?q=taylorperrera
+  ES: nsfw.gov.web/lookup?q=taylorperrera  (x2)
 - EN: polar feathered bear
   ES: oso polar emplumado   (x2)
+- EN: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
+  ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8  (x2)
 - EN: tIMe Is sHoRt
   ES: El TiEmPo Se AcAbA  (x2)
 - EN: updating is easy and free*!
   ES: actualizar es gratis*!       (x2)
+- EN: © IRIS SYSTEMS INC.
+  ES: © IRIS SYSTEMS INC.  (x2)
 - EN: ‘Gared and I are head over heels. \nNever felt better. \nThanks Spark!’ - Elaine
   ES: «Gared y yo estamos perdidamente enamorados.\nNunca me había sentido mejor.\n¡Gracias, Spark!» - Elaine  (x2)
 - EN: ‘It was love at first click.\nThis is the future.’ - Jyn
@@ -1334,6 +988,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *SIEMPRE CUIDANDO DE TI*    (x1)
 - EN: *ALWAYS WATCHING OVER YOU*
   ES: *SIEMPRE VIGILANDOTE!!*     (x1)
+- EN: *Yolanda*
+  ES: *Yolanda*  (x1)
 - EN: *background* I think this is the answering machine, I’ll just leave a message first.*
   ES: *fondo* Creo que este es el contestador automático, primero dejaré un mensaje.*        (x1)
 - EN: *blurgs extend tiny mouths that also blurg, like Alien*
@@ -1458,6 +1114,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: *viento y latidos creciente  (x1)
 - EN: *you're
   ES: *eres    (x1)
+- EN: +1 A41D GR3G
+  ES: +1 A41D GR3G  (x1)
 - EN: - Anna, my name is Anna, my name is Anna-
   ES: - Anna, me llamo Anna, me llamo Anna-  (x1)
 - EN: -my name is Anna, my name is Anna, my name is-
@@ -1466,12 +1124,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: -Al ver esto, no vengas a buscarme. No-       (x1)
 - EN: -thing.
   ES: -cosa.   (x1)
+- EN: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1
+  ES: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1  (x1)
 - EN: 00cc33
   ES: 00cc33  (x1)
 - EN: 00cccc
   ES: 00cccc  (x1)
 - EN: 00ffff
   ES: 00ffff  (x1)
+- EN: 1-800-MURILO
+  ES: 1-800-MURILO  (x1)
 - EN: 2 more to go!
   ES: ¡Quedan 2!    (x1)
 - EN: 2 out of 3 times it  works 100% of the times
@@ -1520,6 +1182,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: 5. El Hurón   (x1)
 - EN: 6633cc
   ES: 6633cc  (x1)
+- EN: 66EA3521113
+  ES: 66EA3521113  (x1)
 - EN: 75% chance that at any given time we are the most boring couple in the room
   ES: Hay un 75 % de probabilidades de que seamos la pareja más aburrida del lugar.  (x1)
 - EN: 80s kid eh?
@@ -1674,6 +1338,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: DESARROLLO DE APP  (x1)
 - EN: APP DEVELOPMENT
   ES: DESARROLLO DE APPS  (x1)
+- EN: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM
+  ES: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM  (x1)
+- EN: Abby Shin
+  ES: Abby Shin  (x1)
 - EN: About the same.
   ES: Más o menos igual.  (x1)
 - EN: About this "Greg"
@@ -1690,6 +1358,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: En realidad, no soy Anna  (x1)
 - EN: Admit it! You could've have done this without me! When you asked for Anna's favorite movie for whatever reason. I gave it to you FOR FREE. All I ask is for her picture and you couldn't even do that!
   ES: ¡Admítelo! No habrías podido hacerlo sin mí. Cuando me pediste la película favorita de Anna, te la dije GRATIS. Solo te pedí una foto de ella y ¡ni siquiera pudiste hacer eso!  (x1)
+- EN: Adwin Chong
+  ES: Adwin Chong  (x1)
 - EN: After all that?
   ES: ¿Después de todo eso?  (x1)
 - EN: After coming off a shitty relationship
@@ -1722,6 +1392,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ah sí.. espero que todo esté en orden      (x1)
 - EN: Ah!
   ES: ¡Ah!  (x1)
+- EN: Albert
+  ES: Albert  (x1)
+- EN: Alex
+  ES: Alex  (x1)
+- EN: Alex Freeman
+  ES: Alex Freeman  (x1)
+- EN: Alex Grant
+  ES: Alex Grant  (x1)
+- EN: Alexis Worth
+  ES: Alexis Worth  (x1)
+- EN: Alfred Perlo
+  ES: Alfred Perlo  (x1)
 - EN: All I am hearing are just excuses
   ES: Todo lo que escucho son excusas    (x1)
 - EN: All I am saying is I think there is more to Greg that he is leading on.
@@ -1986,14 +1668,20 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Anna estas ahi?  (x1)
 - EN: Anna youre the only bestie I ever had
   ES: Anna, tú eres la única mejor amiga que he tenido  (x1)
+- EN: Anna!
+  ES: Anna!  (x1)
 - EN: Anna's notebook mentioned that she met someone
   ES: El cuaderno de Anna mencionó que conoció a alguien  (x1)
 - EN: Anna's the girl on her wallpaper, right?
   ES: Anna es la chica del fondo de pantalla, ¿verdad?  (x1)
+- EN: Annabelle
+  ES: Annabelle  (x1)
 - EN: Announcement!
   ES: ¡Anuncio!     (x1)
 - EN: Announcement!
   ES: ¡Anuncio!  (x1)
+- EN: Annun
+  ES: Annun  (x1)
 - EN: Another Spark newbie lol
   ES: Otro novato de Spark      (x1)
 - EN: Another girl who is pissed at me
@@ -2006,6 +1694,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Otra idea suelta.        (x1)
 - EN: Another tech company scandal
   ES: Otro escándalo de una empresa tecnológica  (x1)
+- EN: Anous
+  ES: Anous  (x1)
 - EN: Answer me so I don't have to file a missing person's report
   ES: Respóndeme para no tener que presentar un reporte de persona desaparecida  (x1)
 - EN: Any dentist recommendation? Somewhere near my area would be great
@@ -2048,6 +1738,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: igual, parece que te diviertes con Victor.    (x1)
 - EN: Apologies for the delay
   ES: Disculpa el retraso      (x1)
+- EN: Applesauce
+  ES: Applesauce  (x1)
 - EN: Application accepted
   ES: Solicitud aceptada    (x1)
 - EN: Applied for UC but I got rejected
@@ -2174,6 +1866,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Al final del día  (x1)
 - EN: At the very least you are an acomplice
   ES: Al menos eres cómplice                 (x1)
+- EN: Aulner
+  ES: Aulner  (x1)
 - EN: Aunt Penny has a position in her company
   ES: La tía Penny tiene un puesto en su empresa  (x1)
 - EN: Aunt Penny is coming over for a visit soon
@@ -2230,18 +1924,30 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Ser la directora editorial no te convierte en la reina del mundo!      (x1)
 - EN: Being verbally abusive is not far from being physical
   ES: El abuso verbal no está muy lejos del abuso físico.  (x1)
+- EN: Bella
+  ES: Bella  (x1)
+- EN: Ben Cavanaugh
+  ES: Ben Cavanaugh  (x1)
 - EN: Bet you get that wrong half the time.
   ES: Apuesto a que te equivocas la mitad de las veces.  (x1)
 - EN: Better
   ES: Mejor  (x1)
 - EN: Between me and Greg, that two-timing jerk of a boyfriend and ME! You just had to side with him, didn't you?! Whose idea did we use in the end? Mine! And it WORKED!
   ES: Entre Greg, ese novio tramposo y desleal, y YO! Tenías que ponerte de su lado, no?! De quien fue la idea que usamos al final? Mia! Y FUNCIONO!  (x1)
+- EN: Bill
+  ES: Bill  (x1)
+- EN: Bill Harper
+  ES: Bill Harper  (x1)
+- EN: Black Beauty
+  ES: Black Beauty  (x1)
 - EN: Blackmail?
   ES: ¿Chantaje?  (x1)
 - EN: Blah blah blah… We thank you… blah blah blah.
   ES: Bla bla bla… Te agradecemos… bla bla bla.  (x1)
 - EN: Blehhh
   ES: Bleh  (x1)
+- EN: Blehhhhhh
+  ES: Blehhhhhh  (x1)
 - EN: Bombarded her with calls and messages to the point where she just went..
   ES: La llenaron de llamadas y mensajes hasta que se fue..                     (x1)
 - EN: Boots? Loafers? Leathers
@@ -2256,6 +1962,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Los dos tienen buenos argumentos.  (x1)
 - EN: Bow-chicka-wow-wow!
   ES: ¡Bow-chicka-wow-wow!  (x1)
+- EN: Brandon K
+  ES: Brandon K  (x1)
+- EN: Bruce
+  ES: Bruce  (x1)
 - EN: Btw
   ES: Por cierto  (x1)
 - EN: Buddy! Pal! Friend!
@@ -2494,14 +2204,22 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No se encontró el número de tarjeta.  (x1)
 - EN: Case Study: "GIVE ZERO FUCKS"
   ES: Estudio de caso: "ME VALE MADRES"  (x1)
+- EN: Cassandra
+  ES: Cassandra  (x1)
 - EN: Cassie has a boyfriend!?!? 😱😱😱😱
   ES: Cassie tiene novio!?!? 😱😱😱😱  (x1)
+- EN: Cassie,
+  ES: Cassie,  (x1)
+- EN: Casual
+  ES: Casual  (x1)
 - EN: Cat person.
   ES: Amante de los gatos.  (x1)
 - EN: Cat 😺
   ES: Gato 😺  (x1)
 - EN: Catherine Pace
   ES: Catalina Pace   (x1)
+- EN: Chandra Nala
+  ES: Chandra Nala  (x1)
 - EN: Changed it?
   ES: ¿Lo cambiaste?  (x1)
 - EN: Charity
@@ -2528,6 +2246,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Relájate  (x1)
 - EN: Chillin is always better with company 😊
   ES: Relajarse siempre es mejor en compañía 😊  (x1)
+- EN: Chloe Rice
+  ES: Chloe Rice  (x1)
 - EN: Chris
   ES: cris   (x1)
 - EN: Classic! 😄
@@ -2614,10 +2334,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Malditos teléfonos.  (x1)
 - EN: Damn piece of trash
   ES: Maldito pedazo de basura  (x1)
+- EN: Danny
+  ES: Danny  (x1)
 - EN: Dave
   ES: dave  (x1)
 - EN: Dave C
   ES: David   (x1)
+- EN: David Teegan
+  ES: David Teegan  (x1)
 - EN: Ddnt mean to sound weird but you get my drift
   ES: No quise sonar raro pero me entiendes          (x1)
 - EN: Debatable
@@ -2626,6 +2350,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La difamación es un delito  (x1)
 - EN: Designer at Phresh Ideas
   ES: Diseñador en Phresh Ideas  (x1)
+- EN: Desiree
+  ES: Desiree  (x1)
+- EN: Det. Murilo
+  ES: Det. Murilo  (x1)
 - EN: Developed the skills to manage other people
   ES: Desarrolle habilidades para gestionar otras  (x1)
 - EN: Dice Roll Insurance
@@ -2860,8 +2588,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Fácil      (x1)
 - EN: Easy!
   ES: ¡Tranquilo!  (x1)
+- EN: Ed
+  ES: Ed  (x1)
+- EN: Edwin
+  ES: Edwin  (x1)
+- EN: Edwin Byrd
+  ES: Edwin Byrd  (x1)
+- EN: Eh
+  ES: Eh  (x1)
 - EN: Eh.. close enough
   ES: Eh.. suficientemente cerca  (x1)
+- EN: Ehhhhhhhh
+  ES: Ehhhhhhhh  (x1)
 - EN: Elizabeth
   ES: Isabel     (x1)
 - EN: Elizabeth HR
@@ -2876,6 +2614,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Le gusta ser voluntario en el asilo, adoptar cachorros y rescatar ninos de incendios                       (x1)
 - EN: Entropy has taken form once more.
   ES: La Entropía ha tomado forma una vez más.  (x1)
+- EN: Erin Mabel
+  ES: Erin Mabel  (x1)
 - EN: Erm
   ES: Emm  (x1)
 - EN: Err... random.
@@ -2884,6 +2624,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Especialmente si es de internet?  (x1)
 - EN: Especially the other guys
   ES: Especialmente de otros     (x1)
+- EN: Eve Farrell
+  ES: Eve Farrell  (x1)
 - EN: Even I am still figuring it out
   ES: Ni yo lo tengo claro del todo    (x1)
 - EN: Even for my taste
@@ -2934,6 +2676,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Explica  (x1)
 - EN: Explain her Spark meeting then
   ES: Entonces explica su encuentro por Spark.  (x1)
+- EN: Eyeris
+  ES: Eyeris  (x1)
 - EN: FUCK I WARNED YOU ABOUT THIS
   ES: CARAJOS TE LO ADVERTI         (x1)
 - EN: FUCK I should have known!
@@ -2948,6 +2692,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ultimas palabras   (x1)
 - EN: Far from it
   ES: Para nada  (x1)
+- EN: Faraday
+  ES: Faraday  (x1)
+- EN: Faraday Securities
+  ES: Faraday Securities  (x1)
+- EN: Farah Ramsey
+  ES: Farah Ramsey  (x1)
+- EN: Faris & Kane
+  ES: Faris & Kane  (x1)
 - EN: Faris & Kane - Shop here!
   ES: Faris & Kane - ¡Compre aquí!  (x1)
 - EN: Faris & Kane stands by its commitment to style and prestige in the era of new technologies.
@@ -3056,6 +2808,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Encontré algo en su computadora  (x1)
 - EN: Freak as in lover.
   ES: Freak como amante.  (x1)
+- EN: Fred
+  ES: Fred  (x1)
+- EN: Fred Tanner
+  ES: Fred Tanner  (x1)
+- EN: Fred Watson
+  ES: Fred Watson  (x1)
+- EN: Free Willy
+  ES: Free Willy  (x1)
 - EN: Freedom to alternative facts, Power through different truths
   ES: Libertad ante hechos alternativos, Poder a través de verdad  (x1)
 - EN: From Phresh Ideas
@@ -3098,6 +2858,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Dato curioso. Los buffets de helados son la principal causa de comas alimenticios  (x1)
 - EN: Funny, you dont seem like the techie
   ES: Jaja, no pareces ser de tecnología   (x1)
+- EN: Futa Baker
+  ES: Futa Baker  (x1)
 - EN: Fuuuuuuuuckkk
   ES: ¡Mieeeerda!  (x1)
 - EN: GO THEN dont blame if things go bad
@@ -3136,6 +2898,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Uf, está bien.  (x1)
 - EN: Gideon Jung
   ES: Gedeón Jung  (x1)
+- EN: Gillan Tan
+  ES: Gillan Tan  (x1)
 - EN: Girl: Hey you look troubled\nMe: Oh its nothing\nGirl: Whats on your mind\nMe: "how do porcupines have sex?"
   ES: Chica: Oye, te ves preocupada.\nYo: ah no es nada\nChica: ¿Qué tienes en mente?\nYo: "¿Cómo tienen sexo   (x1)
 - EN: Girls on the internet are too perfect
@@ -3204,6 +2968,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Raro bueno?  (x1)
 - EN: Goodbye
   ES: Adiós   (x1)
+- EN: Gordon Akram
+  ES: Gordon Akram  (x1)
 - EN: Gosh what am I doing worrying so much
   ES: Dios, que estoy haciendo               (x1)
 - EN: Got a good book rhythm going.
@@ -3314,6 +3080,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Es difícil move  (x1)
 - EN: Harrassment
   ES: Acoso  (x1)
+- EN: Haru Oakey
+  ES: Haru Oakey  (x1)
 - EN: Have a friend follow you
   ES: Ten un amigo que te siga  (x1)
 - EN: Have a nice day!
@@ -3648,6 +3416,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Mmm, ¿por qué Anna no llamaría a su propio teléfono ya?  (x1)
 - EN: Hmmmm.
   ES: Mmmmm.  (x1)
+- EN: Hmmmmm
+  ES: Hmmmmm  (x1)
 - EN: Holy fuckin shit
   ES: Santa mierda      (x1)
 - EN: Holy shit its Anna!
@@ -3880,6 +3650,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estoy aquí para preguntar sobre James Aulner  (x1)
 - EN: I am just getting started
   ES: Estoy apenas empezando     (x1)
+- EN: I am just going to look for her.
+  ES: Solo voy a buscarla.  (x1)
 - EN: I am just going to walk in and get the job done
   ES: Simplemente voy a entrar y hacer el trabajo      (x1)
 - EN: I am leaving this to you
@@ -5136,10 +4908,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ES SU VOZ  (x1)
 - EN: ITs VoICe
   ES: SU VOZ     (x1)
+- EN: Iain Gorman
+  ES: Iain Gorman  (x1)
 - EN: Ice cream does sound amazeballs tho
   ES: El helado suena genial igual         (x1)
 - EN: Id ask you the same thing
   ES: Yo te preguntaría lo mismo  (x1)
+- EN: Ideas
+  ES: Ideas  (x1)
 - EN: If Candy Crush is not a real game, what is?
   ES: Si Candy Crush no es un juego de verdad, ¿cuál lo es?  (x1)
 - EN: If I am offending you
@@ -5384,6 +5160,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Cuenta no váli  (x1)
 - EN: Invalid command.
   ES: Comando no válido.  (x1)
+- EN: Iris
+  ES: Iris  (x1)
+- EN: Iris Chat
+  ES: Iris Chat  (x1)
 - EN: Iris OS
   ES: Sistema  (x1)
 - EN: Is
@@ -5824,8 +5604,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: UNETE!    (x1)
 - EN: Jabbr
   ES: Jabbr  (x1)
+- EN: Jackie C
+  ES: Jackie C  (x1)
+- EN: Jacob Rex
+  ES: Jacob Rex  (x1)
 - EN: James - Recovered
   ES: James - Recuper.   (x1)
+- EN: James Aulner
+  ES: James Aulner  (x1)
 - EN: James Aulner spoke highly of you guys. Do you know him?
   ES: James Aulner habló muy bien de ustedes. ¿Lo conocen?   (x1)
 - EN: James huh...
@@ -5848,10 +5634,24 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: El teléfono de James fue encontrado por otra persona  (x1)
 - EN: James?
   ES: ¿James?  (x1)
+- EN: Jay Tyler
+  ES: Jay Tyler  (x1)
+- EN: Jayson Olsen
+  ES: Jayson Olsen  (x1)
+- EN: Jeniffer
+  ES: Jeniffer  (x1)
+- EN: Jesse Shell
+  ES: Jesse Shell  (x1)
+- EN: Jessica
+  ES: Jessica  (x1)
+- EN: Jimmy
+  ES: Jimmy  (x1)
 - EN: Join Spark and light up your love life.
   ES: Únete a Spark e ilumina tu vida amorosa.  (x1)
 - EN: Join Spark and light up your love life.
   ES: Únete a Spark y enciende tu vida amorosa.  (x1)
+- EN: Josh Chen
+  ES: Josh Chen  (x1)
 - EN: Just a bit under the weather.
   ES: Solo un poco mal del estómago.  (x1)
 - EN: Just a boring old phone
@@ -5968,6 +5768,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo.. Haz lo que puedas, ¿ok?  (x1)
 - EN: Justice is more important. Send the report
   ES: La justicia es más importante. Envía el informe.  (x1)
+- EN: Justin Woodman
+  ES: Justin Woodman  (x1)
+- EN: Kad Deidre
+  ES: Kad Deidre  (x1)
+- EN: Kappafeed
+  ES: Kappafeed  (x1)
+- EN: Kate
+  ES: Kate  (x1)
 - EN: Keep an eye on my upcoming posts! Find the hidden phone number! If you figured it out, just call me for your AMA with me ;)
   ES: ¡Estate atento a mis próximas publicaciones! ¡Encuentra el número de teléfono oculto! Si lo descubriste, llámame para tu AMA conmigo ;)  (x1)
 - EN: Keep it that way
@@ -5976,6 +5784,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: No involucres a mi identidad en internet, @keepingitcassie, en esto.  (x1)
 - EN: Keep that up and I’ll let you see the good parts of me
   ES: Sigue así y te dejaré ver mis partes buenas             (x1)
+- EN: Ken Nagel
+  ES: Ken Nagel  (x1)
+- EN: Kesh O Mara
+  ES: Kesh O Mara  (x1)
+- EN: Kevin Baxter
+  ES: Kevin Baxter  (x1)
 - EN: Key doesn't work?
   ES: ¿No funciona la llave?  (x1)
 - EN: Kinda misleading isnt it?
@@ -5984,6 +5798,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso le quita un poco la gracia a las citas, ¿no?  (x1)
 - EN: King
   ES: Rey   (x1)
+- EN: Kyle Deeley
+  ES: Kyle Deeley  (x1)
 - EN: LETS DO THIS
   ES: HAGAMOSLO     (x1)
 - EN: LOl you did not
@@ -6006,12 +5822,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Déjame en paz con mis chistes malos.  (x1)
 - EN: Leave no stone unturned!
   ES: ¡No dejes piedra por mover!  (x1)
+- EN: Lee Everee
+  ES: Lee Everee  (x1)
 - EN: Lemme guess
   ES: Dejame       (x1)
 - EN: Lemme guess.
   ES: Déjame adivinar.  (x1)
 - EN: Lemme know when done!
   ES: ¡Avísame cuando termines!  (x1)
+- EN: Lester
+  ES: Lester  (x1)
 - EN: Let me clear it up
   ES: Déjame explicarlo.  (x1)
 - EN: Let me fix this
@@ -6104,6 +5924,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Qué pasa si quieres devolver algo?        (x1)
 - EN: Lil Lisa
   ES: Pequeña  (x1)
+- EN: Lilli Vesely
+  ES: Lilli Vesely  (x1)
 - EN: Listen for yourself
   ES: Escuchalo tu mismo   (x1)
 - EN: Listen wisecrack, you dont know her
@@ -6166,6 +5988,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Te amo.    (x1)
 - EN: Loves memes
   ES: Me encantan  (x1)
+- EN: Luis Sutcliffe
+  ES: Luis Sutcliffe  (x1)
 - EN: MOved to town together
   ES: Nos MUDAMOS al pueblo   (x1)
 - EN: MY CAREER IS FUCKED!
@@ -6174,6 +5998,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: MI DENTISTA LE PIDIO A SU ASISTENTE QUE ME SUCCIONARA EL AGUA DE LA BOCA. CREYENDO QUE ME HABLABA A MI LE SUCCIONE EL DEDO. ESTOY ATERRORIZADA  (x1)
 - EN: Made an impact on your company's bottom line
   ES: Dejaste una marca en resultados de empresa    (x1)
+- EN: Madison Mike
+  ES: Madison Mike  (x1)
 - EN: Make him feel bad
   ES: Hazlo sentir mal   (x1)
 - EN: Make sure to get all of them so you don't miss out
@@ -6202,6 +6028,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Vaya, no tienes calma.   (x1)
 - EN: Managed to dig depper into her phone?
   ES: ¿Lograste investigar más a fondo su teléfono?  (x1)
+- EN: Mark
+  ES: Mark  (x1)
+- EN: Mark Waters
+  ES: Mark Waters  (x1)
+- EN: Marko Nixon
+  ES: Marko Nixon  (x1)
+- EN: Matt Wilson
+  ES: Matt Wilson  (x1)
+- EN: Max Clauf
+  ES: Max Clauf  (x1)
 - EN: Max points to all of them
   ES: Puntos maximos para todos  (x1)
 - EN: Maybe
@@ -6286,6 +6122,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Encuéntrame  (x1)
 - EN: Meet someone from SPARK! 😱😱
   ES: ¡¡Alguien de SPARK! 😱😱     (x1)
+- EN: Melanie Fox
+  ES: Melanie Fox  (x1)
 - EN: Members can enjoy up to 20% discount, on selected items.
   ES: Miembros gozan 20% de descuento en articulos elegidos.    (x1)
 - EN: Message from Anna
@@ -6301,6 +6139,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
 - EN: Minimal
   ES: Mínimo  (x1)
 - EN: Mom
+  ES: Mom  (x1)
+- EN: Mom
   ES: Mam  (x1)
 - EN: Monica
   ES: Mónica  (x1)
@@ -6314,6 +6154,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Más razón para conocerla, ¿verdad?  (x1)
 - EN: More spying?
   ES: ¿Más espionaje?  (x1)
+- EN: Morgan Nason
+  ES: Morgan Nason  (x1)
+- EN: Murv
+  ES: Murv  (x1)
 - EN: Murv made it real clear
   ES: Murv lo dejo bien claro  (x1)
 - EN: Must
@@ -6382,6 +6226,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sitio web nacional de delincuentes sexuales  (x1)
 - EN: Naw nothing like that!
   ES: ¡No, nada de eso!      (x1)
+- EN: Naya Scott
+  ES: Naya Scott  (x1)
 - EN: Need some help
   ES: Necesito ayuda  (x1)
 - EN: Need to take my mind of Greg.
@@ -6420,6 +6266,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Qué bueno!  (x1)
 - EN: Night.
   ES: Buenas noches.  (x1)
+- EN: Nissa Renner
+  ES: Nissa Renner  (x1)
 - EN: Nite
   ES: Noches  (x1)
 - EN: No I am NOT agreeing with you
@@ -6486,6 +6334,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡No!  (x1)
 - EN: No, this is wrong
   ES: No, esto esta mal  (x1)
+- EN: No.
+  ES: No.  (x1)
 - EN: No.. This is not right..
   ES: No.. Esto no esta bien..  (x1)
 - EN: No.. this cant wait any longer
@@ -6506,8 +6356,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ninguna.    (x1)
 - EN: Nono! not at all
   ES: ¡No! para nada   (x1)
+- EN: Nononono
+  ES: Nononono  (x1)
 - EN: Noononoon
   ES: Nono no no  (x1)
+- EN: Noooooooooo
+  ES: Noooooooooo  (x1)
 - EN: Nope
   ES: No    (x1)
 - EN: Nope, its switched off.
@@ -6640,6 +6494,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Navaja de Occam  (x1)
 - EN: Occupied??
   ES: ¿Ocupado?  (x1)
+- EN: Odric Marshel
+  ES: Odric Marshel  (x1)
 - EN: Of anybody
   ES: De cualquiera  (x1)
 - EN: Of course I did!
@@ -6744,8 +6600,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ah, ok  (x1)
 - EN: Oh. yeah.
   ES: Oh. sí.   (x1)
+- EN: Ohh
+  ES: Ohh  (x1)
 - EN: Ohhh!! what is she like on Jabbr? 😜
   ES: ¡¡Ohhh!! ¿cómo es en Jabbr? 😜    (x1)
+- EN: Oh~~
+  ES: Oh~~  (x1)
 - EN: Ok I got something
   ES: Ok, tengo algo      (x1)
 - EN: Ok I know youre sick of talking about Greg
@@ -6836,6 +6696,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Bueno?  (x1)
 - EN: Okey dokey?
   ES: ¿De acuerdo?  (x1)
+- EN: Oliver Peters
+  ES: Oliver Peters  (x1)
 - EN: Omg how did you know???
   ES: Como lo sabias???        (x1)
 - EN: Once 😜
@@ -6858,6 +6720,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Solo cuando es sobre seducir clientes             (x1)
 - EN: Only you can think of something like this
   ES: Solo a ti se te puede ocurrir algo así    (x1)
+- EN: Ooohh
+  ES: Ooohh  (x1)
 - EN: Oooof course you did
   ES: Ooouuuf claro que si  (x1)
 - EN: Oops gotta go, meet soon k 😊
@@ -6890,6 +6754,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Nuestra empresa no puede permitirse un escándalo ahora   (x1)
 - EN: Our job woule be done
   ES: Nuestro trabajo estaría terminado.  (x1)
+- EN: Pat
+  ES: Pat  (x1)
+- EN: Patricia
+  ES: Patricia  (x1)
+- EN: Patrick Liman
+  ES: Patrick Liman  (x1)
+- EN: Patrick Matthews
+  ES: Patrick Matthews  (x1)
+- EN: Paul Chin
+  ES: Paul Chin  (x1)
+- EN: Paul Chong
+  ES: Paul Chong  (x1)
 - EN: People are talkin
   ES: La gente habla     (x1)
 - EN: People can grow and improve
@@ -6908,8 +6784,12 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Los pervertidos no tienen  (x1)
 - EN: Pfft.
   ES: Pff.  (x1)
+- EN: Phill
+  ES: Phill  (x1)
 - EN: Philosophy
   ES: Filosofía  (x1)
+- EN: Phresh
+  ES: Phresh  (x1)
 - EN: Phresh Ideas
   ES: Phresh Ideas  (x1)
 - EN: Phresh Ideas isnt it?
@@ -7022,16 +6902,24 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Pon buena palabra por mí si vuelve, ¿ok?  (x1)
 - EN: Put it all behind and he might approve that study leave you've been meaning to get
   ES: Deja todo eso atrás y quizá apruebe la licencia de estudios que llevas tiempo pidiendo.  (x1)
+- EN: Qahar Said
+  ES: Qahar Said  (x1)
 - EN: Questionable
   ES: Cuestionable  (x1)
+- EN: Quinton Lewis
+  ES: Quinton Lewis  (x1)
 - EN: RE: Job application
   ES: RE: Empleo           (x1)
+- EN: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT
+  ES: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT  (x1)
 - EN: RIGHT NOW??
   ES: ¿¿AHORA??  (x1)
 - EN: RUMORS ARE SPREADING
   ES: LOS RUMORES CRECEN    (x1)
 - EN: Rainforest Shipment
   ES: Envío de selva tro  (x1)
+- EN: Ralph Conners
+  ES: Ralph Conners  (x1)
 - EN: Really listen
   ES: escucharas     (x1)
 - EN: Really?
@@ -7040,6 +6928,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Grabar mi renuncia no tanto         (x1)
 - EN: Recovered
   ES: Recovered  (x1)
+- EN: Rei Norman
+  ES: Rei Norman  (x1)
 - EN: Rejection (it sucks)
   ES: Rechazo (apesta)      (x1)
 - EN: Remember I told you about my watch?
@@ -7072,6 +6962,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡Revela tu verdadero yo!  (x1)
 - EN: Reveal yourself!
   ES: ¡Revélate!      (x1)
+- EN: Richard Garf
+  ES: Richard Garf  (x1)
+- EN: Ridr
+  ES: Ridr  (x1)
 - EN: Right
   ES: Cierto  (x1)
 - EN: Right!
@@ -7086,8 +6980,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Rocos  (x1)
 - EN: Role playing. I like it.
   ES: Juego de roles. Me gusta.  (x1)
+- EN: Ronnie
+  ES: Ronnie  (x1)
+- EN: Rosita
+  ES: Rosita  (x1)
 - EN: Ruthie
   ES: Rutía  (x1)
+- EN: Ryu Jiggens
+  ES: Ryu Jiggens  (x1)
 - EN: SHIT SHIT
   ES: MIERDA, MIERDA  (x1)
 - EN: SO WHAT?
@@ -7106,8 +7006,18 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¡SANTO CIELO!  (x1)
 - EN: SaFE?
   ES: salvo?  (x1)
+- EN: Sabah Shaz
+  ES: Sabah Shaz  (x1)
 - EN: Safeguard of General Audience Protocol - A friendly reminder
   ES: Protocolo de audiencia general: recordatorio                  (x1)
+- EN: Sally
+  ES: Sally  (x1)
+- EN: Sam Hasnul
+  ES: Sam Hasnul  (x1)
+- EN: Sam Mutt
+  ES: Sam Mutt  (x1)
+- EN: Sam Parlow
+  ES: Sam Parlow  (x1)
 - EN: Same thing
   ES: Lo mismo    (x1)
 - EN: Save and get the girl ammirite?
@@ -7154,6 +7064,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Organiza cita     (x1)
 - EN: Sex not guaranteed
   ES: Sexo no garantizado  (x1)
+- EN: Shawn Beckman
+  ES: Shawn Beckman  (x1)
 - EN: She actually did it..
   ES: Ella lo hizo..         (x1)
 - EN: She blocked me.
@@ -7294,6 +7206,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Está desaparecida, ¿verdad?  (x1)
 - EN: She's not answering her door and she isnt at work now.
   ES: No responde a su puerta y no esta en trabajo ahora.     (x1)
+- EN: Sherman Chong
+  ES: Sherman Chong  (x1)
 - EN: Sherry Zacher
   ES: Jerez Zacher   (x1)
 - EN: Shes presistent
@@ -7712,6 +7626,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿Muy acosador?  (x1)
 - EN: Stay on the line.
   ES: Quedate en linea.  (x1)
+- EN: Stephanie
+  ES: Stephanie  (x1)
 - EN: Still clear on your task?
   ES: ¿Todavía tienes clara tu tarea?  (x1)
 - EN: Still creeping through Anna's phone?
@@ -7752,6 +7668,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Estupida   (x1)
 - EN: Sucks the fun out of shopping.
   ES: Le quita la diversión a las compras.  (x1)
+- EN: Summers?
+  ES: Summers?  (x1)
 - EN: Super productive day. i only napped 2 times during work
   ES: Día superproductivo. Solo me dormí dos veces en el trabajo.  (x1)
 - EN: Supportive?
@@ -7808,6 +7726,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: DEMASIADO, VIEJO  (x1)
 - EN: Tabitha
   ES: Tabita   (x1)
+- EN: Taka Ann
+  ES: Taka Ann  (x1)
 - EN: Take a deep breath, Ashley.
   ES: Respira hondo, Ashley.       (x1)
 - EN: Take a vacay and start new
@@ -7820,10 +7740,14 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Toma tiempo acostumbrarse   (x1)
 - EN: Talk to you later.
   ES: Hablamos después.  (x1)
+- EN: Tammy
+  ES: Tammy  (x1)
 - EN: Taylor
   ES: taylor  (x1)
 - EN: Taylor - Recovered
   ES: Taylor - Recuper.   (x1)
+- EN: Taylor Perrera
+  ES: Taylor Perrera  (x1)
 - EN: Taylor Spark Profile Update:\n\n- minor bug fixes\n- improved profile pic\n- charm increased from (3.5) to (4)\n- performance enhanced: funnier jokes\n- will serenade upon request
   ES: Actualización del perfil de Taylor en Spark:\n\n- Se corrigieron errores menores\n- Foto de perfil mejorada\n- Encanto aumentado de 3,5 a 4\n- Chistes más graciosos\n- Cantará una serenata si se lo piden  (x1)
 - EN: Taylor is smarter than that
@@ -8090,6 +8014,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Eso es simplemente grosero.  (x1)
 - EN: The A stands for Anything
   ES: La A significa Cualquier   (x1)
+- EN: The Click Hole
+  ES: The Click Hole  (x1)
 - EN: The Eyeris
   ES: La Eyeris   (x1)
 - EN: The Iris
@@ -8428,8 +8354,6 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Esto debe ser una broma elaborada o algo así.  (x1)
 - EN: This role playing thing doesn't sound like you at all.
   ES: Esta cosa de juego de roles no suena nada como tú.     (x1)
-- EN: This service is complimentary for 1 year from this date.
-  ES: Este servicio es gratuito durante 1 año a partir de esta fecha.  (x1)
 - EN: This shit is punishing enough for me so I don't need your crap as well
   ES: Esta mierda ya me está castigando bastante, así que no necesito también tu mierda  (x1)
 - EN: This sounds SERIOUSLY EFFED UP
@@ -8452,12 +8376,16 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Amenázalo     (x1)
 - EN: TiME,
   ES: tiempo,  (x1)
+- EN: Tim Faraday
+  ES: Tim Faraday  (x1)
 - EN: Time out!
   ES: ¡Tiempo fuera!  (x1)
 - EN: Time to be Cat Wife
   ES: Hora de ser Esposa   (x1)
 - EN: Time to up my selfie game
   ES: Hora de mejores selfies    (x1)
+- EN: Titanic
+  ES: Titanic  (x1)
 - EN: To be frank, I am not in the liberty to discuss any personal matters
   ES: Siendo franco, no tengo la libertad de discutir asuntos personales    (x1)
 - EN: To catch the criminal, you gotta BE THE VICTIM
@@ -8478,6 +8406,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Para hacer tortilla hay que romper huevos.\n\nA veces se echa queso o jamon. Prefiero champis             (x1)
 - EN: To turn it off I need to answer some security questions
   ES: Para desactivarlo necesito responder algunas preguntas de seguridad  (x1)
+- EN: Tobias
+  ES: Tobias  (x1)
+- EN: Toby
+  ES: Toby  (x1)
 - EN: Toby is the only lover I need
   ES: Toby es mi único amor  (x1)
 - EN: Toby is the short name
@@ -8486,6 +8418,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: La cara de Toby después de que decido ir por pescado fresco  (x1)
 - EN: Toby. Must be someone special.
   ES: Toby. Debe ser alguien especial.  (x1)
+- EN: Toby?
+  ES: Toby?  (x1)
 - EN: Today is gonna be a good day\n\n*spills coffee on dress\n*changes into better looking outfit\n\nToday is gonna be a good day
   ES: Hoy va a ser un buen día\n\n*derrama cafe en el vestido\n*se cambia a un atuendo más lindo\n\nHoy va a ser un buen día  (x1)
 - EN: Today is gonna be an interesting day. I can feel it.
@@ -8530,6 +8464,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Hora de entrar a los margenes, Ashley          (x1)
 - EN: Turns out, that skank buys stuff for other people!
   ES: Esa zorra le compra cosas a otros!                  (x1)
+- EN: Twister?
+  ES: Twister?  (x1)
 - EN: Two days in a row! The barista spelt my name as "Kassie"
   ES: ¡Dos días seguidos! El barista escribió mi nombre como «Kassie».  (x1)
 - EN: Two wrong make a right man
@@ -8600,6 +8536,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Inútil  (x1)
 - EN: Using another employee's PC is against policy
   ES: Usar PC de otro empleado va contra politicas   (x1)
+- EN: Valerie Smith
+  ES: Valerie Smith  (x1)
 - EN: Vet 😺
   ES: Veterinaria 😺  (x1)
 - EN: Victor is the guy from Vortex.
@@ -8638,6 +8576,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Espera.  (x1)
 - EN: Wallpapers
   ES: Wallpapers  (x1)
+- EN: Walter Whitelaw
+  ES: Walter Whitelaw  (x1)
 - EN: Wanna eat cookie dough sometime together?
   ES: ¿Quieres comer masa de galletas juntos alguna vez?  (x1)
 - EN: Wanna try new things, yknow?
@@ -9292,6 +9232,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Ojalá pudieras ver mi cara ahora 😊😊     (x1)
 - EN: With that dolled up face, I can see why
   ES: Con esa cara empolvada, puedo entender   (x1)
+- EN: Woodsboro
+  ES: Woodsboro  (x1)
 - EN: Woop de doo
   ES: Yupi  (x1)
 - EN: Work
@@ -9462,6 +9404,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Tu liiiiiiiii  (x1)
 - EN: Yolanda just called me!
   ES: ¡Yolanda acaba de llamarme!  (x1)
+- EN: Yolanda?
+  ES: Yolanda?  (x1)
 - EN: You
   ES: Tienes  (x1)
 - EN: You ARE acting weird
@@ -10116,6 +10060,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: Sip.  (x1)
 - EN: Yup. Only with makeup running down her face.
   ES: Sí. Sólo que con maquillaje corriendo por su cara.  (x1)
+- EN: Yusof Kitt
+  ES: Yusof Kitt  (x1)
 - EN: [HANDLE]@ashketchum[] is a perfect human being
   ES: [HANDLE]@ashketchum[] es perfecto               (x1)
 - EN: [HANDLE]@jacccc[] me right now
@@ -10124,8 +10070,50 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: [HANDLE]@unclecharles[] Ya sé, ¿verdad?  (x1)
 - EN: [sees girl reading To Kill a Mocking Bird]\n"Great book. Who knew that those darn birds are so hard to kill"
   ES: [ve a una niña leyendo Matar a un ruiseñor]\n"Gran libro. ¿Quién diría que esos malditos pájaros son tan difíciles de matar"  (x1)
+- EN: __LINK151, spark.demon.nav_to_demon
+  ES: __LINK151, spark.demon.nav_to_demon  (x1)
 - EN: a message came in
   ES: llegó un mensaje  (x1)
+- EN: a3_impersonating_ashley, __LINK122
+  ES: a3_impersonating_ashley, __LINK122  (x1)
+- EN: a3_impersonating_ashley, __LINK2
+  ES: a3_impersonating_ashley, __LINK2  (x1)
+- EN: a3_impersonating_generic, __LINK1
+  ES: a3_impersonating_generic, __LINK1  (x1)
+- EN: a3_saving_anna, __LINK121
+  ES: a3_saving_anna, __LINK121  (x1)
+- EN: a3_saving_anna, __LINK125
+  ES: a3_saving_anna, __LINK125  (x1)
+- EN: a3_saving_anna, __LINK132
+  ES: a3_saving_anna, __LINK132  (x1)
+- EN: a3_saving_anna, __LINK133
+  ES: a3_saving_anna, __LINK133  (x1)
+- EN: a3_saving_both, __LINK121
+  ES: a3_saving_both, __LINK121  (x1)
+- EN: a3_saving_both, __LINK149
+  ES: a3_saving_both, __LINK149  (x1)
+- EN: a3_saving_neither, __LINK132
+  ES: a3_saving_neither, __LINK132  (x1)
+- EN: a3_saving_neither, __LINK135
+  ES: a3_saving_neither, __LINK135  (x1)
+- EN: a3_saving_taylor, __LINK121
+  ES: a3_saving_taylor, __LINK121  (x1)
+- EN: a3_saving_taylor, __LINK125
+  ES: a3_saving_taylor, __LINK125  (x1)
+- EN: a3_saving_taylor, __LINK132
+  ES: a3_saving_taylor, __LINK132  (x1)
+- EN: a3_saving_taylor, __LINK134
+  ES: a3_saving_taylor, __LINK134  (x1)
+- EN: a3_stat_saved_anna, __LINK152
+  ES: a3_stat_saved_anna, __LINK152  (x1)
+- EN: a3_stat_saved_both, __LINK184
+  ES: a3_stat_saved_both, __LINK184  (x1)
+- EN: a3_stat_saved_none, __LINK67
+  ES: a3_stat_saved_none, __LINK67  (x1)
+- EN: a3_stat_saved_none, __LINK78
+  ES: a3_stat_saved_none, __LINK78  (x1)
+- EN: a3_stat_saved_taylor, __LINK167
+  ES: a3_stat_saved_taylor, __LINK167  (x1)
 - EN: and eventually dry out in the sun, leaving nothing but a stain.
   ES: hasta secarse bajo el sol y dejar solo una mancha.  (x1)
 - EN: and feeling guilty about being so upset.
@@ -10178,6 +10166,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: por Tiffany           (x1)
 - EN: can we just go to the police already?
   ES: ¿podemos ir a la policía ya?         (x1)
+- EN: chats.busted.a3_demon_lures, __LINK65
+  ES: chats.busted.a3_demon_lures, __LINK65  (x1)
+- EN: chats.busted.a3_tricked_ashley, __LINK150
+  ES: chats.busted.a3_tricked_ashley, __LINK150  (x1)
 - EN: come onnn
   ES: vamos aaa  (x1)
 - EN: cus you're like, is this picture boasting about helping people
@@ -10330,6 +10322,8 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: debe ser esa viejita chismosa de al lado  (x1)
 - EN: n trust you with anything
   ES: y confiarte cualquier cosa  (x1)
+- EN: nav_restricted, __LINK1, __LINK2
+  ES: nav_restricted, __LINK1, __LINK2  (x1)
 - EN: no worriers.
   ES: sin problema.  (x1)
 - EN: not Animal LOVER (if you know what I mean)
@@ -10394,6 +10388,10 @@ Cada entrada: `EN` original, `ES` traduccion actual, numero de veces que aparece
   ES: ¿entonces qué dijo que va a hacer al respecto?  (x1)
 - EN: sorry sorry!!
   ES: perdon perdon!!  (x1)
+- EN: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna
+  ES: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna  (x1)
+- EN: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66
+  ES: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66  (x1)
 - EN: tO thIS
   ES: ESTO     (x1)
 - EN: tO thIS

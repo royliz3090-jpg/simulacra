@@ -370,7 +370,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: This bastard got a name?
   ES: ¿Ese bastardo tiene nombre?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Fuck
   ES: Mierda
 - EN: I dont want to know. I will deal with it when I find her
@@ -410,7 +410,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Who is Toby?
   ES: ¿Quién es Toby?
 - EN: Toby?
-  ES: Toby?  [sin_traducir]
+  ES: Toby?
 - EN: Its her cat.
   ES: Es su gato. 
 - EN: What about it
@@ -798,7 +798,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Stop talking and start helping
   ES: Deja de hablar y empieza a ayudar
 - EN: Okok
-  ES: Okok  [sin_traducir]
+  ES: Okok
 - EN: I cant do anything here
   ES: No puedo hacer nada    
 - EN: Just gimmie a second
@@ -854,7 +854,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: THANK YOU
   ES: GRACIAS  
 - EN: Ok
-  ES: Ok  [sin_traducir]
+  ES: Ok
 - EN: Was that so hard?
   ES: Fue tan dificil? 
 - EN: NO ITS NOT
@@ -898,7 +898,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Did it work?
   ES: ¿Funcionó?
 - EN: Toby
-  ES: Toby  [sin_traducir]
+  ES: Toby
 - EN: NO Its wrong!
   ES: ¡NO, está mal!
 - EN: Toby is the short name
@@ -906,19 +906,19 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: It has a longer name
   ES: Tiene un nombre más largo
 - EN: Tobias
-  ES: Tobias  [sin_traducir]
+  ES: Tobias
 - EN: Got her cats name!
   ES: ¡Conseguí el nombre de su gato!
 - EN: Applesauce
-  ES: Applesauce  [sin_traducir]
+  ES: Applesauce
 - EN: The OS version is correct!
   ES: ¡La versión del sistema operativo es correcta!
 - EN: Faraday
-  ES: Faraday  [sin_traducir]
+  ES: Faraday
 - EN: Faraday Safety
-  ES: Faraday Safety  [sin_traducir]
+  ES: Faraday Safety
 - EN: Faraday Securities
-  ES: Faraday Securities  [sin_traducir]
+  ES: Faraday Securities
 - EN: Thats her office name
   ES: Es el nombre de su oficina
 - EN: I keep forgetting how to spell it
@@ -992,7 +992,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Great! Lets get started
   ES: ¡Genial! Empecemos    
 - EN: Ok
-  ES: Ok  [sin_traducir]
+  ES: Ok
 - EN: It starting..
   ES: Está empezando..
 - EN: I'm not so sure.
@@ -1342,7 +1342,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I just want to know the full story
   ES: Solo quiero saber historia        
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: I don't care about your excuses
   ES: No me importan tus excusas     
 - EN: You have crossed a line!
@@ -1759,39 +1759,39 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/chats/busted.DialogueTreeDescriptor  (843 cadenas)
 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: You
   ES: Tú
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: TAYLOR! Got you now you sex maniac
   ES: TAYLOR! Te atrape, maniatico      
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: What the? who is this?
   ES: ¿Qué...? ¿Quién es?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: How the hell you got my number?
   ES: ¿Cómo diablos obtuviste mi número?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Shut up reboud guy.
   ES: Cállate, tipo del rebote.
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am the one Anna should be with
   ES: Yo soy con quien Anna deberia   
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: You stay out of this
   ES: Aléjate de esto    
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Greg?
-  ES: Greg?  [sin_traducir]
+  ES: Greg?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Oh here we go...
   ES: Oh aqui vamos...
 - EN: That escalated quickly
@@ -1801,135 +1801,135 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: How the hell you get my number?
   ES: ¿Cómo diablos obtuviste mi número?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: The internet is a resourceful place, especially for finding pervs like you
   ES: Internet es un recurso muy util, especialmente para hallar pervertidos    
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Wow, from cheating to stalking
   ES: Guau, de infiel a acosador
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Can someone hand him the best boyfriend of the year award?
   ES: ¿Alguien puede darle el premio al mejor novio del año?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: What I do in my private life is non of your business
   ES: Lo que hago en mi vida privada no es asunto tuyo    
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: You're the one who drove her away in the first place 😑
   ES: Tú fuiste quien la alejó en primer lugar 😑          
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: How about I drive my foot up your dick hole
   ES: ¿Qué tal si te meto el pie por el agujero de la verga?
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I think you guys are missing the point
   ES: Creo que se les está pasando el punto
 - EN: We were all on point until shit-for-brains showed up
   ES: Estábamos todos en punto hasta que llegó el meollo-de-mierda
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: This is getting out of hand
   ES: Esto se está saliendo de las manos
 - EN: I am just getting started
   ES: Estoy apenas empezando   
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Time out!
   ES: ¡Tiempo fuera!
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Lets take a step back for a bit
   ES: Demos un paso atrás un momento
 - EN: STAY OUTTA THIS 😠
   ES: ALEJATE DE ESTO 😠
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am settling this once and for all
   ES: Voy a resolver esto de una vez por todas
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: There is nothing to "settle"
   ES: No hay nada que 'resolver'  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Look man
   ES: Mira,   
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Anna wanted to move on, why can't you respect that?
   ES: Anna quería seguir adelante, ¿por qué no puedes respetarlo?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: She would be better with literally anyone else but you
   ES: Estaría mejor con literalmente cualquiera menos tú
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: So Mr-I-cant-keep-my-pants-up is somehow an acceptable choice for her?
   ES: ¿Así que el señor-no-puedo-mantener-los-pantalones-puestos es una opción aceptable para ella?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: At least I dont have a criminal record
   ES: Al menos yo no tengo antecedentes     
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Thats a low blow man
   ES: Eso fue bajo, chavo 
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I'm only adding you here to be a witness, so shut it
   ES: Solo te agregué aquí para que seas testigo, así que cállate
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: *eats popcorn*
   ES: *come palomitas*
 - EN: Arent you gonna say something?
   ES: ¿No vas a decir algo?        
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I'm not done with you yet
   ES: No he terminado contigo  
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: What the hell did you do to Anna?
   ES: ¿Qué diablos le hiciste a Anna?
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: If you touch her...
   ES: Si le haces algo...
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: How can I do anything if I havent even met her yet?!
   ES: Como puedo hacer algo si ni siquiera he conocido?!  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: She mentioned that she is meeting SOMEONE from Spark on her notebook
   ES: Ella menciono que esta reunirse con ALGUIEN de Spark en su notebook 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Have you ever considered that there are literally millions of other lonely single men out there?
   ES: ¿Alguna vez has considerado que hay literalmente millones de otros hombres solteros y solos por ahí?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Of course I did!
   ES: ¡Claro que sí!
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: And I am starting with you
   ES: Y empiezo contigo         
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: That is not working smart
   ES: Eso no es trabajar       
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I JUST WANT HER BACK 😠
   ES: SOLO QUIERO QUE REGRESE  
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I think Anna would like that
   ES: Creo que a Anna le gustaria 
 - EN: There is a smarter way to do this
@@ -1937,293 +1937,293 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: We are wasting time here 😣
   ES: Estamos perdiendo tiempo aqui
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Now that you made it so clear
   ES: Ahora que lo dejaste tan claro
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Don't we all want the same thing?
   ES: ¿No queremos todos lo mismo?    
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Same thing
   ES: Lo mismo  
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Different reasons
   ES: Razones          
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Finally we are agreeing on something
   ES: Por fin estamos de acuerdo en algo  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: No I am NOT agreeing with you
   ES: No, NO estoy de acuerdo      
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: You are the one that accused me and threw everyone off
   ES: Tú fuiste quien me acusó y desvió a todos          
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Hey
   ES: Oye
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: its not my fault that she left you
   ES: no es mi culpa que ella te dejara 
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: We are all partly to be blamed
   ES: Todos tenemos parte de culpa  
 - EN: Agreed
   ES: De acuerdo
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Debatable
   ES: Discutible
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Get your head in the game Taylor
   ES: Pon las pilas, Taylor           
 - EN: My head is soooo deep in the game now
   ES: Mis pilas están súper puestas ahora
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: This this how you talk?
   ES: ¿Así es como hablas? 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: No wonder might come off as a pervert
   ES: No me extraña que parezcas un pervertido
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Calm down Greg
   ES: Cálmate, Greg.
 - EN: I will NOT be calm with him in the picture
   ES: No voy a estar tranquilo con en panorama  
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: If you're going to be like this FINE
   ES: Si vas a ser así, BIEN             
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I can prove that I didnt meet Anna
   ES: Puedo demostrar que nunca me reuní con Anna.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Show me
   ES: Muestra
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: My Spark messages.
   ES: Mis mensajes de Spark.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Its all there
   ES: Está todo ahí.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: It will prove that Anna and I never planned to meet
   ES: Demostrará que Anna y yo nunca planeamos vernos   
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: He is telling the truth
   ES: Dice la verdad         
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I want to see it with my own eyes
   ES: Quiero verlo con mis propios ojos
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Can you be anymore insecure?
   ES: ¿Puedes ser más inseguro? 
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I can't say for sure...
   ES: No puedo estar seguro...
 - EN: What?!?!
   ES: Que?!?! 
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Come on
   ES: Vamos  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Dont leave me hanging
   ES: No me dejes colgado  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I have another way to prove it
   ES: Tengo otra forma de probarlo
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Her phone.
   ES: Su teléfono.
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: She cleared some data not long ago
   ES: Ella borro algunos datos hace poco
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: And she backed it up on her home computer and the one at work
   ES: Y los respaldó en su computadora de casa y la del trabajo   
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: If I can access it will have all the proof I need
   ES: Si puedo acceder tendrá todas las pruebas que necesito
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: WHOA!
   ES: ¡GUAU!
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I think you are on to something 🤔
   ES: Creo que has descubierto algo. 🤔
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: If we do that, we might be able to know who she met on Spark!
   ES: Si hacemos eso, podríamos saber con quién se reunió en Spark!
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Thats true
   ES: Es verdad 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Focus on what matters
   ES: Enfócate en lo que importa
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: You guys are getting along
   ES: Se están llevando bien   
 - EN: Shut it
   ES: Callate
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am not getting along with him
   ES: No me estoy llevando bien con él
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Hey it was my idea
   ES: Oye, fue mi idea  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Thats cute
   ES: Que bonito
 - EN: Dont you have anything useful to say?
   ES: ¿No tienes nada útil que decir?    
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I do!
   ES: Si!  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: You guys done fighting?
   ES: ¿Ya terminaron de pelear?
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: What?
   ES: ¿Qué?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Not until I see the messages
   ES: No hasta que vea mensajes   
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Gezz fine.
   ES: Uf, está bien.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Maybe we can somehow call her office?
   ES: Quizas podemos llamar a su oficina?  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Ask around for help
   ES: Preguntar alrededor
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Get someone to get to her computer or something
   ES: Consigue que alguien entre a su computadora o algo así.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: What kind of shitty idea is that?
   ES: ¿Qué idea de mierda es esa?    
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I say I will just walk right in in and get it done myself
   ES: Yo digo que simplemente entro y lo hago yo mismo         
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Its gonna be easy
   ES: Va a ser fácil  
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Lets walk right in!
   ES: ¡Vamos a entrar directamente!
 - EN: Uh.. no
   ES: Eh.. no
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: We are already in plenty of trouble as it is
   ES: Ya estamos metidos en suficientes problemas 
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: If you are too much of a pussy to do it
   ES: Si eres demasiado cobarde para hacerlo 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Then fuck off
   ES: Entonces vete al diablo
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I know where she works
   ES: Se donde ella trabaja 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: She works at a SECURITY company
   ES: Ella trabaja en una empresa de SEGURIDAD
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: You think they are just gonna let you waltz through?
   ES: ¿Crees que simplemente te van a dejar pasar?       
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Lets call her office!
   ES: ¡Llamemos a su oficina!
 - EN: Excellent! 👍
   ES: Excelente! 👍
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Maybe she has friends that we can trick into getting to her computer?
   ES: Quizás tenga amigos a quienes podamos engañar para acceder a su computadora.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: We've wasted enough time already!
   ES: ¡Ya perdimos suficiente tiempo! 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am not playing charades to get something that important
   ES: No voy a jugar a las charadas para algo tan importante   
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Are you doubting me?
   ES: ¿Estás dudando de mí?
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I'm just proposing alternatives
   ES: Solo estoy proponiendo alternativas.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Should we discuss this?
   ES: ¿Deberíamos hablarlo?
 - EN: Both of you have good points
@@ -2231,129 +2231,129 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I've done listening to you
   ES: Ya terminé de escucharlos
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am just going to walk in and get the job done
   ES: Simplemente voy a entrar y hacer el trabajo    
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Plain and simple
   ES: Simple y sencillo
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Thats too reckless.
   ES: Eso es demasiado imprudente.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Lets find a more indirect way in.
   ES: Busquemos una forma más indirecta de entrar.
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Just call one of her work friends
   ES: Solo llama a una de sus amigas   
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I know her better
   ES: Yo conozco mejor 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: She has no work friends
   ES: Ella no tiene amigas en
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: And what makes you think you can use her computer so easily?
   ES: ¿Y por qué crees que puedes usar su computadora tan fácilmente?
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Taylor's idea is the best
   ES: La idea de Taylor es la mejor.
 - EN: 2 to 1 favor
   ES: 2 a 1 a favor
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: And thats how democracy works
   ES: Y así funciona la democracia
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I feel like we are becomming NSYNC 😎
   ES: Siento que nos estamos convirtiendo en NSYNC 😎
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Fine
   ES: Bien
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Be that way
   ES: Pues sigue así.
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Greg's idea is the best
   ES: La idea de Greg es la mejor.
 - EN: Thats what I am talking about
   ES: ¡De eso estoy hablando!     
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Oh come on
   ES: Oh vamos  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: You and I both know it wont work
   ES: Tú y yo sabemos que no va a funcionar
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Why don't you trust my plans? 😩
   ES: porque no confias en mis planes?  
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I am not playing games with you jokers any more
   ES: No voy a seguir jugando con ustedes            
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Do as you please
   ES: Haz lo que quieras.
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am going anyways
   ES: igual me voy      
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: But we're making so much progress!
   ES: ¡Pero estábamos progresando tanto!
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: I am not working with the rebound guy
   ES: No voy a trabajar con tipo rechazado 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I am going to find Anna.
   ES: Voy a encontrar a Anna. 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: By myself!
   ES: ¡¡Solo! 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Go get the backup from her workplace your way
   ES: Ve por el respaldo de su trabajo a tu manera 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I'll do mine
   ES: Yo haré lo mío
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: I swear
   ES: Te lo juro
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: If she did end up meeting you
   ES: Si resulta que ella se reunio
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: You wont hear the end of it
   ES: No te vas a callar en vida 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: So that just happened
   ES: Entonces eso acaba de pasar
 - EN: That was exciting
@@ -2969,7 +2969,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I'm a girl
   ES: Soy chica 
 - EN: Oh~~
-  ES: Oh~~  [sin_traducir]
+  ES: Oh~~
 - EN: Can luck strike twice?
   ES: ¿Puede la suerte golpear dos veces?
 - EN: I'm one of the variance
@@ -3261,7 +3261,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You'll see
   ES: Ya verás 
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Whoa um
   ES: Uy,
 - EN: I know you're mad but some subtlety might go a long way
@@ -3482,15 +3482,15 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Does my nurse have a name?
   ES: ¿Mi enfermera tiene nombre?
 - EN: Desiree
-  ES: Desiree  [sin_traducir]
+  ES: Desiree
 - EN: That sounds desirable.
   ES: Eso suena deseable.   
 - EN: Bella
-  ES: Bella  [sin_traducir]
+  ES: Bella
 - EN: That sounds beautiful.
   ES: Eso suena hermoso.    
 - EN: Rosita
-  ES: Rosita  [sin_traducir]
+  ES: Rosita
 - EN: That sounds rosy.
   ES: Eso suena bonito.
 - EN: Wait.
@@ -3654,7 +3654,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Nothing much to go on for now..
   ES: Nada por ahora para seguir..   
 - EN: Hmmmmm
-  ES: Hmmmmm  [sin_traducir]
+  ES: Hmmmmm
 - EN: Okay bud, time for the next level.
   ES: Ok, amigo, hora del siguiente nivel.
 - EN: You're gonna dig a little deeper.
@@ -3716,7 +3716,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Interested in reading her emails?
   ES: ¿Interesado en leer sus correos?
 - EN: Ooohh
-  ES: Ooohh  [sin_traducir]
+  ES: Ooohh
 - EN: Please do tell
   ES: pls cuentame  
 - EN: She got rejected from vet school
@@ -3864,7 +3864,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Sweet!
   ES: ¡Excelente!
 - EN: Ok
-  ES: Ok  [sin_traducir]
+  ES: Ok
 - EN: I lied. She didnt tell me her favorite movie
   ES: Menti. Ella no me conto su pelicula favorita
 - EN: This is not what i'm looking for!
@@ -3902,11 +3902,11 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Its either one of these 3 movies.
   ES: Es una de estas 3 películas.    
 - EN: Black Beauty
-  ES: Black Beauty  [sin_traducir]
+  ES: Black Beauty
 - EN: A dog's purpose
   ES: La razón de estar contigo
 - EN: Free Willy
-  ES: Free Willy  [sin_traducir]
+  ES: Free Willy
 - EN: Give it a shot?
   ES: Lo intentamos? 
 - EN: Hey stranger. Anything?
@@ -4088,7 +4088,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Yes
   ES: Sí
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: Yeah
   ES: Sí 
 - EN: I would never hide anything from you!
@@ -4160,7 +4160,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Who is the unlucky girl?
   ES: ¿Quién es la chica con tan mala suerte?
 - EN: Yolanda
-  ES: Yolanda  [sin_traducir]
+  ES: Yolanda
 - EN: Exotic name. 😍
   ES: Nombre exotico.  
 - EN: You know that sounds like motive to me.
@@ -4298,7 +4298,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Who is the unlucky girl?
   ES: ¿Quién es la chica con tan mala suerte?
 - EN: Yolanda
-  ES: Yolanda  [sin_traducir]
+  ES: Yolanda
 - EN: Exotic name.
   ES: Nombre exótico.
 - EN: This is good
@@ -4362,7 +4362,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Are you jealous of him?
   ES: ¿Le tienes celos?     
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: Maybe
   ES: Tal vez
 - EN: A little
@@ -4574,7 +4574,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Where did you get that idea?
   ES: ¿De dó sacaste esa idea?  
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: He added me on Jabbr!
   ES: Me agrego en Jabbr!! 
 - EN: Oh he's definately pissed 😱
@@ -4635,7 +4635,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I can't remember where I put it
   ES: No puedo acordar donde lo puse 
 - EN: Oh
-  ES: Oh  [sin_traducir]
+  ES: Oh
 - EN: Do you want me to check my place?
   ES: ¿Quieres que revise mi lugar?   
 - EN: Nevermind I'm sure it will turn out somewhere
@@ -4983,7 +4983,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: This must be an elaborate prank or something.
   ES: Esto debe ser una broma elaborada o algo así.
 - EN: I am just going to look for her.
-  ES: Voy a buscarla.                   [contenido_faltante]
+  ES: Solo voy a buscarla.
 - EN: If anything happens to her.
   ES: Si le pasa algo.           
 - EN: I swear the police is going to be all over your ass
@@ -5083,7 +5083,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Greg is checking out her place
   ES: Greg está revisando su lugar 
 - EN: Greg?!?!
-  ES: Greg?!?!  [sin_traducir]
+  ES: Greg?!?!
 - EN: THAT Greg?!?!
   ES: ESO Greg?!?! 
 - EN: Are you two on to something?
@@ -5289,7 +5289,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Yes it is
   ES: Sí lo es
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: No no no
   ES: No, no, no
 - EN: Unlike you
@@ -5297,7 +5297,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I am going to do SOMETHING abut it
   ES: Voy a hacer ALGO al respecto      
 - EN: Anna
-  ES: Anna  [sin_traducir]
+  ES: Anna
 - EN: Can we talk? 😣
   ES: ¿Podemos hablar? 😣
 - EN: A little busy, actually.
@@ -5479,13 +5479,13 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I couldn't do it anymore
   ES: Ya no podía más       
 - EN: Greg?!?!
-  ES: Greg?!?!  [sin_traducir]
+  ES: Greg?!?!
 - EN: No no they are DONE
   ES: No no, ellos       
 - EN: Is he involved?
   ES: ¿Él está involucrado?
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: We're done talking
   ES: Terminamos de hablar
 - EN: I am calling the cops
@@ -5624,61 +5624,61 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/spark/demon  (192 cadenas)
 
 - EN: nav_restricted, __LINK1, __LINK2
-  ES: nav_restricted, __LINK1, __LINK2  [sin_traducir]
+  ES: nav_restricted, __LINK1, __LINK2
 - EN: a3_impersonating_generic, __LINK1
-  ES: a3_impersonating_generic, __LINK1  [sin_traducir]
+  ES: a3_impersonating_generic, __LINK1
 - EN: a3_impersonating_ashley, __LINK2
-  ES: a3_impersonating_ashley, __LINK2  [sin_traducir]
+  ES: a3_impersonating_ashley, __LINK2
 - EN: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
-  ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8  [sin_traducir]
+  ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
 - EN: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
-  ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8  [sin_traducir]
+  ES: spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8
 - EN: chats.busted.a3_demon_lures, __LINK65
-  ES: chats.busted.a3_demon_lures, __LINK65  [sin_traducir]
+  ES: chats.busted.a3_demon_lures, __LINK65
 - EN: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66
-  ES: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66  [sin_traducir]
+  ES: spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66
 - EN: a3_stat_saved_none, __LINK67
-  ES: a3_stat_saved_none, __LINK67  [sin_traducir]
+  ES: a3_stat_saved_none, __LINK67
 - EN: a3_stat_saved_none, __LINK78
-  ES: a3_stat_saved_none, __LINK78  [sin_traducir]
+  ES: a3_stat_saved_none, __LINK78
 - EN: a3_impersonating_ashley, __LINK122
-  ES: a3_impersonating_ashley, __LINK122  [sin_traducir]
+  ES: a3_impersonating_ashley, __LINK122
 - EN: a3_saving_anna, __LINK121
-  ES: a3_saving_anna, __LINK121  [sin_traducir]
+  ES: a3_saving_anna, __LINK121
 - EN: a3_saving_taylor, __LINK121
-  ES: a3_saving_taylor, __LINK121  [sin_traducir]
+  ES: a3_saving_taylor, __LINK121
 - EN: a3_saving_both, __LINK121
-  ES: a3_saving_both, __LINK121  [sin_traducir]
+  ES: a3_saving_both, __LINK121
 - EN: a3_saving_anna, __LINK125
-  ES: a3_saving_anna, __LINK125  [sin_traducir]
+  ES: a3_saving_anna, __LINK125
 - EN: a3_saving_taylor, __LINK125
-  ES: a3_saving_taylor, __LINK125  [sin_traducir]
+  ES: a3_saving_taylor, __LINK125
 - EN: a3_saving_anna, __LINK132
-  ES: a3_saving_anna, __LINK132  [sin_traducir]
+  ES: a3_saving_anna, __LINK132
 - EN: a3_saving_taylor, __LINK132
-  ES: a3_saving_taylor, __LINK132  [sin_traducir]
+  ES: a3_saving_taylor, __LINK132
 - EN: a3_saving_neither, __LINK132
-  ES: a3_saving_neither, __LINK132  [sin_traducir]
+  ES: a3_saving_neither, __LINK132
 - EN: a3_saving_anna, __LINK133
-  ES: a3_saving_anna, __LINK133  [sin_traducir]
+  ES: a3_saving_anna, __LINK133
 - EN: a3_saving_taylor, __LINK134
-  ES: a3_saving_taylor, __LINK134  [sin_traducir]
+  ES: a3_saving_taylor, __LINK134
 - EN: a3_saving_neither, __LINK135
-  ES: a3_saving_neither, __LINK135  [sin_traducir]
+  ES: a3_saving_neither, __LINK135
 - EN: a3_saving_both, __LINK149
-  ES: a3_saving_both, __LINK149  [sin_traducir]
+  ES: a3_saving_both, __LINK149
 - EN: chats.busted.a3_tricked_ashley, __LINK150
-  ES: chats.busted.a3_tricked_ashley, __LINK150  [sin_traducir]
+  ES: chats.busted.a3_tricked_ashley, __LINK150
 - EN: __LINK151, spark.demon.nav_to_demon
-  ES: __LINK151, spark.demon.nav_to_demon  [sin_traducir]
+  ES: __LINK151, spark.demon.nav_to_demon
 - EN: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna
-  ES: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna  [sin_traducir]
+  ES: spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna
 - EN: a3_stat_saved_anna, __LINK152
-  ES: a3_stat_saved_anna, __LINK152  [sin_traducir]
+  ES: a3_stat_saved_anna, __LINK152
 - EN: a3_stat_saved_taylor, __LINK167
-  ES: a3_stat_saved_taylor, __LINK167  [sin_traducir]
+  ES: a3_stat_saved_taylor, __LINK167
 - EN: a3_stat_saved_both, __LINK184
-  ES: a3_stat_saved_both, __LINK184  [sin_traducir]
+  ES: a3_stat_saved_both, __LINK184
 - EN: Hello?
   ES: Hola? 
 - EN: Is anyone there?
@@ -5686,7 +5686,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Please answer me!!
   ES: Contestame!!      
 - EN: Ashley?!?!
-  ES: Ashley?!?!  [sin_traducir]
+  ES: Ashley?!?!
 - EN: Oh god!
   ES: ¡Oh, Dios!
 - EN: Thank god you're here!!
@@ -6157,7 +6157,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @saytaylor
   ES: @saytaylor
 - EN: Jackie C
-  ES: Jackie C  [sin_traducir]
+  ES: Jackie C
 - EN: @jacccc
   ES: @jacccc
 - EN: Lil Lisa
@@ -6173,15 +6173,15 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @kantoiking
   ES: @kantoiking
 - EN: Melanie Fox
-  ES: Melanie Fox  [sin_traducir]
+  ES: Melanie Fox
 - EN: @foxsaysmeow
   ES: @foxsaysmeow
 - EN: Jimmy
-  ES: Jimmy  [sin_traducir]
+  ES: Jimmy
 - EN: @jimjams
   ES: @jimjams
 - EN: Kate
-  ES: Kate  [sin_traducir]
+  ES: Kate
 - EN: @katekatekate
   ES: @katekatekate
 - EN: Tabitha
@@ -6189,7 +6189,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @tabby34
   ES: @tabby34
 - EN: Lester
-  ES: Lester  [sin_traducir]
+  ES: Lester
 - EN: @best_lester
   ES: @best_lester
 - EN: Monica
@@ -6197,7 +6197,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @monica55
   ES: @monica55
 - EN: Jacob Rex
-  ES: Jacob Rex  [sin_traducir]
+  ES: Jacob Rex
 - EN: @jacobtrex
   ES: @jacobtrex
 - EN: Rocky
@@ -6205,11 +6205,11 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @rockethop
   ES: @rockethop
 - EN: Jessica
-  ES: Jessica  [sin_traducir]
+  ES: Jessica
 - EN: @jessthismess
   ES: @jessthismess
 - EN: Patricia
-  ES: Patricia  [sin_traducir]
+  ES: Patricia
 - EN: @lemonpie
   ES: @lemonpie
 - EN: Chris
@@ -6217,15 +6217,15 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @chris_don
   ES: @chris_don
 - EN: Ronnie
-  ES: Ronnie  [sin_traducir]
+  ES: Ronnie
 - EN: @ron_coms
   ES: @ron_coms
 - EN: Sally
-  ES: Sally  [sin_traducir]
+  ES: Sally
 - EN: @yllas
   ES: @yllas
 - EN: Paul Chin
-  ES: Paul Chin  [sin_traducir]
+  ES: Paul Chin
 - EN: @paulchin
   ES: @paulchin
 - EN: William H
@@ -6233,39 +6233,39 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: @williamhanson
   ES: @williamhanson
 - EN: Robert
-  ES: Robert  [sin_traducir]
+  ES: Robert
 - EN: @robbyj
   ES: @robbyj
 - EN: Cassie
-  ES: Cassie  [sin_traducir]
+  ES: Cassie
 - EN: @keepingitcassie
   ES: @keepingitcassie
 - EN: Faraday Safety
-  ES: Faraday Safety  [sin_traducir]
+  ES: Faraday Safety
 - EN: @faraday_safety
   ES: @faraday_safety
 - EN: Brandon K
-  ES: Brandon K  [sin_traducir]
+  ES: Brandon K
 - EN: @okbrandon
   ES: @okbrandon
 - EN: Josh Chen
-  ES: Josh Chen  [sin_traducir]
+  ES: Josh Chen
 - EN: @josh2chen
   ES: @josh2chen
 - EN: Madison Mike
-  ES: Madison Mike  [sin_traducir]
+  ES: Madison Mike
 - EN: @madmikey
   ES: @madmikey
 - EN: Kad Deidre
-  ES: Kad Deidre  [sin_traducir]
+  ES: Kad Deidre
 - EN: @kadre
   ES: @kadre
 - EN: Rei Norman
-  ES: Rei Norman  [sin_traducir]
+  ES: Rei Norman
 - EN: @normal_rei
   ES: @normal_rei
 - EN: The Click Hole
-  ES: The Click Hole  [sin_traducir]
+  ES: The Click Hole
 - EN: @click_hole
   ES: @click_hole
 - EN: 28 April 2017, 8:44 AM
@@ -6283,7 +6283,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: 26 April 2017, 3:22 PM
   ES: 26 April 2017, 3:22 PM
 - EN: Woodsboro
-  ES: Woodsboro  [sin_traducir]
+  ES: Woodsboro
 - EN: 27 April 2017, 2:22 PM
   ES: 27 April 2017, 2:22 PM
 - EN: Amity
@@ -6390,7 +6390,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Please answer me!!
   ES: Contestame!!      
 - EN: Ashley?!?!
-  ES: Ashley?!?!  [sin_traducir]
+  ES: Ashley?!?!
 - EN: Oh god!
   ES: ¡Oh, Dios!
 - EN: Thank god you're here!!
@@ -6807,7 +6807,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Greetings Murv
   ES: Saludos Murv  
 - EN: Anna!
-  ES: Anna!  [sin_traducir]
+  ES: Anna!
 - EN: Where have you been?!
   ES: Donde has estado?!   
 - EN: Everyone's been looking for you
@@ -6829,7 +6829,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I find your forwardness very attractive
   ES: Encuentro tu directividad muy atractiva
 - EN: Oh
-  ES: Oh  [sin_traducir]
+  ES: Oh
 - EN: Yeah
   ES: Sí
 - EN: I always believe that you want something you gotta grab it
@@ -6935,7 +6935,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: How about I send your emails to HR
   ES: ¿Qué tal si mando tus correos a Recursos Humanos?
 - EN: Nononono
-  ES: Nononono  [sin_traducir]
+  ES: Nononono
 - EN: Ok I will do it
   ES: Ok, lo haré
 - EN: Its hard to hold this job in this economy as it is
@@ -7150,9 +7150,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I want to talk to you about Greg
   ES: Quiero hablar contigo sobre Greg
 - EN: Greg?
-  ES: Greg?  [sin_traducir]
+  ES: Greg?
 - EN: Summers?
-  ES: Summers?  [sin_traducir]
+  ES: Summers?
 - EN: Who is this?
   ES: ¿Quién es?
 - EN: What did that asshole put you up to? 😑
@@ -7160,7 +7160,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I'm from the Police Department.
   ES: Soy del Departamento de Policía.
 - EN: Oh
-  ES: Oh  [sin_traducir]
+  ES: Oh
 - EN: What can I do for you officer?
   ES: ¿Qué puedo hacer por usted, oficial?
 - EN: Anna has gone missing
@@ -7527,7 +7527,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I want to ask about James Aulner
   ES: Quiero preguntar sobre James    
 - EN: James?!
-  ES: James?!  [sin_traducir]
+  ES: James?!
 - EN: Havent heard that name in awhile
   ES: No he escuchado ese nombre en un tiempo
 - EN: I think we share the same principles in culture
@@ -7547,7 +7547,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: James Aulner spoke highly of you guys. Do you know him?
   ES: James Aulner habló muy bien de ustedes. ¿Lo conocen? 
 - EN: James?!
-  ES: James?!  [sin_traducir]
+  ES: James?!
 - EN: Havent heard that name in awhile
   ES: No he escuchado ese nombre en un tiempo
 - EN: Sorry bud
@@ -8117,7 +8117,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Use my real name
   ES: Usa mi verdadero
 - EN: Cassandra
-  ES: Cassandra  [sin_traducir]
+  ES: Cassandra
 - EN: @keepingitcassie has always been single
   ES: @keepingitcassie siempre ha estado soltera.
 - EN: But I'm not. I had a long time boyfriend, but I was dumped
@@ -8260,15 +8260,15 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: You're here too so don't judge
   ES: Tú también estás aquí, así que no juzgues
 - EN: Edwin
-  ES: Edwin  [sin_traducir]
+  ES: Edwin
 - EN: Dave
   ES: dave
 - EN: Alex
-  ES: Alex  [sin_traducir]
+  ES: Alex
 - EN: Fred
-  ES: Fred  [sin_traducir]
+  ES: Fred
 - EN: Pat
-  ES: Pat  [sin_traducir]
+  ES: Pat
 - EN: Taylor - Recovered
   ES: Taylor - Recuper. 
 - EN: James - Recovered
@@ -8300,49 +8300,49 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Works at Digilink
   ES: Trabaja en Digili
 - EN: Albert
-  ES: Albert  [sin_traducir]
+  ES: Albert
 - EN: Check out my reviews
   ES: Mira mis reseñas   
 - EN: Student at UHS
   ES: Estudiante en UHS
 - EN: Bill
-  ES: Bill  [sin_traducir]
+  ES: Bill
 - EN: Hope your standards are lower than mine
   ES: Espero que tus estándares sean más bajos que los míos
 - EN: Writer at TheWriteThing
   ES: Escritor en TheWriteThing
 - EN: Mark
-  ES: Mark  [sin_traducir]
+  ES: Mark
 - EN: Good things comes in small packages
   ES: Las cosas buenas vienen en paquetes
 - EN: Student at UKM
   ES: Estudiante en UKM
 - EN: Stephanie
-  ES: Stephanie  [sin_traducir]
+  ES: Stephanie
 - EN: Work in progress
   ES: En progreso     
 - EN: Works at UniqueClothes
   ES: Trabaja en UniqueCloth
 - EN: Jeniffer
-  ES: Jeniffer  [sin_traducir]
+  ES: Jeniffer
 - EN: Sex not guaranteed
   ES: Sexo no garantizado
 - EN: Intern at Media Prime
   ES: Pasante Media Prime  
 - EN: Danny
-  ES: Danny  [sin_traducir]
+  ES: Danny
 - EN: A real catch
   ES: Gran partido
 - EN: Works at Batcave
   ES: Trabaja en la Batcueva
 - EN: Bruce
-  ES: Bruce  [sin_traducir]
+  ES: Bruce
 - EN: IM BATMAN
   ES: YO BATMAN
 - EN: Accountant at BigFour
   ES: Contador en BigFour  
 - EN: Tammy
-  ES: Tammy  [sin_traducir]
+  ES: Tammy
 - EN: A unique personality
   ES: Personalidad unica  
 - EN: Designer at Phresh Ideas
@@ -8354,7 +8354,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Personal Trainer
   ES: Entrenador pers.
 - EN: Robert
-  ES: Robert  [sin_traducir]
+  ES: Robert
 - EN: Too good to be true
   ES: Demasiado bueno par
 - EN: Web Designer
@@ -8370,9 +8370,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Outdoors
   ES: Aire libre
 - EN: Casual
-  ES: Casual  [sin_traducir]
+  ES: Casual
 - EN: Edwin Byrd
-  ES: Edwin Byrd  [sin_traducir]
+  ES: Edwin Byrd
 - EN: Senior Exec
   ES: Ejecutivo  
 - EN: I'm everything your parents wish I am and more.
@@ -8406,7 +8406,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Theatre
   ES: Teatro
 - EN: Alex Grant
-  ES: Alex Grant  [sin_traducir]
+  ES: Alex Grant
 - EN: CEO of BunnyHop
   ES: CEO de BunnyHop
 - EN: When something is important enough, you do it even through the odds are not in your favor.\n\n-Elon Musk
@@ -8422,7 +8422,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Travelling
   ES: Viajes
 - EN: Fred Watson
-  ES: Fred Watson  [sin_traducir]
+  ES: Fred Watson
 - EN: Whatever it is, im paying
   ES: Sea lo que sea, lo pago  
 - EN: Writer at The Starling
@@ -8440,7 +8440,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Movies
   ES: Películas
 - EN: Patrick Matthews
-  ES: Patrick Matthews  [sin_traducir]
+  ES: Patrick Matthews
 - EN: Works at Fine Studios
   ES: Trabaja en Fine Studi
 - EN: Taylor Spark Profile Update:\n\n- minor bug fixes\n- improved profile pic\n- charm increased from (3.5) to (4)\n- performance enhanced: funnier jokes\n- will serenade upon request
@@ -8456,7 +8456,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Gaming
   ES: Videojuegos
 - EN: Taylor Perrera
-  ES: Taylor Perrera  [sin_traducir]
+  ES: Taylor Perrera
 - EN: Check out my updates
   ES: Mira mis novedades  
 - EN: Theatre
@@ -8484,7 +8484,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Indoors
   ES: Interiores
 - EN: James Aulner
-  ES: James Aulner  [sin_traducir]
+  ES: James Aulner
 - EN: Just the right amount of awkward
   ES: La cantidad justa de incomodidad
 
@@ -8523,7 +8523,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Texting her
   ES: Escribiendo
 - EN: Noooooooooo
-  ES: Noooooooooo  [sin_traducir]
+  ES: Noooooooooo
 - EN: I WIN! 😜
   ES: GANO! 😜 
 - EN: I will get you for this
@@ -8593,7 +8593,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: But like you seemed kind of upset about it.
   ES: Pero como que te molestó un poco.         
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: I was just kind of tired
   ES: Solo estaba un poco     
 - EN: Yeah?
@@ -8695,7 +8695,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Bullshit. 😠
   ES: Mentiras. 😠
 - EN: Anna
-  ES: Anna  [sin_traducir]
+  ES: Anna
 - EN: This is unreal
   ES: Esto es irre  
 - EN: I told you i'm not allowed to just get rid of clients
@@ -8707,11 +8707,11 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I don't fucking care.
   ES: da igual un carajo.  
 - EN: Anna
-  ES: Anna  [sin_traducir]
+  ES: Anna
 - EN: Leave me the fuck alone greg
   ES: Déjame en paz, Greg        
 - EN: Anna
-  ES: Anna  [sin_traducir]
+  ES: Anna
 - EN: Let me fix this
   ES: Déjame arreglar esto
 
@@ -8818,7 +8818,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: i am hotter than your cultural commentary
   ES: Estoy más buena que tus comentarios culturales.
 - EN: Eh
-  ES: Eh  [sin_traducir]
+  ES: Eh
 - EN: Be my dateeeee
   ES: Sé mi citaaaa
 - EN: I'll be a good datee 😈
@@ -8828,7 +8828,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: And we'll go on the town
   ES: Y saldremos a la ciudad 
 - EN: Ehhhhhhhh
-  ES: Ehhhhhhhh  [sin_traducir]
+  ES: Ehhhhhhhh
 - EN: come onnn
   ES: vamos aaa
 - EN: Are you alright?
@@ -8864,7 +8864,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: did you get Spark?
   ES: descargaste Spark?
 - EN: No.
-  ES: No.  [sin_traducir]
+  ES: No.
 - EN: I don't know if I really want to.
   ES: No sé si realmente quiero.      
 - EN: HEY!
@@ -8882,7 +8882,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Sorry
   ES: Perdón
 - EN: Blehhhhhh
-  ES: Blehhhhhh  [sin_traducir]
+  ES: Blehhhhhh
 - EN: *blurgs extend tiny mouths that also blurg, like Alien*
   ES: *gruñe extendiendo boquitas que también gruñen, como Alien*
 - EN: oh baby
@@ -8916,7 +8916,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Dont make this a big deal
   ES: No hagas de esto un gran 
 - EN: Okok
-  ES: Okok  [sin_traducir]
+  ES: Okok
 - EN: As you are you are
   ES: Asi como eres, eres
 - EN: As hard as it is for you to believe
@@ -8933,7 +8933,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/chats/mom.DialogueTreeDescriptor  (90 cadenas)
 
 - EN: Anna
-  ES: Anna  [sin_traducir]
+  ES: Anna
 - EN: I have these cookies I need to pass to you
   ES: Tengo unas galletas que darte             
 - EN: Mom
@@ -9005,7 +9005,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Good
   ES: Bien
 - EN: Anna
-  ES: Anna  [sin_traducir]
+  ES: Anna
 - EN: Aunt Penny is coming over for a visit soon
   ES: La tía Penny viene de visita pronto      
 - EN: I hope you are keeping to your promise
@@ -9101,7 +9101,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: I got nothing to show you now but I will not give up
   ES: No tengo nada que mostrarte ahora pero no me voy a rendir
 - EN: Ok
-  ES: Ok  [sin_traducir]
+  ES: Ok
 - EN: You know I do this becasue I love you right?
   ES: Sabes que hago esto porque te quiero, ¿verdad?
 - EN: Yeah
@@ -9162,7 +9162,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Maybe thats not my real name?
   ES: ¿Quizás ese no es mi nombre real?
 - EN: Oh
-  ES: Oh  [sin_traducir]
+  ES: Oh
 - EN: Mystery girl. I like it
   ES: Chica misteriosa. Me gusta
 - EN: I hated my previous name
@@ -9174,17 +9174,17 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: What was it before?
   ES: ¿Cómo era antes? 
 - EN: Annun
-  ES: Annun  [sin_traducir]
+  ES: Annun
 - EN: Thank GOD you changed it then 😜
   ES: Gracias a Dios que lo cambiaste   
 - EN: Annabelle
-  ES: Annabelle  [sin_traducir]
+  ES: Annabelle
 - EN: Ohh
-  ES: Ohh  [sin_traducir]
+  ES: Ohh
 - EN: With that dolled up face, I can see why
   ES: Con esa cara empolvada, puedo entender 
 - EN: Anous
-  ES: Anous  [sin_traducir]
+  ES: Anous
 - EN: Hahahahah
   ES: Jajajajaj
 - EN: You're funny
@@ -9242,7 +9242,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Playing twister
   ES: Jugando twister
 - EN: Twister?
-  ES: Twister?  [sin_traducir]
+  ES: Twister?
 - EN: Like the one with the dots ?
   ES: ¿Como el que tiene puntos?
 - EN: Is there any other kind?
@@ -9285,153 +9285,153 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/calls/config  (74 cadenas)
 
 - EN: Greg Summers
-  ES: Greg Summers  [sin_traducir]
+  ES: Greg Summers
 - EN: Ashley
   ES: Ashley
 - EN: Mom
-  ES: Mom  [sin_traducir]
+  ES: Mom
 - EN: Mom
   ES: Mam
 - EN: Ashley
   ES: Ashley
 - EN: Greg Summers
-  ES: Greg Summers  [sin_traducir]
+  ES: Greg Summers
 - EN: +1 A41D GR3G
-  ES: +1 A41D GR3G  [sin_traducir]
+  ES: +1 A41D GR3G
 - EN: Emergency Services
   ES: Emergencias       
 - EN: Det. Murilo
-  ES: Det. Murilo  [sin_traducir]
+  ES: Det. Murilo
 - EN: 1-800-MURILO
-  ES: 1-800-MURILO  [sin_traducir]
+  ES: 1-800-MURILO
 - EN: Taylor
-  ES: Taylor  [sin_traducir]
+  ES: Taylor
 - EN: Cassie
-  ES: Cassie  [sin_traducir]
+  ES: Cassie
 - EN: Faris & Kane
-  ES: Faris & Kane  [sin_traducir]
+  ES: Faris & Kane
 - EN: Voicemail
   ES: Voicemail
 - EN: Abby Shin
-  ES: Abby Shin  [sin_traducir]
+  ES: Abby Shin
 - EN: Adwin Chong
-  ES: Adwin Chong  [sin_traducir]
+  ES: Adwin Chong
 - EN: Alex Freeman
-  ES: Alex Freeman  [sin_traducir]
+  ES: Alex Freeman
 - EN: Alexis Worth
-  ES: Alexis Worth  [sin_traducir]
+  ES: Alexis Worth
 - EN: Alfred Perlo
-  ES: Alfred Perlo  [sin_traducir]
+  ES: Alfred Perlo
 - EN: Ben Cavanaugh
-  ES: Ben Cavanaugh  [sin_traducir]
+  ES: Ben Cavanaugh
 - EN: Bill Harper
-  ES: Bill Harper  [sin_traducir]
+  ES: Bill Harper
 - EN: Catherine Pace
   ES: Catalina Pace 
 - EN: Chandra Nala
-  ES: Chandra Nala  [sin_traducir]
+  ES: Chandra Nala
 - EN: Chloe Rice
-  ES: Chloe Rice  [sin_traducir]
+  ES: Chloe Rice
 - EN: Dad
   ES: Papá
 - EN: David Teegan
-  ES: David Teegan  [sin_traducir]
+  ES: David Teegan
 - EN: Erin Mabel
-  ES: Erin Mabel  [sin_traducir]
+  ES: Erin Mabel
 - EN: Eve Farrell
-  ES: Eve Farrell  [sin_traducir]
+  ES: Eve Farrell
 - EN: Farah Ramsey
-  ES: Farah Ramsey  [sin_traducir]
+  ES: Farah Ramsey
 - EN: Fred Tanner
-  ES: Fred Tanner  [sin_traducir]
+  ES: Fred Tanner
 - EN: Futa Baker
-  ES: Futa Baker  [sin_traducir]
+  ES: Futa Baker
 - EN: Gideon Jung
   ES: Gedeón Jung
 - EN: Gillan Tan
-  ES: Gillan Tan  [sin_traducir]
+  ES: Gillan Tan
 - EN: Gordon Akram
-  ES: Gordon Akram  [sin_traducir]
+  ES: Gordon Akram
 - EN: Haru Oakey
-  ES: Haru Oakey  [sin_traducir]
+  ES: Haru Oakey
 - EN: Iain Gorman
-  ES: Iain Gorman  [sin_traducir]
+  ES: Iain Gorman
 - EN: Jay Tyler
-  ES: Jay Tyler  [sin_traducir]
+  ES: Jay Tyler
 - EN: Jayson Olsen
-  ES: Jayson Olsen  [sin_traducir]
+  ES: Jayson Olsen
 - EN: Jesse Shell
-  ES: Jesse Shell  [sin_traducir]
+  ES: Jesse Shell
 - EN: Justin Woodman
-  ES: Justin Woodman  [sin_traducir]
+  ES: Justin Woodman
 - EN: Ken Nagel
-  ES: Ken Nagel  [sin_traducir]
+  ES: Ken Nagel
 - EN: Kesh O Mara
-  ES: Kesh O Mara  [sin_traducir]
+  ES: Kesh O Mara
 - EN: Kevin Baxter
-  ES: Kevin Baxter  [sin_traducir]
+  ES: Kevin Baxter
 - EN: Kyle Deeley
-  ES: Kyle Deeley  [sin_traducir]
+  ES: Kyle Deeley
 - EN: Lee Everee
-  ES: Lee Everee  [sin_traducir]
+  ES: Lee Everee
 - EN: Lilli Vesely
-  ES: Lilli Vesely  [sin_traducir]
+  ES: Lilli Vesely
 - EN: Luis Sutcliffe
-  ES: Luis Sutcliffe  [sin_traducir]
+  ES: Luis Sutcliffe
 - EN: Mark Waters
-  ES: Mark Waters  [sin_traducir]
+  ES: Mark Waters
 - EN: Marko Nixon
-  ES: Marko Nixon  [sin_traducir]
+  ES: Marko Nixon
 - EN: Matt Wilson
-  ES: Matt Wilson  [sin_traducir]
+  ES: Matt Wilson
 - EN: Max Clauf
-  ES: Max Clauf  [sin_traducir]
+  ES: Max Clauf
 - EN: Morgan Nason
-  ES: Morgan Nason  [sin_traducir]
+  ES: Morgan Nason
 - EN: Naya Scott
-  ES: Naya Scott  [sin_traducir]
+  ES: Naya Scott
 - EN: Nissa Renner
-  ES: Nissa Renner  [sin_traducir]
+  ES: Nissa Renner
 - EN: Odric Marshel
-  ES: Odric Marshel  [sin_traducir]
+  ES: Odric Marshel
 - EN: Oliver Peters
-  ES: Oliver Peters  [sin_traducir]
+  ES: Oliver Peters
 - EN: Patrick Liman
-  ES: Patrick Liman  [sin_traducir]
+  ES: Patrick Liman
 - EN: Paul Chong
-  ES: Paul Chong  [sin_traducir]
+  ES: Paul Chong
 - EN: Qahar Said
-  ES: Qahar Said  [sin_traducir]
+  ES: Qahar Said
 - EN: Quinton Lewis
-  ES: Quinton Lewis  [sin_traducir]
+  ES: Quinton Lewis
 - EN: Ralph Conners
-  ES: Ralph Conners  [sin_traducir]
+  ES: Ralph Conners
 - EN: Richard Garf
-  ES: Richard Garf  [sin_traducir]
+  ES: Richard Garf
 - EN: Ryu Jiggens
-  ES: Ryu Jiggens  [sin_traducir]
+  ES: Ryu Jiggens
 - EN: Sabah Shaz
-  ES: Sabah Shaz  [sin_traducir]
+  ES: Sabah Shaz
 - EN: Sam Hasnul
-  ES: Sam Hasnul  [sin_traducir]
+  ES: Sam Hasnul
 - EN: Sam Mutt
-  ES: Sam Mutt  [sin_traducir]
+  ES: Sam Mutt
 - EN: Sam Parlow
-  ES: Sam Parlow  [sin_traducir]
+  ES: Sam Parlow
 - EN: Shawn Beckman
-  ES: Shawn Beckman  [sin_traducir]
+  ES: Shawn Beckman
 - EN: Sherman Chong
-  ES: Sherman Chong  [sin_traducir]
+  ES: Sherman Chong
 - EN: Sherry Zacher
   ES: Jerez Zacher 
 - EN: Taka Ann
-  ES: Taka Ann  [sin_traducir]
+  ES: Taka Ann
 - EN: Yusof Kitt
-  ES: Yusof Kitt  [sin_traducir]
+  ES: Yusof Kitt
 - EN: Valerie Smith
-  ES: Valerie Smith  [sin_traducir]
+  ES: Valerie Smith
 - EN: Walter Whitelaw
-  ES: Walter Whitelaw  [sin_traducir]
+  ES: Walter Whitelaw
 
 ## content/chats/jamesh.DialogueTreeDescriptor  (65 cadenas)
 
@@ -9988,9 +9988,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: What do you doubt?
   ES: ¿De qué dudas?
 - EN: Eyeris
-  ES: Eyeris  [sin_traducir]
+  ES: Eyeris
 - EN: Iris
-  ES: Iris  [sin_traducir]
+  ES: Iris
 - EN: The Eyeris
   ES: La Eyeris 
 - EN: The Iris
@@ -10086,7 +10086,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Yeah a cat
   ES: Si un gato
 - EN: Oh
-  ES: Oh  [sin_traducir]
+  ES: Oh
 - EN: I see you have pets too?
   ES: Veo que también tienes mascotas.
 - EN: Haha.. nah I dont
@@ -10145,7 +10145,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/spark/taylorrc1.DialogueTreeDescriptor  (30 cadenas)
 
 - EN: Titanic
-  ES: Titanic  [sin_traducir]
+  ES: Titanic
 - EN: What?
   ES: ¿Qué?
 - EN: Its my icebreaker
@@ -10214,13 +10214,13 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Give it up while you still have the chance.
   ES: Ríndete mientras todavía puedas.
 - EN: Tim Faraday
-  ES: Tim Faraday  [sin_traducir]
+  ES: Tim Faraday
 - EN: (no subject)
   ES: (sin asunto)
 - EN: Pict-Up anything new?
   ES: ¿Captaste algo nuevo?
 - EN: Ed
-  ES: Ed  [sin_traducir]
+  ES: Ed
 - EN: Tech issues again!!
   ES: Otra vez fallas!!  
 - EN: Reset password ?
@@ -10557,9 +10557,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Gonna try Spark (finally)
   ES: Probare Spark (por fin)  
 - EN: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM
-  ES: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM  [sin_traducir]
+  ES: ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM
 - EN: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT
-  ES: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT  [sin_traducir]
+  ES: REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT
 - EN: Videos
   ES: Videos
 - EN: Jabbr
@@ -10635,13 +10635,13 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Please text the full name of your guest.
   ES: Por favor escribe el nombre completo de tu invitado.
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Greg Summers
-  ES: Greg Summers  [sin_traducir]
+  ES: Greg Summers
 - EN: Please enter the card number you wish to unblock.
   ES: Por favor ingresa el número de tarjeta que deseas desbloquear.
 - EN: 66EA3521113
-  ES: 66EA3521113  [sin_traducir]
+  ES: 66EA3521113
 - EN: Greg Summers - 66EA3521113 - has been unblocked. Thank you.
   ES: Greg Summers - 66EA3521113 - ha sido desbloqueado. Gracias.
 - EN: Card number not found.
@@ -10693,7 +10693,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/webpages/kappafeed.web/animal-sprit  (16 cadenas)
 
 - EN: Kappafeed
-  ES: Kappafeed  [sin_traducir]
+  ES: Kappafeed
 - EN: What Totem Animal Spirit Are You?
   ES: ¿Cuál es tu espíritu animal tótem?
 - EN: What Totem Animal Spirit\nAre You?
@@ -10965,12 +10965,12 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Founded on the principles of sincerity \nand adventure, we welcome you to try out Spark\nin your journey to happy ever after.
   ES: Basada en los principios de la sinceridad\ny la aventura, Spark te invita a probar suerte\nen el camino hacia tu final feliz.
 - EN: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1
-  ES: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1  [sin_traducir]
+  ES: /1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1
 
 ## content/webpages/iris.os  (13 cadenas)
 
 - EN: I R I S. OS
-  ES: I R I S. OS  [sin_traducir]
+  ES: I R I S. OS
 - EN: © IRIS SYSTEMS INC.
   ES: © IRIS SISTEMAS INC.
 - EN: ALWAYS WATCHING OVER YOU
@@ -11082,7 +11082,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/weblayouts/iris.os  (12 cadenas)
 
 - EN: I R I S. OS
-  ES: I R I S. OS  [sin_traducir]
+  ES: I R I S. OS
 - EN: *ALWAYS WATCHING OVER YOU*
   ES: *SIEMPRE VIGILANDOTE!!*   
 - EN: A new standard in quality, IRIS once again\npushes the boundaries on making your mobile\nexperience as seamless as ever. It now blurs\nthe line between using your phone and keep-\ning track of your daily life by using intelligent\nsoftware.
@@ -11104,7 +11104,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: *Data charges may apply where applicable
   ES: *Pueden aplicar cargos de datos         
 - EN: © IRIS SYSTEMS INC.
-  ES: © IRIS SYSTEMS INC.  [sin_traducir]
+  ES: © IRIS SYSTEMS INC.
 
 ## content/weblayouts/nsfw.gov.web/?r=15213  (12 cadenas)
 
@@ -11163,7 +11163,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/webpages/ridr.web  (12 cadenas)
 
 - EN: Ridr
-  ES: Ridr  [sin_traducir]
+  ES: Ridr
 - EN: The only ride hailing service.
   ES: El único servicio de transporte con conductor.
 - EN: Always wanted to define the \nroad you take?
@@ -11424,19 +11424,19 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/chats/config  (8 cadenas)
 
 - EN: Greg
-  ES: Greg  [sin_traducir]
+  ES: Greg
 - EN: Greg - Recovered
   ES: Greg - Recuper. 
 - EN: Ashley - Recovered
   ES: Ashley - Recuperad
 - EN: Yolanda
-  ES: Yolanda  [sin_traducir]
+  ES: Yolanda
 - EN: Murv
-  ES: Murv  [sin_traducir]
+  ES: Murv
 - EN: Elizabeth HR
   ES: Elizabeth RH
 - EN: Phill
-  ES: Phill  [sin_traducir]
+  ES: Phill
 - EN: Gateway 31
   ES: Puerta de enlace 31
 
@@ -11580,7 +11580,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Welcome to Chats, your default messaging app. Powered by Iris OS
   ES: Bienvenido a Chats, tu aplicación de mensajería predeterminada. Con tecnología de Iris OS.
 - EN: This service is complimentary for 1 year from this date.
-  ES: Este servicio es gratuito durante 1 año a partir de esta fecha.
+  ES: Este servicio es gratuito durante un año a partir de esta fecha.
 - EN: After that, a yearly subscription fee will be charged.
   ES: Después se cobrará una cuota de suscripción anual.
 - EN: We hope to be of continuous service to you
@@ -11597,7 +11597,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Welcome to Chats, your default messaging app. Powered by Iris OS
   ES: Bienvenido a Chats, tu aplicación de mensajería predeterminada. Con tecnología de Iris OS.
 - EN: This service is complimentary for 1 year from this date.
-  ES: Este servicio es gratuito por 1 año a partir de esta fecha  [posible_truncado]
+  ES: Este servicio es gratuito durante un año a partir de esta fecha.
 - EN: After that, a yearly subscription fee will be charged.
   ES: Después se cobrará una cuota de suscripción anual.
 - EN: We hope to be of continuous service to you
@@ -11695,7 +11695,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Thank you, your personal shopper assigned to you is..
   ES: Gracias, su comprador personal asignado a usted es...
 - EN: *Yolanda*
-  ES: *Yolanda*  [sin_traducir]
+  ES: *Yolanda*
 - EN: Due to our increasing demand, we can only take a limited amount of clients at a time.
   ES: Por la alta demanda, tomamos pocos clientes a la vez.                                
 - EN: After this call, please wait for us to text you at our latest convenience.
@@ -11802,7 +11802,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: *panting*
   ES: *jadeando
 - EN: No
-  ES: No  [sin_traducir]
+  ES: No
 - EN: No!
   ES: ¡No!
 - EN: *bones crushing*
@@ -11875,7 +11875,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: More Information Required
   ES: Se requiere más información
 - EN: nsfw.gov.web/lookup?q=taylorperrera
-  ES: nsfw.gov.web/lookup?q=taylorperrera  [sin_traducir]
+  ES: nsfw.gov.web/lookup?q=taylorperrera
 - EN: FOUND 6 MATCHES
   ES: 6 COINCIDENCIAS
 - EN: More information required.
@@ -12031,7 +12031,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/weblayouts/iris.os/update  (5 cadenas)
 
 - EN: I R I S. OS
-  ES: I R I S. OS  [sin_traducir]
+  ES: I R I S. OS
 - EN: Cheers!
   ES: ¡Salud!
 - EN: Your system is up to date
@@ -12039,7 +12039,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Stay tuned for the unveiling of\nour next OS soon.
   ES: Pronto revelaremos\nnuestro próximo sistema operativo.
 - EN: © IRIS SYSTEMS INC.
-  ES: © IRIS SYSTEMS INC.  [sin_traducir]
+  ES: © IRIS SYSTEMS INC.
 
 ## content/weblayouts/ridr.web/signin  (5 cadenas)
 
@@ -12070,7 +12070,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/webpages/nsfw.gov.web/?r=15213  (5 cadenas)
 
 - EN: nsfw.gov.web/?r=15213
-  ES: nsfw.gov.web/?r=15213  [sin_traducir]
+  ES: nsfw.gov.web/?r=15213
 - EN: RECORD FOUND
   ES: REGISTRO    
 - EN: Name : Taylor Perrera\nAge : 22\nLocation : Springwood
@@ -12098,9 +12098,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: My
   ES: Mi
 - EN: Phresh
-  ES: Phresh  [sin_traducir]
+  ES: Phresh
 - EN: Ideas
-  ES: Ideas  [sin_traducir]
+  ES: Ideas
 
 ## content/restphrase/jamesh11  (4 cadenas)
 
@@ -12186,7 +12186,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Who
   ES: ¿Quién
 - EN: Yolanda?
-  ES: Yolanda?  [sin_traducir]
+  ES: Yolanda?
 
 ## content/restphrase/gregrc2  (3 cadenas)
 
@@ -12202,7 +12202,7 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 - EN: Message from James
   ES: Mensaje de James  
 - EN: Cassie,
-  ES: Cassie,  [sin_traducir]
+  ES: Cassie,
 - EN: @keepingitcassie
   ES: @keepingitcassie
 
@@ -12308,9 +12308,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/chats/stockconfig  (2 cadenas)
 
 - EN: Iris Chat
-  ES: Iris Chat  [sin_traducir]
+  ES: Iris Chat
 - EN: Aulner
-  ES: Aulner  [sin_traducir]
+  ES: Aulner
 
 ## content/mail/stockconfig  (2 cadenas)
 
@@ -12413,9 +12413,9 @@ Convenciones: cada linea muestra `EN` y su traduccion `ES` actual. `[PROBLEMA]` 
 ## content/web/config  (2 cadenas)
 
 - EN: nsfw.gov.web/lookup?q=taylorperrera
-  ES: nsfw.gov.web/lookup?q=taylorperrera  [sin_traducir]
+  ES: nsfw.gov.web/lookup?q=taylorperrera
 - EN: nsfw.gov.web/?r=15213
-  ES: nsfw.gov.web/?r=15213  [sin_traducir]
+  ES: nsfw.gov.web/?r=15213
 
 ## content/weblayouts/phreshideas.web/hr/unavailable  (2 cadenas)
 

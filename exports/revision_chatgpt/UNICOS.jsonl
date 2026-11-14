@@ -1,204 +1,13 @@
-{"en": "Greg", "es": "Greg", "categoria": "ui", "repeticiones": 78, "problemas": ["sin_traducir"], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/config", "content/chats/techtitan.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Taylor", "es": "Taylor", "categoria": "ui", "repeticiones": 69, "problemas": ["sin_traducir"], "recursos": ["content/calls/config", "content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "No", "es": "No", "categoria": "ui", "repeticiones": 8, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor", "content/subtitles/content/videos/james.mp4.ogg"]}
-{"en": "Anna", "es": "Anna", "categoria": "ui", "repeticiones": 6, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/chats/mom.DialogueTreeDescriptor"]}
-{"en": "Oh", "es": "Oh", "categoria": "ui", "repeticiones": 5, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/murv.DialogueTreeDescriptor", "content/chats/yolanda.DialogueTreeDescriptor", "content/spark/edwinbyrd.DialogueTreeDescriptor", "content/spark/fillermale1.DialogueTreeDescriptor"]}
-{"en": "Ok", "es": "Ok", "categoria": "ui", "repeticiones": 4, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/chats/mom.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Greg Summers", "es": "Greg Summers", "categoria": "ui", "repeticiones": 3, "problemas": ["sin_traducir"], "recursos": ["content/calls/config", "content/chats/techtitan.DialogueTreeDescriptor"]}
-{"en": "I R I S. OS", "es": "I R I S. OS", "categoria": "narrativo", "repeticiones": 3, "problemas": ["sin_traducir"], "recursos": ["content/weblayouts/iris.os", "content/weblayouts/iris.os/update", "content/webpages/iris.os"]}
-{"en": "Yolanda", "es": "Yolanda", "categoria": "ui", "repeticiones": 3, "problemas": ["sin_traducir"], "recursos": ["content/chats/config", "content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Ashley?!?!", "es": "Ashley?!?!", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
-{"en": "Cassie", "es": "Cassie", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/calls/config", "content/jabbr/config"]}
-{"en": "Faraday Safety", "es": "Faraday Safety", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/jabbr/config"]}
-{"en": "Greg?", "es": "Greg?", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/yolanda.DialogueTreeDescriptor"]}
-{"en": "Greg?!?!", "es": "Greg?!?!", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
-{"en": "James?!", "es": "James?!", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
-{"en": "Okok", "es": "Okok", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Robert", "es": "Robert", "categoria": "ui", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config", "content/spark/config"]}
-{"en": "nsfw.gov.web/?r=15213", "es": "nsfw.gov.web/?r=15213", "categoria": "narrativo", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/web/config", "content/webpages/nsfw.gov.web/?r=15213"]}
-{"en": "nsfw.gov.web/lookup?q=taylorperrera", "es": "nsfw.gov.web/lookup?q=taylorperrera", "categoria": "narrativo", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/web/config", "content/webpages/nsfw.gov.web/lookup?q=taylorperrera"]}
-{"en": "spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8", "es": "spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8", "categoria": "narrativo", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "© IRIS SYSTEMS INC.", "es": "© IRIS SYSTEMS INC.", "categoria": "narrativo", "repeticiones": 2, "problemas": ["sin_traducir"], "recursos": ["content/weblayouts/iris.os", "content/weblayouts/iris.os/update"]}
-{"en": "*Yolanda*", "es": "*Yolanda*", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/subtitles/content/calls/fariskane/shopper-yolanda.ogg"]}
-{"en": "+1 A41D GR3G", "es": "+1 A41D GR3G", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "/1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1", "es": "/1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/weblayouts/spark.web"]}
-{"en": "1-800-MURILO", "es": "1-800-MURILO", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "66EA3521113", "es": "66EA3521113", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/techtitan.DialogueTreeDescriptor"]}
-{"en": "ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM", "es": "ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/gallery/config"]}
-{"en": "Abby Shin", "es": "Abby Shin", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Adwin Chong", "es": "Adwin Chong", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Albert", "es": "Albert", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Alex", "es": "Alex", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Alex Freeman", "es": "Alex Freeman", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Alex Grant", "es": "Alex Grant", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Alexis Worth", "es": "Alexis Worth", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Alfred Perlo", "es": "Alfred Perlo", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Anna!", "es": "Anna!", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
-{"en": "Annabelle", "es": "Annabelle", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
-{"en": "Annun", "es": "Annun", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
-{"en": "Anous", "es": "Anous", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
-{"en": "Applesauce", "es": "Applesauce", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Aulner", "es": "Aulner", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/stockconfig"]}
-{"en": "Bella", "es": "Bella", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Ben Cavanaugh", "es": "Ben Cavanaugh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Bill", "es": "Bill", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Bill Harper", "es": "Bill Harper", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Black Beauty", "es": "Black Beauty", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Blehhhhhh", "es": "Blehhhhhh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
-{"en": "Brandon K", "es": "Brandon K", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Bruce", "es": "Bruce", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Cassandra", "es": "Cassandra", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
-{"en": "Cassie,", "es": "Cassie,", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/restphrase/james4"]}
-{"en": "Casual", "es": "Casual", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Chandra Nala", "es": "Chandra Nala", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Chloe Rice", "es": "Chloe Rice", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Danny", "es": "Danny", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "David Teegan", "es": "David Teegan", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Desiree", "es": "Desiree", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Det. Murilo", "es": "Det. Murilo", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Ed", "es": "Ed", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/mail/config"]}
-{"en": "Edwin", "es": "Edwin", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Edwin Byrd", "es": "Edwin Byrd", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Eh", "es": "Eh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
-{"en": "Ehhhhhhhh", "es": "Ehhhhhhhh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
-{"en": "Erin Mabel", "es": "Erin Mabel", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Eve Farrell", "es": "Eve Farrell", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Eyeris", "es": "Eyeris", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
-{"en": "Faraday", "es": "Faraday", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Faraday Securities", "es": "Faraday Securities", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Farah Ramsey", "es": "Farah Ramsey", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Faris & Kane", "es": "Faris & Kane", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Fred", "es": "Fred", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Fred Tanner", "es": "Fred Tanner", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Fred Watson", "es": "Fred Watson", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Free Willy", "es": "Free Willy", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Futa Baker", "es": "Futa Baker", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Gillan Tan", "es": "Gillan Tan", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Gordon Akram", "es": "Gordon Akram", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Haru Oakey", "es": "Haru Oakey", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Hmmmmm", "es": "Hmmmmm", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "I am just going to look for her.", "es": "Voy a buscarla.                 ", "categoria": "narrativo", "repeticiones": 1, "problemas": ["contenido_faltante"], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
-{"en": "Iain Gorman", "es": "Iain Gorman", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Ideas", "es": "Ideas", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/restphrase/james2"]}
-{"en": "Iris", "es": "Iris", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
-{"en": "Iris Chat", "es": "Iris Chat", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/stockconfig"]}
-{"en": "Jackie C", "es": "Jackie C", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Jacob Rex", "es": "Jacob Rex", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "James Aulner", "es": "James Aulner", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Jay Tyler", "es": "Jay Tyler", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Jayson Olsen", "es": "Jayson Olsen", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Jeniffer", "es": "Jeniffer", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Jesse Shell", "es": "Jesse Shell", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Jessica", "es": "Jessica", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Jimmy", "es": "Jimmy", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Josh Chen", "es": "Josh Chen", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Justin Woodman", "es": "Justin Woodman", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Kad Deidre", "es": "Kad Deidre", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Kappafeed", "es": "Kappafeed", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/webpages/kappafeed.web/animal-sprit"]}
-{"en": "Kate", "es": "Kate", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Ken Nagel", "es": "Ken Nagel", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Kesh O Mara", "es": "Kesh O Mara", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Kevin Baxter", "es": "Kevin Baxter", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Kyle Deeley", "es": "Kyle Deeley", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Lee Everee", "es": "Lee Everee", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Lester", "es": "Lester", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Lilli Vesely", "es": "Lilli Vesely", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Luis Sutcliffe", "es": "Luis Sutcliffe", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Madison Mike", "es": "Madison Mike", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Mark", "es": "Mark", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Mark Waters", "es": "Mark Waters", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Marko Nixon", "es": "Marko Nixon", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Matt Wilson", "es": "Matt Wilson", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Max Clauf", "es": "Max Clauf", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Melanie Fox", "es": "Melanie Fox", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Mom", "es": "Mom", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Morgan Nason", "es": "Morgan Nason", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Murv", "es": "Murv", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/config"]}
-{"en": "Naya Scott", "es": "Naya Scott", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Nissa Renner", "es": "Nissa Renner", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "No.", "es": "No.", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
-{"en": "Nononono", "es": "Nononono", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
-{"en": "Noooooooooo", "es": "Noooooooooo", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
-{"en": "Odric Marshel", "es": "Odric Marshel", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Ohh", "es": "Ohh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
-{"en": "Oh~~", "es": "Oh~~", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
-{"en": "Oliver Peters", "es": "Oliver Peters", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Ooohh", "es": "Ooohh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Pat", "es": "Pat", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Patricia", "es": "Patricia", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Patrick Liman", "es": "Patrick Liman", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Patrick Matthews", "es": "Patrick Matthews", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Paul Chin", "es": "Paul Chin", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Paul Chong", "es": "Paul Chong", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Phill", "es": "Phill", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/config"]}
-{"en": "Phresh", "es": "Phresh", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/restphrase/james2"]}
-{"en": "Qahar Said", "es": "Qahar Said", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Quinton Lewis", "es": "Quinton Lewis", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT", "es": "REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/gallery/config"]}
-{"en": "Ralph Conners", "es": "Ralph Conners", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Rei Norman", "es": "Rei Norman", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Richard Garf", "es": "Richard Garf", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Ridr", "es": "Ridr", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/webpages/ridr.web"]}
-{"en": "Ronnie", "es": "Ronnie", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Rosita", "es": "Rosita", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "Ryu Jiggens", "es": "Ryu Jiggens", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Sabah Shaz", "es": "Sabah Shaz", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Sally", "es": "Sally", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Sam Hasnul", "es": "Sam Hasnul", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Sam Mutt", "es": "Sam Mutt", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Sam Parlow", "es": "Sam Parlow", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Shawn Beckman", "es": "Shawn Beckman", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Sherman Chong", "es": "Sherman Chong", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Stephanie", "es": "Stephanie", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Summers?", "es": "Summers?", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
-{"en": "Taka Ann", "es": "Taka Ann", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Tammy", "es": "Tammy", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "Taylor Perrera", "es": "Taylor Perrera", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/config"]}
-{"en": "The Click Hole", "es": "The Click Hole", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "This service is complimentary for 1 year from this date.", "es": "Este servicio es gratuito por 1 año a partir de esta fecha", "categoria": "narrativo", "repeticiones": 1, "problemas": ["posible_truncado"], "recursos": ["content/chats/boot-iris.DialogueTreeDescriptor"]}
-{"en": "Tim Faraday", "es": "Tim Faraday", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/mail/config"]}
-{"en": "Titanic", "es": "Titanic", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/taylorrc1.DialogueTreeDescriptor"]}
-{"en": "Tobias", "es": "Tobias", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Toby", "es": "Toby", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Toby?", "es": "Toby?", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
-{"en": "Twister?", "es": "Twister?", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
-{"en": "Valerie Smith", "es": "Valerie Smith", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Walter Whitelaw", "es": "Walter Whitelaw", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "Woodsboro", "es": "Woodsboro", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/jabbr/config"]}
-{"en": "Yolanda?", "es": "Yolanda?", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/restphrase/gregrc1"]}
-{"en": "Yusof Kitt", "es": "Yusof Kitt", "categoria": "ui", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/calls/config"]}
-{"en": "__LINK151, spark.demon.nav_to_demon", "es": "__LINK151, spark.demon.nav_to_demon", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_impersonating_ashley, __LINK122", "es": "a3_impersonating_ashley, __LINK122", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_impersonating_ashley, __LINK2", "es": "a3_impersonating_ashley, __LINK2", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_impersonating_generic, __LINK1", "es": "a3_impersonating_generic, __LINK1", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_anna, __LINK121", "es": "a3_saving_anna, __LINK121", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_anna, __LINK125", "es": "a3_saving_anna, __LINK125", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_anna, __LINK132", "es": "a3_saving_anna, __LINK132", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_anna, __LINK133", "es": "a3_saving_anna, __LINK133", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_both, __LINK121", "es": "a3_saving_both, __LINK121", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_both, __LINK149", "es": "a3_saving_both, __LINK149", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_neither, __LINK132", "es": "a3_saving_neither, __LINK132", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_neither, __LINK135", "es": "a3_saving_neither, __LINK135", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_taylor, __LINK121", "es": "a3_saving_taylor, __LINK121", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_taylor, __LINK125", "es": "a3_saving_taylor, __LINK125", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_taylor, __LINK132", "es": "a3_saving_taylor, __LINK132", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_saving_taylor, __LINK134", "es": "a3_saving_taylor, __LINK134", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_stat_saved_anna, __LINK152", "es": "a3_stat_saved_anna, __LINK152", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_stat_saved_both, __LINK184", "es": "a3_stat_saved_both, __LINK184", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_stat_saved_none, __LINK67", "es": "a3_stat_saved_none, __LINK67", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_stat_saved_none, __LINK78", "es": "a3_stat_saved_none, __LINK78", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "a3_stat_saved_taylor, __LINK167", "es": "a3_stat_saved_taylor, __LINK167", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "chats.busted.a3_demon_lures, __LINK65", "es": "chats.busted.a3_demon_lures, __LINK65", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "chats.busted.a3_tricked_ashley, __LINK150", "es": "chats.busted.a3_tricked_ashley, __LINK150", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "nav_restricted, __LINK1, __LINK2", "es": "nav_restricted, __LINK1, __LINK2", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna", "es": "spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
-{"en": "spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66", "es": "spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66", "categoria": "narrativo", "repeticiones": 1, "problemas": ["sin_traducir"], "recursos": ["content/spark/demon"]}
+{"en": "Greg", "es": "Greg", "categoria": "ui", "repeticiones": 78, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/config", "content/chats/techtitan.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Taylor", "es": "Taylor", "categoria": "ui", "repeticiones": 69, "problemas": [], "recursos": ["content/calls/config", "content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Message from Aulner", "es": "Mensaje de Aulner  ", "categoria": "narrativo", "repeticiones": 13, "problemas": [], "recursos": ["content/restphrase/jamesh1", "content/restphrase/jamesh10", "content/restphrase/jamesh11", "content/restphrase/jamesh12", "content/restphrase/jamesh13", "content/restphrase/jamesh2", "content/restphrase/jamesh3", "content/restphrase/jamesh4", "content/restphrase/jamesh5", "content/restphrase/jamesh6", "content/restphrase/jamesh7", "content/restphrase/jamesh8", "content/restphrase/jamesh9"]}
 {"en": "Hey", "es": "Oye", "categoria": "ui", "repeticiones": 12, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/chats/murv.DialogueTreeDescriptor", "content/spark/edwinbyrd.DialogueTreeDescriptor", "content/spark/fred.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Hey!", "es": "Oye!", "categoria": "ui", "repeticiones": 8, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/spark/edwinbyrd.DialogueTreeDescriptor", "content/spark/fillerfemale1.DialogueTreeDescriptor", "content/spark/fillermale1.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "No", "es": "No", "categoria": "ui", "repeticiones": 8, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor", "content/subtitles/content/videos/james.mp4.ogg"]}
 {"en": "Music", "es": "Música", "categoria": "ui", "repeticiones": 7, "problemas": [], "recursos": ["content/spark/config", "content/spark/newconfig"]}
 {"en": "Sign In", "es": "Iniciar", "categoria": "ui", "repeticiones": 7, "problemas": [], "recursos": ["content/weblayouts/fariskane.web", "content/weblayouts/fariskane.web/login", "content/weblayouts/ridr.web", "content/weblayouts/ridr.web/signin", "content/weblayouts/spark.web", "content/weblayouts/spark.web/irl", "content/webpages/fariskane.web"]}
 {"en": "What?", "es": "¿Qué?", "categoria": "ui", "repeticiones": 7, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/elizabeth.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/spark/dave.DialogueTreeDescriptor", "content/spark/fillermale1.DialogueTreeDescriptor", "content/spark/taylorrc1.DialogueTreeDescriptor"]}
+{"en": "Anna", "es": "Anna", "categoria": "ui", "repeticiones": 6, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Food", "es": "Comida", "categoria": "ui", "repeticiones": 6, "problemas": [], "recursos": ["content/spark/config", "content/spark/newconfig"]}
 {"en": "Hello?", "es": "Hola? ", "categoria": "ui", "repeticiones": 6, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor", "content/chats/mom.DialogueTreeDescriptor", "content/chats/techtitan.DialogueTreeDescriptor", "content/spark/demon", "content/spark/demon.DialogueTreeDescriptor", "content/subtitles/content/calls/murilo/greghome.ogg"]}
 {"en": "Search", "es": "Buscar", "categoria": "ui", "repeticiones": 6, "problemas": [], "recursos": ["content/weblayouts/fariskane.web", "content/weblayouts/fariskane.web/login", "content/weblayouts/nsfw.gov.web", "content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera", "content/weblayouts/nsfw.gov.web/norecords", "content/webpages/fariskane.web"]}
@@ -210,6 +19,7 @@
 {"en": "DISCLAIMER\nPurpose", "es": "AVISO\nProposito   ", "categoria": "ui", "repeticiones": 5, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web", "content/weblayouts/nsfw.gov.web/?r=15213", "content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera", "content/weblayouts/nsfw.gov.web/norecords", "content/webpages/nsfw.gov.web"]}
 {"en": "Discrepancies", "es": "Discrepancias", "categoria": "ui", "repeticiones": 5, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web", "content/weblayouts/nsfw.gov.web/?r=15213", "content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera", "content/weblayouts/nsfw.gov.web/norecords", "content/webpages/nsfw.gov.web"]}
 {"en": "Division of State Police", "es": "División de la Policía Estatal", "categoria": "narrativo", "repeticiones": 5, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web", "content/weblayouts/nsfw.gov.web/?r=15213", "content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera", "content/weblayouts/nsfw.gov.web/norecords", "content/webpages/nsfw.gov.web"]}
+{"en": "Oh", "es": "Oh", "categoria": "ui", "repeticiones": 5, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/murv.DialogueTreeDescriptor", "content/chats/yolanda.DialogueTreeDescriptor", "content/spark/edwinbyrd.DialogueTreeDescriptor", "content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "This information is made available for the purpose of\ncomplying with 89382 section 33221, which requires\nthe Department of Public Safety to establish and\nmaintain a registry of persons who are required to reg-\nister as sex offenders and to post electronically infor-\nmation on sex offenders. The registry is based on the\nlegislature's decision to facilitate access to publicly\navailable information about persons convicted of\nsexual offenses.", "es": "Esta información se publica con el fin de\ncumplir con el artículo 33221 de la ley 89382, que obliga\nal Departamento de Seguridad Pública a crear\ny mantener un registro de personas obligadas a\ninscribirse como delincuentes sexuales, y publicar\ninformación sobre ellas en internet. Este registro\nresponde a la decisión legislativa de facilitar\nel acceso público a información sobre personas\ncondenadas por delitos sexuales.", "categoria": "narrativo", "repeticiones": 5, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web", "content/weblayouts/nsfw.gov.web/?r=15213", "content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera", "content/weblayouts/nsfw.gov.web/norecords", "content/webpages/nsfw.gov.web"]}
 {"en": "Who is this?", "es": "¿Quién es?", "categoria": "narrativo", "repeticiones": 5, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/chats/jamesh", "content/chats/jamesh.DialogueTreeDescriptor", "content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "You", "es": "Tú", "categoria": "ui", "repeticiones": 5, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/mail/stockconfig", "content/restphrase/greg1", "content/restphrase/gregrc2"]}
@@ -222,6 +32,7 @@
 {"en": "I'm stuck", "es": "Estoy atascado", "categoria": "ui", "repeticiones": 4, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Message from James", "es": "Mensaje de James  ", "categoria": "narrativo", "repeticiones": 4, "problemas": [], "recursos": ["content/restphrase/james1", "content/restphrase/james2", "content/restphrase/james4", "content/restphrase/james5"]}
 {"en": "Movies", "es": "Películas", "categoria": "ui", "repeticiones": 4, "problemas": [], "recursos": ["content/spark/config", "content/spark/newconfig"]}
+{"en": "Ok", "es": "Ok", "categoria": "ui", "repeticiones": 4, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/chats/mom.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Outdoors", "es": "Aire libre", "categoria": "ui", "repeticiones": 4, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Pets and Animals", "es": "Mascotas y Animales", "categoria": "narrativo", "repeticiones": 4, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "What are you talking about?", "es": "¿De qué estás hablando? ", "categoria": "narrativo", "repeticiones": 4, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/busted.DialogueTreeDescriptor", "content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
@@ -235,10 +46,12 @@
 {"en": "FINGERPRINT DOESN’T\nMATCH PROFILE", "es": "HUELLA NO\nCOINCIDE PERFIL          ", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/weblayouts/fariskane.web/login", "content/weblayouts/ridr.web/signin", "content/webpages/fariskane.web/login"]}
 {"en": "Fine", "es": "Bien", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "First Name :", "es": "Nombre :    ", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web", "content/weblayouts/nsfw.gov.web/norecords", "content/webpages/nsfw.gov.web"]}
+{"en": "Greg Summers", "es": "Greg Summers", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/calls/config", "content/chats/techtitan.DialogueTreeDescriptor"]}
 {"en": "Haha", "es": "Jaja", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/spark/fillermale1.DialogueTreeDescriptor", "content/spark/taylorrc1.DialogueTreeDescriptor"]}
 {"en": "Havent heard that name in awhile", "es": "No he escuchado ese nombre en un tiempo", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "Hey.", "es": "Oye.", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/gregrc1.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Huh?", "es": "¿Eh?", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor", "content/chats/murv.DialogueTreeDescriptor"]}
+{"en": "I R I S. OS", "es": "I R I S. OS", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/weblayouts/iris.os", "content/weblayouts/iris.os/update", "content/webpages/iris.os"]}
 {"en": "I am starting to understand", "es": "Estoy empezando a entender ", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "I couldnt convince him", "es": "No pude convencerlo   ", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "I don't know.", "es": "No sé.      ", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
@@ -266,6 +79,7 @@
 {"en": "What is going to happen now", "es": "¿Qué va a pasar ahora?   ", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Yeah", "es": "Sí", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor", "content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Yeah", "es": "Sí ", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Yolanda", "es": "Yolanda", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/config", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "You know", "es": "Sabes   ", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor", "content/chats/cassie.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Youre not who now?", "es": "¿No eres quién ahora?", "categoria": "narrativo", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Yup", "es": "Sip", "categoria": "ui", "repeticiones": 3, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/spark/jamesrc.DialogueTreeDescriptor", "content/spark/taylorrc1.DialogueTreeDescriptor"]}
@@ -306,6 +120,7 @@
 {"en": "As long he lives", "es": "Mientras viva   ", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "As long she lives", "es": "Mientras viva    ", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "As part of our commitment to drive\nprosperity forward in our\nneighborhoods, Ridr is opening\na window of opportunity for all\npassengers and drivers for the\nnext three weeks.", "es": "Como parte de nuestro compromiso de impulsar\nla prosperidad en nuestros\nbarrios, Ridr abre\nuna ventana de oportunidad para todos\nlos pasajeros y conductores durante las\npróximas tres semanas.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/ridr.web", "content/webpages/ridr.web"]}
+{"en": "Ashley?!?!", "es": "Ashley?!?!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "At least they are not dead", "es": "Al menos no están muertos", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Awesome!", "es": "¡Genial!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Be that way", "es": "Pues sigue así.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
@@ -315,6 +130,7 @@
 {"en": "Camera Photo", "es": "Foto de cámara", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/restimage/DSC_3142", "content/restimage/DSC_3143"]}
 {"en": "Can I save both?", "es": "¿Puedo salvar a los dos?", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Can you restore my phone data from my PC?", "es": "¿Puedes restaurar los datos de mi teléfono desde mi PC?", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
+{"en": "Cassie", "es": "Cassie", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/calls/config", "content/jabbr/config"]}
 {"en": "Caught red handed.", "es": "Lo atraparon con las manos en la masa.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Chat Images", "es": "Chat Images", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/gallery/config", "content/restimage/DEN_665"]}
 {"en": "Cheers!", "es": "¡Salud!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/iris.os/update", "content/webpages/iris.os/update"]}
@@ -344,6 +160,7 @@
 {"en": "FOUND 6 MATCHES", "es": "6 COINCIDENCIAS", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera", "content/webpages/nsfw.gov.web/lookup?q=taylorperrera"]}
 {"en": "FOr LoNG", "es": "POR MUCHO", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/jamesh", "content/chats/jamesh.DialogueTreeDescriptor"]}
 {"en": "FUCK OFF MY LIFE", "es": "FUERA DE MI VIDA", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
+{"en": "Faraday Safety", "es": "Faraday Safety", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/jabbr/config"]}
 {"en": "Faris & Kane stand by its commitment\nto style and prestige in the era of\nnew technologies. Fashion, like any\nother field of human endeavor, is en-\nhanced by the digital age.", "es": "Faris & Kane mantiene su compromiso\ncon el estilo y el prestigio en la era de\nlas nuevas tecnologías. La moda, como cualquier\notro campo del esfuerzo humano, se mejo-\nra con la era digital.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/fariskane.web", "content/webpages/fariskane.web"]}
 {"en": "Feeling unlucky in love?\nCome visit our famous SPARK IRL events!", "es": "¿Sin suerte en el amor?\n¡Ven a nuestros famosos eventos SPARK IRL!", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/spark.web/irl", "content/webpages/spark.web/irl"]}
 {"en": "Find out about our dating \nevents.", "es": "Conoce nuestros eventos\npara encontrar pareja.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/spark.web", "content/webpages/spark.web"]}
@@ -361,6 +178,8 @@
 {"en": "Good enough for me", "es": "Bueno, suficiente para mí", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Good luck then!", "es": "¡Buena suerte entonces!", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Goodbye", "es": "Adiós", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/spark/demon.DialogueTreeDescriptor"]}
+{"en": "Greg?", "es": "Greg?", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/chats/yolanda.DialogueTreeDescriptor"]}
+{"en": "Greg?!?!", "es": "Greg?!?!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "HAH!", "es": "JA! ", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "HOLD up", "es": "ESPERA", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Hah!", "es": "¡Ja!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
@@ -438,6 +257,7 @@
 {"en": "Its my fault..", "es": "Es mi culpa.. ", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Its not right", "es": "No está bien", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Its password protected", "es": "Está protegido con contraseña", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "James?!", "es": "James?!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "Jesus", "es": "Jesús", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Leave Taylor out of this!", "es": "¡Deja a Taylor fuera de esto!", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Let Anna go!", "es": "¡Suelta a Anna!", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
@@ -473,6 +293,7 @@
 {"en": "Oh dear", "es": "Oh vaya", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor", "content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Oh god", "es": "Oh    ", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Oh god!", "es": "¡Oh, Dios!", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
+{"en": "Okok", "es": "Okok", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor", "content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Or red fingered, becasue its in text", "es": "O con las manos en la masa, porque está por escrito", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Our material life is not meaningless", "es": "Nuestra vida material no carece de sentido.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Our website uses a number of cookies to improve your ex-\nperience when using the website. We also use analytics\ncookies to monitor how people use the website, their loca-\ntion, surf history and credit card information.", "es": "Nuestro sitio usa varias cookies para mejorar tu ex-\nperiencia al usar la web. También usamos cookies de\nanalitica para monitorear como la gente usa el sitio, su ubi-\ncacion, historial de navegacion e información de tarjetas.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/phreshideas.web", "content/webpages/phreshideas.web"]}
@@ -498,6 +319,7 @@
 {"en": "Ridr Inc. disclaims any liability for any damages arising from the use of\nits service, including but not limited to loss of life or limb, destruction of\nproperty, sexual assaults or any wrongful conducts from any of its drivers.\nBy using this service, you accept full responsibility of your own well being\nand agree to not make public disclosures of any kind of any such\nmisfortunes that may occur to you from the use of this service.", "es": "Ridr Inc. no se hace responsable de los daños derivados del uso de\nsu servicio, incluidos, entre otros, la muerte o las lesiones graves, los daños\na la propiedad, las agresiones sexuales o cualquier conducta indebida de sus conductores.\nAl utilizar este servicio, aceptas toda responsabilidad por tu bienestar\ny te comprometes a no divulgar públicamente ningún incidente\nde este tipo que puedas sufrir como consecuencia del uso del servicio.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/ridr.web", "content/webpages/ridr.web"]}
 {"en": "Right.", "es": "Cierto.", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor", "content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Right?", "es": "¿Verdad?", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/alex.DialogueTreeDescriptor", "content/spark/fillerfemale1.DialogueTreeDescriptor"]}
+{"en": "Robert", "es": "Robert", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/jabbr/config", "content/spark/config"]}
 {"en": "SHOULDVE KNOWN YOURE GOING TO SET ME UP", "es": "DEBÍ SABER QUE ME IBAS A TENDER UNA TRAMPA", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "SPARK IRL is our invitation-only\nsignature singles events for\nthose who want something\na little more than swiping.", "es": "SPARK IRL es nuestra exclusiva serie\nde eventos para solteros con invitación,\npensada para quienes buscan algo\nmás que deslizar perfiles.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/spark.web/irl", "content/webpages/spark.web/irl"]}
 {"en": "Said every guilty person ever", "es": "Lo dice todo culpable que existe", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -559,6 +381,7 @@
 {"en": "This is still developing so I don’t have too much\ninfo about him. Here’s what I can dig up. He is\n25 and works as a copywriter. Although he is\ntechnically missing, he is somehow still active\non Jabbr, so no one filed a report yet. But it\ndidn't stop there. His phone was found in\nsomeone’s backyard and handed to the police\nas evidence. Now this is where it gets weird. I\nknow a guy who knows a guy who’s gone\nthrough his phone. They found a “weird video”\nof him with huge chunks of data missing. I am\nstill trying to get a hold of it.\n\nSomething strange is going on and we can't\ncount on the police the government, and the\nmedia for this. It is up to US. For the true be-\nlievers, here are my deductions; All the victims\nhave something in common:", "es": "Esta historia sigue desarrollándose, así que aún no tengo\nmucha información sobre él. Esto es lo que pude averiguar:\ntiene 25 años y trabaja como redactor publicitario. Aunque\noficialmente está desaparecido, de algún modo sigue activo\nen Jabbr, así que nadie ha presentado una denuncia todavía.\nPero ahí no termina todo. Encontraron su teléfono en\nel patio trasero de una casa y lo entregaron a la policía\ncomo prueba. Y aquí viene lo extraño:\nconozco a alguien que conoce a alguien que revisó\nsu teléfono. Hallaron un «video extraño»\ncon grandes partes de información perdidas.\nTodavía estoy intentando conseguirlo.\n\nAlgo raro está pasando y no podemos\nconfiar en la policía, el gobierno ni\nlos medios. Depende de NOSOTROS. Para quienes\ncreen en la verdad, estas son mis conclusiones:\ntodas las víctimas tienen algo en común:", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/educatethyself.web/article/665", "content/webpages/educatethyself.web/article/665"]}
 {"en": "This is too weird", "es": "Esto es demasiado", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "This kinda confirms what I found as well!", "es": "¡Esto casi confirma lo que yo también encontré!", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "This service is complimentary for 1 year from this date.", "es": "Este servicio es gratuito durante un año a partir de esta fecha.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/boot-iris", "content/chats/boot-iris.DialogueTreeDescriptor"]}
 {"en": "This website uses cookies.", "es": "Este sitio usa cookies.   ", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/phreshideas.web", "content/webpages/phreshideas.web"]}
 {"en": "Time out", "es": "Tiempo  ", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Travelling", "es": "Viajes", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/config"]}
@@ -642,9 +465,13 @@
 {"en": "mobile edition", "es": "edición móvil", "categoria": "ui", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/cbb.web/news/5895833", "content/webpages/cbb.web/news/5895833"]}
 {"en": "my persuasion skills surpass yours?", "es": "¿mis habilidades de persuasión superan las tuyas?", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon", "content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "now the code won't work!", "es": "¡ahora el código no funciona!", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "nsfw.gov.web/?r=15213", "es": "nsfw.gov.web/?r=15213", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/web/config", "content/webpages/nsfw.gov.web/?r=15213"]}
+{"en": "nsfw.gov.web/lookup?q=taylorperrera", "es": "nsfw.gov.web/lookup?q=taylorperrera", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/web/config", "content/webpages/nsfw.gov.web/lookup?q=taylorperrera"]}
 {"en": "polar feathered bear", "es": "oso polar emplumado ", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
+{"en": "spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8", "es": "spark.demon.nav_to_taylor, spark.demon.nav_to_demon, __LINK6, __LINK8", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "tIMe Is sHoRt", "es": "El TiEmPo Se AcAbA", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/chats/jamesh", "content/chats/jamesh.DialogueTreeDescriptor"]}
 {"en": "updating is easy and free*!", "es": "actualizar es gratis*!     ", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/iris.os", "content/webpages/iris.os"]}
+{"en": "© IRIS SYSTEMS INC.", "es": "© IRIS SYSTEMS INC.", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/iris.os", "content/weblayouts/iris.os/update"]}
 {"en": "‘Gared and I are head over heels. \nNever felt better. \nThanks Spark!’ - Elaine", "es": "«Gared y yo estamos perdidamente enamorados.\nNunca me había sentido mejor.\n¡Gracias, Spark!» - Elaine", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/spark.web", "content/webpages/spark.web"]}
 {"en": "‘It was love at first click.\nThis is the future.’ - Jyn", "es": "«Fue amor al primer clic.\nEste es el futuro». - Jyn", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/spark.web", "content/webpages/spark.web"]}
 {"en": "‘Spark was the only way \nI could have met Lisa. \nLong live the internet.’ - Thom", "es": "«Spark fue la única manera\nde conocer a Lisa.\n¡Viva internet!» - Thom", "categoria": "narrativo", "repeticiones": 2, "problemas": [], "recursos": ["content/weblayouts/spark.web", "content/webpages/spark.web"]}
@@ -663,6 +490,7 @@
 {"en": "(no subject)", "es": "(sin asunto)", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
 {"en": "*ALWAYS WATCHING OVER YOU*", "es": "*SIEMPRE CUIDANDO DE TI*  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/iris.os"]}
 {"en": "*ALWAYS WATCHING OVER YOU*", "es": "*SIEMPRE VIGILANDOTE!!*   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/iris.os"]}
+{"en": "*Yolanda*", "es": "*Yolanda*", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/calls/fariskane/shopper-yolanda.ogg"]}
 {"en": "*background* I think this is the answering machine, I’ll just leave a message first.*", "es": "*fondo* Creo que este es el contestador automático, primero dejaré un mensaje.*      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/calls/murilo/greghome.ogg"]}
 {"en": "*blurgs extend tiny mouths that also blurg, like Alien*", "es": "*gruñe extendiendo boquitas que también gruñen, como Alien*", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "*bones crushing*", "es": "*huesos aplastad", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/james.mp4.ogg"]}
@@ -725,13 +553,16 @@
 {"en": "*white noise*", "es": "*ruido blanco", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/bath.mp4.ogg"]}
 {"en": "*wind and rising heartbeat*", "es": "*viento y latidos creciente", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/james.mp4.ogg"]}
 {"en": "*you're", "es": "*eres  ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "+1 A41D GR3G", "es": "+1 A41D GR3G", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "- Anna, my name is Anna, my name is Anna-", "es": "- Anna, me llamo Anna, me llamo Anna-", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/freakout.mp4.ogg"]}
 {"en": "-my name is Anna, my name is Anna, my name is-", "es": "-me llamo Anna, me llamo Anna, me llamo-", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/freakout.mp4.ogg"]}
 {"en": "-seeing this, don’t come find me. Don’t-", "es": "-Al ver esto, no vengas a buscarme. No-     ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/freakout.mp4.ogg"]}
 {"en": "-thing.", "es": "-cosa. ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/freakout.mp4.ogg"]}
+{"en": "/1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1", "es": "/1IJQ##.##/##/$$/$$/##/##/##/##/$$/$$/##/##/%%1", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/spark.web"]}
 {"en": "00cc33", "es": "00cc33", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/fariskane.web"]}
 {"en": "00cccc", "es": "00cccc", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/fariskane.web"]}
 {"en": "00ffff", "es": "00ffff", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/spark.web"]}
+{"en": "1-800-MURILO", "es": "1-800-MURILO", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "2 more to go!", "es": "¡Quedan 2!  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "2 out of 3 times it  works 100% of the times", "es": "2 de 3 veces funciona el 100% de las veces  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "2 to 1 favor", "es": "2 a 1 a favor", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
@@ -756,6 +587,7 @@
 {"en": "5. The Ferret", "es": "5. El hurón ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/kappafeed.web/animal-sprit"]}
 {"en": "5. The Ferret", "es": "5. El Hurón ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/kappafeed.web/animal-sprit"]}
 {"en": "6633cc", "es": "6633cc", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/cbb.web/news/5895833"]}
+{"en": "66EA3521113", "es": "66EA3521113", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/techtitan.DialogueTreeDescriptor"]}
 {"en": "75% chance that at any given time we are the most boring couple in the room", "es": "Hay un 75 % de probabilidades de que seamos la pareja más aburrida del lugar.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "80s kid eh?", "es": "¿Niño de los 80, eh?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": ":( It's important", "es": ":( es importante ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -833,6 +665,8 @@
 {"en": "ANSWER ME", "es": "CONTESTA ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "APP DEVELOPMENT", "es": "DESARROLLO DE APP", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/phreshideas.web"]}
 {"en": "APP DEVELOPMENT", "es": "DESARROLLO DE APPS", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/phreshideas.web"]}
+{"en": "ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM", "es": "ATAR COL YEDEDA NITEYER NIEBAFED DA TAS AYIDOFIC CA NENIM", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/config"]}
+{"en": "Abby Shin", "es": "Abby Shin", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "About the same.", "es": "Más o menos igual.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "About this \"Greg\"", "es": "Sobre ese tal «Greg»", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "About time you take what you have and be happy with it", "es": "Ya es hora de que tomes lo que tienes y seas feliz con ello", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
@@ -841,6 +675,7 @@
 {"en": "Accountant at BigFour", "es": "Contador en BigFour  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Actually, I’m not Anna", "es": "En realidad, no soy Anna", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Admit it! You could've have done this without me! When you asked for Anna's favorite movie for whatever reason. I gave it to you FOR FREE. All I ask is for her picture and you couldn't even do that!", "es": "¡Admítelo! No habrías podido hacerlo sin mí. Cuando me pediste la película favorita de Anna, te la dije GRATIS. Solo te pedí una foto de ella y ¡ni siquiera pudiste hacer eso!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Adwin Chong", "es": "Adwin Chong", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "After all that?", "es": "¿Después de todo eso?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "After coming off a shitty relationship", "es": "Después de salir de una relación horrible", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "After looking back at some post from 4 years ago, i just realised how fukin awesome i am", "es": "Después de mirar una publicación de hace 4 años, me di cuenta de lo jodidamente increíble que soy", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
@@ -857,6 +692,12 @@
 {"en": "Ah which kind", "es": "¿Qué tipo? ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Ah yes.. I hope that everything is in order", "es": "Ah sí.. espero que todo esté en orden    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
 {"en": "Ah!", "es": "¡Ah!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Albert", "es": "Albert", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Alex", "es": "Alex", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Alex Freeman", "es": "Alex Freeman", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Alex Grant", "es": "Alex Grant", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Alexis Worth", "es": "Alexis Worth", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Alfred Perlo", "es": "Alfred Perlo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "All I am hearing are just excuses", "es": "Todo lo que escucho son excusas  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "All I am saying is I think there is more to Greg that he is leading on.", "es": "Lo que digo es que creo que hay más de Greg de lo que aparenta.       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "All I ask is some space ok?", "es": "Solo pido un poco de espacio, ¿ok?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
@@ -989,16 +830,20 @@
 {"en": "Anna would have called her phone by now if she is ok", "es": "Anna habría llamado a su teléfono ya si estuviera bien", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Anna you there?", "es": "Anna estas ahi?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Anna youre the only bestie I ever had", "es": "Anna, tú eres la única mejor amiga que he tenido", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "Anna!", "es": "Anna!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Anna's notebook mentioned that she met someone", "es": "El cuaderno de Anna mencionó que conoció a alguien", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Anna's the girl on her wallpaper, right?", "es": "Anna es la chica del fondo de pantalla, ¿verdad?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Annabelle", "es": "Annabelle", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Announcement!", "es": "¡Anuncio!   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/ridr.web"]}
 {"en": "Announcement!", "es": "¡Anuncio!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/ridr.web"]}
+{"en": "Annun", "es": "Annun", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Another Spark newbie lol", "es": "Otro novato de Spark    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Another girl who is pissed at me", "es": "Otra chica furiosa conmigo      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Another girl?", "es": "¿Otra chica?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Another one at her workstation. 🤔", "es": "Otro en su estacion de trabajo. 🤔", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Another random thought.", "es": "Otra idea suelta.      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/taylor/gregkilledanna.ogg"]}
 {"en": "Another tech company scandal", "es": "Otro escándalo de una empresa tecnológica", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Anous", "es": "Anous", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Answer me so I don't have to file a missing person's report", "es": "Respóndeme para no tener que presentar un reporte de persona desaparecida", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Any dentist recommendation? Somewhere near my area would be great", "es": "¿Alguna recomendación de dentista? En algún lugar cerca de mi zona estaría genial", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Any idea on what Anna’s first choice of movies is?", "es": "¿Alguna idea de cuál es la primera opción de películas de Anna?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -1020,6 +865,7 @@
 {"en": "Anyway, I couldn't decide what my favourite movie is.", "es": "igual, no podia decidir cual es mi pelicula favorita.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Anyways, looks like you had fun with Victor.", "es": "igual, parece que te diviertes con Victor.  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Apologies for the delay", "es": "Disculpa el retraso    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
+{"en": "Applesauce", "es": "Applesauce", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Application accepted", "es": "Solicitud aceptada  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/phreshideas.web/hr/accepted"]}
 {"en": "Applied for UC but I got rejected", "es": "Aplique a UC pero me rechazaron  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Are the best? Or you want to be the best", "es": "¿El mejor? ¿O quieres ser el mejor?   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
@@ -1083,6 +929,7 @@
 {"en": "At most he wont have the keys.", "es": "A lo sumo no tendria llaves.  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "At the end of the day", "es": "Al final del día", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "At the very least you are an acomplice", "es": "Al menos eres cómplice               ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Aulner", "es": "Aulner", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/stockconfig"]}
 {"en": "Aunt Penny has a position in her company", "es": "La tía Penny tiene un puesto en su empresa", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Aunt Penny is coming over for a visit soon", "es": "La tía Penny viene de visita pronto      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Awesome", "es": "Genial", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/alex.DialogueTreeDescriptor"]}
@@ -1111,12 +958,18 @@
 {"en": "Before I reset your password", "es": "Antes de restablecer tu contraseña", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
 {"en": "Being the editor in chief doesn't turn you into the queen of the world!", "es": "¡Ser la directora editorial no te convierte en la reina del mundo!    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Being verbally abusive is not far from being physical", "es": "El abuso verbal no está muy lejos del abuso físico.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Bella", "es": "Bella", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Ben Cavanaugh", "es": "Ben Cavanaugh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Bet you get that wrong half the time.", "es": "Apuesto a que te equivocas la mitad de las veces.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Better", "es": "Mejor", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Between me and Greg, that two-timing jerk of a boyfriend and ME! You just had to side with him, didn't you?! Whose idea did we use in the end? Mine! And it WORKED!", "es": "Entre Greg, ese novio tramposo y desleal, y YO! Tenías que ponerte de su lado, no?! De quien fue la idea que usamos al final? Mia! Y FUNCIONO!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Bill", "es": "Bill", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Bill Harper", "es": "Bill Harper", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Black Beauty", "es": "Black Beauty", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Blackmail?", "es": "¿Chantaje?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Blah blah blah… We thank you… blah blah blah.", "es": "Bla bla bla… Te agradecemos… bla bla bla.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/vlog3.mp4.ogg"]}
 {"en": "Blehhh", "es": "Bleh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
+{"en": "Blehhhhhh", "es": "Blehhhhhh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Bombarded her with calls and messages to the point where she just went..", "es": "La llenaron de llamadas y mensajes hasta que se fue..                   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/taylor/avoidgreg.ogg"]}
 {"en": "Boots? Loafers? Leathers", "es": "¿Botas? ¿Mocasines? ¿Prendas de cuero?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Both of them should be saved", "es": "Los dos deben ser salvados  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon.DialogueTreeDescriptor"]}
@@ -1124,6 +977,8 @@
 {"en": "Both of you are going down", "es": "Los dos van a caer        ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Both of you have good points", "es": "Los dos tienen buenos argumentos.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Bow-chicka-wow-wow!", "es": "¡Bow-chicka-wow-wow!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Brandon K", "es": "Brandon K", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Bruce", "es": "Bruce", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Btw", "es": "Por cierto", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Buddy! Pal! Friend!", "es": "¡Amigo! ¡Compañero! ¡Colega!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/calls/greg/innocent.ogg"]}
 {"en": "Bullshit. 😠", "es": "Mentiras. 😠", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
@@ -1243,10 +1098,14 @@
 {"en": "Car troubles, maybe?", "es": "¿Problemas con el auto, tal vez?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Card number not found.", "es": "No se encontró el número de tarjeta.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/techtitan.DialogueTreeDescriptor"]}
 {"en": "Case Study: \"GIVE ZERO FUCKS\"", "es": "Estudio de caso: \"ME VALE MADRES\"", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Cassandra", "es": "Cassandra", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "Cassie has a boyfriend!?!? 😱😱😱😱", "es": "Cassie tiene novio!?!? 😱😱😱😱", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Cassie,", "es": "Cassie,", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/james4"]}
+{"en": "Casual", "es": "Casual", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Cat person.", "es": "Amante de los gatos.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Cat 😺", "es": "Gato 😺", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylorrc1.DialogueTreeDescriptor"]}
 {"en": "Catherine Pace", "es": "Catalina Pace ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Chandra Nala", "es": "Chandra Nala", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Changed it?", "es": "¿Lo cambiaste?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Charity", "es": "Caridad", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Charles", "es": "Carlos ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
@@ -1260,6 +1119,7 @@
 {"en": "Check out my updates", "es": "Mira mis novedades  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Chill", "es": "Relájate", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Chillin is always better with company 😊", "es": "Relajarse siempre es mejor en compañía 😊", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
+{"en": "Chloe Rice", "es": "Chloe Rice", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Chris", "es": "cris ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Classic! 😄", "es": "Clasico! 😄", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "College?", "es": "¿La universidad?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
@@ -1303,12 +1163,16 @@
 {"en": "Damn it. You scared me.", "es": "Maldita sea. Me asustaste.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Damn phones", "es": "Malditos teléfonos.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Damn piece of trash", "es": "Maldito pedazo de basura", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
+{"en": "Danny", "es": "Danny", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Dave", "es": "dave", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Dave C", "es": "David ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "David Teegan", "es": "David Teegan", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Ddnt mean to sound weird but you get my drift", "es": "No quise sonar raro pero me entiendes        ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Debatable", "es": "Discutible", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Defamation is a crime", "es": "La difamación es un delito", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Designer at Phresh Ideas", "es": "Diseñador en Phresh Ideas", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Desiree", "es": "Desiree", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Det. Murilo", "es": "Det. Murilo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Developed the skills to manage other people", "es": "Desarrolle habilidades para gestionar otras", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "Dice Roll Insurance", "es": "Seguro de dados    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
 {"en": "Did Anna mention a Toby?", "es": "¿Anna mencionó a un tal Toby?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -1426,7 +1290,12 @@
 {"en": "Easier said than done", "es": "Más fácil decirlo que hacerlo", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Easy peasy", "es": "Fácil    ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "Easy!", "es": "¡Tranquilo!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Ed", "es": "Ed", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
+{"en": "Edwin", "es": "Edwin", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Edwin Byrd", "es": "Edwin Byrd", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Eh", "es": "Eh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Eh.. close enough", "es": "Eh.. suficientemente cerca", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Ehhhhhhhh", "es": "Ehhhhhhhh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Elizabeth", "es": "Isabel   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
 {"en": "Elizabeth HR", "es": "Elizabeth RH", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/config"]}
 {"en": "Email from Murv", "es": "Correo de Murv ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/emailmurv1"]}
@@ -1434,10 +1303,12 @@
 {"en": "End of story", "es": "Fin de la historia", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Enjoys volunteering at the old folks home, adopting puppies and saving little kids from burning buildings", "es": "Le gusta ser voluntario en el asilo, adoptar cachorros y rescatar ninos de incendios                     ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Entropy has taken form once more.", "es": "La Entropía ha tomado forma una vez más.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
+{"en": "Erin Mabel", "es": "Erin Mabel", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Erm", "es": "Emm", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Err... random.", "es": "Eh... al azar.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Especially if its from online?", "es": "¿Especialmente si es de internet?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Especially the other guys", "es": "Especialmente de otros   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Eve Farrell", "es": "Eve Farrell", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Even I am still figuring it out", "es": "Ni yo lo tengo claro del todo  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Even for my taste", "es": "Incluso para mi gusto", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Even hd to watch her get messd up by that fukin Greg", "es": "Incluso tuve que verla sufrir por culpa de ese maldito Greg.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -1463,6 +1334,7 @@
 {"en": "Exotic name. 😍", "es": "Nombre exotico.  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Explain", "es": "Explica", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Explain her Spark meeting then", "es": "Entonces explica su encuentro por Spark.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Eyeris", "es": "Eyeris", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
 {"en": "FUCK I WARNED YOU ABOUT THIS", "es": "CARAJOS TE LO ADVERTI       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "FUCK I should have known!", "es": "¡MIERDA, debí haberlo sabido!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "FUCK YOU 😠😠", "es": "A LA MIERDA      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
@@ -1470,6 +1342,10 @@
 {"en": "Fair enough", "es": "Justo      ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Famous last words", "es": "Ultimas palabras ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Far from it", "es": "Para nada", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Faraday", "es": "Faraday", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Faraday Securities", "es": "Faraday Securities", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Farah Ramsey", "es": "Farah Ramsey", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Faris & Kane", "es": "Faris & Kane", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Faris & Kane - Shop here!", "es": "Faris & Kane - ¡Compre aquí!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/fariskane.web"]}
 {"en": "Faris & Kane stands by its commitment to style and prestige in the era of new technologies.", "es": "Faris & Kane mantiene su compromiso con el estilo y el prestigio en la era de las nuevas tecnologías.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/calls/fariskane/promo.ogg"]}
 {"en": "Feel better soon..", "es": "Siéntete mejor pronto..", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/ashley/tellme.ogg"]}
@@ -1524,6 +1400,10 @@
 {"en": "Found out today that charm still exists :D:D:D", "es": "Hoy descubrí que ese encanto todavía existe ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Found something on her computer", "es": "Encontré algo en su computadora", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Freak as in lover.", "es": "Freak como amante.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Fred", "es": "Fred", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Fred Tanner", "es": "Fred Tanner", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Fred Watson", "es": "Fred Watson", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Free Willy", "es": "Free Willy", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Freedom to alternative facts, Power through different truths", "es": "Libertad ante hechos alternativos, Poder a través de verdad", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/educatethyself.web/article/665"]}
 {"en": "From Phresh Ideas", "es": "De Phresh Ideas  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "From Yolanda right?", "es": "¿De Yolanda, verdad?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -1545,6 +1425,7 @@
 {"en": "Fucking basic common sense shit", "es": "Mierda basica de sentido comun ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Fun fact. Ice cream buffets are the leading cause of food comas", "es": "Dato curioso. Los buffets de helados son la principal causa de comas alimenticios", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Funny, you dont seem like the techie", "es": "Jaja, no pareces ser de tecnología ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
+{"en": "Futa Baker", "es": "Futa Baker", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Fuuuuuuuuckkk", "es": "¡Mieeeerda!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "GO THEN dont blame if things go bad", "es": "VE ENTONCES, no me culpes si cosas ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Game over fuckface", "es": "Juego acabado,    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -1564,6 +1445,7 @@
 {"en": "Getting him in was not part of the deal", "es": "Meterlo no era parte del trato         ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Gezz fine.", "es": "Uf, está bien.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Gideon Jung", "es": "Gedeón Jung", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Gillan Tan", "es": "Gillan Tan", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Girl: Hey you look troubled\nMe: Oh its nothing\nGirl: Whats on your mind\nMe: \"how do porcupines have sex?\"", "es": "Chica: Oye, te ves preocupada.\nYo: ah no es nada\nChica: ¿Qué tienes en mente?\nYo: \"¿Cómo tienen sexo ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Girls on the internet are too perfect", "es": "Las chicas de internet son demasiado ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Give it 6", "es": "Dale 6   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
@@ -1598,6 +1480,7 @@
 {"en": "Good weird 😊", "es": "Raro bueno 😊", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Good weird?", "es": "Raro bueno?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Goodbye", "es": "Adiós ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "Gordon Akram", "es": "Gordon Akram", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Gosh what am I doing worrying so much", "es": "Dios, que estoy haciendo             ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Got a good book rhythm going.", "es": "Tengo un buen ritmo de lectura.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Got a whole chunk of stuff", "es": "Conseguí un montón de cosas", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -1653,6 +1536,7 @@
 {"en": "Hang on..", "es": "Espera.. ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Hard to move my-", "es": "Es difícil move", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/taylor-possessed.mp4.ogg"]}
 {"en": "Harrassment", "es": "Acoso", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Haru Oakey", "es": "Haru Oakey", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Have a friend follow you", "es": "Ten un amigo que te siga", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Have a nice day!", "es": "¡Que tenga un lindo día!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/calls/fariskane/shopper-yolanda.ogg"]}
 {"en": "Have they contacted you?", "es": "¿Te han contactado?    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -1820,6 +1704,7 @@
 {"en": "Hmm.", "es": "Mmm.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Hmmmm why wouldn’t Anna call her own phone by now? 🤔", "es": "Mmm, ¿por qué Anna no llamaría a su propio teléfono ya?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Hmmmm.", "es": "Mmmmm.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
+{"en": "Hmmmmm", "es": "Hmmmmm", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Holy fuckin shit", "es": "Santa mierda    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Holy shit its Anna!", "es": "Mierda, es Anna!   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Hope I get it.", "es": "Ojalá entre.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/vlog6.mp4.ogg"]}
@@ -1936,6 +1821,7 @@
 {"en": "I am her fuckin best friend", "es": "Soy su mejor amiga de puta ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "I am here to ask about James Aulner", "es": "Estoy aquí para preguntar sobre James Aulner", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "I am just getting started", "es": "Estoy apenas empezando   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "I am just going to look for her.", "es": "Solo voy a buscarla.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "I am just going to walk in and get the job done", "es": "Simplemente voy a entrar y hacer el trabajo    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "I am leaving this to you", "es": "Te lo dejo a ti         ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "I am looking for you actually", "es": "en verdad te estoy buscando a", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
@@ -2564,8 +2450,10 @@
 {"en": "ITTs A LiEEeee", "es": "ES UNA MENTIRA", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh"]}
 {"en": "ITs VoICe", "es": "ES SU VOZ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh.DialogueTreeDescriptor"]}
 {"en": "ITs VoICe", "es": "SU VOZ   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh"]}
+{"en": "Iain Gorman", "es": "Iain Gorman", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Ice cream does sound amazeballs tho", "es": "El helado suena genial igual       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Id ask you the same thing", "es": "Yo te preguntaría lo mismo", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
+{"en": "Ideas", "es": "Ideas", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/james2"]}
 {"en": "If Candy Crush is not a real game, what is?", "es": "Si Candy Crush no es un juego de verdad, ¿cuál lo es?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/edwinbyrd.DialogueTreeDescriptor"]}
 {"en": "If I am offending you", "es": "Si te estoy ofendiendo", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "If I can access it will have all the proof I need", "es": "Si puedo acceder tendrá todas las pruebas que necesito", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
@@ -2688,6 +2576,8 @@
 {"en": "Intern at Media Prime", "es": "Pasante Media Prime  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Invalid account", "es": "Cuenta no váli", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/ridr.web/signin"]}
 {"en": "Invalid command.", "es": "Comando no válido.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/techtitan.DialogueTreeDescriptor"]}
+{"en": "Iris", "es": "Iris", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
+{"en": "Iris Chat", "es": "Iris Chat", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/stockconfig"]}
 {"en": "Iris OS", "es": "Sistema", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/stockconfig"]}
 {"en": "Is", "es": "se", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/jamesh11"]}
 {"en": "Is Greg giving you any ideas?", "es": "¿Greg te está dando ideas? ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -2908,7 +2798,10 @@
 {"en": "JOIN US!", "es": "¡ÚNETE!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/phreshideas.web"]}
 {"en": "JOIN US!", "es": "UNETE!  ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/phreshideas.web"]}
 {"en": "Jabbr", "es": "Jabbr", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/config"]}
+{"en": "Jackie C", "es": "Jackie C", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Jacob Rex", "es": "Jacob Rex", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "James - Recovered", "es": "James - Recuper. ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "James Aulner", "es": "James Aulner", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "James Aulner spoke highly of you guys. Do you know him?", "es": "James Aulner habló muy bien de ustedes. ¿Lo conocen? ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "James huh...", "es": "James, eh...", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "James is kinda freaky..", "es": "James es medio raro..  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
@@ -2920,8 +2813,15 @@
 {"en": "James' phone was found by someone else", "es": "El telefono de James fue encontrado   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "James' phone was found by someone else", "es": "El teléfono de James fue encontrado por otra persona", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "James?", "es": "¿James?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
+{"en": "Jay Tyler", "es": "Jay Tyler", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Jayson Olsen", "es": "Jayson Olsen", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Jeniffer", "es": "Jeniffer", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Jesse Shell", "es": "Jesse Shell", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Jessica", "es": "Jessica", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Jimmy", "es": "Jimmy", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Join Spark and light up your love life.", "es": "Únete a Spark e ilumina tu vida amorosa.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/spark.web"]}
 {"en": "Join Spark and light up your love life.", "es": "Únete a Spark y enciende tu vida amorosa.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/spark.web"]}
+{"en": "Josh Chen", "es": "Josh Chen", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Just a bit under the weather.", "es": "Solo un poco mal del estómago.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Just a boring old phone", "es": "Un teléfono viejo y aburrido.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Just a bunch of spam", "es": "Solo un montón de spam", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -2980,14 +2880,22 @@
 {"en": "Just who the hell are you?", "es": "¿Quién demonios eres tú?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Just.. Do what you can ok?", "es": "Solo.. Haz lo que puedas, ¿ok?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Justice is more important. Send the report", "es": "La justicia es más importante. Envía el informe.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
+{"en": "Justin Woodman", "es": "Justin Woodman", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Kad Deidre", "es": "Kad Deidre", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Kappafeed", "es": "Kappafeed", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/kappafeed.web/animal-sprit"]}
+{"en": "Kate", "es": "Kate", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Keep an eye on my upcoming posts! Find the hidden phone number! If you figured it out, just call me for your AMA with me ;)", "es": "¡Estate atento a mis próximas publicaciones! ¡Encuentra el número de teléfono oculto! Si lo descubriste, llámame para tu AMA conmigo ;)", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Keep it that way", "es": "Mantenlo así   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Keep my online name @keepingitcassie out of this", "es": "No involucres a mi identidad en internet, @keepingitcassie, en esto.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "Keep that up and I’ll let you see the good parts of me", "es": "Sigue así y te dejaré ver mis partes buenas           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
+{"en": "Ken Nagel", "es": "Ken Nagel", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Kesh O Mara", "es": "Kesh O Mara", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Kevin Baxter", "es": "Kevin Baxter", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Key doesn't work?", "es": "¿No funciona la llave?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Kinda misleading isnt it?", "es": "Bastante engañoso ¿no? ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/alex.DialogueTreeDescriptor"]}
 {"en": "Kinda sucks the fun outta dating isnt it", "es": "Eso le quita un poco la gracia a las citas, ¿no?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "King", "es": "Rey ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Kyle Deeley", "es": "Kyle Deeley", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "LETS DO THIS", "es": "HAGAMOSLO   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "LOl you did not", "es": "Jaja no dijiste", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Last night you didn't really want to dance.", "es": "Anoche no tenías muchas ganas de bailar.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
@@ -2999,9 +2907,11 @@
 {"en": "Leave me the fuck alone greg", "es": "Déjame en paz, Greg        ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "Leave my shit jokes alone.", "es": "Déjame en paz con mis chistes malos.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Leave no stone unturned!", "es": "¡No dejes piedra por mover!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Lee Everee", "es": "Lee Everee", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Lemme guess", "es": "Dejame     ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Lemme guess.", "es": "Déjame adivinar.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Lemme know when done!", "es": "¡Avísame cuando termines!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Lester", "es": "Lester", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Let me clear it up", "es": "Déjame explicarlo.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "Let me fix this", "es": "Déjame arreglar esto", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "Let me just check something real quick", "es": "Déjame verificar algo rápido        ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
@@ -3048,6 +2958,7 @@
 {"en": "Like, internet rude!", "es": "Grosero de internet!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/vlog6.mp4.ogg"]}
 {"en": "Like, what if you want to return something?", "es": "¿Qué pasa si quieres devolver algo?      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/ashley/gossip.ogg"]}
 {"en": "Lil Lisa", "es": "Pequeña", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Lilli Vesely", "es": "Lilli Vesely", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Listen for yourself", "es": "Escuchalo tu mismo ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Listen wisecrack, you dont know her", "es": "Escucha listillo, no la conoces    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Location :", "es": "Ubicacion:", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/nsfw.gov.web/lookup?q=taylorperrera"]}
@@ -3079,10 +2990,12 @@
 {"en": "Love you too mom", "es": "Yo también te quiero, mamá", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Love you.", "es": "Te amo.  ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/sorrymom.ogg"]}
 {"en": "Loves memes", "es": "Me encantan", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Luis Sutcliffe", "es": "Luis Sutcliffe", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "MOved to town together", "es": "Nos MUDAMOS al pueblo ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "MY CAREER IS FUCKED!", "es": "¡MI CARRERA ESTÁ JODIDA!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "MY DENTIST ASKED HIS ASSISTANT TO SUCK THE WATER OUT OF MY MOUTH. THINKING HE WAS TALKING TO ME SO I SUCKED HIS FINGER. IM TERRIFIED", "es": "MI DENTISTA LE PIDIO A SU ASISTENTE QUE ME SUCCIONARA EL AGUA DE LA BOCA. CREYENDO QUE ME HABLABA A MI LE SUCCIONE EL DEDO. ESTOY ATERRORIZADA", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Made an impact on your company's bottom line", "es": "Dejaste una marca en resultados de empresa  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
+{"en": "Madison Mike", "es": "Madison Mike", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Make him feel bad", "es": "Hazlo sentir mal ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Make sure to get all of them so you don't miss out", "es": "Asegurate de tenerlos todos para que no se te pase", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Make sure to get it right next", "es": "Asegurate de acertar siguiente", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -3097,6 +3010,11 @@
 {"en": "Man that girl got issues", "es": "Vaya, esa chica tiene problemas", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Man, you have no chill.", "es": "Vaya, no tienes calma. ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Managed to dig depper into her phone?", "es": "¿Lograste investigar más a fondo su teléfono?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Mark", "es": "Mark", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Mark Waters", "es": "Mark Waters", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Marko Nixon", "es": "Marko Nixon", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Matt Wilson", "es": "Matt Wilson", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Max Clauf", "es": "Max Clauf", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Max points to all of them", "es": "Puntos maximos para todos", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Maybe", "es": "Tal vez", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Maybe", "es": "Quizás", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
@@ -3139,6 +3057,7 @@
 {"en": "Me? please.", "es": "Yo? pls.   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Meet", "es": "Encuéntrame", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/james5"]}
 {"en": "Meet someone from SPARK! 😱😱", "es": "¡¡Alguien de SPARK! 😱😱   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Melanie Fox", "es": "Melanie Fox", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Members can enjoy up to 20% discount, on selected items.", "es": "Miembros gozan 20% de descuento en articulos elegidos.  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/calls/fariskane/membership.ogg"]}
 {"en": "Message from Anna", "es": "Mensaje de Anna  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/james3"]}
 {"en": "Message from Greg", "es": "Mensaje de Greg  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/greg1"]}
@@ -3146,6 +3065,7 @@
 {"en": "Might I recommend you our best selections of dress shoes?", "es": "¿Puedo recomendarte nuestra mejor selección de zapatos de vestir?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Might be different in my case tho", "es": "Podría ser diferente en mi caso", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Minimal", "es": "Mínimo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/stockconfig"]}
+{"en": "Mom", "es": "Mom", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Mom", "es": "Mam", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Monica", "es": "Mónica", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "More Information Required", "es": "Se requiere más información", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/nsfw.gov.web/lookup?q=taylorperrera"]}
@@ -3153,6 +3073,8 @@
 {"en": "More like a sidegirl bootycall", "es": "Más bien una aventura a la que llama cuando quiere acostarse.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "More reason to meet her right?", "es": "Más razón para conocerla, ¿verdad?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "More spying?", "es": "¿Más espionaje?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Morgan Nason", "es": "Morgan Nason", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Murv", "es": "Murv", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/config"]}
 {"en": "Murv made it real clear", "es": "Murv lo dejo bien claro", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Must", "es": "debes", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/jamesh4"]}
 {"en": "Must be Toby!", "es": "¡Debe ser Toby!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -3187,6 +3109,7 @@
 {"en": "National Sex Fellon Website", "es": "Sitio web nacional de delincuentes sexuales", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/nsfw.gov.web"]}
 {"en": "National Sex Felon Website", "es": "Sitio web nacional de delincuentes sexuales", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/cbb.web/news/5895833"]}
 {"en": "Naw nothing like that!", "es": "¡No, nada de eso!    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
+{"en": "Naya Scott", "es": "Naya Scott", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Need some help", "es": "Necesito ayuda", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Need to take my mind of Greg.", "es": "Necesito sacar a Greg de mi cabeza.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Need your help", "es": "Necesito tu ayuda", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -3206,6 +3129,7 @@
 {"en": "Nice!", "es": "¡Qué bien!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
 {"en": "Nifty!", "es": "¡Qué bueno!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "Night.", "es": "Buenas noches.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "Nissa Renner", "es": "Nissa Renner", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Nite", "es": "Noches", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "No I am NOT agreeing with you", "es": "No, NO estoy de acuerdo      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "No I dont care anymore", "es": "No, ya no me importa  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -3239,6 +3163,7 @@
 {"en": "No! We don’t know that.", "es": "¡No! No sabemos eso.    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "No!!", "es": "¡No!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "No, this is wrong", "es": "No, esto esta mal", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "No.", "es": "No.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "No.. This is not right..", "es": "No.. Esto no esta bien..", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "No.. this cant wait any longer", "es": "No... esto no puede esperar más.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Nobody else is talking here", "es": "Nadie mas esta hablando    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh.DialogueTreeDescriptor"]}
@@ -3249,7 +3174,9 @@
 {"en": "None of my business then", "es": "Así que no es asunto mio", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "None. Zero", "es": "Ninguna.  ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Nono! not at all", "es": "¡No! para nada ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "Nononono", "es": "Nononono", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Noononoon", "es": "Nono no no", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Noooooooooo", "es": "Noooooooooo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "Nope", "es": "No  ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Nope, its switched off.", "es": "No, está apagada.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Nope. Her phone is still with me.", "es": "No. Su teléfono todavía está conmigo.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -3316,6 +3243,7 @@
 {"en": "Occasionally", "es": "Ocasionalmente", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylorrc1.DialogueTreeDescriptor"]}
 {"en": "Occum's Razor", "es": "Navaja de Occam", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Occupied??", "es": "¿Ocupado?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "Odric Marshel", "es": "Odric Marshel", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Of anybody", "es": "De cualquiera", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Of course I did!", "es": "¡Claro que sí!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Of course I did.", "es": "claro que si.   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -3368,7 +3296,9 @@
 {"en": "Oh. didnt see you there. Im just standing around", "es": "Oh. No te vi allí. Solo estoy parado           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Oh. ok", "es": "Ah, ok", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Oh. yeah.", "es": "Oh. sí. ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
+{"en": "Ohh", "es": "Ohh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Ohhh!! what is she like on Jabbr? 😜", "es": "¡¡Ohhh!! ¿cómo es en Jabbr? 😜  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Oh~~", "es": "Oh~~", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Ok I got something", "es": "Ok, tengo algo    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Ok I know youre sick of talking about Greg", "es": "Ok, sé que estás harta de hablar de Greg", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Ok I promise. Everything is fine", "es": "Ok, te lo prometo. Todo está bien", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
@@ -3414,6 +3344,7 @@
 {"en": "Okay. Girl loses her phone. Gotta be more to the novella than that.", "es": "Ok. Chica pierde su teléfono. Debe haber más en la novela que eso.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Okay??", "es": "Bueno?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Okey dokey?", "es": "¿De acuerdo?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
+{"en": "Oliver Peters", "es": "Oliver Peters", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Omg how did you know???", "es": "Como lo sabias???      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Once 😜", "es": "Una 😜 ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "One day I'm going to wear my grandma's sweater. Today is not that day", "es": "Un día me pondré el suéter de mi abuela. Hoy no es ese día       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
@@ -3425,6 +3356,7 @@
 {"en": "Only two conditions", "es": "Solo dos           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "Only when it comes to seducing corporate clients", "es": "Solo cuando es sobre seducir clientes           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Only you can think of something like this", "es": "Solo a ti se te puede ocurrir algo así  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Ooohh", "es": "Ooohh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Oooof course you did", "es": "Ooouuuf claro que si", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Oops gotta go, meet soon k 😊", "es": "Ups tengo que irnos, nos vemos ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Opps. Almost forgot", "es": "Casi se me olvida  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
@@ -3441,6 +3373,12 @@
 {"en": "Otherwise why would he want to delete the phone's data?", "es": "Si no, ¿por qué querría borrar los datos del teléfono?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Our company can't afford to get into a scandal right now", "es": "Nuestra empresa no puede permitirse un escándalo ahora ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
 {"en": "Our job woule be done", "es": "Nuestro trabajo estaría terminado.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Pat", "es": "Pat", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Patricia", "es": "Patricia", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Patrick Liman", "es": "Patrick Liman", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Patrick Matthews", "es": "Patrick Matthews", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Paul Chin", "es": "Paul Chin", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Paul Chong", "es": "Paul Chong", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "People are talkin", "es": "La gente habla   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "People can grow and improve", "es": "La gente puede crecer y mejorar", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "People can grow and improve", "es": "Las personas pueden crecer ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
@@ -3450,7 +3388,9 @@
 {"en": "Personally I think you're doing the right thing", "es": "Lo que sea por el jefe. Retén el reporte      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
 {"en": "Pervs have no say in this", "es": "Los pervertidos no tienen", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Pfft.", "es": "Pff.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
+{"en": "Phill", "es": "Phill", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/config"]}
 {"en": "Philosophy", "es": "Filosofía", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/alex.DialogueTreeDescriptor"]}
+{"en": "Phresh", "es": "Phresh", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/james2"]}
 {"en": "Phresh Ideas", "es": "Phresh Ideas", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
 {"en": "Phresh Ideas isnt it?", "es": "¿Phresh Ideas no?   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Pick up my calls will you?", "es": "Contesta mis llamadas, si?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -3507,15 +3447,20 @@
 {"en": "Put Anna on the phone", "es": "Pon a Anna al teléfono", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Put a good name for me if she comes back?", "es": "Pon buena palabra por mí si vuelve, ¿ok?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Put it all behind and he might approve that study leave you've been meaning to get", "es": "Deja todo eso atrás y quizá apruebe la licencia de estudios que llevas tiempo pidiendo.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
+{"en": "Qahar Said", "es": "Qahar Said", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Questionable", "es": "Cuestionable", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
+{"en": "Quinton Lewis", "es": "Quinton Lewis", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "RE: Job application", "es": "RE: Empleo         ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
+{"en": "REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT", "es": "REL NINICEN GESIEMO CEGAWE UWITIFU SOTEC ILA TASEC OHIEROT", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/config"]}
 {"en": "RIGHT NOW??", "es": "¿¿AHORA??", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "RUMORS ARE SPREADING", "es": "LOS RUMORES CRECEN  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "Rainforest Shipment", "es": "Envío de selva tro", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
+{"en": "Ralph Conners", "es": "Ralph Conners", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Really listen", "es": "escucharas   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Really?", "es": "¿En serio?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Recording myself quitting isnt tho", "es": "Grabar mi renuncia no tanto       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Recovered", "es": "Recovered", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/config"]}
+{"en": "Rei Norman", "es": "Rei Norman", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Rejection (it sucks)", "es": "Rechazo (apesta)    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/config"]}
 {"en": "Remember I told you about my watch?", "es": "¿Recuerdas que te hable de mi reloj?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Remember to get your facts straight and ask him about his actions and behaviour", "es": "Recuerda tener hechos claros y preguntale sobre sus acciones y comportamiento  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -3532,6 +3477,8 @@
 {"en": "Return to a former but lesser poop form", "es": "Volver a una forma de caca anterior    ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Reveal yourself!", "es": "¡Revela tu verdadero yo!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Reveal yourself!", "es": "¡Revélate!    ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "Richard Garf", "es": "Richard Garf", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Ridr", "es": "Ridr", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/ridr.web"]}
 {"en": "Right", "es": "Cierto", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/edwinbyrd.DialogueTreeDescriptor"]}
 {"en": "Right!", "es": "¡Cierto!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Right. Sorry.", "es": "Cierto. Lo siento.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -3539,7 +3486,10 @@
 {"en": "Right…", "es": "Cierto…", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Rocky", "es": "Rocos", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Role playing. I like it.", "es": "Juego de roles. Me gusta.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
+{"en": "Ronnie", "es": "Ronnie", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Rosita", "es": "Rosita", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Ruthie", "es": "Rutía", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Ryu Jiggens", "es": "Ryu Jiggens", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "SHIT SHIT", "es": "MIERDA, MIERDA", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "SO WHAT?", "es": "¿Y QUÉ?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "STATEMENT: The sexual assault allegations against our Tech Director are unfounded due to lack of hard evidence", "es": "DECLARACIÓN: Las acusaciones de agresión sexual contra nuestro Director Técnico son infundadas por falta de pruebas contundentes", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
@@ -3549,7 +3499,12 @@
 {"en": "STopPP DoInG thAAAt!!", "es": "¡¡DejAAA de HACER ESO!!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh"]}
 {"en": "SWEET JEBUS", "es": "¡SANTO CIELO!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "SaFE?", "es": "salvo?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/jamesh1"]}
+{"en": "Sabah Shaz", "es": "Sabah Shaz", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Safeguard of General Audience Protocol - A friendly reminder", "es": "Protocolo de audiencia general: recordatorio                ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
+{"en": "Sally", "es": "Sally", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Sam Hasnul", "es": "Sam Hasnul", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Sam Mutt", "es": "Sam Mutt", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
+{"en": "Sam Parlow", "es": "Sam Parlow", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Same thing", "es": "Lo mismo  ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Save and get the girl ammirite?", "es": "La salvas y te quedas con ella, ¿no?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Saw your Jabbr post, and looks like youre home", "es": "Vi tu publicación en Jabbr y parece que estás en casa.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -3573,6 +3528,7 @@
 {"en": "Seriously?! You want to get into an argument now?", "es": "En serio?! Quieres meterte en discusion ahora?   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Set up a meeting", "es": "Organiza cita   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Sex not guaranteed", "es": "Sexo no garantizado", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Shawn Beckman", "es": "Shawn Beckman", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "She actually did it..", "es": "Ella lo hizo..       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "She blocked me.", "es": "Ella me bloqueó.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "She came to me.", "es": "Ella vino a mi.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/taylor-possessed.mp4.ogg"]}
@@ -3643,6 +3599,7 @@
 {"en": "She's kinda cute", "es": "Es medio linda  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "She's missing right?", "es": "Está desaparecida, ¿verdad?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "She's not answering her door and she isnt at work now.", "es": "No responde a su puerta y no esta en trabajo ahora.   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Sherman Chong", "es": "Sherman Chong", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Sherry Zacher", "es": "Jerez Zacher ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Shes presistent", "es": "Ella es        ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "She’s always, i don’t know self conscious about it.", "es": "Ella siempre es, no sé, consciente de ello.           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/vlog2.mp4.ogg"]}
@@ -3852,6 +3809,7 @@
 {"en": "Sry last time", "es": "Perdon,      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Stalker much?", "es": "¿Muy acosador?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "Stay on the line.", "es": "Quedate en linea.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Stephanie", "es": "Stephanie", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Still clear on your task?", "es": "¿Todavía tienes clara tu tarea?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
 {"en": "Still creeping through Anna's phone?", "es": "¿Sigues husmeando en el teléfono de Anna?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Still working on it", "es": "Todavia trabajando ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
@@ -3872,6 +3830,7 @@
 {"en": "Study Leave", "es": "Licencia   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
 {"en": "Stupid me", "es": "Estupida ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Sucks the fun out of shopping.", "es": "Le quita la diversión a las compras.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/ashley/gossip.ogg"]}
+{"en": "Summers?", "es": "Summers?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/yolanda.DialogueTreeDescriptor"]}
 {"en": "Super productive day. i only napped 2 times during work", "es": "Día superproductivo. Solo me dormí dos veces en el trabajo.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Supportive?", "es": "¿Comprensiva?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/mom.DialogueTreeDescriptor"]}
 {"en": "Sure", "es": "Claro", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
@@ -3900,14 +3859,17 @@
 {"en": "TITANTECH Remote Access Services. Hello ANNA, how can we help? Text INVITE GUEST or UNBLOCK.", "es": "TitanTech Remote Access Services. Hola ANNA, ¿cómo podemos ayudarte? Escribe INVITE GUEST o UNBLOCK.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/techtitan.DialogueTreeDescriptor"]}
 {"en": "TOO FAR MAN", "es": "DEMASIADO, VIEJO", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Tabitha", "es": "Tabita ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Taka Ann", "es": "Taka Ann", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Take a deep breath, Ashley.", "es": "Respira hondo, Ashley.     ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Take a vacay and start new", "es": "Toma unas vacaciones y empieza de nuevo", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Take it easy!", "es": "¡Tranquilo! ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Take it off silent mode or something", "es": "Quítalo del modo silencio o algo   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Takes some getting used to", "es": "Toma tiempo acostumbrarse ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "Talk to you later.", "es": "Hablamos después.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "Tammy", "es": "Tammy", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Taylor", "es": "taylor", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Taylor - Recovered", "es": "Taylor - Recuper. ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
+{"en": "Taylor Perrera", "es": "Taylor Perrera", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Taylor Spark Profile Update:\n\n- minor bug fixes\n- improved profile pic\n- charm increased from (3.5) to (4)\n- performance enhanced: funnier jokes\n- will serenade upon request", "es": "Actualización del perfil de Taylor en Spark:\n\n- Se corrigieron errores menores\n- Foto de perfil mejorada\n- Encanto aumentado de 3,5 a 4\n- Chistes más graciosos\n- Cantará una serenata si se lo piden", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/config"]}
 {"en": "Taylor is smarter than that", "es": "Taylor es mas inteligente  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon.DialogueTreeDescriptor"]}
 {"en": "Taylor is smarter than that", "es": "Taylor es más inteligente ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
@@ -4041,6 +4003,7 @@
 {"en": "Thats why you meet them", "es": "Por eso te reúnes con ellos", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillerfemale1.DialogueTreeDescriptor"]}
 {"en": "That’s just rude.", "es": "Eso es simplemente grosero.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/vlog6.mp4.ogg"]}
 {"en": "The A stands for Anything", "es": "La A significa Cualquier ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
+{"en": "The Click Hole", "es": "The Click Hole", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "The Eyeris", "es": "La Eyeris ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
 {"en": "The Iris", "es": "La Iris ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/chaosstar.DialogueTreeDescriptor"]}
 {"en": "The OS version is correct!", "es": "¡La versión del sistema operativo es correcta!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -4210,7 +4173,6 @@
 {"en": "This isn't like you.", "es": "Esto no es como tú.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "This must be an elaborate prank or something.", "es": "Esto debe ser una broma elaborada o algo así.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "This role playing thing doesn't sound like you at all.", "es": "Esta cosa de juego de roles no suena nada como tú.   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
-{"en": "This service is complimentary for 1 year from this date.", "es": "Este servicio es gratuito durante 1 año a partir de esta fecha.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/boot-iris"]}
 {"en": "This shit is punishing enough for me so I don't need your crap as well", "es": "Esta mierda ya me está castigando bastante, así que no necesito también tu mierda", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "This sounds SERIOUSLY EFFED UP", "es": "Esto suena TERRIBLEMENTE MAL.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "This this how you talk?", "es": "¿Así es como hablas? ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
@@ -4222,9 +4184,11 @@
 {"en": "Though the original was created in 1995", "es": "Aunque el original fue creado en 1995  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/edwinbyrd.DialogueTreeDescriptor"]}
 {"en": "Threathen him", "es": "Amenázalo   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "TiME,", "es": "tiempo,", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/jamesh11"]}
+{"en": "Tim Faraday", "es": "Tim Faraday", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/mail/config"]}
 {"en": "Time out!", "es": "¡Tiempo fuera!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Time to be Cat Wife", "es": "Hora de ser Esposa ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Time to up my selfie game", "es": "Hora de mejores selfies  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "Titanic", "es": "Titanic", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylorrc1.DialogueTreeDescriptor"]}
 {"en": "To be frank, I am not in the liberty to discuss any personal matters", "es": "Siendo franco, no tengo la libertad de discutir asuntos personales  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/phill.DialogueTreeDescriptor"]}
 {"en": "To catch the criminal, you gotta BE THE VICTIM", "es": "Para atrapar al criminal, debes SER LA VÍCTIMA", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "To gain my trust?", "es": "¿Para ganarte mi confianza?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
@@ -4235,10 +4199,13 @@
 {"en": "To kill her is to save her!", "es": "¡Matarla es salvarla!     ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "To make an omelette you have to break a few eggs.\n\nSometimes you add cheese or ham. I prefer mushrooms", "es": "Para hacer tortilla hay que romper huevos.\n\nA veces se echa queso o jamon. Prefiero champis           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "To turn it off I need to answer some security questions", "es": "Para desactivarlo necesito responder algunas preguntas de seguridad", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Tobias", "es": "Tobias", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Toby", "es": "Toby", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Toby is the only lover I need", "es": "Toby es mi único amor", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Toby is the short name", "es": "Toby es nombre corto  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Toby's face after I decide to go for fresh fish", "es": "La cara de Toby después de que decido ir por pescado fresco", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Toby. Must be someone special.", "es": "Toby. Debe ser alguien especial.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Toby?", "es": "Toby?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Today is gonna be a good day\n\n*spills coffee on dress\n*changes into better looking outfit\n\nToday is gonna be a good day", "es": "Hoy va a ser un buen día\n\n*derrama cafe en el vestido\n*se cambia a un atuendo más lindo\n\nHoy va a ser un buen día", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Today is gonna be an interesting day. I can feel it.", "es": "Hoy será un día interesante. Puedo sentirlo.      ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Told you. Too much attention 😜", "es": "Te lo dije. Demasiada atencion   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
@@ -4261,6 +4228,7 @@
 {"en": "Trying to destroy evidence?", "es": "¿Intentando destruir pruebas?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Ttime to enter the fringes of society, Ashley", "es": "Hora de entrar a los margenes, Ashley        ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "Turns out, that skank buys stuff for other people!", "es": "Esa zorra le compra cosas a otros!                ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/recordings/ashley/gossip.ogg"]}
+{"en": "Twister?", "es": "Twister?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
 {"en": "Two days in a row! The barista spelt my name as \"Kassie\"", "es": "¡Dos días seguidos! El barista escribió mi nombre como «Kassie».", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Two wrong make a right man", "es": "Dos errores no hacen un acierto", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Typical", "es": "Típico", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
@@ -4296,6 +4264,7 @@
 {"en": "Use that email against him", "es": "Usa ese correo en su contra", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/busted.DialogueTreeDescriptor"]}
 {"en": "Useless", "es": "Inútil", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Using another employee's PC is against policy", "es": "Usar PC de otro empleado va contra politicas ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
+{"en": "Valerie Smith", "es": "Valerie Smith", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Vet 😺", "es": "Veterinaria 😺", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/jamesrc.DialogueTreeDescriptor"]}
 {"en": "Victor is the guy from Vortex.", "es": "Victor es el tipo del Vortex. ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Videos", "es": "Videos", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/config"]}
@@ -4315,6 +4284,7 @@
 {"en": "Wait till you hear this", "es": "Espera a que escuches  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/cassie.DialogueTreeDescriptor"]}
 {"en": "Wait.", "es": "Espera.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "Wallpapers", "es": "Wallpapers", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/gallery/stockconfig"]}
+{"en": "Walter Whitelaw", "es": "Walter Whitelaw", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "Wanna eat cookie dough sometime together?", "es": "¿Quieres comer masa de galletas juntos alguna vez?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/dave.DialogueTreeDescriptor"]}
 {"en": "Wanna try new things, yknow?", "es": "Quiero probar cosas nuevas, ¿sabes?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Was not me", "es": "No fui yo ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
@@ -4642,6 +4612,7 @@
 {"en": "William H", "es": "Guillermo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Wish you could see my face right now 😊😊", "es": "Ojalá pudieras ver mi cara ahora 😊😊   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "With that dolled up face, I can see why", "es": "Con esa cara empolvada, puedo entender ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/fillermale1.DialogueTreeDescriptor"]}
+{"en": "Woodsboro", "es": "Woodsboro", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "Woop de doo", "es": "Yupi", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "Work", "es": "Trabajo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "Work has been pretty crazy lately, and I just needed an outlet of sorts.", "es": "El trabajo anda loco y necesitaba distraerme.                           ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/subtitles/content/videos/vlog1.mp4.ogg"]}
@@ -4727,6 +4698,7 @@
 {"en": "YoU LIiIIIEEE", "es": "MEEEEENTES   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh.DialogueTreeDescriptor"]}
 {"en": "YoU LIiIIIEEE", "es": "Tu liiiiiiiii", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh"]}
 {"en": "Yolanda just called me!", "es": "¡Yolanda acaba de llamarme!", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Yolanda?", "es": "Yolanda?", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/gregrc1"]}
 {"en": "You", "es": "Tienes", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/restphrase/james3"]}
 {"en": "You ARE acting weird", "es": "SI estas raro!!     ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/gregrc1.DialogueTreeDescriptor"]}
 {"en": "You HAVE to pretend to be Anna otherwise they will never give me access", "es": "¡¡TIENES que hacerte pasar por Anna o nunca me darán acceso!!       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/murv.DialogueTreeDescriptor"]}
@@ -5054,11 +5026,33 @@
 {"en": "Yup thats the one", "es": "Sí, ese mismo   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/elizabeth.DialogueTreeDescriptor"]}
 {"en": "Yup.", "es": "Sip.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "Yup. Only with makeup running down her face.", "es": "Sí. Sólo que con maquillaje corriendo por su cara.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
+{"en": "Yusof Kitt", "es": "Yusof Kitt", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/calls/config"]}
 {"en": "[HANDLE]@ashketchum[] is a perfect human being", "es": "[HANDLE]@ashketchum[] es perfecto             ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "[HANDLE]@jacccc[] me right now", "es": "[HANDLE]@jacccc[] yo ahora mismo", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "[HANDLE]@unclecharles[] IKR", "es": "[HANDLE]@unclecharles[] Ya sé, ¿verdad?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
 {"en": "[sees girl reading To Kill a Mocking Bird]\n\"Great book. Who knew that those darn birds are so hard to kill\"", "es": "[ve a una niña leyendo Matar a un ruiseñor]\n\"Gran libro. ¿Quién diría que esos malditos pájaros son tan difíciles de matar\"", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/jabbr/config"]}
+{"en": "__LINK151, spark.demon.nav_to_demon", "es": "__LINK151, spark.demon.nav_to_demon", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "a message came in", "es": "llegó un mensaje", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "a3_impersonating_ashley, __LINK122", "es": "a3_impersonating_ashley, __LINK122", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_impersonating_ashley, __LINK2", "es": "a3_impersonating_ashley, __LINK2", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_impersonating_generic, __LINK1", "es": "a3_impersonating_generic, __LINK1", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_anna, __LINK121", "es": "a3_saving_anna, __LINK121", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_anna, __LINK125", "es": "a3_saving_anna, __LINK125", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_anna, __LINK132", "es": "a3_saving_anna, __LINK132", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_anna, __LINK133", "es": "a3_saving_anna, __LINK133", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_both, __LINK121", "es": "a3_saving_both, __LINK121", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_both, __LINK149", "es": "a3_saving_both, __LINK149", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_neither, __LINK132", "es": "a3_saving_neither, __LINK132", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_neither, __LINK135", "es": "a3_saving_neither, __LINK135", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_taylor, __LINK121", "es": "a3_saving_taylor, __LINK121", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_taylor, __LINK125", "es": "a3_saving_taylor, __LINK125", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_taylor, __LINK132", "es": "a3_saving_taylor, __LINK132", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_saving_taylor, __LINK134", "es": "a3_saving_taylor, __LINK134", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_stat_saved_anna, __LINK152", "es": "a3_stat_saved_anna, __LINK152", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_stat_saved_both, __LINK184", "es": "a3_stat_saved_both, __LINK184", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_stat_saved_none, __LINK67", "es": "a3_stat_saved_none, __LINK67", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_stat_saved_none, __LINK78", "es": "a3_stat_saved_none, __LINK78", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "a3_stat_saved_taylor, __LINK167", "es": "a3_stat_saved_taylor, __LINK167", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "and eventually dry out in the sun, leaving nothing but a stain.", "es": "hasta secarse bajo el sol y dejar solo una mancha.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "and feeling guilty about being so upset.", "es": "o culpable por alterarme tanto.         ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "and he again denied it", "es": "y volvió a negarlo   ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -5085,6 +5079,8 @@
 {"en": "by Tiffany Hernandez", "es": "por Tiffany Hernánd", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/webpages/kappafeed.web/animal-sprit"]}
 {"en": "by Tiffany Hernandez", "es": "por Tiffany         ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/weblayouts/kappafeed.web/animal-sprit"]}
 {"en": "can we just go to the police already?", "es": "¿podemos ir a la policía ya?       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "chats.busted.a3_demon_lures, __LINK65", "es": "chats.busted.a3_demon_lures, __LINK65", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "chats.busted.a3_tricked_ashley, __LINK150", "es": "chats.busted.a3_tricked_ashley, __LINK150", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "come onnn", "es": "vamos aaa", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "cus you're like, is this picture boasting about helping people", "es": "porque piensas, esta foto esta presumiendo ayudar a gente     ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "dancing with me", "es": "bailando       ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -5161,6 +5157,7 @@
 {"en": "much as i hate to call that Asshole", "es": "aunque odie llamar a ese hijo de perra", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "must be that nosy granny next door", "es": "debe ser esa viejita chismosa de al lado", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}
 {"en": "n trust you with anything", "es": "y confiarte cualquier cosa", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "nav_restricted, __LINK1, __LINK2", "es": "nav_restricted, __LINK1, __LINK2", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "no worriers.", "es": "sin problema.", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "not Animal LOVER (if you know what I mean)", "es": "no AMANTE de animales (si me entiendes)", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/taylor.DialogueTreeDescriptor"]}
 {"en": "now she says she is at home and she looks fine to me", "es": "ahora dice que está en casa y se ve bien para mí  ", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
@@ -5193,6 +5190,8 @@
 {"en": "shut up shut up", "es": "cállate, cállate", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashleyrc1.DialogueTreeDescriptor"]}
 {"en": "so what did he say he is gonna do about it?", "es": "¿entonces qué dijo que va a hacer al respecto?", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
 {"en": "sorry sorry!!", "es": "perdon perdon!!", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/ashley.DialogueTreeDescriptor"]}
+{"en": "spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna", "es": "spark.demon.nav_to_taylor, chats.busted.a3_reached_demon_anna", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
+{"en": "spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66", "es": "spark.demon.nav_to_taylor, spark.demon.video_taylor_cautious, __LINK66", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/spark/demon"]}
 {"en": "tO thIS", "es": "ESTO   ", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh.DialogueTreeDescriptor"]}
 {"en": "tO thIS", "es": "a EsTo", "categoria": "ui", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/jamesh"]}
 {"en": "text her, but do it as Anna", "es": "Escríbele, pero hazte pasar por Anna.", "categoria": "narrativo", "repeticiones": 1, "problemas": [], "recursos": ["content/chats/greg.DialogueTreeDescriptor"]}

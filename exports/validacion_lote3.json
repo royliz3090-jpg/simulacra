@@ -1,0 +1,26 @@
+{
+  "total_fixes": 2,
+  "ok": [
+    {
+      "en": "I am just going to look for her.",
+      "es": "Solo voy a buscarla.",
+      "ocurrencias": 1,
+      "recursos": [
+        "content/chats/ashley.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    },
+    {
+      "en": "This service is complimentary for 1 year from this date.",
+      "es": "Este servicio es gratuito durante un año a partir de esta fecha.",
+      "ocurrencias": 2,
+      "recursos": [
+        "content/chats/boot-iris",
+        "content/chats/boot-iris.DialogueTreeDescriptor"
+      ],
+      "problemas": []
+    }
+  ],
+  "avisos": [],
+  "errores": []
+}
