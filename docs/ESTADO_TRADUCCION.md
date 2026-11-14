@@ -1611,3 +1611,64 @@ en `origin/audit/export-dialogos-es-latam-v2` (commit `37c93cf`).
    ademas del interno. Ver seccion 15 (claves protegidas) antes de traducir.
 3. Si se desea traduccion de nombres de UI (p.ej. `Me`->`Yo`), comprobar primero
    que no sea clave interna; usar `tools/keys_protegidas.txt` como filtro.
+
+---
+
+## 28. Sesion 28 - CIERRE de la revision linguistica (incidencias = 0)
+
+### 28.1 Entrada (respuesta de ChatGPT al prompt de cierre)
+
+ChatGPT clasifico los 195 registros del lote 2:
+
+| categoria | n | accion |
+|---|---:|---|
+| TRADUCIR | 2 | aplicadas |
+| CLAVE | 46 | conservar |
+| NOMBRE | 141 | conservar |
+| TECNICO | 6 | conservar |
+
+Las 2 unicas correcciones: `I am just going to look for her.` -> `Solo voy a
+buscarla.` y `This service is complimentary for 1 year from this date.` ->
+`Este servicio es gratuito durante un anio a partir de esta fecha.`
+
+### 28.2 Aplicacion
+
+- `fixes_lote3.json` (2 pares) validado: 2/2 OK, 0 errores.
+- Aplicado: **3 sustituciones** en 3 objetos.
+- `tools/confirmados_no_traducibles.txt`: 193 cadenas confirmadas como no
+  traducibles (nombres/claves/tecnicos). `export_revision.py` ahora las carga
+  y NO las vuelve a marcar como incidencia.
+
+### 28.3 Resultado final
+
+```
+incidencias: {}   <- 0 sin_traducir, 0 truncado, 0 contenido_faltante,
+                     0 marcadores_distintos
+validate_export.py -> RESULTADO: OK - cobertura 100%
+```
+
+- Integridad: 30877/30877 cadenas; `en-us.fs` **identico byte a byte**.
+- `verify_build.py` y `verify_es_latam_coverage.py` -> TODO VALIDADO.
+
+### 28.4 Commit respaldado
+
+`fix(es-latam): lote 3 (cierre) - ultimas 2 correcciones + 193 confirmadas no
+traducibles` en `origin/audit/export-dialogos-es-latam-v2` (commit `b4d49c4`).
+
+### 28.5 Estado del proyecto
+
+La traduccion es-LATAM esta **cerrada a nivel de archivo**: todos los recursos
+del `.fs` tienen su version espanola, sin incidencias detectables por las
+heuristicas, con el ingles intacto y el es-LATAM como idioma independiente y
+seleccionable.
+
+**Lo unico que falta es la PRUEBA VISUAL EN EL JUEGO (Wine)**: ver las pantallas
+corregidas (galeria, chat de Ashley, boot-iris, respuestas de llamada) para
+confirmar que los textos se renderizan bien. No ejecutable en este sandbox.
+
+### 28.6 Proxima tarea concreta
+
+1. Ejecutar SIMULACRA en Wine con `dist/core.assets` + `dist/core.binary` y
+   comprobar visualmente los textos en las escenas citadas.
+2. Si alguna cadena se ve mal (cortada, desbordada, sin traducir), anotarla y
+   crear un `fixes_lote4.json` con `{en, es}`; aplicar con el mismo pipeline.
